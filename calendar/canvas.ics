@@ -1,0 +1,3307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
+X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
+BEGIN:VEVENT
+DTSTAMP:20220107T192300Z
+UID:event-assignment-2391475
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/9: Winter Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2391475
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211211T010000Z
+UID:event-assignment-2433333
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+DESCRIPTION:Upload a picture of you attending Hebron Theatre's Advanced Fre
+ shman Showcase for 4 points!\n\n \n\nWhere? HHS9 Stage\n\nWhen? 7pm on De
+ cember 10th
+SUMMARY:12/10: Advanced Freshman Showcase [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2433333
+X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
+ eatre's Advanced Freshman Showcase for 4 points!</p>\n<p>&nbsp\;</p>\n<p>W
+ here? HHS9 Stage</p>\n<p>When? 7pm on December 10th</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211211T020000Z
+UID:event-assignment-2499193
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/10: Boys Basketball Game vs Allen [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2499193
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T193100Z
+UID:event-assignment-2503469
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/10: Family Photos - Grab Your Friends\, Match\, and Take a Pic [
+ StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503469
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211210T230000Z
+UID:event-assignment-2499086
+DTSTART;VALUE=DATE:20211210
+DTEND;VALUE=DATE:20211211
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/10: Girls Basketball Game vs Flower Mound [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2499086
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T194300Z
+UID:event-assignment-2503470
+DTSTART;VALUE=DATE:20211213
+DTEND;VALUE=DATE:20211214
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/13: Tree Topper - Wear Your Most Festive Headwear [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503470
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T200000Z
+UID:event-assignment-2503472
+DTSTART;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211215
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/14: Country Holidays - Bust Out The Boots and Flannel [StuCo 21-
+ 22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503472
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T194800Z
+UID:event-assignment-2466301
+DTSTART;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211215
+DESCRIPTION:Submit a picture here of you at the Winter Concert!
+SUMMARY:12/14: Winter Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2466301
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture here of you at the Winter 
+ Concert!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T060000Z
+UID:event-assignment-2273922
+DTSTART;VALUE=DATE:20211215
+DTEND;VALUE=DATE:20211216
+DESCRIPTION:Submit a picture of yourself at school with your reusable water
+  bottle (on Wednesday) for 1 point!
+SUMMARY:12/15 - Water Bottle Wednesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2273922
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of yourself at school with
+  your reusable water bottle (on Wednesday) for 1 point!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220107T194300Z
+UID:event-assignment-2503476
+DTSTART;VALUE=DATE:20211215
+DTEND;VALUE=DATE:20211216
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/15: Movie Night - Dress As Your Favorite Holiday Character [StuC
+ o 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503476
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220107T193400Z
+UID:event-assignment-2530649
+DTSTART;VALUE=DATE:20211215
+DTEND;VALUE=DATE:20211216
+DESCRIPTION:Did you buy candy grams? How many? Picture is appreciated.
+SUMMARY:Candy Grams [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2530649
+X-ALT-DESC;FMTTYPE=text/html:<p>Did you buy candy grams? How many? Picture 
+ is appreciated.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T060000Z
+UID:event-assignment-2503477
+DTSTART;VALUE=DATE:20211216
+DTEND;VALUE=DATE:20211217
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/16: Ugly (Maybe Cute) Holiday Sweaters [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503477
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211217T183200Z
+UID:event-assignment-2503481
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/17: A LONG Winter's Nap - Wear Holiday PJs [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2503481
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211218T010000Z
+UID:event-assignment-2499200
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/17: Boys Basketball Game vs Plano [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2499200
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211217T230000Z
+UID:event-assignment-2499090
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/17: Girls Basketball Game vs Plano/Vines [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2499090
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211213T060000Z
+UID:event-assignment-2314615
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
+ ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
+ able to submit to this assignment yet\, so please do not try to do so nor 
+ email us your carpool pictures.
+SUMMARY:Carpool to 3 Events (1st 3 Events) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2314615
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
+  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
+ /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
+  so please do not try to do so nor email us your carpool pictures.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211213T060000Z
+UID:event-assignment-2314626
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
+ ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
+ able to submit to this assignment yet\, so please do not try to do so nor 
+ email us your carpool pictures.
+SUMMARY:Carpool to 3 Events (2st 3 Events) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2314626
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
+  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
+ /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
+  so please do not try to do so nor email us your carpool pictures.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211213T060000Z
+UID:event-assignment-2314627
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
+ ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
+ able to submit to this assignment yet\, so please do not try to do so nor 
+ email us your carpool pictures.
+SUMMARY:Carpool to 3 Events (3rd 3 Events) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2314627
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
+  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
+ /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
+  so please do not try to do so nor email us your carpool pictures.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211213T060000Z
+UID:event-assignment-2314628
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
+ ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
+ able to submit to this assignment yet\, so please do not try to do so nor 
+ email us your carpool pictures.
+SUMMARY:Carpool to 3 Events (4th 3 Events) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2314628
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
+  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
+ /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
+  so please do not try to do so nor email us your carpool pictures.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211213T060000Z
+UID:event-assignment-2314629
+DTSTART;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211218
+DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
+ ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
+ able to submit to this assignment yet\, so please do not try to do so nor 
+ email us your carpool pictures.
+SUMMARY:Carpool to 3 Events (5th 3 Events) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2314629
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
+  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
+ /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
+  so please do not try to do so nor email us your carpool pictures.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211221T180000Z
+UID:event-assignment-2499196
+DTSTART;VALUE=DATE:20211221
+DTEND;VALUE=DATE:20211222
+DESCRIPTION:Submit your picture here!
+SUMMARY:12/21: Boys Basketball Game vs Abilene [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=12&year=2021#assignment_2499196
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T205900Z
+UID:event-calendar-event-520849
+DTSTART;VALUE=DATE:20220103
+DTEND;VALUE=DATE:20220104
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520849
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T205900Z
+UID:event-calendar-event-520850
+DTSTART;VALUE=DATE:20220104
+DTEND;VALUE=DATE:20220105
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520850
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220105T020000Z
+UID:event-assignment-2499204
+DTSTART;VALUE=DATE:20220104
+DTEND;VALUE=DATE:20220105
+DESCRIPTION:Submit your picture here!
+SUMMARY:1/4: Boys Basketball Game vs Coppell [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499204
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220104T230000Z
+UID:event-assignment-2499095
+DTSTART;VALUE=DATE:20220104
+DTEND;VALUE=DATE:20220105
+DESCRIPTION:Submit your picture here!
+SUMMARY:1/4: Girls Basketball Game vs Coppell [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499095
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T210000Z
+UID:event-calendar-event-520851
+DTSTART;VALUE=DATE:20220105
+DTEND;VALUE=DATE:20220106
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520851
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T204900Z
+UID:event-calendar-event-520400
+DTSTART;VALUE=DATE:20220106
+DTEND;VALUE=DATE:20220107
+DESCRIPTION:* [Review of Algebra I] ($CANVAS_COURSE_REFERENCE$/file_ref/ga5
+ ce2723dd2bee900d127a6dc4d4edc3/preview)\n\n* Syllabus\n\n* Work Ethic\n\n*
+  Canvas\n\n* Textbook\n\n* WebEx\n\nHomework:  Pre-read [1.1 - 1.2 Note K
+ ey] (https://lisdtx.instructure.com/courses/172585/files/19814506/preview)
+SUMMARY:Course Overview [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520400
+X-ALT-DESC;FMTTYPE=text/html:<ul>\n<li><a class="instructure_file_link inst
+ ructure_scribd_file" title="Pre-AP Algebra II Summer Assignment updated.pd
+ f" href="$CANVAS_COURSE_REFERENCE$/file_ref/ga5ce2723dd2bee900d127a6dc4d4e
+ dc3/preview" target="_blank">Review of Algebra I</a></li>\n<li>Syllabus</l
+ i>\n<li>Work Ethic</li>\n<li>Canvas</li>\n<li>Textbook</li>\n<li>WebEx</li
+ >\n</ul>\n<p>Homework:&nbsp\; Pre-read <a class="instructure_file_link ins
+ tructure_scribd_file" title="1.1-1.2 Parent Function\, Domain &amp\; Range
+ \, Notation Note KEY.pdf" href="https://lisdtx.instructure.com/courses/172
+ 585/files/19814506/preview" target="_blank" data-api-endpoint="https://lis
+ dtx.instructure.com/api/v1/courses/172585/files/19814506" data-api-returnt
+ ype="File">1.1 - 1.2 Note Key</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T195400Z
+UID:event-calendar-event-520397
+DTSTART;VALUE=DATE:20220106
+DTEND;VALUE=DATE:20220107
+DESCRIPTION:[Topic 1 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814593/preview)\n\n(The Review Key will always be posted 
+ as an announcement the day before the test.)
+SUMMARY:Topic 1 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520397
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 1 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814593/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981459
+ 3" data-api-returntype="File">Topic 1 Review PAP.pdf</a></p>\n<p>(The Revi
+ ew Key will always be posted as an announcement the day before the test.)<
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T205000Z
+UID:event-calendar-event-520523
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+DESCRIPTION:You may take notes on paper or use my guided notes and take not
+ es on your iPad.\n\n[1.1-1.2 Parent Functions\, Domain & Range\, Notation 
+ Blank Notes.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981
+ 4585/preview)\n\n \n\nHW: [Functions Practice (Newest) PAP.pdf] (https://
+ lisdtx.instructure.com/courses/172585/files/19814592/preview)  \n\n 
+SUMMARY:1.1-1.2 Functions [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520523
+X-ALT-DESC;FMTTYPE=text/html:<p>You may take notes on paper or use my guide
+ d notes and take notes on your iPad.</p>\n<p><a class="instructure_file_li
+ nk instructure_scribd_file" title="1.1-1.2 Parent Functions\, Domain &amp\
+ ; Range\, Notation Blank Notes.pdf" href="https://lisdtx.instructure.com/c
+ ourses/172585/files/19814585/preview" target="_blank" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814585" data-a
+ pi-returntype="File">1.1-1.2 Parent Functions\, Domain &amp\; Range\, Nota
+ tion Blank Notes.pdf</a></p>\n<p>&nbsp\;</p>\n<p>HW: <a class="instructure
+ _file_link instructure_scribd_file" title="Functions Practice (Newest) PAP
+ .pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814592/p
+ review" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/
+ api/v1/courses/172585/files/19814592" data-api-returntype="File">Functions
+  Practice (Newest) PAP.pdf</a> &nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191400Z
+UID:event-assignment-2537944
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+DESCRIPTION:[Honors Algebra II Syllabus.pdf] (https://lisdtx.instructure.co
+ m/courses/172585/files/19814554?wrap=1)\n\nYou and your parents need to re
+ ad the syllabus thoroughly.  Sign and return.  You many return a paper c
+ opy or turn it in digitally.\n\n**Pay particular attention to the part abo
+ ut retesting!
+SUMMARY:Sign & Return Syllabus [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537944
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="15944268" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" href="https://lisdtx.instructu
+ re.com/courses/172585/files/19814554?wrap=1" target="_blank" data-canvas-p
+ reviewable="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1
+ /courses/172585/files/19814554" data-api-returntype="File">Honors Algebra 
+ II Syllabus.pdf</a></p>\n<p>You and your parents need to read the syllabus
+  thoroughly.&nbsp\; Sign and return.&nbsp\; You many return a paper copy o
+ r turn it in digitally.</p>\n<p>**Pay particular attention to the part abo
+ ut retesting!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220108T020000Z
+UID:event-assignment-2499205
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+DESCRIPTION:Submit your picture here!
+SUMMARY:1/7: Boys Basketball Game vs Marcus [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499205
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220107T230000Z
+UID:event-assignment-2499097
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+DESCRIPTION:Submit your picture here!
+SUMMARY:1/7: Girls Basketball Game vs Marcus [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499097
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220107T161200Z
+UID:event-assignment-2678831
+DTSTART;VALUE=DATE:20220107
+DTEND;VALUE=DATE:20220108
+DESCRIPTION:Open up a microsoft word document.  Type me a paragraph about 
+ what you expect to learn in BIM.  3 or 4 sentences is fine.  Submit the 
+ file in canvas like we discussed! 1st daily grade of the semester!
+SUMMARY:File Management [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2678831
+X-ALT-DESC;FMTTYPE=text/html:<p>Open up a microsoft word document.&nbsp\; T
+ ype me a paragraph about what you expect to learn in BIM.&nbsp\; 3 or 4 se
+ ntences is fine.&nbsp\; Submit the file in canvas like we discussed! 1st d
+ aily grade of the semester!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T210300Z
+UID:event-calendar-event-520455
+DTSTART;VALUE=DATE:20220110
+DTEND;VALUE=DATE:20220111
+DESCRIPTION:Start notes on all parent functions:\n\n[Parent Functions Notes
+ [1] newest.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814
+ 595/download?wrap=1)
+SUMMARY:Parent Functions Notes [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520455
+X-ALT-DESC;FMTTYPE=text/html:<p>Start notes on all parent functions:</p>\n<
+ p><a id="6666430" class="instructure_file_link instructure_scribd_file" hr
+ ef="https://lisdtx.instructure.com/courses/172585/files/19814595/download?
+ wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="
+ https://lisdtx.instructure.com/api/v1/courses/172585/files/19814595" data-
+ api-returntype="File">Parent Functions Notes[1] newest.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T213000Z
+UID:event-assignment-2537910
+DTSTART;VALUE=DATE:20220110
+DTEND;VALUE=DATE:20220111
+DESCRIPTION:[Functions Practice (Newest) PAP.pdf] (https://lisdtx.instructu
+ re.com/courses/172585/files/19814592/download?wrap=1)
+SUMMARY:HW DUE - Functions Practice [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537910
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="6666429" class="instructure_file_lin
+ k instructure_scribd_file" href="https://lisdtx.instructure.com/courses/17
+ 2585/files/19814592/download?wrap=1" target="_blank" data-canvas-previewab
+ le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
+ /172585/files/19814592" data-api-returntype="File">Functions Practice (New
+ est) PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T195400Z
+UID:event-calendar-event-520456
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+DESCRIPTION:Finish Parent Function Notes from Friday - Here is the pdf in c
+ ase you have gone mad:  [Parent Functions Notes[1] newest.pdf] (https://l
+ isdtx.instructure.com/courses/172585/files/19814595/download?wrap=1)\n\nTh
+ en\,  we will go over and complete this worksheet together:    [Transf
+ ormations worksheet.pdf] (https://lisdtx.instructure.com/courses/172585/fi
+ les/19814599/preview)\n\n \n\n 
+SUMMARY:More Parent Functions & Transformatioins [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520456
+X-ALT-DESC;FMTTYPE=text/html:<p>Finish Parent Function Notes from Friday - 
+ Here is the pdf in case you have gone mad:&nbsp\; <a id="6666430" class="i
+ nstructure_file_link instructure_scribd_file" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814595/download?wrap=1" target="_blank" da
+ ta-canvas-previewable="true" data-api-endpoint="https://lisdtx.instructure
+ .com/api/v1/courses/172585/files/19814595" data-api-returntype="File">Pare
+ nt Functions Notes[1] newest.pdf</a></p>\n<p>Then\,&nbsp\; we will go over
+  and complete this worksheet together:&nbsp\;&nbsp\;&nbsp\; <a class="inst
+ ructure_file_link instructure_scribd_file" title="Transformations workshee
+ t.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814599/
+ preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.com
+ /api/v1/courses/172585/files/19814599" data-api-returntype="File">Transfor
+ mations worksheet.pdf</a></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T195400Z
+UID:event-calendar-event-520499
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520499
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499210
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+SUMMARY:1/11: Boys Basketball Game vs Plano West [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499210
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499099
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+SUMMARY:1/11: Girls Basketball Game vs Plano West/Jasper [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499099
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010400Z
+UID:event-assignment-2646931
+DTSTART;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220112
+DESCRIPTION:Here is the [Match Graph lab] (https://lisdtx.instructure.com/c
+ ourses/172858/files/20145222?wrap=1). Follow the directions and complete t
+ he lab sheet. Submit the lab sheet file here.
+SUMMARY:Match Graph! [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646931
+X-ALT-DESC;FMTTYPE=text/html:<p>Here is the <a class="instructure_file_link
+  instructure_scribd_file inline_disabled" title="MatchGraph.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/172858/files/20145222?wrap=1" target="
+ _blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/1
+ 72858/files/20145222" data-api-returntype="File">Match Graph lab</a>. Foll
+ ow the directions and complete the lab sheet. Submit the lab sheet file he
+ re.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010500Z
+UID:event-assignment-2646930
+DTSTART;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220113
+DESCRIPTION:Here are the Murray notes and practice for [Kinematics Equation
+ s] (https://lisdtx.instructure.com/courses/172858/files/20145226?wrap=1). 
+ We will work the problems on the back during class today. For homework\, c
+ omplete problems 9-12 on the back side of the sheet. Show your work and s
+ ubmit your assignment here.
+SUMMARY:Kinematics Equations and Problems [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646930
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the Murray notes and practice for 
+ <a class="instructure_file_link instructure_scribd_file inline_disabled" t
+ itle="Kinematics Equations.pdf" href="https://lisdtx.instructure.com/cours
+ es/172858/files/20145226?wrap=1" target="_blank" data-api-endpoint="https:
+ //lisdtx.instructure.com/api/v1/courses/172858/files/20145226" data-api-re
+ turntype="File">Kinematics Equations</a>. We will work the problems on the
+  back during class today. For homework\, complete problems 9-12 on the bac
+ k side of the sheet.&nbsp\;Show your work and submit your assignment here.
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010300Z
+UID:event-assignment-2646933
+DTSTART;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220113
+DESCRIPTION:For the [Position\, Distance\, and Displacement worksheet] (htt
+ ps://lisdtx.instructure.com/courses/172858/files/20145221?wrap=1). use the
+  notes on the front to help you answer the questions on the back. Submit y
+ our completed worksheet here.
+SUMMARY:Position\, Distance\, and Displacement [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646933
+X-ALT-DESC;FMTTYPE=text/html:<p>For the <a class="instructure_file_link ins
+ tructure_scribd_file inline_disabled" title="Position\, Distance\, and Dis
+ placement.pdf" href="https://lisdtx.instructure.com/courses/172858/files/2
+ 0145221?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instruct
+ ure.com/api/v1/courses/172858/files/20145221" data-api-returntype="File">P
+ osition\, Distance\, and Displacement worksheet</a>. use the notes on the 
+ front to help you answer the questions on the back. Submit your completed 
+ worksheet here.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010600Z
+UID:event-assignment-2646934
+DTSTART;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220113
+DESCRIPTION:We will work on the [Practice Problems--Kinematics] (https://li
+ sdtx.instructure.com/courses/172858/files/20145227?wrap=1) in class on Thu
+ rsday\, August 19\, 2021. Work all the problems and submit the entire work
+ sheet here. Be sure to show your work!
+SUMMARY:Practice Problems--Kinetics [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646934
+X-ALT-DESC;FMTTYPE=text/html:<p>We will work on the <a class="instructure_f
+ ile_link instructure_scribd_file inline_disabled" title="Practice Problems
+  Kinematics.pdf" href="https://lisdtx.instructure.com/courses/172858/files
+ /20145227?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instru
+ cture.com/api/v1/courses/172858/files/20145227" data-api-returntype="File"
+ >Practice Problems--Kinematics</a> in class on Thursday\, August 19\, 2021
+ . Work all the problems and submit the entire worksheet here. Be sure to s
+ how your work!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T195400Z
+UID:event-calendar-event-520491
+DTSTART;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220114
+DESCRIPTION:[1.3-1.4 Compositions and Inverses Blank Notes.pdf] (https://li
+ sdtx.instructure.com/courses/172585/files/19814589/preview)\n\n \n\nHW: [
+ 1.3-1.4 Topic 1 Compositions\, Inverses & Transformations HW.pdf] (https:/
+ /lisdtx.instructure.com/courses/172585/files/19814600/preview)\n\n 
+SUMMARY:Notes 1.3 - 1.4 Compositions and Inverses [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520491
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="1.3-1.4 Compositions and Inverses Blank Notes.pdf" hr
+ ef="https://lisdtx.instructure.com/courses/172585/files/19814589/preview" 
+ target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/c
+ ourses/172585/files/19814589" data-api-returntype="File">1.3-1.4 Compositi
+ ons and Inverses Blank Notes.pdf</a></p>\n<p>&nbsp\;</p>\n<p>HW: <a class=
+ "instructure_file_link instructure_scribd_file" title="1.3-1.4 Topic 1 Com
+ positions\, Inverses &amp\; Transformations HW.pdf" href="https://lisdtx.i
+ nstructure.com/courses/172585/files/19814600/preview" target="_blank" data
+ -api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/
+ 19814600" data-api-returntype="File">1.3-1.4 Topic 1 Compositions\, Invers
+ es &amp\; Transformations HW.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010700Z
+UID:event-assignment-2646927
+DTSTART;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220114
+DESCRIPTION:We will talk about various aspects of free fall including a dem
+ onstration of a candle in free fall\, and we will spend some time analyzin
+ g the [Apollo 15 hammer and feather experiment] (https://www.youtube.com/w
+ atch?v=Oo8TaPVsn9Y) (in [Flipping Physics] (https://www.flippingphysics.co
+ m/apollo-15-feather-and-hammer-drop.html)). We will also talk about the no
+ tes on the front of the [Free Fall worksheet] (https://lisdtx.instructure.
+ com/courses/172858/files/20145229?wrap=1). The back side will be homework 
+ that is due Sunday night\, August 22. Submit your homework here.
+SUMMARY:Free Fall [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646927
+X-ALT-DESC;FMTTYPE=text/html:<p>We will talk about various aspects of free 
+ fall including a demonstration of a candle in free fall\, and we will spen
+ d some time analyzing the <a class="inline_disabled" href="https://www.you
+ tube.com/watch?v=Oo8TaPVsn9Y" target="_blank">Apollo 15 hammer and feather
+  experiment</a> (in <a class="inline_disabled" href="https://www.flippingp
+ hysics.com/apollo-15-feather-and-hammer-drop.html" target="_blank">Flippin
+ g Physics</a>). We will also talk about the notes on the front of the <a c
+ lass="instructure_file_link instructure_scribd_file inline_disabled" title
+ ="Freefall.pdf" href="https://lisdtx.instructure.com/courses/172858/files/
+ 20145229?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instruc
+ ture.com/api/v1/courses/172858/files/20145229" data-api-returntype="File">
+ Free Fall worksheet</a>. The back side will be homework that is due Sunday
+  night\, August 22. Submit your homework here.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010800Z
+UID:event-assignment-2646932
+DTSTART;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220114
+DESCRIPTION:Here are more [Kinematics Problems] (https://lisdtx.instructure
+ .com/courses/172858/files/20145230?wrap=1) for you to practice with. Pleas
+ e work all the problems\, show your work\, and submit your work here.
+SUMMARY:More Kinematics Practice [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646932
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are more <a class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Kinematics 2.pdf" href=
+ "https://lisdtx.instructure.com/courses/172858/files/20145230?wrap=1" targ
+ et="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
+ es/172858/files/20145230" data-api-returntype="File">Kinematics Problems</
+ a> for you to practice with. Please work all the problems\, show your work
+ \, and submit your work here.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191600Z
+UID:event-calendar-event-520500
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520500
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191600Z
+UID:event-assignment-2537945
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+DESCRIPTION:
+SUMMARY:Summer packet [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537945
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499215
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+SUMMARY:1/14: Boys Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499215
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499106
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+SUMMARY:1/14: Girls Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499106
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T010900Z
+UID:event-assignment-2646928
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+DESCRIPTION:Here are the directions for the [Unit 1 Enrichment Project] (ht
+ tps://lisdtx.instructure.com/courses/172858/files/20145223?wrap=1). Submit
+  your project documents here. This project grade counts in the 30% (minor)
+  category of grades.
+SUMMARY:Hawk Olympics--Fall 2021 [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2646928
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the directions for the <a class="i
+ nstructure_file_link instructure_scribd_file inline_disabled" title="Hawk 
+ Olympics Fall 2021.pdf" href="https://lisdtx.instructure.com/courses/17285
+ 8/files/20145223?wrap=1" target="_blank" data-api-endpoint="https://lisdtx
+ .instructure.com/api/v1/courses/172858/files/20145223" data-api-returntype
+ ="File">Unit 1 Enrichment Project</a>. Submit your project documents here.
+  This project grade counts in the 30% (minor) category of grades.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T210500Z
+UID:event-calendar-event-520540
+DTSTART;VALUE=DATE:20220117
+DTEND;VALUE=DATE:20220118
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520540
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T011200Z
+UID:event-assignment-2647399
+DTSTART;VALUE=DATE:20220117
+DTEND;VALUE=DATE:20220118
+SUMMARY:Trig and Vector Basics [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2647399
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T211300Z
+UID:event-calendar-event-520490
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+DESCRIPTION:[Topic 1 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814593/preview)
+SUMMARY:Topic 1 Review - TEST TOMORROW! [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520490
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 1 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814593/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981459
+ 3" data-api-returntype="File">Topic 1 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T211300Z
+UID:event-assignment-2537912
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+DESCRIPTION:[1.3-1.4 Topic 1 Compositions\, Inverses & Transformations HW.p
+ df] (https://lisdtx.instructure.com/courses/172585/files/19814600/preview)
+SUMMARY:HW DUE 1.3 - 1.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537912
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="1.3-1.4 Topic 1 Compositions\, Inverses &amp\; Transf
+ ormations HW.pdf" href="https://lisdtx.instructure.com/courses/172585/file
+ s/19814600/preview" target="_blank" data-api-endpoint="https://lisdtx.inst
+ ructure.com/api/v1/courses/172585/files/19814600" data-api-returntype="Fil
+ e">1.3-1.4 Topic 1 Compositions\, Inverses &amp\; Transformations HW.pdf</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499220
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+SUMMARY:1/18: Boys Basketball Game vs Plano East [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499220
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499113
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+SUMMARY:1/18: Girls Basketball Game vs Plano East/McMillen [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499113
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T011600Z
+UID:event-assignment-2647394
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+SUMMARY:Adding Vectors [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2647394
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220106T011700Z
+UID:event-assignment-2647398
+DTSTART;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220119
+SUMMARY:Relative Motion [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2647398
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T205900Z
+UID:event-assignment-2537949
+DTSTART;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220120
+DESCRIPTION: \n\n 
+SUMMARY:Topic 1 Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537949
+X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191900Z
+UID:event-calendar-event-520488
+DTSTART;VALUE=DATE:20220120
+DTEND;VALUE=DATE:20220121
+DESCRIPTION:[2.1-2.2 Solving Absolute Value Blank Notes.pdf] (https://lisdt
+ x.instructure.com/courses/172585/files/19814569/preview)\n\n \n\nHW: [2.1
+ -2.2 Topic 2 Solving Absolute Value.pdf] (https://lisdtx.instructure.com/c
+ ourses/172585/files/19814476/preview)\n\n 
+SUMMARY:Notes 2.1 - 2.2 Absolute Value & Solving [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520488
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="2.1-2.2 Solving Absolute Value Blank Notes.pdf" href=
+ "https://lisdtx.instructure.com/courses/172585/files/19814569/preview" tar
+ get="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cour
+ ses/172585/files/19814569" data-api-returntype="File">2.1-2.2 Solving Abso
+ lute Value Blank Notes.pdf</a></p>\n<p>&nbsp\;</p>\n<p>HW: <a class="instr
+ ucture_file_link instructure_scribd_file" title="2.1-2.2 Topic 2 Solving A
+ bsolute Value.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
+ es/19814476/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172585/files/19814476" data-api-returntype="Fi
+ le">2.1-2.2 Topic 2 Solving Absolute Value.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211215T205900Z
+UID:event-calendar-event-520489
+DTSTART;VALUE=DATE:20220120
+DTEND;VALUE=DATE:20220121
+DESCRIPTION:[Topic 2 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814516/preview)
+SUMMARY:Review - Topic 2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520489
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 2 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814516/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981451
+ 6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499227
+DTSTART;VALUE=DATE:20220121
+DTEND;VALUE=DATE:20220122
+SUMMARY:1/21: Boys Basketball Game vs Flower Mound [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499227
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499115
+DTSTART;VALUE=DATE:20220121
+DTEND;VALUE=DATE:20220122
+SUMMARY:1/21: Girls Basketball Game vs Flower Mound [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191900Z
+UID:event-calendar-event-520525
+DTSTART;VALUE=DATE:20220124
+DTEND;VALUE=DATE:20220125
+DESCRIPTION:[2.3-2.5 Graphing Absolute Value Blank Notes.pdf] (https://lisd
+ tx.instructure.com/courses/172585/files/19814604/preview)\n\nHW:  [PAP To
+ pic 2 Absolute Value\, graphing\, transformations HW.pdf] (https://lisdtx.
+ instructure.com/courses/172585/files/19814588/preview)\n\n 
+SUMMARY:2.3 - 2.5 Absolute Value and Graphine [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520525
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="2.3-2.5 Graphing Absolute Value Blank Notes.pdf" href
+ ="https://lisdtx.instructure.com/courses/172585/files/19814604/preview" ta
+ rget="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cou
+ rses/172585/files/19814604" data-api-returntype="File">2.3-2.5 Graphing Ab
+ solute Value Blank Notes.pdf</a></p>\n<p>HW:&nbsp\; <a class="instructure_
+ file_link instructure_scribd_file" title="PAP Topic 2 Absolute Value\, gra
+ phing\, transformations HW.pdf" href="https://lisdtx.instructure.com/cours
+ es/172585/files/19814588/preview" target="_blank" data-api-endpoint="https
+ ://lisdtx.instructure.com/api/v1/courses/172585/files/19814588" data-api-r
+ eturntype="File">PAP Topic 2 Absolute Value\, graphing\, transformations H
+ W.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191900Z
+UID:event-assignment-2537941
+DTSTART;VALUE=DATE:20220124
+DTEND;VALUE=DATE:20220125
+DESCRIPTION:[2.1-2.2 Topic 2 Solving Absolute Value.pdf] (https://lisdtx.in
+ structure.com/courses/172585/files/19814476/preview)
+SUMMARY:HW DUE: 2.1 - 2.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537941
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="2.1-2.2 Topic 2 Solving Absolute Value.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814476/preview" target=
+ "_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
+ 172585/files/19814476" data-api-returntype="File">2.1-2.2 Topic 2 Solving 
+ Absolute Value.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191900Z
+UID:event-calendar-event-520501
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220126
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520501
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191800Z
+UID:event-assignment-2537942
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220126
+DESCRIPTION:[PAP Topic 2 Absolute Value\, graphing\, transformations HW.pdf
+ ] (https://lisdtx.instructure.com/courses/172585/files/19814588/preview)
+SUMMARY:HW DUE: 2.3 - 2.5 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537942
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="PAP Topic 2 Absolute Value\, graphing\, transformatio
+ ns HW.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814
+ 588/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure
+ .com/api/v1/courses/172585/files/19814588" data-api-returntype="File">PAP 
+ Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499231
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220126
+SUMMARY:1/25: Boys Basketball Game vs Plano [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499231
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499116
+DTSTART;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220126
+SUMMARY:1/25: Girls Basketball Game vs Plano/Clark [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499116
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191800Z
+UID:event-calendar-event-520458
+DTSTART;VALUE=DATE:20220126
+DTEND;VALUE=DATE:20220127
+DESCRIPTION:[Topic 2 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814516/preview)
+SUMMARY:Review - Topic 2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520458
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 2 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814516/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981451
+ 6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T191800Z
+UID:event-assignment-2537951
+DTSTART;VALUE=DATE:20220127
+DTEND;VALUE=DATE:20220128
+DESCRIPTION:
+SUMMARY:Topic 2 Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#assignment_2537951
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192000Z
+UID:event-calendar-event-520526
+DTSTART;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220129
+DESCRIPTION:[3.1-3.2 Solve Systems by table\, graph and math Blank Notes.pd
+ f] (https://lisdtx.instructure.com/courses/172585/files/19814608/preview)\
+ n\nHW: [3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814612/download?wrap=1)\n\n 
+SUMMARY:3.1 - 3.2 Notes: Systems [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520526
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.1-3.2 Solve Systems by table\, graph and math Blank
+  Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981
+ 4608/preview" target="_blank" data-api-endpoint="https://lisdtx.instructur
+ e.com/api/v1/courses/172585/files/19814608" data-api-returntype="File">3.1
+ -3.2 Solve Systems by table\, graph and math Blank Notes.pdf</a></p>\n<p>H
+ W: <a id="6668117" class="instructure_file_link instructure_scribd_file" h
+ ref="https://lisdtx.instructure.com/courses/172585/files/19814612/download
+ ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
+ "https://lisdtx.instructure.com/api/v1/courses/172585/files/19814612" data
+ -api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\n<p>&nbsp\;</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192500Z
+UID:event-calendar-event-520463
+DTSTART;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220129
+DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
+ urses/172585/files/19814584/preview)
+SUMMARY:Topics 3 & 4 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=01&year=2022#calendar_event_520463
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 3 &amp\; 4 Review PAP.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814584/preview" target="_blank" da
+ ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
+ s/19814584" data-api-returntype="File">Topic 3 &amp\; 4 Review PAP.pdf</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499234
+DTSTART;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220129
+SUMMARY:1/28: Boys Basketball Game vs Coppell [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499234
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499117
+DTSTART;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220129
+SUMMARY:1/28: Girls Basketball Game vs Coppell [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2499117
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-2433334
+DTSTART;VALUE=DATE:20220130
+DTEND;VALUE=DATE:20220131
+DESCRIPTION:Upload a picture of you attending Hebron Theatre's show "Legall
+ y Blonde" for 4 points!\n\n \n\nWhere? HHS Auditorium\n\nWhen? TBD
+SUMMARY:1/27 - 1/30: Legally Blonde [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2433334
+X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
+ eatre's show "Legally Blonde" for 4 points!</p>\n<p>&nbsp\;</p>\n<p>Where?
+  HHS Auditorium</p>\n<p>When? TBD</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192100Z
+UID:event-calendar-event-520527
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming Blank N
+ otes.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814555/pr
+ eview)\n\nHW: [3.3-3.4 Systems of Inequalities and Linear Programming.pdf]
+  (https://lisdtx.instructure.com/courses/172585/files/19814474/preview)\n\
+ n 
+SUMMARY:3.3 - 3.4 Graphing Systems [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520527
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
+ g Blank Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
+ es/19814555/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172585/files/19814555" data-api-returntype="Fi
+ le">3.3-3.4 Systems of Inequalities and Linear Programming Blank Notes.pdf
+ </a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" 
+ title="3.3-3.4 Systems of Inequalities and Linear Programming.pdf" href="h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814474/preview" targe
+ t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
+ s/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems of Ine
+ qualities and Linear Programming.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192100Z
+UID:event-assignment-2537917
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+DESCRIPTION:[3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/
+ courses/172585/files/19814612/preview)\n\n 
+SUMMARY:HW DUE 3.1-3.2 & Systems Applications [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537917
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.1-3.2  and Systems Apps.pdf" href="https://lisdtx.i
+ nstructure.com/courses/172585/files/19814612/preview" target="_blank" data
+ -api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/
+ 19814612" data-api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\
+ n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499236
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+SUMMARY:2/1: Boys Basketball Game vs Marcus [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499236
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499119
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+SUMMARY:2/1: Girls Basketball Game vs Marcus [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499119
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192200Z
+UID:event-calendar-event-520487
+DTSTART;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220203
+DESCRIPTION:[3.5 Systems with 3 Variables Blank Notes.pdf] (https://lisdtx.
+ instructure.com/courses/172585/files/19814567/preview)\n\nHW: [3.5 Systems
+  in 3 Variables.pdf] (https://lisdtx.instructure.com/courses/172585/files/
+ 19814502/preview)\n\n 
+SUMMARY:3.5 Systems in 3 Variables [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520487
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.5 Systems with 3 Variables Blank Notes.pdf" href="h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814567/preview" targe
+ t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
+ s/172585/files/19814567" data-api-returntype="File">3.5 Systems with 3 Var
+ iables Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link ins
+ tructure_scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https:/
+ /lisdtx.instructure.com/courses/172585/files/19814502/preview" target="_bl
+ ank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/1725
+ 85/files/19814502" data-api-returntype="File">3.5 Systems in 3 Variables.p
+ df</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192200Z
+UID:event-assignment-2537918
+DTSTART;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220203
+DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming.pdf] (h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814474/download?wrap=
+ 1)
+SUMMARY:HW DUE 3.3-3.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537918
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
+ g.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814474/
+ download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
+ courses/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems 
+ of Inequalities and Linear Programming.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192200Z
+UID:event-calendar-event-520509
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520509
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192200Z
+UID:event-assignment-2537919
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+DESCRIPTION:[3.5 Systems in 3 Variables.pdf] (https://lisdtx.instructure.co
+ m/courses/172585/files/19814502/download?wrap=1)
+SUMMARY:HW DUE 3.5 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537919
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https://lisdtx.
+ instructure.com/courses/172585/files/19814502/download?wrap=1" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981450
+ 2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192300Z
+UID:event-calendar-event-520528
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+DESCRIPTION:[3.6\, 4.1-4.2 Matrices add subtract multiply Blank Notes.pdf] 
+ (https://lisdtx.instructure.com/courses/172585/files/19814571/preview)\n\n
+ HW: [3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https://lisd
+ tx.instructure.com/courses/172585/files/19814605/preview)\n\n 
+SUMMARY:3.6\, 4.1\, 4.2 Matrix Operations [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520528
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.6\, 4.1-4.2 Matrices add subtract multiply Blank No
+ tes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981457
+ 1/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.c
+ om/api/v1/courses/172585/files/19814571" data-api-returntype="File">3.6\, 
+ 4.1-4.2 Matrices add subtract multiply Blank Notes.pdf</a></p>\n<p>HW: <a 
+ class="instructure_file_link instructure_scribd_file" title="3.6\, 4.1-4.2
+  Matrices\, add\, subtract\, multiply.pdf" href="https://lisdtx.instructur
+ e.com/courses/172585/files/19814605/preview" target="_blank" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814605"
+  data-api-returntype="File">3.6\, 4.1-4.2 Matrices\, add\, subtract\, mult
+ iply.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499239
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+SUMMARY:2/4: Boys Basketball Game vs Plano West [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499239
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499121
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+SUMMARY:2/4: Girls Basketball Game vs Plano West/Shepton [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499121
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192400Z
+UID:event-calendar-event-520529
+DTSTART;VALUE=DATE:20220207
+DTEND;VALUE=DATE:20220208
+DESCRIPTION:[4.3-4.4 Matrices Determinants\, inverses\, systems Blank Notes
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814572/previe
+ w)\n\nHW: [4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814611/preview)\n\n 
+SUMMARY:4.3 - 4.4 Determinants & Inverses [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520529
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="4.3-4.4 Matrices Determinants\, inverses\, systems Bl
+ ank Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1
+ 9814572/preview" target="_blank" data-api-endpoint="https://lisdtx.instruc
+ ture.com/api/v1/courses/172585/files/19814572" data-api-returntype="File">
+ 4.3-4.4 Matrices Determinants\, inverses\, systems Blank Notes.pdf</a></p>
+ \n<p>HW: <a class="instructure_file_link instructure_scribd_file" title="4
+ .3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf" href="https://lis
+ dtx.instructure.com/courses/172585/files/19814611/preview" target="_blank"
+  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/f
+ iles/19814611" data-api-returntype="File">4.3-4.4 Matrices\, Determinants\
+ , Inverses\, Systems.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192400Z
+UID:event-assignment-2537920
+DTSTART;VALUE=DATE:20220207
+DTEND;VALUE=DATE:20220208
+DESCRIPTION:[3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https
+ ://lisdtx.instructure.com/courses/172585/files/19814605/download?wrap=1)
+SUMMARY:HW DUE 3.6\, 4.1-4.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537920
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pd
+ f" href="https://lisdtx.instructure.com/courses/172585/files/19814605/down
+ load?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cour
+ ses/172585/files/19814605" data-api-returntype="File">3.6\, 4.1-4.2 Matric
+ es\, add\, subtract\, multiply.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499244
+DTSTART;VALUE=DATE:20220207
+DTEND;VALUE=DATE:20220208
+SUMMARY:2/7: Boys Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499244
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192400Z
+UID:event-calendar-event-520370
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+DESCRIPTION:[Algebra - Solving Simultaneous Linear Equations by Gauss-Jorda
+ n Elimination 3 by 3] (https://www.youtube.com/watch?v=MRrOglQbL_Y)\n\n[Ca
+ lculator Row Reduction Gaussian Elimination] (https://www.youtube.com/watc
+ h?reload=9&v=_4aKp_ZbTEI)\n\n 
+SUMMARY:Gaussian & RREF [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520370
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="" href="https://www.youtube.com/w
+ atch?v=MRrOglQbL_Y" target="_blank" data-preview-alt="Algebra - Solving Si
+ multaneous Linear Equations by Gauss-Jordan Elimination 3 by 3">Algebra - 
+ Solving Simultaneous Linear Equations by Gauss-Jordan Elimination 3 by 3</
+ a></p>\n<p><a class="" href="https://www.youtube.com/watch?reload=9&amp\;v
+ =_4aKp_ZbTEI" target="_blank" data-preview-alt="Calculator Row Reduction G
+ aussian Elimination">Calculator Row Reduction Gaussian Elimination</a></p>
+ \n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192400Z
+UID:event-calendar-event-520502
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520502
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192400Z
+UID:event-assignment-2537921
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+DESCRIPTION:[4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf] (htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814611/download?wrap=1)
+SUMMARY:HW DUE 4.3-4.4  [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537921
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.
+ pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814611/do
+ wnload?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/co
+ urses/172585/files/19814611" data-api-returntype="File">4.3-4.4 Matrices\,
+  Determinants\, Inverses\, Systems.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499123
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192300Z
+UID:event-calendar-event-520460
+DTSTART;VALUE=DATE:20220209
+DTEND;VALUE=DATE:20220210
+DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
+ urses/172585/files/19814584/preview)
+SUMMARY:Review Topics 3 & 4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520460
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 3 &amp\; 4 Review PAP.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814584/preview" target="_blank" da
+ ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
+ s/19814584" data-api-returntype="File">Topic 3 &amp\; 4 Review PAP.pdf</a>
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T192300Z
+UID:event-assignment-2537954
+DTSTART;VALUE=DATE:20220210
+DTEND;VALUE=DATE:20220211
+DESCRIPTION: \n\n 
+SUMMARY:Topics 3/4 Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537954
+X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193100Z
+UID:event-calendar-event-520530
+DTSTART;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220212
+DESCRIPTION:[5.5\, 5.6 Factoring & Solving Quadratic Blank Notes.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814620/preview)\n\nHW: [
+ Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.instructure.com
+ /courses/172585/files/19814505/preview)\n\n 
+SUMMARY:5.5 - 5.6 Factor & Solve Quadratics [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520530
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.5\, 5.6 Factoring &amp\; Solving Quadratic Blank No
+ tes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981462
+ 0/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.c
+ om/api/v1/courses/172585/files/19814620" data-api-returntype="File">5.5\, 
+ 5.6 Factoring &amp\; Solving Quadratic Blank Notes.pdf</a></p>\n<p>HW: <a 
+ class="instructure_file_link instructure_scribd_file" title="Practice 5.5-
+ 5.6 Factor &amp\; Solve Quads.pdf" href="https://lisdtx.instructure.com/co
+ urses/172585/files/19814505/preview" target="_blank" data-api-endpoint="ht
+ tps://lisdtx.instructure.com/api/v1/courses/172585/files/19814505" data-ap
+ i-returntype="File">Practice 5.5-5.6 Factor &amp\; Solve Quads.pdf</a></p>
+ \n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193200Z
+UID:event-calendar-event-520392
+DTSTART;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220212
+DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
+ ucture.com/courses/172585/files/19814630/preview)
+SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520392
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.5 - 5.9 Solving Quadratics Review.pdf" href="https:
+ //lisdtx.instructure.com/courses/172585/files/19814630/preview" target="_b
+ lank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172
+ 585/files/19814630" data-api-returntype="File">5.5 - 5.9 Solving Quadratic
+ s Review.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499248
+DTSTART;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220212
+SUMMARY:2/11: Boys Basketball Game vs Plano East [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499248
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193200Z
+UID:event-calendar-event-520531
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
+DESCRIPTION:[Complete the Square Blank Notes.pdf] (https://lisdtx.instructu
+ re.com/courses/172585/files/19814625/preview)\n\nHW: [5.7-5.8 Completing S
+ quare\, Quad Formula Practice.pdf] (https://lisdtx.instructure.com/courses
+ /172585/files/19814621/preview)\n\n 
+SUMMARY:5.7 - 5.8 Complete the Square/Quad Formula [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520531
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Complete the Square Blank Notes.pdf" href="https://li
+ sdtx.instructure.com/courses/172585/files/19814625/preview" target="_blank
+ " data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/
+ files/19814625" data-api-returntype="File">Complete the Square Blank Notes
+ .pdf</a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_fi
+ le" title="5.7-5.8 Completing Square\, Quad Formula Practice.pdf" href="ht
+ tps://lisdtx.instructure.com/courses/172585/files/19814621/preview" target
+ ="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
+ /172585/files/19814621" data-api-returntype="File">5.7-5.8 Completing Squa
+ re\, Quad Formula Practice.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193200Z
+UID:event-assignment-2537925
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
+DESCRIPTION:[Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.ins
+ tructure.com/courses/172585/files/19814505/download?wrap=1)
+SUMMARY:HW DUE 5.5-5.6 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537925
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 5.5-5.6 Factor &amp\; Solve Quads.pdf" href=
+ "https://lisdtx.instructure.com/courses/172585/files/19814505/download?wra
+ p=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/1725
+ 85/files/19814505" data-api-returntype="File">Practice 5.5-5.6 Factor &amp
+ \; Solve Quads.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499249
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
+SUMMARY:2/15: Boys Basketball Game vs Flower Mound [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499249
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193300Z
+UID:event-calendar-event-520503
+DTSTART;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220217
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520503
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193300Z
+UID:event-assignment-2537926
+DTSTART;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220217
+DESCRIPTION:[5.7-5.8 Completing Square\, Quad Formula Practice.pdf] (https:
+ //lisdtx.instructure.com/courses/172585/files/19814621/download?wrap=1)
+SUMMARY:HW DUE 5.7-5.8 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537926
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.7-5.8 Completing Square\, Quad Formula Practice.pdf
+ " href="https://lisdtx.instructure.com/courses/172585/files/19814621/downl
+ oad?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
+ es/172585/files/19814621" data-api-returntype="File">5.7-5.8 Completing Sq
+ uare\, Quad Formula Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193300Z
+UID:event-calendar-event-520532
+DTSTART;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220218
+DESCRIPTION:[Complex Numbers Blank Notes.pdf] (https://lisdtx.instructure.c
+ om/courses/172585/files/19814723/download)\n\nHW: [5.9 Complex Numbers Pra
+ ctice .pdf.                  ] (https://lisdtx.instructu
+ re.com/courses/172585/files/19814628/preview)\n\n 
+SUMMARY:5.9 Complex Numbers [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520532
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Complex Numbers Blank Notes.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814723/download" target="_blank" d
+ ata-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/fil
+ es/19814723" data-api-returntype="File">Complex Numbers Blank Notes.pdf</a
+ ></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" tit
+ le="5.9 Complex Numbers Practice .pdf" href="https://lisdtx.instructure.co
+ m/courses/172585/files/19814628/preview" target="_blank" data-api-endpoint
+ ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814628" dat
+ a-api-returntype="File">5.9 Complex Numbers Practice .pdf.&nbsp\;&nbsp\;&n
+ bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+ ;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193300Z
+UID:event-assignment-2537927
+DTSTART;VALUE=DATE:20220218
+DTEND;VALUE=DATE:20220219
+DESCRIPTION:[5.9 Complex Numbers Practice .pdf] (https://lisdtx.instructure
+ .com/courses/172585/files/19814628/download?wrap=1)
+SUMMARY:HW DUE 5.9 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537927
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.9 Complex Numbers Practice .pdf" href="https://lisd
+ tx.instructure.com/courses/172585/files/19814628/download?wrap=1" data-api
+ -endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981
+ 4628" data-api-returntype="File">5.9 Complex Numbers Practice .pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T210700Z
+UID:event-calendar-event-520821
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520821
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193400Z
+UID:event-calendar-event-520371
+DTSTART;VALUE=DATE:20220222
+DTEND;VALUE=DATE:20220223
+DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
+ ucture.com/courses/172585/files/19814630/preview)
+SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520371
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.5 - 5.9 Solving Quadratics Review.pdf" href="https:
+ //lisdtx.instructure.com/courses/172585/files/19814630/preview" target="_b
+ lank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172
+ 585/files/19814630" data-api-returntype="File">5.5 - 5.9 Solving Quadratic
+ s Review.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193400Z
+UID:event-calendar-event-520506
+DTSTART;VALUE=DATE:20220223
+DTEND;VALUE=DATE:20220224
+DESCRIPTION:
+SUMMARY:Topic 5A Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520506
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193400Z
+UID:event-calendar-event-520462
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
+DESCRIPTION:[5.1 & 5.2 Graphing Quadratics Blank Notes.pdf] (https://lisdtx
+ .instructure.com/courses/172585/files/19814575/preview)\n\nHW: [Practice 5
+ .1 - 5.2 Graphing Quadratics Practice PAP.pdf] (https://lisdtx.instructure
+ .com/courses/172585/files/19814634/preview)\n\n 
+SUMMARY:5.1 - 5.2 Quadratic Graphing Basics [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520462
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.1 &amp\; 5.2 Graphing Quadratics Blank Notes.pdf" h
+ ref="https://lisdtx.instructure.com/courses/172585/files/19814575/preview"
+  target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
+ courses/172585/files/19814575" data-api-returntype="File">5.1 &amp\; 5.2 G
+ raphing Quadratics Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_f
+ ile_link instructure_scribd_file" title="Practice 5.1 - 5.2 Graphing Quadr
+ atics Practice PAP.pdf" href="https://lisdtx.instructure.com/courses/17258
+ 5/files/19814634/preview" target="_blank" data-api-endpoint="https://lisdt
+ x.instructure.com/api/v1/courses/172585/files/19814634" data-api-returntyp
+ e="File">Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.pdf</a></p>\n
+ <p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193400Z
+UID:event-calendar-event-520369
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
+DESCRIPTION:[5.1-5.4\, 5.10-5.11 Review.pdf] (https://lisdtx.instructure.co
+ m/courses/172585/files/19814576/preview)
+SUMMARY:Topic 5B Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520369
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.1-5.4\, 5.10-5.11  Review.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814576/preview" target="_blank" da
+ ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
+ s/19814576" data-api-returntype="File">5.1-5.4\, 5.10-5.11 Review.pdf</a><
+ /p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193500Z
+UID:event-calendar-event-520493
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220301
+DESCRIPTION:[5.3 & 5.4 Write Equation\, Focus\, Directrix Blank Notes.pdf] 
+ (https://lisdtx.instructure.com/courses/172585/files/19814632/preview)\n\n
+  \n\nHW: [Practice 5.3 - 5.4 NO FOCUS:DIRECTRIX.pdf] (https://lisdtx.inst
+ ructure.com/courses/172585/files/19814635?wrap=1) \n\n 
+SUMMARY:5.3 - 5.4 Regression (Part 1) [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520493
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.3 &amp\; 5.4 Write Equation\, Focus\, Directrix Bla
+ nk Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19
+ 814632/preview" target="_blank" data-api-endpoint="https://lisdtx.instruct
+ ure.com/api/v1/courses/172585/files/19814632" data-api-returntype="File">5
+ .3 &amp\; 5.4 Write Equation\, Focus\, Directrix Blank Notes.pdf</a></p>\n
+ <p>&nbsp\;</p>\n<p>HW: <a class="instructure_file_link instructure_scribd_
+ file inline_disabled" title="Practice 5.3 - 5.4 NO FOCUS:DIRECTRIX.pdf" hr
+ ef="https://lisdtx.instructure.com/courses/172585/files/19814635?wrap=1" t
+ arget="_blank" data-canvas-previewable="false" data-api-endpoint="https://
+ lisdtx.instructure.com/api/v1/courses/172585/files/19814635" data-api-retu
+ rntype="File">Practice 5.3 - 5.4 NO FOCUS:DIRECTRIX.pdf</a>&nbsp\;</p>\n<p
+ >&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193500Z
+UID:event-assignment-2537922
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220301
+DESCRIPTION:[Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814634/download?wrap=1)
+SUMMARY:HW DUE 5.1-5.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537922
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.p
+ df" href="https://lisdtx.instructure.com/courses/172585/files/19814634/dow
+ nload?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cou
+ rses/172585/files/19814634" data-api-returntype="File">Practice 5.1 - 5.2 
+ Graphing Quadratics Practice PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193800Z
+UID:event-calendar-event-520494
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+DESCRIPTION:[5.10 & 5.11 Quadratic Systems and Inequalities Blank Notes.pdf
+ ] (https://lisdtx.instructure.com/courses/172585/files/19814633/preview)\n
+ \nHW: [5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (https://l
+ isdtx.instructure.com/courses/172585/files/19814636/preview)
+SUMMARY:5.10 - 5.11 Quad Inequalities & Systems [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520494
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.10 &amp\; 5.11 Quadratic Systems and Inequalities B
+ lank Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/
+ 19814633/preview" target="_blank" data-api-endpoint="https://lisdtx.instru
+ cture.com/api/v1/courses/172585/files/19814633" data-api-returntype="File"
+ >5.10 &amp\; 5.11 Quadratic Systems and Inequalities Blank Notes.pdf</a></
+ p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" title=
+ "5.10-5.11 Quadratic Inequalities &amp\; Systems Practice.pdf" href="https
+ ://lisdtx.instructure.com/courses/172585/files/19814636/preview" target="_
+ blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
+ 2585/files/19814636" data-api-returntype="File">5.10-5.11 Quadratic Inequa
+ lities &amp\; Systems Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193800Z
+UID:event-assignment-2537924
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
+DESCRIPTION:[Practice 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practic
+ e.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814639/downl
+ oad?wrap=1)
+SUMMARY:HW DUE 5.3-5.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537924
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 5.3 - 5.4 Quad Regression\, Focus\, Directri
+ x Practice.pdf" href="https://lisdtx.instructure.com/courses/172585/files/
+ 19814639/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.co
+ m/api/v1/courses/172585/files/19814639" data-api-returntype="File">Practic
+ e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193800Z
+UID:event-assignment-2537923
+DTSTART;VALUE=DATE:20220302
+DTEND;VALUE=DATE:20220303
+DESCRIPTION:[5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814636/download?wrap=1)
+SUMMARY:HW DUE 5.10-5.11 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537923
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.10-5.11 Quadratic Inequalities &amp\; Systems Pract
+ ice.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981463
+ 6/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/172585/files/19814636" data-api-returntype="File">5.10-5.11 Quad
+ ratic Inequalities &amp\; Systems Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520498
+DTSTART;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220304
+DESCRIPTION:Here is the homework key for 5.10-5.11.  Please go over this a
+ s a class and help each other with questions. \n\n[key] ($CANVAS_COURSE_R
+ EFERENCE$/file_ref/gf6a9601c16cc18123c69aa1b8360a972?wrap=1)\n\nREMIND EVE
+ RYONE TO TURN THEIR HW IN!!!\n\nIf you are confused\, you can watch this v
+ ideo where I go over the hw:\n\nhttps://drive.google.com/file/d/1ikzJUyXCl
+ FH2NgOLukJu2OVh2d-a3QmP/view?usp=sharing\n\nHere is the review for tomorro
+ w's test:\n\n[5.1-5.4\, 5.10-5.11 Review.pdf] (https://lisdtx.instructure.
+ com/courses/172585/files/19814576/preview)
+SUMMARY:Topic 5B Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520498
+X-ALT-DESC;FMTTYPE=text/html:<p>Here is the homework key for 5.10-5.11.&nbs
+ p\; Please go over this as a class and help each other with questions.&nbs
+ p\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inline
+ _disabled" title="Prac 5.10-5.11 Quad Inequal &amp\; Sys KEY.pdf" href="$C
+ ANVAS_COURSE_REFERENCE$/file_ref/gf6a9601c16cc18123c69aa1b8360a972?wrap=1"
+  target="_blank" data-canvas-previewable="false">key</a></p>\n<p>REMIND EV
+ ERYONE TO TURN THEIR HW IN!!!</p>\n<p>If you are confused\, you can watch 
+ this video where I go over the hw:</p>\n<p><a href="https://drive.google.c
+ om/file/d/1ikzJUyXClFH2NgOLukJu2OVh2d-a3QmP/view?usp=sharing" target="_bla
+ nk">https://drive.google.com/file/d/1ikzJUyXClFH2NgOLukJu2OVh2d-a3QmP/view
+ ?usp=sharing</a></p>\n<p>Here is the review for tomorrow's test:</p>\n<p><
+ a class="instructure_file_link instructure_scribd_file" title="5.1-5.4\, 5
+ .10-5.11  Review.pdf" href="https://lisdtx.instructure.com/courses/172585/
+ files/19814576/preview" target="_blank" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/172585/files/19814576" data-api-returntype=
+ "File">5.1-5.4\, 5.10-5.11 Review.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-assignment-2537952
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220305
+DESCRIPTION:
+SUMMARY:Topic 5B Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537952
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211007T020500Z
+UID:event-assignment-2391477
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220305
+SUMMARY:3/3: Midwinter/UIL Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2391477
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193800Z
+UID:event-assignment-2537907
+DTSTART;VALUE=DATE:20220307
+DTEND;VALUE=DATE:20220308
+DESCRIPTION:Who’s at Fault?\n\n \n\nYou are a forensics expert for the M
+ ulti-Accident Investigation Team (M.A.I.T.) that has been called to analyz
+ e a recent traffic accident and testify in an upcoming court case\, Myers 
+ v. Johnson.\n\n[Screen Shot 2020-09-24 at 3.37.58 PM.png] (https://lisdtx.
+ instructure.com/courses/172585/files/19814539/preview)\n\nOn Monday aftern
+ oon\, March 12th at 3:47 p.m.\, there was a two-vehicle accident at the in
+ tersection of NC 28 and US Highway 129 on the famous trail known as The Ta
+ il of the Dragon. Eric Myers and Walter Johnson collided at an intersectio
+ n and both claim they were driving the speed limit and following all traff
+ ic laws. Both vehicles sustained damage\, however\, no injuries were repor
+ ted and an [accident report] (https://docs.google.com/document/d/12jmGYu60
+ iQOJyvKSVlKBnhy-cRFsm2IXT-Fc197tCPE/edit?usp=sharing) was prepared by the 
+ local authorities. \n\nYou will prepare an accident analysis to present w
+ ith your testimony that addresses each driver’s claim and provides reaso
+ ns as to why the accident occurred and who is at fault. Use [Form G-702] (
+ https://docs.google.com/document/d/1mRKbGl5P5a_GI6u7eK-hbz-P3YbYSKx7ziEoKH
+ dv8oQ/edit?usp=sharing) in combination with additional representations to 
+ support and justify your findings as you prepare your analysis.\n\n \n\nF
+ ollow these steps to complete the task.\n\n1.  Read the task above and wa
+ tch the following video :  <add teacher link to video here>\n\n \n\n2. 
+  Complete the task using the supporting documents listed below:\n\nM.A.I.T
+ . Video\n\n[Accident Report] (https://drive.google.com/file/d/1cPhcdQuolU2
+ 4MaNzRz4D9T-5D1xDjx8f/view?usp=sharing)\n\n[Form G-702] (https://drive.goo
+ gle.com/file/d/1yMr3Qopdn1L46lpdFS0Y1tO0IFthSANw/view?usp=sharing)\n\n[PDF
+  of Performance Task] (https://drive.google.com/file/d/1sPIxn_D_O4eLnTA_oV
+ POuubPdwkoIPwM/view?usp=sharing)\n\n \n\n3.  Review the evaluation crite
+ ria for the task:\n\n[Screen Shot 2020-09-24 at 10.44.00 AM.png] (https://
+ lisdtx.instructure.com/courses/172585/files/19814537/preview)\n\n \n\n4.
+   Submit your work in one or more of the following ways:\n\n* Upload a do
+ cument or media file\n\n* Submit a link \n\n* Add a text entry \n\n \n\
+ n \n\n \n\n 
+SUMMARY:Algebra II Performance Task - Unit 4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537907
+X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong><span 
+ style="font-size: 18pt\;">Who’s at Fault? </span></strong></p>\n<p>&nbsp
+ \;</p>\n<p><span style="font-size: 14pt\;">You are a forensics expert for 
+ the Multi-Accident Investigation Team (M.A.I.T.) that has been called to a
+ nalyze a recent traffic accident and testify in an upcoming court case\, M
+ yers v. Johnson.</span></p>\n<table style="border-collapse: collapse\; wid
+ th: 100%\; border-color: white\; margin-left: auto\; margin-right: auto\;"
+ >\n<tbody>\n<tr>\n<td style="width: 48.77300613496932%\; vertical-align: m
+ iddle\;" colspan="2">\n<p><img style="display: block\; margin-left: auto\;
+  margin-right: auto\;" src="https://lisdtx.instructure.com/courses/172585/
+ files/19814539/preview" alt="Screen Shot 2020-09-24 at 3.37.58 PM.png" wid
+ th="578" height="230" data-api-endpoint="https://lisdtx.instructure.com/ap
+ i/v1/courses/172585/files/19814539" data-api-returntype="File"></p>\n</td>
+ \n</tr>\n</tbody>\n</table>\n<p><span style="font-size: 14pt\;"><span>On M
+ onday afternoon\, March 12th at 3:47 p.m.\, there was a two-vehicle accide
+ nt at the intersection of NC 28 and US Highway 129 on the famous trail kno
+ wn as </span><i><span>The Tail of the Dragon</span></i><span>. Eric Myers 
+ and Walter Johnson collided at an intersection and both claim they were dr
+ iving the speed limit and following all traffic laws. Both vehicles sustai
+ ned damage\, however\, no injuries were reported and an </span><a href="ht
+ tps://docs.google.com/document/d/12jmGYu60iQOJyvKSVlKBnhy-cRFsm2IXT-Fc197t
+ CPE/edit?usp=sharing"><span>accident report</span></a><span> was prepared 
+ by the local authorities.&nbsp\;</span></span></p>\n<p><span style="font-s
+ ize: 14pt\;"><span><br>You will prepare an accident analysis to present wi
+ th your testimony that addresses each driver’s claim and provides reason
+ s as to why the accident occurred and who is at fault. Use </span><a href=
+ "https://docs.google.com/document/d/1mRKbGl5P5a_GI6u7eK-hbz-P3YbYSKx7ziEoK
+ Hdv8oQ/edit?usp=sharing"><span>Form G-702</span></a><span> in combination 
+ with additional representations to support and justify your findings as yo
+ u prepare your analysis.</span></span></p>\n<p>&nbsp\;</p>\n<table style="
+ border-collapse: collapse\; width: 100.3690036900369%\; height: 22px\;" bo
+ rder="1">\n<tbody>\n<tr>\n<td style="width: 100%\; background-color: black
+ \; text-align: center\;"><strong><span style="font-size: 14pt\;"><span sty
+ le="color: #ffffff\;">Follow these steps to complete the task.</span></spa
+ n></strong></td>\n</tr>\n</tbody>\n</table>\n<p><br><span style="font-size
+ : 14pt\;">1.&nbsp\; Read the task above and watch the following video :&nb
+ sp\; <span style="color: #000000\; background-color: #f1c40f\;">&lt\;add t
+ eacher link to video here&gt\;</span></span></p>\n<p>&nbsp\;</p>\n<p><span
+  style="font-size: 14pt\;">2.&nbsp\; Complete the task using </span><span 
+ style="font-size: 14pt\;">the supporting documents listed below:</span><sp
+ an style="font-size: 14pt\;"><br></span></p>\n<p style="padding-left: 80px
+ \;"><span style="font-size: 14pt\;">M.A.I.T. Video<br><iframe title="embed
+ ded content" src="https://www.youtube.com/embed/z4x2mdtqaz0" width="560" h
+ eight="315" allowfullscreen="allowfullscreen" allow="accelerometer\; autop
+ lay\; clipboard-write\; encrypted-media\; gyroscope\; picture-in-picture">
+ </iframe></span></p>\n<p style="padding-left: 80px\;"><span style="font-si
+ ze: 14pt\;"><a class="instructure_file_link inline_disabled" href="https:/
+ /drive.google.com/file/d/1cPhcdQuolU24MaNzRz4D9T-5D1xDjx8f/view?usp=sharin
+ g" target="_blank">Accident Report</a></span></p>\n<p style="padding-left:
+  80px\;"><span style="font-size: 14pt\;"><a class="instructure_file_link i
+ nline_disabled" href="https://drive.google.com/file/d/1yMr3Qopdn1L46lpdFS0
+ Y1tO0IFthSANw/view?usp=sharing" target="_blank">Form G-702</a></span></p>\
+ n<p style="padding-left: 80px\;"><a class="instructure_file_link inline_di
+ sabled" href="https://drive.google.com/file/d/1sPIxn_D_O4eLnTA_oVPOuubPdwk
+ oIPwM/view?usp=sharing" target="_blank"><span style="font-size: 14pt\;">PD
+ F of Performance Task</span></a></p>\n<p>&nbsp\;</p>\n<p><span style="font
+ -size: 14pt\;">3. &nbsp\;Review the evaluation criteria for the task:</spa
+ n></p>\n<p><span style="font-size: 14pt\;"><img id="8423669" src="https://
+ lisdtx.instructure.com/courses/172585/files/19814537/preview" alt="Screen 
+ Shot 2020-09-24 at 10.44.00 AM.png" data-api-endpoint="https://lisdtx.inst
+ ructure.com/api/v1/courses/172585/files/19814537" data-api-returntype="Fil
+ e"></span></p>\n<p>&nbsp\;</p>\n<p><span style="font-size: 14pt\;">4.&nbsp
+ \; Submit your work in one or more of the following ways:</span></p>\n<ul>
+ \n<li><span style="font-size: 14pt\;">Upload a document or media file</spa
+ n></li>\n<li><span style="font-size: 14pt\;">Submit a link&nbsp\;</span></
+ li>\n<li><span style="font-size: 14pt\;">Add a text entry&nbsp\;</span></l
+ i>\n</ul>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520475
+DTSTART;VALUE=DATE:20220308
+DTEND;VALUE=DATE:20220309
+DESCRIPTION:
+SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520475
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520466
+DTSTART;VALUE=DATE:20220309
+DTEND;VALUE=DATE:20220310
+DESCRIPTION:[Midterm Review.pdf] (https://lisdtx.instructure.com/courses/17
+ 2585/files/19814661/preview)
+SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520466
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Midterm Review.pdf" href="https://lisdtx.instructure.
+ com/courses/172585/files/19814661/preview" target="_blank" data-api-endpoi
+ nt="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814661" d
+ ata-api-returntype="File">Midterm Review.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520368
+DTSTART;VALUE=DATE:20220310
+DTEND;VALUE=DATE:20220311
+DESCRIPTION:
+SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520368
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520374
+DTSTART;VALUE=DATE:20220311
+DTEND;VALUE=DATE:20220312
+DESCRIPTION:
+SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520374
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520373
+DTSTART;VALUE=DATE:20220311
+DTEND;VALUE=DATE:20220312
+DESCRIPTION:
+SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520373
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520822
+DTSTART;VALUE=DATE:20220314
+DTEND;VALUE=DATE:20220315
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520822
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520823
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20220316
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520823
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520824
+DTSTART;VALUE=DATE:20220316
+DTEND;VALUE=DATE:20220317
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520824
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194400Z
+UID:event-calendar-event-520825
+DTSTART;VALUE=DATE:20220317
+DTEND;VALUE=DATE:20220318
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520825
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194400Z
+UID:event-calendar-event-520826
+DTSTART;VALUE=DATE:20220318
+DTEND;VALUE=DATE:20220319
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520826
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-calendar-event-520510
+DTSTART;VALUE=DATE:20220321
+DTEND;VALUE=DATE:20220322
+DESCRIPTION:[9.1-9.2_Roots_and_Radicals_Blank_Notes.pdf] (https://lisdtx.in
+ structure.com/courses/172585/files/19814672/preview)\n\nHW: [Practice 9.1-
+ 9.2 Roots & Radicals.pdf] (https://lisdtx.instructure.com/courses/172585/f
+ iles/19814671/preview)\n\n 
+SUMMARY:9.1 - 9.2 Multiply & Divide Roots & Radicals [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520510
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="9.1-9.2_Roots_and_Radicals_Blank_Notes.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814672/preview" target=
+ "_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
+ 172585/files/19814672" data-api-returntype="File">9.1-9.2_Roots_and_Radica
+ ls_Blank_Notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link instruc
+ ture_scribd_file" title="Practice 9.1-9.2 Roots &amp\; Radicals.pdf" href=
+ "https://lisdtx.instructure.com/courses/172585/files/19814671/preview" tar
+ get="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cour
+ ses/172585/files/19814671" data-api-returntype="File">Practice 9.1-9.2 Roo
+ ts &amp\; Radicals.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520519
+DTSTART;VALUE=DATE:20220321
+DTEND;VALUE=DATE:20220322
+DESCRIPTION:[Topics 6\, 9\, 10 PAP Review.pdf] (https://lisdtx.instructure.
+ com/courses/172585/files/19814676/preview)
+SUMMARY:Topics 6\, 9\, 10 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520519
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topics 6\, 9\, 10 PAP Review.pdf" href="https://lisdt
+ x.instructure.com/courses/172585/files/19814676/preview" target="_blank" d
+ ata-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/fil
+ es/19814676" data-api-returntype="File">Topics 6\, 9\, 10 PAP Review.pdf</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-calendar-event-520465
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220323
+DESCRIPTION:[9.3-9.4_Binomial expression\, Rational exponents Blank_Notes.p
+ df] (https://lisdtx.instructure.com/courses/172585/files/19814674/preview)
+ \n\nHW: [Practice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf] (h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814510/preview)\n\n 
+SUMMARY:9.3 - 9.4 Binomial Expression & Radical Exponents [Alg 2 Hon-RIORDA
+ N]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520465
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="9.3-9.4_Binomial expression\, Rational exponents Blan
+ k_Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/198
+ 14674/preview" target="_blank" data-api-endpoint="https://lisdtx.instructu
+ re.com/api/v1/courses/172585/files/19814674" data-api-returntype="File">9.
+ 3-9.4_Binomial expression\, Rational exponents Blank_Notes.pdf</a></p>\n<p
+ >HW: <a class="instructure_file_link instructure_scribd_file" title="Pract
+ ice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf" href="https://li
+ sdtx.instructure.com/courses/172585/files/19814510/preview" target="_blank
+ " data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/
+ files/19814510" data-api-returntype="File">Practice 9.3-9.4 Binomial Expre
+ ssion\, Rational Exponents.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-assignment-2537938
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220323
+DESCRIPTION:[Practice 9.1-9.2 Roots & Radicals.pdf] (https://lisdtx.instruc
+ ture.com/courses/172585/files/19814671/download?wrap=1)
+SUMMARY:HW DUE 9.1-9.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537938
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 9.1-9.2 Roots &amp\; Radicals.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814671/download?wrap=1"
+  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/f
+ iles/19814671" data-api-returntype="File">Practice 9.1-9.2 Roots &amp\; Ra
+ dicals.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194100Z
+UID:event-calendar-event-520464
+DTSTART;VALUE=DATE:20220323
+DTEND;VALUE=DATE:20220324
+DESCRIPTION:[6.1-10.3 Graph roots\, cubes\, inv Blank Notes.pdf] (https://l
+ isdtx.instructure.com/courses/172585/files/19814663/preview)\n\nWe will co
+ ntinue these notes tomorrow.\n\nHW: [Practice 6.1-6.3\, 10.1-10.3 Grpahing
+  Roots\, Cubes\, Inverses.pdf] (https://lisdtx.instructure.com/courses/172
+ 585/files/19814660/preview)\n\n 
+SUMMARY:6.1-6.3\, 10.1-10.3 Inverses & Attributes of Roots [Alg 2 Hon-RIORD
+ AN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520464
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="6.1-10.3 Graph roots\, cubes\, inv Blank Notes.pdf" h
+ ref="https://lisdtx.instructure.com/courses/172585/files/19814663/preview"
+  target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
+ courses/172585/files/19814663" data-api-returntype="File">6.1-10.3 Graph r
+ oots\, cubes\, inv Blank Notes.pdf</a></p>\n<p>We will continue these note
+ s tomorrow.</p>\n<p>HW: <a class="instructure_file_link instructure_scribd
+ _file" title="Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Invers
+ es.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814660
+ /preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.co
+ m/api/v1/courses/172585/files/19814660" data-api-returntype="File">Practic
+ e 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>\n<p>&n
+ bsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-calendar-event-520507
+DTSTART;VALUE=DATE:20220323
+DTEND;VALUE=DATE:20220324
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520507
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-assignment-2537939
+DTSTART;VALUE=DATE:20220323
+DTEND;VALUE=DATE:20220324
+DESCRIPTION:[Practice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf]
+  (https://lisdtx.instructure.com/courses/172585/files/19814510/download?wr
+ ap=1)
+SUMMARY:HW DUE 9.3-9.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537939
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 9.3-9.4 Binomial Expression\, Rational Expon
+ ents.pdf" href="https://lisdtx.instructure.com/courses/172585/files/198145
+ 10/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/
+ v1/courses/172585/files/19814510" data-api-returntype="File">Practice 9.3-
+ 9.4 Binomial Expression\, Rational Exponents.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194100Z
+UID:event-calendar-event-520518
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
+DESCRIPTION:Please open yesterday's notes.  We will start where we left of
+  yesterday.\n\nHW: [Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, 
+ Inverses.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981466
+ 0/preview)\n\n 
+SUMMARY:6.1-6.3 & 10.1-10.3 Continued [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520518
+X-ALT-DESC;FMTTYPE=text/html:<p>Please open yesterday's notes.&nbsp\; We wi
+ ll start where we left of yesterday.</p>\n<p>HW: <a class="instructure_fil
+ e_link instructure_scribd_file" title="Practice 6.1-6.3\, 10.1-10.3 Grpahi
+ ng Roots\, Cubes\, Inverses.pdf" href="https://lisdtx.instructure.com/cour
+ ses/172585/files/19814660/preview" target="_blank" data-api-endpoint="http
+ s://lisdtx.instructure.com/api/v1/courses/172585/files/19814660" data-api-
+ returntype="File">Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, In
+ verses.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211101T180600Z
+UID:event-assignment-2466303
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
+SUMMARY:3/24: Pre-UIL Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2466303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194100Z
+UID:event-calendar-event-520521
+DTSTART;VALUE=DATE:20220325
+DTEND;VALUE=DATE:20220326
+DESCRIPTION:[Unit 4 Solving roots and cubes blank notes.pdf] (https://lisdt
+ x.instructure.com/courses/172585/files/19814577/preview)\n\nHW: [Practice 
+ 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf] (https://lisdtx.instructure.
+ com/courses/172585/files/19814662/preview)\n\n 
+SUMMARY:6.4\, 6.5\, 10.4 Solving Roots & Cubes [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520521
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Unit 4 Solving roots and cubes blank notes.pdf" href=
+ "https://lisdtx.instructure.com/courses/172585/files/19814577/preview" tar
+ get="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cour
+ ses/172585/files/19814577" data-api-returntype="File">Unit 4 Solving roots
+  and cubes blank notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link
+  instructure_scribd_file" title="Practice 6.4\, 6.5\, 10.4 Solving Roots a
+ nd Cubes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19
+ 814662/preview" target="_blank" data-api-endpoint="https://lisdtx.instruct
+ ure.com/api/v1/courses/172585/files/19814662" data-api-returntype="File">P
+ ractice 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf</a></p>\n<p>&nbsp\;</
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194200Z
+UID:event-assignment-2537928
+DTSTART;VALUE=DATE:20220325
+DTEND;VALUE=DATE:20220326
+DESCRIPTION:[Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814660/downlo
+ ad?wrap=1)
+SUMMARY:HW DUE 6.1-6.3\, 10.1-10.3 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537928
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\,
+  Inverses.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1
+ 9814660/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com
+ /api/v1/courses/172585/files/19814660" data-api-returntype="File">Practice
+  6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194200Z
+UID:event-calendar-event-520504
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220329
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520504
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194200Z
+UID:event-assignment-2537929
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220329
+DESCRIPTION:[Practice 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf] (https:
+ //lisdtx.instructure.com/courses/172585/files/19814662/download?wrap=1)
+SUMMARY:HW DUE 6.4\, 6.5\, 10.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537929
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf
+ " href="https://lisdtx.instructure.com/courses/172585/files/19814662/downl
+ oad?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
+ es/172585/files/19814662" data-api-returntype="File">Practice 6.4\, 6.5\, 
+ 10.4 Solving Roots and Cubes.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194000Z
+UID:event-calendar-event-520516
+DTSTART;VALUE=DATE:20220329
+DTEND;VALUE=DATE:20220330
+DESCRIPTION:[Topics 6\, 9\, 10 PAP Review.pdf] (https://lisdtx.instructure.
+ com/courses/172585/files/19814676/preview)
+SUMMARY:Topics 6\, 9\, 10 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520516
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topics 6\, 9\, 10 PAP Review.pdf" href="https://lisdt
+ x.instructure.com/courses/172585/files/19814676/preview" target="_blank" d
+ ata-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/fil
+ es/19814676" data-api-returntype="File">Topics 6\, 9\, 10 PAP Review.pdf</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193900Z
+UID:event-assignment-2537946
+DTSTART;VALUE=DATE:20220330
+DTEND;VALUE=DATE:20220331
+DESCRIPTION:
+SUMMARY:Test - Topics 6\, 9\, 10 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537946
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211021T181100Z
+UID:event-assignment-2433348
+DTSTART;VALUE=DATE:20220330
+DTEND;VALUE=DATE:20220331
+SUMMARY:3/1 & 3/30: Varsity UIL One Act Play Performance & JV Spring Show [
+ StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2433348
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194900Z
+UID:event-calendar-event-520514
+DTSTART;VALUE=DATE:20220331
+DTEND;VALUE=DATE:20220401
+DESCRIPTION:[8.1-8.2 Polynomials Graph\, -\, -\, - Blank_Notes.pdf] (https:
+ //lisdtx.instructure.com/courses/172585/files/19814578/preview)\n\nHW: [Pr
+ actice 8.1 & 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf] (https://lisdtx.in
+ structure.com/courses/172585/files/19814668/preview)\n\n 
+SUMMARY:8.1 - 8.2 Polynomial Operations [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520514
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="8.1-8.2 Polynomials Graph\, -\, -\, - Blank_Notes.pdf
+ " href="https://lisdtx.instructure.com/courses/172585/files/19814578/previ
+ ew" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/
+ v1/courses/172585/files/19814578" data-api-returntype="File">8.1-8.2 Polyn
+ omials Graph\, -\, -\, - Blank_Notes.pdf</a></p>\n<p>HW: <a class="instruc
+ ture_file_link instructure_scribd_file" title="Practice 8.1 &amp\; 8.2 Gra
+ ph Polynomials\, +\, -\, _ PAP.pdf" href="https://lisdtx.instructure.com/c
+ ourses/172585/files/19814668/preview" target="_blank" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814668" data-a
+ pi-returntype="File">Practice 8.1 &amp\; 8.2 Graph Polynomials\, +\, -\, _
+  PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194900Z
+UID:event-calendar-event-520515
+DTSTART;VALUE=DATE:20220331
+DTEND;VALUE=DATE:20220401
+DESCRIPTION:[Topic 8 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814579/preview)
+SUMMARY:Topic 8 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520515
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 8 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814579/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981457
+ 9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211600Z
+UID:event-calendar-event-520520
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220402
+DESCRIPTION:[8.3-8.4_Polynomials Factor and Solve Blank_Notes.pdf] (https:/
+ /lisdtx.instructure.com/courses/172585/files/19814727/preview)\n\nHW: [Pra
+ ctice 8.3 & 8.4 Factor and Solve Polynomials PAP.pdf] (https://lisdtx.inst
+ ructure.com/courses/172585/files/19814527/preview)\n\n 
+SUMMARY:8.3 - 8.4 Linear Factors\, Zeros\, Solving of Polynomials [Alg 2 Ho
+ n-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520520
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="8.3-8.4_Polynomials Factor and Solve Blank_Notes.pdf"
+  href="https://lisdtx.instructure.com/courses/172585/files/19814727/previe
+ w" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/172585/files/19814727" data-api-returntype="File">8.3-8.4_Polyno
+ mials Factor and Solve Blank_Notes.pdf</a></p>\n<p>HW: <a class="instructu
+ re_file_link instructure_scribd_file" title="Practice 8.3 &amp\; 8.4 Facto
+ r and Solve Polynomials PAP.pdf" href="https://lisdtx.instructure.com/cour
+ ses/172585/files/19814527/preview" target="_blank" data-api-endpoint="http
+ s://lisdtx.instructure.com/api/v1/courses/172585/files/19814527" data-api-
+ returntype="File">Practice 8.3 &amp\; 8.4 Factor and Solve Polynomials PAP
+ .pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211600Z
+UID:event-assignment-2537934
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220402
+DESCRIPTION:[Practice 8.1 & 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf] (htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814668/download?wrap=1)
+SUMMARY:HW DUE 8.1-8.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537934
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 8.1 &amp\; 8.2 Graph Polynomials\, +\, -\, _
+  PAP.pdf" href="https://lisdtx.instructure.com/courses/172585/files/198146
+ 68/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/
+ v1/courses/172585/files/19814668" data-api-returntype="File">Practice 8.1 
+ &amp\; 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211600Z
+UID:event-calendar-event-520467
+DTSTART;VALUE=DATE:20220404
+DTEND;VALUE=DATE:20220405
+DESCRIPTION:[8.5 Poly Division Blank Notes.pdf] (https://lisdtx.instructure
+ .com/courses/172585/files/19814683/preview)\n\nHW: [Practice 8.5.pdf] (htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814667/preview)\n\n 
+SUMMARY:8.5 Polynomial Division [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520467
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="8.5 Poly Division Blank Notes.pdf" href="https://lisd
+ tx.instructure.com/courses/172585/files/19814683/preview" target="_blank" 
+ data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/fi
+ les/19814683" data-api-returntype="File">8.5 Poly Division Blank Notes.pdf
+ </a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" 
+ title="Practice 8.5.pdf" href="https://lisdtx.instructure.com/courses/1725
+ 85/files/19814667/preview" target="_blank" data-api-endpoint="https://lisd
+ tx.instructure.com/api/v1/courses/172585/files/19814667" data-api-returnty
+ pe="File">Practice 8.5.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211600Z
+UID:event-assignment-2537935
+DTSTART;VALUE=DATE:20220404
+DTEND;VALUE=DATE:20220405
+DESCRIPTION:[Practice 8.3 & 8.4 Factor and Solve Polynomials PAP.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814527/download?wrap=1)
+SUMMARY:HW DUE 8.3-8.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537935
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 8.3 &amp\; 8.4 Factor and Solve Polynomials 
+ PAP.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981452
+ 7/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/172585/files/19814527" data-api-returntype="File">Practice 8.3 &
+ amp\; 8.4 Factor and Solve Polynomials PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T195000Z
+UID:event-calendar-event-520827
+DTSTART;VALUE=DATE:20220405
+DTEND;VALUE=DATE:20220406
+SUMMARY:Eng. I EOC [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520827
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520511
+DTSTART;VALUE=DATE:20220406
+DTEND;VALUE=DATE:20220407
+DESCRIPTION:[Factoring Blank Notes.pdf] (https://lisdtx.instructure.com/cou
+ rses/172585/files/19814678/preview)\n\nHW: [Factoring Practice (short).pdf
+ ] (https://lisdtx.instructure.com/courses/172585/files/19814681/preview)\n
+ \n 
+SUMMARY:Factoring  [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520511
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Factoring Blank Notes.pdf" href="https://lisdtx.instr
+ ucture.com/courses/172585/files/19814678/preview" target="_blank" data-api
+ -endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981
+ 4678" data-api-returntype="File">Factoring Blank Notes.pdf</a></p>\n<p>HW:
+  <a class="instructure_file_link instructure_scribd_file" title="Factoring
+  Practice (short).pdf" href="https://lisdtx.instructure.com/courses/172585
+ /files/19814681/preview" target="_blank" data-api-endpoint="https://lisdtx
+ .instructure.com/api/v1/courses/172585/files/19814681" data-api-returntype
+ ="File">Factoring Practice (short).pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520505
+DTSTART;VALUE=DATE:20220406
+DTEND;VALUE=DATE:20220407
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520505
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537936
+DTSTART;VALUE=DATE:20220406
+DTEND;VALUE=DATE:20220407
+DESCRIPTION:[Practice 8.5.pdf] (https://lisdtx.instructure.com/courses/1725
+ 85/files/19814667/download?wrap=1)
+SUMMARY:HW DUE 8.5 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537936
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 8.5.pdf" href="https://lisdtx.instructure.co
+ m/courses/172585/files/19814667/download?wrap=1" data-api-endpoint="https:
+ //lisdtx.instructure.com/api/v1/courses/172585/files/19814667" data-api-re
+ turntype="File">Practice 8.5.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T195100Z
+UID:event-calendar-event-520828
+DTSTART;VALUE=DATE:20220407
+DTEND;VALUE=DATE:20220408
+SUMMARY:Eng. II STAAR EOC [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520828
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520497
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220409
+DESCRIPTION:[8.6 and 8.7 Rational roots Blank Notes.pdf] (https://lisdtx.in
+ structure.com/courses/172585/files/19814643/preview)\n\nHW: [Practice 8.6 
+ & 8.7.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814528/p
+ review)\n\n 
+SUMMARY:8.6 - 8.7 Polynomial Theorems [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520497
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="8.6 and 8.7 Rational roots Blank Notes.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814643/preview" target=
+ "_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
+ 172585/files/19814643" data-api-returntype="File">8.6 and 8.7 Rational roo
+ ts Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link instruc
+ ture_scribd_file" title="Practice 8.6 &amp\; 8.7.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814528/preview" target="_blank" da
+ ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
+ s/19814528" data-api-returntype="File">Practice 8.6 &amp\; 8.7.pdf</a></p>
+ \n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537937
+DTSTART;VALUE=DATE:20220411
+DTEND;VALUE=DATE:20220412
+DESCRIPTION:[Practice 8.6 & 8.7.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814528/download?wrap=1)
+SUMMARY:HW DUE 8.6-8.7 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537937
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 8.6 &amp\; 8.7.pdf" href="https://lisdtx.ins
+ tructure.com/courses/172585/files/19814528/download?wrap=1" data-api-endpo
+ int="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814528" 
+ data-api-returntype="File">Practice 8.6 &amp\; 8.7.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537940
+DTSTART;VALUE=DATE:20220411
+DTEND;VALUE=DATE:20220412
+DESCRIPTION:[Factoring Practice (short).pdf] (https://lisdtx.instructure.co
+ m/courses/172585/files/19814681/download?wrap=1)
+SUMMARY:HW DUE Factoring [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537940
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Factoring Practice (short).pdf" href="https://lisdtx.
+ instructure.com/courses/172585/files/19814681/download?wrap=1" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981468
+ 1" data-api-returntype="File">Factoring Practice (short).pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537953
+DTSTART;VALUE=DATE:20220411
+DTEND;VALUE=DATE:20220412
+DESCRIPTION:
+SUMMARY:Topic 8 Polynomials Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537953
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520468
+DTSTART;VALUE=DATE:20220412
+DTEND;VALUE=DATE:20220413
+DESCRIPTION:[Topic 8 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814579/preview)
+SUMMARY:Topic 8 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520468
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 8 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814579/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981457
+ 9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537948
+DTSTART;VALUE=DATE:20220413
+DTEND;VALUE=DATE:20220414
+DESCRIPTION:
+SUMMARY:Test Topic 8 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537948
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520512
+DTSTART;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220415
+DESCRIPTION:[7.1-7.2 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
+ es/172585/files/19814686/preview)\n\nHW: [Prac 7.1-7.2 with word probs PAP
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814692/previe
+ w)\n\n 
+SUMMARY:7.1 - 7.2 Attributes & Transformatons of Exponential Functions [Alg
+  2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520512
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="7.1-7.2 Blank Notes.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814686/preview" target="_blank" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198146
+ 86" data-api-returntype="File">7.1-7.2 Blank Notes.pdf</a></p>\n<p>HW: <a 
+ class="instructure_file_link instructure_scribd_file" title="Prac 7.1-7.2 
+ with word probs PAP.pdf" href="https://lisdtx.instructure.com/courses/1725
+ 85/files/19814692/preview" target="_blank" data-api-endpoint="https://lisd
+ tx.instructure.com/api/v1/courses/172585/files/19814692" data-api-returnty
+ pe="File">Prac 7.1-7.2 with word probs PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520459
+DTSTART;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220415
+DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814700/preview)
+SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520459
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
+ 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211101T180600Z
+UID:event-assignment-2466315
+DTSTART;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220415
+SUMMARY:4/13 - 4/14: UIL [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2466315
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T203400Z
+UID:event-calendar-event-520842
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520842
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T203800Z
+UID:event-calendar-event-520843
+DTSTART;VALUE=DATE:20220418
+DTEND;VALUE=DATE:20220419
+SUMMARY:NO SCHOOL/BAD WEATHER DAY [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520843
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-calendar-event-520469
+DTSTART;VALUE=DATE:20220420
+DTEND;VALUE=DATE:20220421
+DESCRIPTION:[7.3-7.4 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
+ es/172585/files/19814728/preview)\n\nHW: [Practice 7.3 - 7.4 PAP.pdf] (htt
+ ps://lisdtx.instructure.com/courses/172585/files/19814689/preview)\n\n 
+SUMMARY:7.3 - 7.4  e^x [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520469
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="7.3-7.4 Blank Notes.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814728/preview" target="_blank" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
+ 28" data-api-returntype="File">7.3-7.4 Blank Notes.pdf</a></p>\n<p>HW: <a 
+ class="instructure_file_link instructure_scribd_file" title="Practice 7.3 
+ - 7.4 PAP.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1
+ 9814689/preview" target="_blank" data-api-endpoint="https://lisdtx.instruc
+ ture.com/api/v1/courses/172585/files/19814689" data-api-returntype="File">
+ Practice 7.3 - 7.4 PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211700Z
+UID:event-assignment-2537930
+DTSTART;VALUE=DATE:20220420
+DTEND;VALUE=DATE:20220421
+DESCRIPTION:[Prac 7.1-7.2 with word probs PAP.pdf] (https://lisdtx.instruct
+ ure.com/courses/172585/files/19814692/download?wrap=1)
+SUMMARY:HW DUE 7.1-7.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537930
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Prac 7.1-7.2 with word probs PAP.pdf" href="https://l
+ isdtx.instructure.com/courses/172585/files/19814692/download?wrap=1" data-
+ api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1
+ 9814692" data-api-returntype="File">Prac 7.1-7.2 with word probs PAP.pdf</
+ a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-calendar-event-520381
+DTSTART;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220422
+DESCRIPTION:[Logarithms\, Explained - Steve Kelly] (https://www.youtube.com
+ /watch?v=zzu2POfYv0Y)\n\nhttps://matchthememory.com/Log\n\n 
+SUMMARY:Log Basics [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520381
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="" href="https://www.youtube.com/w
+ atch?v=zzu2POfYv0Y" target="_blank" data-preview-alt="Logarithms\, Explain
+ ed - Steve Kelly">Logarithms\, Explained - Steve Kelly</a></p>\n<p><a href
+ ="https://matchthememory.com/Log" target="_blank">https://matchthememory.c
+ om/Log</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537906
+DTSTART;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220422
+DESCRIPTION:
+SUMMARY:7.1-7.4 Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537906
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537931
+DTSTART;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220422
+DESCRIPTION:[Practice 7.3 - 7.4 PAP.pdf] (https://lisdtx.instructure.com/co
+ urses/172585/files/19814689/download?wrap=1)
+SUMMARY:HW DUE 7.3-7.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537931
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 7.3 - 7.4 PAP.pdf" href="https://lisdtx.inst
+ ructure.com/courses/172585/files/19814689/download?wrap=1" data-api-endpoi
+ nt="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814689" d
+ ata-api-returntype="File">Practice 7.3 - 7.4 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-calendar-event-520517
+DTSTART;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220423
+DESCRIPTION:[7.5 - 7.6 Blank Notes.pdf] (https://lisdtx.instructure.com/cou
+ rses/172585/files/19814699/preview)\n\nHW: [Practice 7.5\, 7.6.pdf] (https
+ ://lisdtx.instructure.com/courses/172585/files/19814691/preview)\n\n 
+SUMMARY:7.5 - 7.6 Attributes & Properties of Logarithms [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520517
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="7.5 - 7.6 Blank Notes.pdf" href="https://lisdtx.instr
+ ucture.com/courses/172585/files/19814699/preview" target="_blank" data-api
+ -endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981
+ 4699" data-api-returntype="File">7.5 - 7.6 Blank Notes.pdf</a></p>\n<p>HW:
+  <a class="instructure_file_link instructure_scribd_file" title="Practice 
+ 7.5\, 7.6.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1
+ 9814691/preview" target="_blank" data-api-endpoint="https://lisdtx.instruc
+ ture.com/api/v1/courses/172585/files/19814691" data-api-returntype="File">
+ Practice 7.5\, 7.6.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-calendar-event-520470
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220426
+DESCRIPTION:[7.7-7.10 Blank Notes.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814729/preview)\n\nHW: [Practice 7.7-7.10.pdf] (https:/
+ /lisdtx.instructure.com/courses/172585/files/19814693/preview)\n\n 
+SUMMARY:7.7 - 7.10 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520470
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="7.7-7.10 Blank Notes.pdf" href="https://lisdtx.instru
+ cture.com/courses/172585/files/19814729/preview" target="_blank" data-api-
+ endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814
+ 729" data-api-returntype="File">7.7-7.10 Blank Notes.pdf</a></p>\n<p>HW: <
+ a class="instructure_file_link instructure_scribd_file" title="Practice 7.
+ 7-7.10.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981
+ 4693/preview" target="_blank" data-api-endpoint="https://lisdtx.instructur
+ e.com/api/v1/courses/172585/files/19814693" data-api-returntype="File">Pra
+ ctice 7.7-7.10.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537932
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220426
+DESCRIPTION:[Practice 7.5\, 7.6.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814691/download?wrap=1)
+SUMMARY:HW DUE 7.5-7.6 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537932
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 7.5\, 7.6.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814691/download?wrap=1" data-api-endpoint="
+ https://lisdtx.instructure.com/api/v1/courses/172585/files/19814691" data-
+ api-returntype="File">Practice 7.5\, 7.6.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537909
+DTSTART;VALUE=DATE:20220426
+DTEND;VALUE=DATE:20220427
+DESCRIPTION:
+SUMMARY:Exponentials/Logs Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537909
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537933
+DTSTART;VALUE=DATE:20220426
+DTEND;VALUE=DATE:20220427
+DESCRIPTION:[Practice 7.7-7.10.pdf] (https://lisdtx.instructure.com/courses
+ /172585/files/19814693/download?wrap=1)
+SUMMARY:HW DUE 7.7-7.10 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537933
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 7.7-7.10.pdf" href="https://lisdtx.instructu
+ re.com/courses/172585/files/19814693/download?wrap=1" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814693" data-a
+ pi-returntype="File">Practice 7.7-7.10.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-calendar-event-520473
+DTSTART;VALUE=DATE:20220427
+DTEND;VALUE=DATE:20220428
+DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814700/preview)
+SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520473
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
+ 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T211900Z
+UID:event-assignment-2537947
+DTSTART;VALUE=DATE:20220428
+DTEND;VALUE=DATE:20220429
+DESCRIPTION:
+SUMMARY:Test Topic 7 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#assignment_2537947
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520472
+DTSTART;VALUE=DATE:20220429
+DTEND;VALUE=DATE:20220430
+DESCRIPTION:[11.1 - 11.2 Blank_Notes.pdf] (https://lisdtx.instructure.com/c
+ ourses/172585/files/19814581/preview)\n\nHW: [Practice 11.1 - 11.2.pdf] (h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814704/preview)\n\n 
+SUMMARY:11.1 - 11.2 Inverse Variation & Transform Reciprocal Functions [Alg
+  2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520472
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="11.1 - 11.2 Blank_Notes.pdf" href="https://lisdtx.ins
+ tructure.com/courses/172585/files/19814581/preview" target="_blank" data-a
+ pi-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19
+ 814581" data-api-returntype="File">11.1 - 11.2 Blank_Notes.pdf</a></p>\n<p
+ >HW: <a class="instructure_file_link instructure_scribd_file" title="Pract
+ ice 11.1 - 11.2.pdf" href="https://lisdtx.instructure.com/courses/172585/f
+ iles/19814704/preview" target="_blank" data-api-endpoint="https://lisdtx.i
+ nstructure.com/api/v1/courses/172585/files/19814704" data-api-returntype="
+ File">Practice 11.1 - 11.2.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520457
+DTSTART;VALUE=DATE:20220429
+DTEND;VALUE=DATE:20220430
+DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
+ es/172585/files/19814703/preview)
+SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520457
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Review Topic 11 PAP.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
+ 03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520495
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
+DESCRIPTION:[11.3 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
+ 172585/files/19814710/preview)\n\nHW: [Practice 11.3 PAP.pdf] (https://lis
+ dtx.instructure.com/courses/172585/files/19814707/preview)\n\n 
+SUMMARY:11.3 Asymptotes & Disconinuities [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520495
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="11.3 Blank Notes.pdf" href="https://lisdtx.instructur
+ e.com/courses/172585/files/19814710/preview" target="_blank" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814710"
+  data-api-returntype="File">11.3 Blank Notes.pdf</a></p>\n<p>HW: <a class=
+ "instructure_file_link instructure_scribd_file" title="Practice 11.3 PAP.p
+ df" href="https://lisdtx.instructure.com/courses/172585/files/19814707/pre
+ view" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/ap
+ i/v1/courses/172585/files/19814707" data-api-returntype="File">Practice 11
+ .3 PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537913
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
+DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814704/download?wrap=1)
+SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537913
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 11.1 - 11.2.pdf" href="https://lisdtx.instru
+ cture.com/courses/172585/files/19814704/download?wrap=1" data-api-endpoint
+ ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814704" dat
+ a-api-returntype="File">Practice 11.1 - 11.2.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204500Z
+UID:event-calendar-event-520844
+DTSTART;VALUE=DATE:20220503
+DTEND;VALUE=DATE:20220504
+SUMMARY:BIOLOGY STAAR EOC [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520844
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204600Z
+UID:event-calendar-event-520845
+DTSTART;VALUE=DATE:20220504
+DTEND;VALUE=DATE:20220505
+SUMMARY:US HISTORY STAAR EOC [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520845
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520496
+DTSTART;VALUE=DATE:20220505
+DTEND;VALUE=DATE:20220506
+DESCRIPTION:[11.4 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
+ 172585/files/19814711/preview)\n\nHW: [Practice 11.4 .pdf] (https://lisdtx
+ .instructure.com/courses/172585/files/19814708/preview)
+SUMMARY:11.4 Rational Expressions: Simplify\, Multiply\, Divide [Alg 2 Hon-
+ RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520496
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="11.4 Blank Notes.pdf" href="https://lisdtx.instructur
+ e.com/courses/172585/files/19814711/preview" target="_blank" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814711"
+  data-api-returntype="File">11.4 Blank Notes.pdf</a></p>\n<p>HW: <a class=
+ "instructure_file_link instructure_scribd_file" title="Practice 11.4 .pdf"
+  href="https://lisdtx.instructure.com/courses/172585/files/19814708/previe
+ w" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/172585/files/19814708" data-api-returntype="File">Practice 11.4 
+ .pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537914
+DTSTART;VALUE=DATE:20220505
+DTEND;VALUE=DATE:20220506
+DESCRIPTION:[Practice 11.3 PAP.pdf] (https://lisdtx.instructure.com/courses
+ /172585/files/19814707/download?wrap=1)
+SUMMARY:HW DUE 11.3 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537914
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 11.3 PAP.pdf" href="https://lisdtx.instructu
+ re.com/courses/172585/files/19814707/download?wrap=1" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814707" data-a
+ pi-returntype="File">Practice 11.3 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537915
+DTSTART;VALUE=DATE:20220506
+DTEND;VALUE=DATE:20220507
+DESCRIPTION:[Practice 11.4 .pdf] (https://lisdtx.instructure.com/courses/17
+ 2585/files/19814708/download?wrap=1)
+SUMMARY:HW DUE 11.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537915
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 11.4 .pdf" href="https://lisdtx.instructure.
+ com/courses/172585/files/19814708/download?wrap=1" data-api-endpoint="http
+ s://lisdtx.instructure.com/api/v1/courses/172585/files/19814708" data-api-
+ returntype="File">Practice 11.4 .pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537943
+DTSTART;VALUE=DATE:20220506
+DTEND;VALUE=DATE:20220507
+DESCRIPTION:
+SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537943
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520471
+DTSTART;VALUE=DATE:20220509
+DTEND;VALUE=DATE:20220510
+DESCRIPTION:[11.5 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
+ 172585/files/19814582/preview)\n\n[11.6 Blank Notes.pdf] (https://lisdtx.i
+ nstructure.com/courses/172585/files/19814583/preview)\n\nHW: [Practice 11.
+ 5 - 11.6.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981471
+ 3/preview)\n\n 
+SUMMARY:11.5 - 11.6 Add\, Subtract\, Solve Rationals [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520471
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="11.5 Blank Notes.pdf" href="https://lisdtx.instructur
+ e.com/courses/172585/files/19814582/preview" target="_blank" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814582"
+  data-api-returntype="File">11.5 Blank Notes.pdf</a></p>\n<p><a class="ins
+ tructure_file_link instructure_scribd_file" title="11.6 Blank Notes.pdf" h
+ ref="https://lisdtx.instructure.com/courses/172585/files/19814583/preview"
+  target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
+ courses/172585/files/19814583" data-api-returntype="File">11.6 Blank Notes
+ .pdf</a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_fi
+ le" title="Practice 11.5 - 11.6.pdf" href="https://lisdtx.instructure.com/
+ courses/172585/files/19814713/preview" target="_blank" data-api-endpoint="
+ https://lisdtx.instructure.com/api/v1/courses/172585/files/19814713" data-
+ api-returntype="File">Practice 11.5 - 11.6.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520524
+DTSTART;VALUE=DATE:20220510
+DTEND;VALUE=DATE:20220511
+DESCRIPTION:First\, check your hw.  If you have questions\, make sure to a
+ sk.  Then\, turn your 11.5-11.6 hw in.\n\n[11.5-11.6 hw key again-1.pdf] 
+ ($CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad689ca100495b4f40fc6a7968f?wrap
+ =1)\n\nNext\, there are 2 sets of notes below.  They are both short - bas
+ ically examples.  Read them\, them do the homework.  Contact me on Webex
+  for help.\n\n[Rational Apps Blank Notes.pdf] (https://lisdtx.instructure.
+ com/courses/172585/files/19814709/preview)\n\n[Applying Rational Equations
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814717/previe
+ w)\n\nHW: [Rational Applications PAP.pdf] (https://lisdtx.instructure.com/
+ courses/172585/files/19814714/preview)
+SUMMARY:Rational Applications [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520524
+X-ALT-DESC;FMTTYPE=text/html:<p>First\, check your hw.&nbsp\; If you have q
+ uestions\, make sure to ask.&nbsp\; Then\, turn your 11.5-11.6 hw in.</p>\
+ n<p><a class="instructure_file_link instructure_scribd_file" title="11.5-1
+ 1.6 hw key again-1.pdf" href="$CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad6
+ 89ca100495b4f40fc6a7968f?wrap=1" target="_blank" data-canvas-previewable="
+ false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
+ 2572/files/15944181" data-api-returntype="File">11.5-11.6 hw key again-1.p
+ df</a></p>\n<p>Next\, there are 2 sets of notes below.&nbsp\; They are bot
+ h short - basically examples.&nbsp\; Read them\, them do the homework.&nbs
+ p\; Contact me on Webex for help.</p>\n<p><a class="instructure_file_link 
+ instructure_scribd_file" title="Rational Apps Blank Notes.pdf" href="https
+ ://lisdtx.instructure.com/courses/172585/files/19814709/preview" target="_
+ blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
+ 2585/files/19814709" data-api-returntype="File">Rational Apps Blank Notes.
+ pdf</a></p>\n<p><a class="instructure_file_link instructure_scribd_file" t
+ itle="Applying Rational Equations.pdf" href="https://lisdtx.instructure.co
+ m/courses/172585/files/19814717/preview" target="_blank" data-api-endpoint
+ ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814717" dat
+ a-api-returntype="File">Applying Rational Equations.pdf</a></p>\n<p>HW: <a
+  class="instructure_file_link instructure_scribd_file" title="Rational App
+ lications PAP.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
+ es/19814714/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172585/files/19814714" data-api-returntype="Fi
+ le">Rational Applications PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537916
+DTSTART;VALUE=DATE:20220510
+DTEND;VALUE=DATE:20220511
+DESCRIPTION:[Practice 11.5 - 11.6.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814713/download?wrap=1)\n\n 
+SUMMARY:HW DUE 11.5-11.6 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537916
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="6669495" class="instructure_file_lin
+ k instructure_scribd_file" href="https://lisdtx.instructure.com/courses/17
+ 2585/files/19814713/download?wrap=1" target="_blank" data-canvas-previewab
+ le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
+ /172585/files/19814713" data-api-returntype="File">Practice 11.5 - 11.6.pd
+ f</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537911
+DTSTART;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220512
+DESCRIPTION:[Rational Applications PAP.pdf] (https://lisdtx.instructure.com
+ /courses/172585/files/19814714/download?wrap=1)
+SUMMARY:HW DUE - Rational Applications [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537911
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Rational Applications PAP.pdf" href="https://lisdtx.i
+ nstructure.com/courses/172585/files/19814714/download?wrap=1" data-api-end
+ point="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814714
+ " data-api-returntype="File">Rational Applications PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-calendar-event-520522
+DTSTART;VALUE=DATE:20220512
+DTEND;VALUE=DATE:20220513
+DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
+ es/172585/files/19814703/preview)
+SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520522
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Review Topic 11 PAP.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
+ 03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212100Z
+UID:event-assignment-2537950
+DTSTART;VALUE=DATE:20220513
+DTEND;VALUE=DATE:20220514
+DESCRIPTION:
+SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537950
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211007T020500Z
+UID:event-assignment-2391478
+DTSTART;VALUE=DATE:20220513
+DTEND;VALUE=DATE:20220514
+SUMMARY:5/12: Spring Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=05&year=2022#assignment_2391478
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211021T181100Z
+UID:event-assignment-2433352
+DTSTART;VALUE=DATE:20220513
+DTEND;VALUE=DATE:20220514
+SUMMARY:5/13: Freshman One Act Play [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=05&year=2022#assignment_2433352
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211101T180600Z
+UID:event-assignment-2466322
+DTSTART;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220515
+SUMMARY:5/13 - 5/14: Choir Spring Show [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=05&year=2022#assignment_2466322
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T212200Z
+UID:event-calendar-event-520984
+DTSTART;VALUE=DATE:20220516
+DTEND;VALUE=DATE:20220517
+SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520984
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T205100Z
+UID:event-calendar-event-520846
+DTSTART;VALUE=DATE:20220517
+DTEND;VALUE=DATE:20220518
+SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520846
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T205000Z
+UID:event-calendar-event-520382
+DTSTART;VALUE=DATE:20220518
+DTEND;VALUE=DATE:20220519
+DESCRIPTION:Watch these videos.  Take really good notes.  You will be abl
+ e to use your notes on tomorrow's quiz.\n\n[Unit Circle Video #1] (https:/
+ /www.youtube.com/watch?v=j5SoWzBSUmY&t=8s) \n\n[Unit Circle Video #2] (ht
+ tps://www.youtube.com/watch?annotation_id=annotation_344584&feature=iv&src
+ _vid=j5SoWzBSUmY&v=FaZ7frx8nd8)\n\nWhen you are done\, I recommend getting
+  started on the final exam review if you have not already done so.
+SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520382
+X-ALT-DESC;FMTTYPE=text/html:<p>Watch these videos.&nbsp\; Take really good
+  notes.&nbsp\; You will be able to use your notes on tomorrow's quiz.</p>\
+ n<p><a class="instructure_file_link inline_disabled" href="https://www.you
+ tube.com/watch?v=j5SoWzBSUmY&amp\;t=8s" target="_blank">Unit Circle Video 
+ #1</a>&nbsp\;</p>\n<p><a class="instructure_file_link inline_disabled" hre
+ f="https://www.youtube.com/watch?annotation_id=annotation_344584&amp\;feat
+ ure=iv&amp\;src_vid=j5SoWzBSUmY&amp\;v=FaZ7frx8nd8" target="_blank">Unit C
+ ircle Video #2</a></p>\n<p>When you are done\, I recommend getting started
+  on the final exam review if you have not already done so.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204700Z
+UID:event-calendar-event-520386
+DTSTART;VALUE=DATE:20220519
+DTEND;VALUE=DATE:20220520
+DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
+ ture.com/courses/172585/files/19814687/preview)
+SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520386
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="PAP Final Review (no extra stuff).pdf" href="https://
+ lisdtx.instructure.com/courses/172585/files/19814687/preview" target="_bla
+ nk" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17258
+ 5/files/19814687" data-api-returntype="File">PAP Final Review (no extra st
+ uff).pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T205000Z
+UID:event-assignment-2537904
+DTSTART;VALUE=DATE:20220519
+DTEND;VALUE=DATE:20220520
+SUMMARY:Algebra II Terms and Vocabulary [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537904
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204700Z
+UID:event-calendar-event-520461
+DTSTART;VALUE=DATE:20220520
+DTEND;VALUE=DATE:20220521
+DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
+ ture.com/courses/172585/files/19814687/preview)
+SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520461
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="PAP Final Review (no extra stuff).pdf" href="https://
+ lisdtx.instructure.com/courses/172585/files/19814687/preview" target="_bla
+ nk" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17258
+ 5/files/19814687" data-api-returntype="File">PAP Final Review (no extra st
+ uff).pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204700Z
+UID:event-calendar-event-520383
+DTSTART;VALUE=DATE:20220523
+DTEND;VALUE=DATE:20220524
+DESCRIPTION:
+SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520383
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204700Z
+UID:event-calendar-event-520384
+DTSTART;VALUE=DATE:20220524
+DTEND;VALUE=DATE:20220525
+DESCRIPTION:
+SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520384
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T204700Z
+UID:event-calendar-event-520385
+DTSTART;VALUE=DATE:20220524
+DTEND;VALUE=DATE:20220525
+DESCRIPTION:
+SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520385
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+END:VCALENDAR
