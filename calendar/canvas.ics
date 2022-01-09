@@ -9,7 +9,7 @@ BEGIN:VEVENT
 DTSTAMP:20220107T192300Z
 UID:event-assignment-2391475
 DTSTART;VALUE=DATE:20211210T235900
-DTEND;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211210T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/9: Winter Concert [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 DTSTAMP:20211211T010000Z
 UID:event-assignment-2433333
 DTSTART;VALUE=DATE:20211210T235900
-DTEND;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211210T235900
 DESCRIPTION:Upload a picture of you attending Hebron Theatre's Advanced Fre
  shman Showcase for 4 points!\n\n \n\nWhere? HHS9 Stage\n\nWhen? 7pm on De
  cember 10th
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 DTSTAMP:20211211T020000Z
 UID:event-assignment-2499193
 DTSTART;VALUE=DATE:20211210T235900
-DTEND;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211210T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/10: Boys Basketball Game vs Allen [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T193100Z
 UID:event-assignment-2503469
 DTSTART;VALUE=DATE:20211210T235900
-DTEND;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211210T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/10: Family Photos - Grab Your Friends\, Match\, and Take a Pic [
  StuCo 21-22]
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTAMP:20211210T230000Z
 UID:event-assignment-2499086
 DTSTART;VALUE=DATE:20211210T235900
-DTEND;VALUE=DATE:20211211
+DTEND;VALUE=DATE:20211210T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/10: Girls Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T194300Z
 UID:event-assignment-2503470
 DTSTART;VALUE=DATE:20211213T235900
-DTEND;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211213T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/13: Tree Topper - Wear Your Most Festive Headwear [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T200000Z
 UID:event-assignment-2503472
 DTSTART;VALUE=DATE:20211214T235900
-DTEND;VALUE=DATE:20211215
+DTEND;VALUE=DATE:20211214T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/14: Country Holidays - Bust Out The Boots and Flannel [StuCo 21-
  22]
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T194800Z
 UID:event-assignment-2466301
 DTSTART;VALUE=DATE:20211214T235900
-DTEND;VALUE=DATE:20211215
+DTEND;VALUE=DATE:20211214T235900
 DESCRIPTION:Submit a picture here of you at the Winter Concert!
 SUMMARY:12/14: Winter Concert [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 DTSTAMP:20211215T060000Z
 UID:event-assignment-2273922
 DTSTART;VALUE=DATE:20211215T235900
-DTEND;VALUE=DATE:20211216
+DTEND;VALUE=DATE:20211215T235900
 DESCRIPTION:Submit a picture of yourself at school with your reusable water
   bottle (on Wednesday) for 1 point!
 SUMMARY:12/15 - Water Bottle Wednesday [StuCo 21-22]
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DTSTAMP:20220107T194300Z
 UID:event-assignment-2503476
 DTSTART;VALUE=DATE:20211215T235900
-DTEND;VALUE=DATE:20211216
+DTEND;VALUE=DATE:20211215T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/15: Movie Night - Dress As Your Favorite Holiday Character [StuC
  o 21-22]
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 DTSTAMP:20220107T193400Z
 UID:event-assignment-2530649
 DTSTART;VALUE=DATE:20211215T235900
-DTEND;VALUE=DATE:20211216
+DTEND;VALUE=DATE:20211215T235900
 DESCRIPTION:Did you buy candy grams? How many? Picture is appreciated.
 SUMMARY:Candy Grams [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -141,7 +141,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T060000Z
 UID:event-assignment-2503477
 DTSTART;VALUE=DATE:20211216T235900
-DTEND;VALUE=DATE:20211217
+DTEND;VALUE=DATE:20211216T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/16: Ugly (Maybe Cute) Holiday Sweaters [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DTSTAMP:20211217T183200Z
 UID:event-assignment-2503481
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/17: A LONG Winter's Nap - Wear Holiday PJs [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 DTSTAMP:20211218T010000Z
 UID:event-assignment-2499200
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/17: Boys Basketball Game vs Plano [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 DTSTAMP:20211217T230000Z
 UID:event-assignment-2499090
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/17: Girls Basketball Game vs Plano/Vines [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 DTSTAMP:20211213T060000Z
 UID:event-assignment-2314615
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
  ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
  able to submit to this assignment yet\, so please do not try to do so nor 
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 DTSTAMP:20211213T060000Z
 UID:event-assignment-2314626
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
  ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
  able to submit to this assignment yet\, so please do not try to do so nor 
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 DTSTAMP:20211213T060000Z
 UID:event-assignment-2314627
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
  ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
  able to submit to this assignment yet\, so please do not try to do so nor 
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DTSTAMP:20211213T060000Z
 UID:event-assignment-2314628
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
  ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
  able to submit to this assignment yet\, so please do not try to do so nor 
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 DTSTAMP:20211213T060000Z
 UID:event-assignment-2314629
 DTSTART;VALUE=DATE:20211217T235900
-DTEND;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211217T235900
 DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
  ving) from 3 different Hebron events.\n\n \n\nYou are not supposed to be 
  able to submit to this assignment yet\, so please do not try to do so nor 
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 DTSTAMP:20211221T180000Z
 UID:event-assignment-2499196
 DTSTART;VALUE=DATE:20211221T235900
-DTEND;VALUE=DATE:20211222
+DTEND;VALUE=DATE:20211221T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:12/21: Boys Basketball Game vs Abilene [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 DTSTAMP:20220105T020000Z
 UID:event-assignment-2499204
 DTSTART;VALUE=DATE:20220104T235900
-DTEND;VALUE=DATE:20220105
+DTEND;VALUE=DATE:20220104T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:1/4: Boys Basketball Game vs Coppell [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -310,7 +310,7 @@ BEGIN:VEVENT
 DTSTAMP:20220104T230000Z
 UID:event-assignment-2499095
 DTSTART;VALUE=DATE:20220104T235900
-DTEND;VALUE=DATE:20220105
+DTEND;VALUE=DATE:20220104T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:1/4: Girls Basketball Game vs Coppell [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T191400Z
 UID:event-assignment-2537944
 DTSTART;VALUE=DATE:20220107T235900
-DTEND;VALUE=DATE:20220108
+DTEND;VALUE=DATE:20220107T235900
 DESCRIPTION:[Honors Algebra II Syllabus.pdf] (https://lisdtx.instructure.co
  m/courses/172585/files/19814554?wrap=1)\n\nYou and your parents need to re
  ad the syllabus thoroughly.  Sign and return.  You many return a paper c
@@ -423,7 +423,7 @@ BEGIN:VEVENT
 DTSTAMP:20220108T020000Z
 UID:event-assignment-2499205
 DTSTART;VALUE=DATE:20220107T235900
-DTEND;VALUE=DATE:20220108
+DTEND;VALUE=DATE:20220107T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:1/7: Boys Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 DTSTAMP:20220107T230000Z
 UID:event-assignment-2499097
 DTSTART;VALUE=DATE:20220107T235900
-DTEND;VALUE=DATE:20220108
+DTEND;VALUE=DATE:20220107T235900
 DESCRIPTION:Submit your picture here!
 SUMMARY:1/7: Girls Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 DTSTAMP:20220107T161200Z
 UID:event-assignment-2678831
 DTSTART;VALUE=DATE:20220107T235900
-DTEND;VALUE=DATE:20220108
+DTEND;VALUE=DATE:20220107T235900
 DESCRIPTION:Open up a microsoft word document.  Type me a paragraph about 
  what you expect to learn in BIM.  3 or 4 sentences is fine.  Submit the 
  file in canvas like we discussed! 1st daily grade of the semester!
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 DTSTAMP:20211215T213000Z
 UID:event-assignment-2537910
 DTSTART;VALUE=DATE:20220110T235900
-DTEND;VALUE=DATE:20220111
+DTEND;VALUE=DATE:20220110T235900
 DESCRIPTION:[Functions Practice (Newest) PAP.pdf] (https://lisdtx.instructu
  re.com/courses/172585/files/19814592/download?wrap=1)
 SUMMARY:HW DUE - Functions Practice [Alg 2 Hon-RIORDAN]
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499210
 DTSTART;VALUE=DATE:20220111T235900
-DTEND;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220111T235900
 SUMMARY:1/11: Boys Basketball Game vs Plano West [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499210
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499099
 DTSTART;VALUE=DATE:20220111T235900
-DTEND;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220111T235900
 SUMMARY:1/11: Girls Basketball Game vs Plano West/Jasper [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499099
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010400Z
 UID:event-assignment-2646931
 DTSTART;VALUE=DATE:20220111T235900
-DTEND;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220111T235900
 DESCRIPTION:Here is the [Match Graph lab] (https://lisdtx.instructure.com/c
  ourses/172858/files/20145222?wrap=1). Follow the directions and complete t
  he lab sheet. Submit the lab sheet file here.
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010500Z
 UID:event-assignment-2646930
 DTSTART;VALUE=DATE:20220112T235900
-DTEND;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220112T235900
 DESCRIPTION:Here are the Murray notes and practice for [Kinematics Equation
  s] (https://lisdtx.instructure.com/courses/172858/files/20145226?wrap=1). 
  We will work the problems on the back during class today. For homework\, c
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010300Z
 UID:event-assignment-2646933
 DTSTART;VALUE=DATE:20220112T235900
-DTEND;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220112T235900
 DESCRIPTION:For the [Position\, Distance\, and Displacement worksheet] (htt
  ps://lisdtx.instructure.com/courses/172858/files/20145221?wrap=1). use the
   notes on the front to help you answer the questions on the back. Submit y
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010600Z
 UID:event-assignment-2646934
 DTSTART;VALUE=DATE:20220112T235900
-DTEND;VALUE=DATE:20220113
+DTEND;VALUE=DATE:20220112T235900
 DESCRIPTION:We will work on the [Practice Problems--Kinematics] (https://li
  sdtx.instructure.com/courses/172858/files/20145227?wrap=1) in class on Thu
  rsday\, August 19\, 2021. Work all the problems and submit the entire work
@@ -662,7 +662,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010700Z
 UID:event-assignment-2646927
 DTSTART;VALUE=DATE:20220113T235900
-DTEND;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220113T235900
 DESCRIPTION:We will talk about various aspects of free fall including a dem
  onstration of a candle in free fall\, and we will spend some time analyzin
  g the [Apollo 15 hammer and feather experiment] (https://www.youtube.com/w
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010800Z
 UID:event-assignment-2646932
 DTSTART;VALUE=DATE:20220113T235900
-DTEND;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220113T235900
 DESCRIPTION:Here are more [Kinematics Problems] (https://lisdtx.instructure
  .com/courses/172858/files/20145230?wrap=1) for you to practice with. Pleas
  e work all the problems\, show your work\, and submit your work here.
@@ -722,7 +722,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T191600Z
 UID:event-assignment-2537945
 DTSTART;VALUE=DATE:20220114T235900
-DTEND;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220114T235900
 DESCRIPTION:
 SUMMARY:Summer packet [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499215
 DTSTART;VALUE=DATE:20220114T235900
-DTEND;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220114T235900
 SUMMARY:1/14: Boys Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499215
@@ -742,7 +742,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499106
 DTSTART;VALUE=DATE:20220114T235900
-DTEND;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220114T235900
 SUMMARY:1/14: Girls Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499106
@@ -751,7 +751,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T010900Z
 UID:event-assignment-2646928
 DTSTART;VALUE=DATE:20220114T235900
-DTEND;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220114T235900
 DESCRIPTION:Here are the directions for the [Unit 1 Enrichment Project] (ht
  tps://lisdtx.instructure.com/courses/172858/files/20145223?wrap=1). Submit
   your project documents here. This project grade counts in the 30% (minor)
@@ -780,7 +780,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T011200Z
 UID:event-assignment-2647399
 DTSTART;VALUE=DATE:20220117T235900
-DTEND;VALUE=DATE:20220118
+DTEND;VALUE=DATE:20220117T235900
 SUMMARY:Trig and Vector Basics [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2647399
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 DTSTAMP:20211215T211300Z
 UID:event-assignment-2537912
 DTSTART;VALUE=DATE:20220118T235900
-DTEND;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220118T235900
 DESCRIPTION:[1.3-1.4 Topic 1 Compositions\, Inverses & Transformations HW.p
  df] (https://lisdtx.instructure.com/courses/172585/files/19814600/preview)
 SUMMARY:HW DUE 1.3 - 1.4 [Alg 2 Hon-RIORDAN]
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499220
 DTSTART;VALUE=DATE:20220118T235900
-DTEND;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220118T235900
 SUMMARY:1/18: Boys Basketball Game vs Plano East [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499220
@@ -832,7 +832,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499113
 DTSTART;VALUE=DATE:20220118T235900
-DTEND;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220118T235900
 SUMMARY:1/18: Girls Basketball Game vs Plano East/McMillen [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499113
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T011600Z
 UID:event-assignment-2647394
 DTSTART;VALUE=DATE:20220118T235900
-DTEND;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220118T235900
 SUMMARY:Adding Vectors [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2647394
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 DTSTAMP:20220106T011700Z
 UID:event-assignment-2647398
 DTSTART;VALUE=DATE:20220118T235900
-DTEND;VALUE=DATE:20220119
+DTEND;VALUE=DATE:20220118T235900
 SUMMARY:Relative Motion [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2647398
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 DTSTAMP:20211215T205900Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220119T235900
-DTEND;VALUE=DATE:20220120
+DTEND;VALUE=DATE:20220119T235900
 DESCRIPTION: \n\n 
 SUMMARY:Topic 1 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -910,7 +910,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499227
 DTSTART;VALUE=DATE:20220121T235900
-DTEND;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220121T235900
 SUMMARY:1/21: Boys Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499227
@@ -919,7 +919,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499115
 DTSTART;VALUE=DATE:20220121T235900
-DTEND;VALUE=DATE:20220122
+DTEND;VALUE=DATE:20220121T235900
 SUMMARY:1/21: Girls Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499115
@@ -953,7 +953,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T191900Z
 UID:event-assignment-2537941
 DTSTART;VALUE=DATE:20220124T235900
-DTEND;VALUE=DATE:20220125
+DTEND;VALUE=DATE:20220124T235900
 DESCRIPTION:[2.1-2.2 Topic 2 Solving Absolute Value.pdf] (https://lisdtx.in
  structure.com/courses/172585/files/19814476/preview)
 SUMMARY:HW DUE: 2.1 - 2.2 [Alg 2 Hon-RIORDAN]
@@ -981,7 +981,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T191800Z
 UID:event-assignment-2537942
 DTSTART;VALUE=DATE:20220125T235900
-DTEND;VALUE=DATE:20220126
+DTEND;VALUE=DATE:20220125T235900
 DESCRIPTION:[PAP Topic 2 Absolute Value\, graphing\, transformations HW.pdf
  ] (https://lisdtx.instructure.com/courses/172585/files/19814588/preview)
 SUMMARY:HW DUE: 2.3 - 2.5 [Alg 2 Hon-RIORDAN]
@@ -998,7 +998,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499231
 DTSTART;VALUE=DATE:20220125T235900
-DTEND;VALUE=DATE:20220126
+DTEND;VALUE=DATE:20220125T235900
 SUMMARY:1/25: Boys Basketball Game vs Plano [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499231
@@ -1007,7 +1007,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499116
 DTSTART;VALUE=DATE:20220125T235900
-DTEND;VALUE=DATE:20220126
+DTEND;VALUE=DATE:20220125T235900
 SUMMARY:1/25: Girls Basketball Game vs Plano/Clark [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499116
@@ -1032,7 +1032,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T191800Z
 UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220127T235900
-DTEND;VALUE=DATE:20220128
+DTEND;VALUE=DATE:20220127T235900
 DESCRIPTION:
 SUMMARY:Topic 2 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499234
 DTSTART;VALUE=DATE:20220128T235900
-DTEND;VALUE=DATE:20220129
+DTEND;VALUE=DATE:20220128T235900
 SUMMARY:1/28: Boys Basketball Game vs Coppell [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499234
@@ -1094,15 +1094,16 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499117
 DTSTART;VALUE=DATE:20220128T235900
-DTEND;VALUE=DATE:20220129
+DTEND;VALUE=DATE:20220128T235900
 SUMMARY:1/28: Girls Basketball Game vs Coppell [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499117
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20211028T235900Z
 UID:event-assignment-2433334
 DTSTART;VALUE=DATE:20220130T235900
-DTEND;VALUE=DATE:20220131
+DTEND;VALUE=DATE:20220130T235900
 DESCRIPTION:Upload a picture of you attending Hebron Theatre's show "Legall
  y Blonde" for 4 points!\n\n \n\nWhere? HHS Auditorium\n\nWhen? TBD
 SUMMARY:1/27 - 1/30: Legally Blonde [StuCo 21-22]
@@ -1142,7 +1143,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192100Z
 UID:event-assignment-2537917
 DTSTART;VALUE=DATE:20220201T235900
-DTEND;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220201T235900
 DESCRIPTION:[3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/
  courses/172585/files/19814612/preview)\n\n 
 SUMMARY:HW DUE 3.1-3.2 & Systems Applications [Alg 2 Hon-RIORDAN]
@@ -1159,7 +1160,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499236
 DTSTART;VALUE=DATE:20220201T235900
-DTEND;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220201T235900
 SUMMARY:2/1: Boys Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499236
@@ -1168,7 +1169,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499119
 DTSTART;VALUE=DATE:20220201T235900
-DTEND;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220201T235900
 SUMMARY:2/1: Girls Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499119
@@ -1201,7 +1202,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192200Z
 UID:event-assignment-2537918
 DTSTART;VALUE=DATE:20220202T235900
-DTEND;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220202T235900
 DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming.pdf] (h
  ttps://lisdtx.instructure.com/courses/172585/files/19814474/download?wrap=
  1)
@@ -1230,7 +1231,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192200Z
 UID:event-assignment-2537919
 DTSTART;VALUE=DATE:20220203T235900
-DTEND;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220203T235900
 DESCRIPTION:[3.5 Systems in 3 Variables.pdf] (https://lisdtx.instructure.co
  m/courses/172585/files/19814502/download?wrap=1)
 SUMMARY:HW DUE 3.5 [Alg 2 Hon-RIORDAN]
@@ -1271,7 +1272,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499239
 DTSTART;VALUE=DATE:20220204T235900
-DTEND;VALUE=DATE:20220205
+DTEND;VALUE=DATE:20220204T235900
 SUMMARY:2/4: Boys Basketball Game vs Plano West [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499239
@@ -1280,7 +1281,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499121
 DTSTART;VALUE=DATE:20220204T235900
-DTEND;VALUE=DATE:20220205
+DTEND;VALUE=DATE:20220204T235900
 SUMMARY:2/4: Girls Basketball Game vs Plano West/Shepton [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499121
@@ -1314,7 +1315,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192400Z
 UID:event-assignment-2537920
 DTSTART;VALUE=DATE:20220207T235900
-DTEND;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220207T235900
 DESCRIPTION:[3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https
  ://lisdtx.instructure.com/courses/172585/files/19814605/download?wrap=1)
 SUMMARY:HW DUE 3.6\, 4.1-4.2 [Alg 2 Hon-RIORDAN]
@@ -1331,7 +1332,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499244
 DTSTART;VALUE=DATE:20220207T235900
-DTEND;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220207T235900
 SUMMARY:2/7: Boys Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499244
@@ -1372,7 +1373,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192400Z
 UID:event-assignment-2537921
 DTSTART;VALUE=DATE:20220208T235900
-DTEND;VALUE=DATE:20220209
+DTEND;VALUE=DATE:20220208T235900
 DESCRIPTION:[4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814611/download?wrap=1)
 SUMMARY:HW DUE 4.3-4.4  [Alg 2 Hon-RIORDAN]
@@ -1389,7 +1390,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T190200Z
 UID:event-assignment-2499123
 DTSTART;VALUE=DATE:20220208T235900
-DTEND;VALUE=DATE:20220209
+DTEND;VALUE=DATE:20220208T235900
 SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499123
@@ -1415,7 +1416,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T192300Z
 UID:event-assignment-2537954
 DTSTART;VALUE=DATE:20220210T235900
-DTEND;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220210T235900
 DESCRIPTION: \n\n 
 SUMMARY:Topics 3/4 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1468,7 +1469,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499248
 DTSTART;VALUE=DATE:20220211T235900
-DTEND;VALUE=DATE:20220212
+DTEND;VALUE=DATE:20220211T235900
 SUMMARY:2/11: Boys Basketball Game vs Plano East [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499248
@@ -1501,7 +1502,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193200Z
 UID:event-assignment-2537925
 DTSTART;VALUE=DATE:20220215T235900
-DTEND;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220215T235900
 DESCRIPTION:[Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.ins
  tructure.com/courses/172585/files/19814505/download?wrap=1)
 SUMMARY:HW DUE 5.5-5.6 [Alg 2 Hon-RIORDAN]
@@ -1518,7 +1519,7 @@ BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499249
 DTSTART;VALUE=DATE:20220215T235900
-DTEND;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220215T235900
 SUMMARY:2/15: Boys Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499249
@@ -1538,7 +1539,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193300Z
 UID:event-assignment-2537926
 DTSTART;VALUE=DATE:20220216T235900
-DTEND;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220216T235900
 DESCRIPTION:[5.7-5.8 Completing Square\, Quad Formula Practice.pdf] (https:
  //lisdtx.instructure.com/courses/172585/files/19814621/download?wrap=1)
 SUMMARY:HW DUE 5.7-5.8 [Alg 2 Hon-RIORDAN]
@@ -1580,7 +1581,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193300Z
 UID:event-assignment-2537927
 DTSTART;VALUE=DATE:20220218T235900
-DTEND;VALUE=DATE:20220219
+DTEND;VALUE=DATE:20220218T235900
 DESCRIPTION:[5.9 Complex Numbers Practice .pdf] (https://lisdtx.instructure
  .com/courses/172585/files/19814628/download?wrap=1)
 SUMMARY:HW DUE 5.9 [Alg 2 Hon-RIORDAN]
@@ -1701,7 +1702,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193500Z
 UID:event-assignment-2537922
 DTSTART;VALUE=DATE:20220228T235900
-DTEND;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220228T235900
 DESCRIPTION:[Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814634/download?wrap=1)
 SUMMARY:HW DUE 5.1-5.2 [Alg 2 Hon-RIORDAN]
@@ -1743,7 +1744,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193800Z
 UID:event-assignment-2537924
 DTSTART;VALUE=DATE:20220301T235900
-DTEND;VALUE=DATE:20220302
+DTEND;VALUE=DATE:20220301T235900
 DESCRIPTION:[Practice 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practic
  e.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814639/downl
  oad?wrap=1)
@@ -1761,7 +1762,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193800Z
 UID:event-assignment-2537923
 DTSTART;VALUE=DATE:20220302T235900
-DTEND;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220302T235900
 DESCRIPTION:[5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814636/download?wrap=1)
 SUMMARY:HW DUE 5.10-5.11 [Alg 2 Hon-RIORDAN]
@@ -1811,7 +1812,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193700Z
 UID:event-assignment-2537952
 DTSTART;VALUE=DATE:20220304T235900
-DTEND;VALUE=DATE:20220305
+DTEND;VALUE=DATE:20220304T235900
 DESCRIPTION:
 SUMMARY:Topic 5B Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1822,7 +1823,7 @@ BEGIN:VEVENT
 DTSTAMP:20211007T020500Z
 UID:event-assignment-2391477
 DTSTART;VALUE=DATE:20220304T235900
-DTEND;VALUE=DATE:20220305
+DTEND;VALUE=DATE:20220304T235900
 SUMMARY:3/3: Midwinter/UIL Concert [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=03&year=2022#assignment_2391477
@@ -1831,7 +1832,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193800Z
 UID:event-assignment-2537907
 DTSTART;VALUE=DATE:20220307T235900
-DTEND;VALUE=DATE:20220308
+DTEND;VALUE=DATE:20220307T235900
 DESCRIPTION:Who’s at Fault?\n\n \n\nYou are a forensics expert for the M
  ulti-Accident Investigation Team (M.A.I.T.) that has been called to analyz
  e a recent traffic accident and testify in an upcoming court case\, Myers 
@@ -2110,7 +2111,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T194000Z
 UID:event-assignment-2537938
 DTSTART;VALUE=DATE:20220322T235900
-DTEND;VALUE=DATE:20220323
+DTEND;VALUE=DATE:20220322T235900
 DESCRIPTION:[Practice 9.1-9.2 Roots & Radicals.pdf] (https://lisdtx.instruc
  ture.com/courses/172585/files/19814671/download?wrap=1)
 SUMMARY:HW DUE 9.1-9.2 [Alg 2 Hon-RIORDAN]
@@ -2166,7 +2167,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T194000Z
 UID:event-assignment-2537939
 DTSTART;VALUE=DATE:20220323T235900
-DTEND;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220323T235900
 DESCRIPTION:[Practice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf]
   (https://lisdtx.instructure.com/courses/172585/files/19814510/download?wr
  ap=1)
@@ -2205,7 +2206,7 @@ BEGIN:VEVENT
 DTSTAMP:20211101T180600Z
 UID:event-assignment-2466303
 DTSTART;VALUE=DATE:20220324T235900
-DTEND;VALUE=DATE:20220325
+DTEND;VALUE=DATE:20220324T235900
 SUMMARY:3/24: Pre-UIL Concert [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=03&year=2022#assignment_2466303
@@ -2239,7 +2240,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T194200Z
 UID:event-assignment-2537928
 DTSTART;VALUE=DATE:20220325T235900
-DTEND;VALUE=DATE:20220326
+DTEND;VALUE=DATE:20220325T235900
 DESCRIPTION:[Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses
  .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814660/downlo
  ad?wrap=1)
@@ -2268,7 +2269,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T194200Z
 UID:event-assignment-2537929
 DTSTART;VALUE=DATE:20220328T235900
-DTEND;VALUE=DATE:20220329
+DTEND;VALUE=DATE:20220328T235900
 DESCRIPTION:[Practice 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf] (https:
  //lisdtx.instructure.com/courses/172585/files/19814662/download?wrap=1)
 SUMMARY:HW DUE 6.4\, 6.5\, 10.4 [Alg 2 Hon-RIORDAN]
@@ -2302,7 +2303,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T193900Z
 UID:event-assignment-2537946
 DTSTART;VALUE=DATE:20220330T235900
-DTEND;VALUE=DATE:20220331
+DTEND;VALUE=DATE:20220330T235900
 DESCRIPTION:
 SUMMARY:Test - Topics 6\, 9\, 10 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2313,7 +2314,7 @@ BEGIN:VEVENT
 DTSTAMP:20211021T181100Z
 UID:event-assignment-2433348
 DTSTART;VALUE=DATE:20220330T235900
-DTEND;VALUE=DATE:20220331
+DTEND;VALUE=DATE:20220330T235900
 SUMMARY:3/1 & 3/30: Varsity UIL One Act Play Performance & JV Spring Show [
  StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
@@ -2390,7 +2391,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211600Z
 UID:event-assignment-2537934
 DTSTART;VALUE=DATE:20220401T235900
-DTEND;VALUE=DATE:20220402
+DTEND;VALUE=DATE:20220401T235900
 DESCRIPTION:[Practice 8.1 & 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814668/download?wrap=1)
 SUMMARY:HW DUE 8.1-8.2 [Alg 2 Hon-RIORDAN]
@@ -2429,7 +2430,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211600Z
 UID:event-assignment-2537935
 DTSTART;VALUE=DATE:20220404T235900
-DTEND;VALUE=DATE:20220405
+DTEND;VALUE=DATE:20220404T235900
 DESCRIPTION:[Practice 8.3 & 8.4 Factor and Solve Polynomials PAP.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814527/download?wrap=1)
 SUMMARY:HW DUE 8.3-8.4 [Alg 2 Hon-RIORDAN]
@@ -2489,7 +2490,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537936
 DTSTART;VALUE=DATE:20220406T235900
-DTEND;VALUE=DATE:20220407
+DTEND;VALUE=DATE:20220406T235900
 DESCRIPTION:[Practice 8.5.pdf] (https://lisdtx.instructure.com/courses/1725
  85/files/19814667/download?wrap=1)
 SUMMARY:HW DUE 8.5 [Alg 2 Hon-RIORDAN]
@@ -2538,7 +2539,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537937
 DTSTART;VALUE=DATE:20220411T235900
-DTEND;VALUE=DATE:20220412
+DTEND;VALUE=DATE:20220411T235900
 DESCRIPTION:[Practice 8.6 & 8.7.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814528/download?wrap=1)
 SUMMARY:HW DUE 8.6-8.7 [Alg 2 Hon-RIORDAN]
@@ -2554,7 +2555,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537940
 DTSTART;VALUE=DATE:20220411T235900
-DTEND;VALUE=DATE:20220412
+DTEND;VALUE=DATE:20220411T235900
 DESCRIPTION:[Factoring Practice (short).pdf] (https://lisdtx.instructure.co
  m/courses/172585/files/19814681/download?wrap=1)
 SUMMARY:HW DUE Factoring [Alg 2 Hon-RIORDAN]
@@ -2570,7 +2571,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537953
 DTSTART;VALUE=DATE:20220411T235900
-DTEND;VALUE=DATE:20220412
+DTEND;VALUE=DATE:20220411T235900
 DESCRIPTION:
 SUMMARY:Topic 8 Polynomials Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2597,7 +2598,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537948
 DTSTART;VALUE=DATE:20220413T235900
-DTEND;VALUE=DATE:20220414
+DTEND;VALUE=DATE:20220413T235900
 DESCRIPTION:
 SUMMARY:Test Topic 8 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2648,7 +2649,7 @@ BEGIN:VEVENT
 DTSTAMP:20211101T180600Z
 UID:event-assignment-2466315
 DTSTART;VALUE=DATE:20220414T235900
-DTEND;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220414T235900
 SUMMARY:4/13 - 4/14: UIL [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=04&year=2022#assignment_2466315
@@ -2697,7 +2698,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211700Z
 UID:event-assignment-2537930
 DTSTART;VALUE=DATE:20220420T235900
-DTEND;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220420T235900
 DESCRIPTION:[Prac 7.1-7.2 with word probs PAP.pdf] (https://lisdtx.instruct
  ure.com/courses/172585/files/19814692/download?wrap=1)
 SUMMARY:HW DUE 7.1-7.2 [Alg 2 Hon-RIORDAN]
@@ -2730,7 +2731,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537906
 DTSTART;VALUE=DATE:20220421T235900
-DTEND;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220421T235900
 DESCRIPTION:
 SUMMARY:7.1-7.4 Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2741,7 +2742,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537931
 DTSTART;VALUE=DATE:20220421T235900
-DTEND;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220421T235900
 DESCRIPTION:[Practice 7.3 - 7.4 PAP.pdf] (https://lisdtx.instructure.com/co
  urses/172585/files/19814689/download?wrap=1)
 SUMMARY:HW DUE 7.3-7.4 [Alg 2 Hon-RIORDAN]
@@ -2801,7 +2802,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537932
 DTSTART;VALUE=DATE:20220425T235900
-DTEND;VALUE=DATE:20220426
+DTEND;VALUE=DATE:20220425T235900
 DESCRIPTION:[Practice 7.5\, 7.6.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814691/download?wrap=1)
 SUMMARY:HW DUE 7.5-7.6 [Alg 2 Hon-RIORDAN]
@@ -2817,7 +2818,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537909
 DTSTART;VALUE=DATE:20220426T235900
-DTEND;VALUE=DATE:20220427
+DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:
 SUMMARY:Exponentials/Logs Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2828,7 +2829,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537933
 DTSTART;VALUE=DATE:20220426T235900
-DTEND;VALUE=DATE:20220427
+DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:[Practice 7.7-7.10.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814693/download?wrap=1)
 SUMMARY:HW DUE 7.7-7.10 [Alg 2 Hon-RIORDAN]
@@ -2860,7 +2861,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T211900Z
 UID:event-assignment-2537947
 DTSTART;VALUE=DATE:20220428T235900
-DTEND;VALUE=DATE:20220429
+DTEND;VALUE=DATE:20220428T235900
 DESCRIPTION:
 SUMMARY:Test Topic 7 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2932,7 +2933,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537913
 DTSTART;VALUE=DATE:20220502T235900
-DTEND;VALUE=DATE:20220503
+DTEND;VALUE=DATE:20220502T235900
 DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814704/download?wrap=1)
 SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
@@ -2989,7 +2990,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537914
 DTSTART;VALUE=DATE:20220505T235900
-DTEND;VALUE=DATE:20220506
+DTEND;VALUE=DATE:20220505T235900
 DESCRIPTION:[Practice 11.3 PAP.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814707/download?wrap=1)
 SUMMARY:HW DUE 11.3 [Alg 2 Hon-RIORDAN]
@@ -3005,7 +3006,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537915
 DTSTART;VALUE=DATE:20220506T235900
-DTEND;VALUE=DATE:20220507
+DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:[Practice 11.4 .pdf] (https://lisdtx.instructure.com/courses/17
  2585/files/19814708/download?wrap=1)
 SUMMARY:HW DUE 11.4 [Alg 2 Hon-RIORDAN]
@@ -3021,7 +3022,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537943
 DTSTART;VALUE=DATE:20220506T235900
-DTEND;VALUE=DATE:20220507
+DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:
 SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3103,7 +3104,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537916
 DTSTART;VALUE=DATE:20220510T235900
-DTEND;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220510T235900
 DESCRIPTION:[Practice 11.5 - 11.6.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814713/download?wrap=1)\n\n 
 SUMMARY:HW DUE 11.5-11.6 [Alg 2 Hon-RIORDAN]
@@ -3120,7 +3121,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537911
 DTSTART;VALUE=DATE:20220511T235900
-DTEND;VALUE=DATE:20220512
+DTEND;VALUE=DATE:20220511T235900
 DESCRIPTION:[Rational Applications PAP.pdf] (https://lisdtx.instructure.com
  /courses/172585/files/19814714/download?wrap=1)
 SUMMARY:HW DUE - Rational Applications [Alg 2 Hon-RIORDAN]
@@ -3152,7 +3153,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T212100Z
 UID:event-assignment-2537950
 DTSTART;VALUE=DATE:20220513T235900
-DTEND;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220513T235900
 DESCRIPTION:
 SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3163,7 +3164,7 @@ BEGIN:VEVENT
 DTSTAMP:20211007T020500Z
 UID:event-assignment-2391478
 DTSTART;VALUE=DATE:20220513T235900
-DTEND;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220513T235900
 SUMMARY:5/12: Spring Concert [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=05&year=2022#assignment_2391478
@@ -3172,7 +3173,7 @@ BEGIN:VEVENT
 DTSTAMP:20211021T181100Z
 UID:event-assignment-2433352
 DTSTART;VALUE=DATE:20220513T235900
-DTEND;VALUE=DATE:20220514
+DTEND;VALUE=DATE:20220513T235900
 SUMMARY:5/13: Freshman One Act Play [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=05&year=2022#assignment_2433352
@@ -3181,7 +3182,7 @@ BEGIN:VEVENT
 DTSTAMP:20211101T180600Z
 UID:event-assignment-2466322
 DTSTART;VALUE=DATE:20220514T235900
-DTEND;VALUE=DATE:20220515
+DTEND;VALUE=DATE:20220514T235900
 SUMMARY:5/13 - 5/14: Choir Spring Show [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=05&year=2022#assignment_2466322
@@ -3249,7 +3250,7 @@ BEGIN:VEVENT
 DTSTAMP:20211216T205000Z
 UID:event-assignment-2537904
 DTSTART;VALUE=DATE:20220519T235900
-DTEND;VALUE=DATE:20220520
+DTEND;VALUE=DATE:20220519T235900
 SUMMARY:Algebra II Terms and Vocabulary [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#assignment_2537904
