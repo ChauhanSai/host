@@ -503,6 +503,15 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220111T125400Z
+UID:event-assignment-2695663
+DTSTART:20220111T213500Z
+DTEND:20220111T213500Z
+SUMMARY:UNIT 0 QUIZ PHYSICS BASICS [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2695663
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499210
 DTSTART;VALUE=DATE:20220111T232900
@@ -612,6 +621,34 @@ X-ALT-DESC;FMTTYPE=text/html:<p>We will work on the <a class="instructure_f
  >Practice Problems--Kinematics</a> in class on Thursday\, August 19\, 2021
  . Work all the problems and submit the entire worksheet here. Be sure to s
  how your work!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T130700Z
+UID:event-assignment-2647399
+DTSTART;VALUE=DATE:20220112T232900
+DTEND;VALUE=DATE:20220112T235900
+DESCRIPTION:Here are the notes and practice problems for:\n\n[Trigonometry 
+ Basics] (https://lisdtx.instructure.com/courses/172858/files/20146777?wrap
+ =1)\n\n[Vector Basics] (https://lisdtx.instructure.com/courses/172858/file
+ s/20146775?wrap=1)\n\nWe will go over the notes in class and work a few of
+  the problems. Any problems not worked together in class will be homework 
+ to upload here.
+SUMMARY:Trig and Vector Basics [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2647399
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and practice problems fo
+ r:</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_
+ disabled" title="Trig Basics.pdf" href="https://lisdtx.instructure.com/cou
+ rses/172858/files/20146777?wrap=1" target="_blank" data-api-endpoint="http
+ s://lisdtx.instructure.com/api/v1/courses/172858/files/20146777" data-api-
+ returntype="File">Trigonometry Basics</a></p>\n<p><a class="instructure_fi
+ le_link instructure_scribd_file inline_disabled" title="Vector Basics.pdf"
+  href="https://lisdtx.instructure.com/courses/172858/files/20146775?wrap=1
+ " target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1
+ /courses/172858/files/20146775" data-api-returntype="File">Vector Basics</
+ a></p>\n<p>We will go over the notes in class and work a few of the proble
+ ms. Any problems not worked together in class will be homework to upload h
+ ere.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211215T195400Z
