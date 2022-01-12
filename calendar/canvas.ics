@@ -416,6 +416,17 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Start notes on all parent functions:</p>\n<
  api-returntype="File">Parent Functions Notes[1] newest.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220111T224800Z
+UID:event-assignment-2698924
+DTSTART:20220110T213500Z
+DTEND:20220110T213500Z
+DESCRIPTION:
+SUMMARY:Safety Contract [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2698924
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220110T160000Z
 UID:event-assignment-2689314
 DTSTART:20220110T213500Z
@@ -442,6 +453,24 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a id="6666429" class="instructure_file_lin
  le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
  /172585/files/19814592" data-api-returntype="File">Functions Practice (New
  est) PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T170400Z
+UID:event-assignment-2689134
+DTSTART;VALUE=DATE:20220110T232900
+DTEND;VALUE=DATE:20220110T235900
+DESCRIPTION:[Activity - Internal Components.pdf] (https://lisdtx.instructur
+ e.com/courses/190905/files/20281209/download?wrap=1)\n\nComplete this assi
+ gnment on ICEV.
+SUMMARY:Internal Components Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2689134
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Activity - Internal Components.pdf" href="https://lis
+ dtx.instructure.com/courses/190905/files/20281209/download?wrap=1" data-ap
+ i-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/202
+ 81209" data-api-returntype="File">Activity - Internal Components.pdf</a></
+ p>\n<p>Complete this assignment on ICEV.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220110T040500Z
@@ -503,15 +532,6 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T125400Z
-UID:event-assignment-2695663
-DTSTART:20220111T213500Z
-DTEND:20220111T213500Z
-SUMMARY:UNIT 0 QUIZ PHYSICS BASICS [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2695663
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499210
 DTSTART;VALUE=DATE:20220111T232900
@@ -521,13 +541,15 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499210
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220111T230000Z
 UID:event-assignment-2499099
 DTSTART;VALUE=DATE:20220111T232900
 DTEND;VALUE=DATE:20220111T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/11: Girls Basketball Game vs Plano West/Jasper [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499099
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220106T010400Z
@@ -549,13 +571,68 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here is the <a class="instructure_file_link
  re.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220110T131200Z
+DTSTAMP:20220111T163800Z
+UID:event-assignment-2689135
+DTSTART;VALUE=DATE:20220111T232900
+DTEND;VALUE=DATE:20220111T235900
+DESCRIPTION:[Activity - Problem Situations.pdf] (https://lisdtx.instructure
+ .com/courses/190905/files/20281213/download?wrap=1)
+SUMMARY:Problem Situations [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2689135
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Activity - Problem Situations.pdf" href="https://lisd
+ tx.instructure.com/courses/190905/files/20281213/download?wrap=1" data-api
+ -endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2028
+ 1213" data-api-returntype="File">Activity - Problem Situations.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T163800Z
+UID:event-assignment-2689137
+DTSTART;VALUE=DATE:20220111T232900
+DTEND;VALUE=DATE:20220111T235900
+DESCRIPTION:[Activity - Software Application.pdf] (https://lisdtx.instructu
+ re.com/courses/190905/files/20281215?wrap=1)Â \n\nYou can complete using a
+  pdf editor or complete using microsoft word.Â  If you use microsoft word\
+ , you can just type the number and the answer to it! Do on your own then w
+ e will complete together!
+SUMMARY:Software Application - Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2689137
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Activity - Software Application.pdf" 
+ href="https://lisdtx.instructure.com/courses/190905/files/20281215?wrap=1"
+  target="_blank" data-canvas-previewable="false" data-api-endpoint="https:
+ //lisdtx.instructure.com/api/v1/courses/190905/files/20281215" data-api-re
+ turntype="File">Activity - Software Application.pdf</a>&nbsp\;</p>\n<p>You
+  can complete using a pdf editor or complete using microsoft word.&nbsp\; 
+ If you use microsoft word\, you can just type the number and the answer to
+  it! Do on your own then we will complete together!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T214100Z
+UID:event-assignment-2695663
+DTSTART:20220112T213500Z
+DTEND:20220112T213500Z
+DESCRIPTION:This is a group quiz. But hurry\, you only have 30 minutes.
+SUMMARY:UNIT 0 QUIZ PHYSICS BASICS [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2695663
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a group quiz. But hurry\, you only 
+ have 30 minutes.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T184500Z
 UID:event-assignment-2600462
 DTSTART;VALUE=DATE:20220112T232900
 DTEND;VALUE=DATE:20220112T235900
+DESCRIPTION:This is a timed quiz.Â  You have 30 minutes of until 3:15 PM\, 
+ which ever comes first.
 SUMMARY:Fundamentals Quiz [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2600462
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a timed quiz.&nbsp\; You have 30 mi
+ nutes of until 3:15 PM\, which ever comes first.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220106T010500Z
@@ -3384,5 +3461,54 @@ SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520385
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:65108103101981149732651031011101009732771111103249474948
+DTSTART;TZID=America/Chicago:20220110
+DTEND;TZID=America/Chicago:20220111
+SUMMARY:Algebra Agenda Mon 1/10
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:65108103101981149732651031011101009732841171013249474949
+DTSTART;TZID=America/Chicago:20220111
+DTEND;TZID=America/Chicago:20220112
+SUMMARY:Algebra Agenda Tue 1/11
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:65108103101981149732651031011101009732871011003249474950
+DTSTART;TZID=America/Chicago:20220112
+DTEND;TZID=America/Chicago:20220113
+SUMMARY:Algebra Agenda Wed 1/12
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:65108103101981149732651031011101009732841041173249474951
+DTSTART;TZID=America/Chicago:20220113
+DTEND;TZID=America/Chicago:20220114
+SUMMARY:Algebra Agenda Thu 1/13
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:65108103101981149732651031011101009732701141053249474952
+DTSTART;TZID=America/Chicago:20220114
+DTEND;TZID=America/Chicago:20220115
+SUMMARY:Algebra Agenda Fri 1/14
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220111T182039Z
+UID:769798115
+DTSTART;TZID=America/Chicago:20220112T141200
+DTEND;TZID=America/Chicago:20220112T144200
+SUMMARY:Labs
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
