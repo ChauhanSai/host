@@ -532,13 +532,15 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220112T013000Z
 UID:event-assignment-2499210
 DTSTART;VALUE=DATE:20220111T232900
 DTEND;VALUE=DATE:20220111T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/11: Boys Basketball Game vs Plano West [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499210
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220111T230000Z
@@ -904,26 +906,6 @@ DTEND;VALUE=DATE:20220114T235900
 SUMMARY:1/14: Girls Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499106
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220106T010900Z
-UID:event-assignment-2646928
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:Here are the directions for the [Unit 1 Enrichment Project] (ht
- tps://lisdtx.instructure.com/courses/172858/files/20145223?wrap=1). Submit
-  your project documents here. This project grade counts in the 30% (minor)
-  category of grades.
-SUMMARY:Hawk Olympics--Fall 2021 [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2646928
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the directions for the <a class="i
- nstructure_file_link instructure_scribd_file inline_disabled" title="Hawk 
- Olympics Fall 2021.pdf" href="https://lisdtx.instructure.com/courses/17285
- 8/files/20145223?wrap=1" target="_blank" data-api-endpoint="https://lisdtx
- .instructure.com/api/v1/courses/172858/files/20145223" data-api-returntype
- ="File">Unit 1 Enrichment Project</a>. Submit your project documents here.
-  This project grade counts in the 30% (minor) category of grades.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T210500Z
@@ -3464,7 +3446,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:65108103101981149732651031011101009732771111103249474948
 DTSTART;TZID=America/Chicago:20220110
 DTEND;TZID=America/Chicago:20220111
@@ -3472,7 +3454,7 @@ SUMMARY:Algebra Agenda Mon 1/10
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:65108103101981149732651031011101009732841171013249474949
 DTSTART;TZID=America/Chicago:20220111
 DTEND;TZID=America/Chicago:20220112
@@ -3480,7 +3462,7 @@ SUMMARY:Algebra Agenda Tue 1/11
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:65108103101981149732651031011101009732871011003249474950
 DTSTART;TZID=America/Chicago:20220112
 DTEND;TZID=America/Chicago:20220113
@@ -3488,7 +3470,7 @@ SUMMARY:Algebra Agenda Wed 1/12
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:65108103101981149732651031011101009732841041173249474951
 DTSTART;TZID=America/Chicago:20220113
 DTEND;TZID=America/Chicago:20220114
@@ -3496,7 +3478,7 @@ SUMMARY:Algebra Agenda Thu 1/13
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:65108103101981149732651031011101009732701141053249474952
 DTSTART;TZID=America/Chicago:20220114
 DTEND;TZID=America/Chicago:20220115
@@ -3504,7 +3486,7 @@ SUMMARY:Algebra Agenda Fri 1/14
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T182039Z
+DTSTAMP:20220112T073007Z
 UID:769798115
 DTSTART;TZID=America/Chicago:20220112T141200
 DTEND;TZID=America/Chicago:20220112T144200
