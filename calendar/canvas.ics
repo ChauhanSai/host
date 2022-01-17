@@ -6,124 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220113T193800Z
-UID:event-assignment-2503481
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:12/17: A LONG Winter's Nap - Wear Holiday PJs [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2503481
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220110T195300Z
-UID:event-assignment-2499200
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:12/17: Boys Basketball Game vs Plano [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2499200
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220110T193800Z
-UID:event-assignment-2499090
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:12/17: Girls Basketball Game vs Plano/Vines [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2499090
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220110T195700Z
-UID:event-assignment-2314615
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
- ving) from 3 different Hebron events.\n\nÂ \n\nYou are not supposed to be 
- able to submit to this assignment yet\, so please do not try to do so nor 
- email us your carpool pictures.
-SUMMARY:Carpool to 3 Events (1st 3 Events) [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2314615
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
-  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
- /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
-  so please do not try to do so nor email us your carpool pictures.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220110T195300Z
-UID:event-assignment-2314626
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
- ving) from 3 different Hebron events.\n\nÂ \n\nYou are not supposed to be 
- able to submit to this assignment yet\, so please do not try to do so nor 
- email us your carpool pictures.
-SUMMARY:Carpool to 3 Events (2st 3 Events) [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2314626
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
-  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
- /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
-  so please do not try to do so nor email us your carpool pictures.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220110T193800Z
-UID:event-assignment-2314627
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
- ving) from 3 different Hebron events.\n\nÂ \n\nYou are not supposed to be 
- able to submit to this assignment yet\, so please do not try to do so nor 
- email us your carpool pictures.
-SUMMARY:Carpool to 3 Events (3rd 3 Events) [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2314627
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
-  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
- /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
-  so please do not try to do so nor email us your carpool pictures.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211213T060000Z
-UID:event-assignment-2314628
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
- ving) from 3 different Hebron events.\n\nÂ \n\nYou are not supposed to be 
- able to submit to this assignment yet\, so please do not try to do so nor 
- email us your carpool pictures.
-SUMMARY:Carpool to 3 Events (4th 3 Events) [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2314628
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
-  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
- /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
-  so please do not try to do so nor email us your carpool pictures.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211213T060000Z
-UID:event-assignment-2314629
-DTSTART;VALUE=DATE:20211217T232900
-DTEND;VALUE=DATE:20211217T235900
-DESCRIPTION:Submit 3 pictures of your carpool group (in car\, not while dri
- ving) from 3 different Hebron events.\n\nÂ \n\nYou are not supposed to be 
- able to submit to this assignment yet\, so please do not try to do so nor 
- email us your carpool pictures.
-SUMMARY:Carpool to 3 Events (5th 3 Events) [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2314629
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit 3 pictures of your carpool group (in
-  car\, not while driving) from 3 different Hebron events.</p>\n<p>&nbsp\;<
- /p>\n<p>You are not supposed to be able to submit to this assignment yet\,
-  so please do not try to do so nor email us your carpool pictures.</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211221T180000Z
 UID:event-assignment-2499196
 DTSTART;VALUE=DATE:20211221T232900
@@ -3448,7 +3330,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220116T073007Z
+DTSTAMP:20220117T073009Z
 UID:65108103101981149732651031011101009732771111103249474948
 DTSTART;TZID=America/Chicago:20220110
 DTEND;TZID=America/Chicago:20220111
@@ -3456,7 +3338,7 @@ SUMMARY:Algebra Agenda Mon 1/10
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220116T073007Z
+DTSTAMP:20220117T073009Z
 UID:65108103101981149732651031011101009732841171013249474949
 DTSTART;TZID=America/Chicago:20220111
 DTEND;TZID=America/Chicago:20220112
@@ -3464,7 +3346,7 @@ SUMMARY:Algebra Agenda Tue 1/11
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220116T073007Z
+DTSTAMP:20220117T073009Z
 UID:65108103101981149732651031011101009732871011003249474950
 DTSTART;TZID=America/Chicago:20220112
 DTEND;TZID=America/Chicago:20220113
@@ -3472,7 +3354,7 @@ SUMMARY:Algebra Agenda Wed 1/12
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220116T073007Z
+DTSTAMP:20220117T073009Z
 UID:65108103101981149732651031011101009732841041173249474951
 DTSTART;TZID=America/Chicago:20220113
 DTEND;TZID=America/Chicago:20220114
@@ -3480,7 +3362,7 @@ SUMMARY:Algebra Agenda Thu 1/13
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220116T073007Z
+DTSTAMP:20220117T073009Z
 UID:65108103101981149732651031011101009732701141053249474952
 DTSTART;TZID=America/Chicago:20220114
 DTEND;TZID=America/Chicago:20220115
