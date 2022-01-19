@@ -763,7 +763,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T192700Z
+DTSTAMP:20220118T154700Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -801,22 +801,57 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220119T013000Z
 UID:event-assignment-2499220
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/18: Boys Basketball Game vs Plano East [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499220
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220118T230000Z
 UID:event-assignment-2499113
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/18: Girls Basketball Game vs Plano East/McMillen [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499113
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220118T164800Z
+UID:event-assignment-2706917
+DTSTART;VALUE=DATE:20220118T232900
+DTEND;VALUE=DATE:20220118T235900
+DESCRIPTION:Find the acceptable use policy for your school district\, as we
+ ll as at least one\nacceptable use policy for any other business or organi
+ zation. In 5-7 Powerpoint slides\, define acceptable use policies\, summar
+ ize the\npolicies found for the school and the alternative business and di
+ scuss how acceptable use policies should be\nimplemented.Â \n\nWork in gro
+ ups of no more than 3. All of you must turn it in separate\, but only one 
+ document has to be completed!Â  We will share our findings together in cla
+ ss!\n\n[Activity - Acceptable Use Policies.pdf] (https://lisdtx.instructur
+ e.com/courses/190905/files/20494425/download?wrap=1)\n\nÂ 
+SUMMARY:Acceptable Use Policy Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2706917
+X-ALT-DESC;FMTTYPE=text/html:<p>Find the acceptable use policy for your sch
+ ool district\, as well as at least one<br>acceptable use policy for any ot
+ her business or organization. In 5-7 Powerpoint slides\, define acceptable
+  use policies\, summarize the<br>policies found for the school and the alt
+ ernative business and discuss how acceptable use policies should be<br>imp
+ lemented.&nbsp\;</p>\n<p>Work in groups of no more than 3. All of you must
+  turn it in separate\, but only one document has to be completed!&nbsp\; W
+ e will share our findings together in class!</p>\n<p><a class="instructure
+ _file_link instructure_scribd_file" title="Activity - Acceptable Use Polic
+ ies.pdf" href="https://lisdtx.instructure.com/courses/190905/files/2049442
+ 5/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/190905/files/20494425" data-api-returntype="File">Activity - Acc
+ eptable Use Policies.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220106T011600Z
@@ -869,6 +904,17 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ure.com/courses/172585/files/19814593/preview" target="_blank" data-api-en
  dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981459
  3" data-api-returntype="File">Topic 1 Review PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T013000Z
+UID:event-assignment-2534540
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:
+SUMMARY:Equals/toString Method Quiz [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534540
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220117T190000Z
@@ -3339,7 +3385,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220118T073009Z
+DTSTAMP:20220119T073010Z
 UID:65108103101981149732651031011101009732771111103249474948
 DTSTART;TZID=America/Chicago:20220110
 DTEND;TZID=America/Chicago:20220111
@@ -3347,7 +3393,7 @@ SUMMARY:Algebra Agenda Mon 1/10
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T073009Z
+DTSTAMP:20220119T073010Z
 UID:65108103101981149732651031011101009732841171013249474949
 DTSTART;TZID=America/Chicago:20220111
 DTEND;TZID=America/Chicago:20220112
@@ -3355,7 +3401,7 @@ SUMMARY:Algebra Agenda Tue 1/11
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T073009Z
+DTSTAMP:20220119T073010Z
 UID:65108103101981149732651031011101009732871011003249474950
 DTSTART;TZID=America/Chicago:20220112
 DTEND;TZID=America/Chicago:20220113
@@ -3363,7 +3409,7 @@ SUMMARY:Algebra Agenda Wed 1/12
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T073009Z
+DTSTAMP:20220119T073010Z
 UID:65108103101981149732651031011101009732841041173249474951
 DTSTART;TZID=America/Chicago:20220113
 DTEND;TZID=America/Chicago:20220114
@@ -3371,7 +3417,7 @@ SUMMARY:Algebra Agenda Thu 1/13
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T073009Z
+DTSTAMP:20220119T073010Z
 UID:65108103101981149732651031011101009732701141053249474952
 DTSTART;TZID=America/Chicago:20220114
 DTEND;TZID=America/Chicago:20220115
