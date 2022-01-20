@@ -237,7 +237,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T014700Z
+DTSTAMP:20220119T202100Z
 UID:event-assignment-2537910
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -252,6 +252,127 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a id="6666429" class="instructure_file_lin
  le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
  /172585/files/19814592" data-api-returntype="File">Functions Practice (New
  est) PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232300Z
+UID:event-assignment-2534616
+DTSTART;VALUE=DATE:20220110T232900
+DTEND;VALUE=DATE:20220110T235900
+DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that play
+ s a guessing game using the following rules:\n\n* The program generates a 
+ random number between 1 and 100.\n\n* The player attempts to guess the num
+ ber selected by the computer.\n\n* If the player's guess is less than the 
+ number\, the message "Too Low\, Try Again." is displayed and the user is p
+ rompted to guess again.\n\n* If the player's guess is greater than the num
+ ber\, the message "Too High\, Try Again." is displayed and the user is pro
+ mpted to guess again.\n\n* If the player guesses the number correctly\, th
+ e message "You found it in ___ tries." is displayed with the number of tim
+ es the player had to guess before the number was found.\n\n* Play continue
+ s until the user guesses the computer's number.\n\nMethod Decomposition\n-
+ -------------------\n\nThis program can be decomposed into the following m
+ ethods.\n\n[] (https://lisdtx.instructure.com/courses/202975/files/1978413
+ 3/preview)\n\nCopy the following code into a file named GuessingGame.java\
+ n\nimport java.util.*\;\n\npublic class GuessingGame\n{\n// instance varia
+ bles\nprivate int number\; // the random number\nprivate int myGuess\; // 
+ current guess\nprivate int numGuesses\; // number of guesses\n\nprivate Sc
+ anner keyboard = new Scanner(System.in)\;\n\n/** generates a random number
+  in the range of\n* 1 to 100 inclusive.\n*/\npublic void generateNumber()\
+ n{\n\n}\n\n/** Displays a prompt asking player to make a guess. It\n* read
+ s the guess and stores it in the variable\n* myGuess. It also increments t
+ he variable numGuesses.\n*/\npublic void makeGuess()\n{\n\n}\n\n/* Determi
+ nes whether player's guess was correct. If\n* myGuess was a match it retur
+ ns true. If myGuess was\n* less than number then it displays the message\n
+ * "Too Low\, Try Again!" and returns false. If myGuess\n* was greater than
+  number then it displays the\n* message "Too High\, Try Again!" and return
+ s false.\n*/\npublic boolean winner()\n{\n\n}\n	\n/** Generates the random
+  number then allows the player to\n* continually guess the random number u
+ ntil it is found.\n* Once the number is found it displays a message\n* ind
+ icating how many guesses it took to find the\n* number.\n*/\npublic void p
+ layGame()\n{\n\n}\n\npublic static void main (String[] args)\n{\nGuessingG
+ ame app = new GuessingGame()\;\napp.playGame()\;\n}\n}\n\nImplement Method
+ s\n-----------------\n\n* Implement method generateNumber. This method gen
+ erates a random number in the range of 1 to 100 inclusive and stores it in
+  the variable number.\n\n* Implement method makeGuess. This method display
+ s a prompt asking user to make a guess. It reads the guess and stores it i
+ n the variable myGuess. It also increments the variable numGuesses by one.
+ \n\n* Implement method winner. This method determines whether the player's
+  guess was correct. If myGuess was a match it returns true. If myGuess was
+  less than the number then it displays the message "Too Low\, Try Again!" 
+ and returns false. If myGuess was greater than the number then it displays
+  the message "Too High\, Try Again!" and returns false.\n\n* Implement met
+ hod playGame. Generates the random number then allows the user to continua
+ lly guess the random number until it is found. Once the number is found it
+  displays a message indicating how many guesses it took to find the number
+ . Use methods generateNumber\, makeGuess\, and winner in your implementati
+ on.\n\n***********\nSource File\n***********\n\nGuessingGame.java\n\n*****
+ *****\nSample Run\n**********\n\nMake Guess -->50\nToo High\, Try Again!\n
+ \nMake Guess -->25\nToo High\, Try Again!\n\nMake Guess -->15\nToo Low\, T
+ ry Again\n\nMake Guess -->20\nYou found it in 4 tries.\n\nÂ 
+SUMMARY:Guessing Game [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534616
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that p
+ lays a guessing game using the following rules:</p>\n<div id="csList">\n<u
+ l>\n<li>The program generates a random number between 1 and 100.</li>\n<li
+ >The player attempts to guess the number selected by the computer.</li>\n<
+ li>If the player's guess is less than the number\, the message "Too Low\, 
+ Try Again." is displayed and the user is prompted to guess again.</li>\n<l
+ i>If the player's guess is greater than the number\, the message "Too High
+ \, Try Again." is displayed and the user is prompted to guess again.</li>\
+ n<li>If the player guesses the number correctly\, the message "You found i
+ t in ___ tries." is displayed with the number of times the player had to g
+ uess before the number was found.</li>\n<li>Play continues until the user 
+ guesses the computer's number.</li>\n</ul>\n</div>\n<h3>Method Decompositi
+ on</h3>\n<p>This program can be decomposed into the following methods.</p>
+ \n<div><img style="display: block\; margin-left: auto\; margin-right: auto
+ \;" role="presentation" src="https://lisdtx.instructure.com/courses/202975
+ /files/19784133/preview" alt="" data-api-endpoint="https://lisdtx.instruct
+ ure.com/api/v1/courses/202975/files/19784133" data-api-returntype="File"><
+ /div>\n<p>Copy the following code into a file named GuessingGame.java</p>\
+ n<div id="csCode">\n<pre>import java.util.*\;\n\npublic class GuessingGame
+ \n{\n    // instance variables\n    private int number\;      // the rando
+ m number\n    private int myGuess\;     // current guess\n    private int 
+ numGuesses\;  // number of guesses\n\n    private Scanner keyboard = new S
+ canner(System.in)\;\n\n    /** generates a random number in the range of\n
+      *  1 to 100 inclusive.\n     */\n    public void generateNumber()\n  
+   {\n\n    }\n\n    /** Displays a prompt asking player to make a guess. I
+ t\n     *  reads the guess and stores it in the variable\n     *  myGuess.
+  It also increments the variable numGuesses.\n     */\n    public void mak
+ eGuess()\n    {\n\n    }\n\n    /* Determines whether player's guess was c
+ orrect. If\n     * myGuess was a match it returns true. If myGuess was\n  
+    * less than number then it displays the message\n     * "Too Low\, Try 
+ Again!" and returns false. If myGuess\n     *  was greater than number the
+ n it displays the\n     *  message "Too High\, Try Again!" and returns fal
+ se.\n     */\n    public boolean winner()\n    {\n\n    }\n	\n    /** Gene
+ rates the random number then allows the player to\n     *  continually gue
+ ss the random number until it is found.\n     *  Once the number is found 
+ it displays a message\n     *  indicating how many guesses it took to find
+  the\n     *  number.\n     */\n    public void playGame()\n    {\n\n    }
+ \n\n    public static void main (String[] args)\n    {\n        GuessingGa
+ me app = new GuessingGame()\;\n        app.playGame()\;\n    }\n}\n</pre>\
+ n</div>\n<h3>Implement Methods</h3>\n<div id="csList">\n<ol>\n<li style="m
+ argin-top: 30px\;">Implement method <strong>generateNumber</strong>. This 
+ method generates a random number in the range of 1 to 100 inclusive and st
+ ores it in the variable number.</li>\n<li style="margin-top: 30px\;">Imple
+ ment method <strong>makeGuess</strong>. This method displays a prompt aski
+ ng user to make a guess. It reads the guess and stores it in the variable 
+ myGuess. It also increments the variable numGuesses by one.</li>\n<li styl
+ e="margin-top: 30px\;">Implement method <strong>winner</strong>. This meth
+ od determines whether the player's guess was correct. If myGuess was a mat
+ ch it returns true. If myGuess was less than the number then it displays t
+ he message "Too Low\, Try Again!" and returns false. If myGuess was greate
+ r than the number then it displays the message "Too High\, Try Again!" and
+  returns false.</li>\n<li style="margin-top: 30px\;">Implement method <str
+ ong>playGame</strong>. Generates the random number then allows the user to
+  continually guess the random number until it is found. Once the number is
+  found it displays a message indicating how many guesses it took to find t
+ he number. Use methods <strong>generateNumber</strong>\, <strong>makeGuess
+ </strong>\, and <strong>winner</strong> in your implementation.</li>\n</ol
+ >\n</div>\n<h1>Source File</h1>\n<p>GuessingGame.java</p>\n<h1>Sample Run<
+ /h1>\n<div id="csSampleRun">\n<pre>Make Guess --&gt\;50\nToo High\, Try Ag
+ ain!\n\nMake Guess --&gt\;25\nToo High\, Try Again!\n\nMake Guess --&gt\;1
+ 5\nToo Low\, Try Again\n\nMake Guess --&gt\;20\nYou found it in 4 tries.\n
+ \n</pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220114T165200Z
@@ -270,6 +391,344 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  i-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/202
  81209" data-api-returntype="File">Activity - Internal Components.pdf</a></
  p>\n<p>Complete this assignment on ICEV.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232300Z
+UID:event-assignment-2534605
+DTSTART;VALUE=DATE:20220110T232900
+DTEND;VALUE=DATE:20220110T235900
+DESCRIPTION:Directions\n\nCopy the following code into a file named MethodP
+ ractice1.java\n\nimport java.util.*\;\n\npublic class MethodPractice1\n{\n
+ private Scanner keyboard = new Scanner(System.in)\;\n\n/** This method ret
+ urns a string using the following\n* conditions: if weight is less than 10
+ 0 it returns\n* "small"\, if weight is greater than or equal to 100\n* and
+  less than or equal to 200 it returns "medium"\,\n* if weight is greater t
+ han 200 it returns "large".\n* @return the string "small"\, "medium"\, or 
+ "large"\n* @param weight number representing a weight\n*/\npublic String m
+ ethod1(int weight)\n{\n\n}\n\n/** This method prints phrase 10 times.\n* @
+  param phrase the string to be printed\n*/\npublic void method2(String phr
+ ase)\n{\n\n}\n\n/** This method allows a user to enter an unknown\n* numbe
+ r of integers from the keyboard. When the\n* sentinel value -1 is entered 
+ the method returns\n* the count of the number of integers entered.\n* @ret
+ urn count of the number of integers entered\n*/\npublic int method3()\n{\n
+ \n}\n\n/** This method returns a string containing the\n* first and last l
+ etter of str concatenated\n* together.\n* @return a string containing two 
+ letters\n* @param str the string from which to extract\n* the first and la
+ st letters\n*/\npublic String method4(String str)\n{\n\n}\n\n/** This meth
+ od returns a random number.\n* @return a random number in range of 0 to up
+ per-1\n* @param upper the upper limit of the random number\n*/\npublic int
+  method5(int upper)\n{\n\n}\n\npublic static void main(String[] args)\n{\n
+ MethodPractice1 app = new MethodPractice1()\;\n\nSystem.out.println("*****
+ *************")\;\nSystem.out.println(" Test Method1")\;\nSystem.out.print
+ ln("******************")\;\n\nSystem.out.println("Weight is " + app.method
+ 1(150))\;\nSystem.out.println("Weight is " + app.method1(99))\;\nSystem.ou
+ t.println("Weight is " + app.method1(200))\;\nSystem.out.println("Weight i
+ s " + app.method1(300))\;\n\nSystem.out.println("\n\n******************")\
+ ;\nSystem.out.println(" Test Method2")\;\nSystem.out.println("************
+ ******")\;\napp.method2("Computers are fun!")\;\n\nSystem.out.println("\n\
+ n******************")\;\nSystem.out.println(" Test Method3")\;\nSystem.out
+ .println("******************")\;\nSystem.out.println("\nCount = " + app.me
+ thod3())\;\n\nSystem.out.println("\n\n******************")\;\nSystem.out.p
+ rintln(" Test Method4")\;\nSystem.out.println("******************")\;\nSys
+ tem.out.println("String = " + app.method4("red"))\;\nSystem.out.println("S
+ tring = " + app.method4("green"))\;\nSystem.out.println("String = " + app.
+ method4("blue"))\;\n\nSystem.out.println("\n\n******************")\;\nSyst
+ em.out.println(" Test Method5")\;\nSystem.out.println("******************"
+ )\;\nSystem.out.println("Random Number = " + app.method5(5))\;\nSystem.out
+ .println("Random Number = " + app.method5(50))\;\nSystem.out.println("Rand
+ om Number = " + app.method5(500))\;\nSystem.out.println()\;\n}\n}\n\n* Imp
+ lement method1. This method returns a string using the following condition
+ s: if weight is less than 100 it returns "small"\, if weight is greater th
+ an or equal to 100 and less than or equal to 200 it returns "medium"\, and
+  if weight is greater than 200 it returns "large".\n\nThe table below show
+ s the return value of 4 calls made to method1.\n\nCall\n\nReturn Value\n\n
+ method1(50)\n\nsmall\n\nmethod1(180)\n\nmedium\n\nmethod1(220)\n\nlarge\n\
+ nmethod1(100)\n\nmedium\n\n* Implement method2. This method prints the par
+ ameter phrase 10 times down the screen. For example\, the call method2("Gi
+ ve me liberty or give me death") would produce the following output\n\nGiv
+ e me liberty or give me death\nGive me liberty or give me death\nGive me l
+ iberty or give me death\nGive me liberty or give me death\nGive me liberty
+  or give me death\nGive me liberty or give me death\nGive me liberty or gi
+ ve me death\nGive me liberty or give me death\nGive me liberty or give me 
+ death\nGive me liberty or give me death\n\nUse a for loop in your implemen
+ tation.\n\n* Implement method3. This method allows a user to enter an unkn
+ own number of integers from the keyboard. When the sentinel value -1 is en
+ tered the method displays the count of the number of integers entered. For
+  example\, if the user inputs 5 integers\, not including the sentinel valu
+ e\, the method would return 5.\nUse a while loop in your implementation.\n
+ \n* Implement method4. This method returns a string containing the first a
+ nd last letter of str concatenated(merged) together.\n\nThe table below sh
+ ows the return value of 4 calls made to method4.\n\nCall\n\nReturn Value\n
+ \nmethod4("dog")\n\ndg\n\nmethod4("cat")\n\nct\n\nmethod4("horse")\n\nhe\n
+ \nmethod4("chicken")\n\ncn\n\n* Implement method5. This method returns a r
+ andom number in the range of 0 to upper - 1.\n\nThe table below shows the 
+ range of possible return values for 4 calls made to method5.\n\nCall\n\nRe
+ turn Value Range\n\nmethod5(2)\n\n0-1\n\nmethod5(10)\n\n0-9\n\nmethod5(150
+ )\n\n0-149\n\nmethod5(200)\n\n0-199\n\nÂ \n\n**********\nSample Run\n*****
+ *****\n\n******************\nTest Method1\n******************\nWeight is m
+ edium\nWeight is small\nWeight is medium\nWeight is large\n\n*************
+ *****\nTest Method2\n******************\nGive me liberty or give me death\
+ nGive me liberty or give me death\nGive me liberty or give me death\nGive 
+ me liberty or give me death\nGive me liberty or give me death\nGive me lib
+ erty or give me death\nGive me liberty or give me death\nGive me liberty o
+ r give me death\nGive me liberty or give me death\nGive me liberty or give
+  me death\n\n******************\nTest Method3\n******************\nEnter n
+ umbers-->\n10\n20\n30\n40\n50\n-1\n\nCount = 5\n\n******************\nTest
+  Method4\n******************\nString = rd\nString = gn\nString = be\n\n***
+ ***************\nTest Method5\n******************\nRandom Number = 4\nRand
+ om Number = 16\nRandom Number = 290
+SUMMARY:Method Practice I [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534605
+X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
+ family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark
+ )\;">Directions</span></div>\n<div id="csContent">\n<p>Copy the following 
+ code into a file named <strong>MethodPractice1.java</strong></p>\n<div id=
+ "csCode">\n<pre style="height: 300px\; overflow-y: scroll\; background-col
+ or: rgba(0\,0\,0\,0.2)\;">import java.util.*\;\n\npublic class MethodPract
+ ice1\n{\n    private Scanner keyboard = new Scanner(System.in)\;\n\n    /*
+ * This method returns a string using the following\n     *  conditions: if
+  weight is less than 100 it returns\n     *  "small"\, if weight is greate
+ r than or equal to 100\n     *  and less than or equal to 200 it returns "
+ medium"\,\n     *  if weight is greater than 200 it returns "large".\n    
+  *  @return the string "small"\, "medium"\, or "large"\n     *  @param wei
+ ght number representing a weight\n     */\n    public String method1(int w
+ eight)\n    {\n\n    }\n\n    /** This method prints phrase 10 times.\n   
+   *  @ param phrase the string to be printed\n     */\n    public void met
+ hod2(String phrase)\n    {\n\n    }\n\n    /** This method allows a user t
+ o enter an unknown\n     *  number of integers from the keyboard. When the
+ \n     *  sentinel value -1 is entered the method returns\n     *  the cou
+ nt of the number of integers entered.\n     *  @return count of the number
+  of integers entered\n     */\n    public int method3()\n    {\n\n    }\n\
+ n    /** This method returns a string containing the\n     *  first and la
+ st letter of str concatenated\n     *  together.\n     *  @return a string
+  containing two letters\n     *  @param str the string from which to extra
+ ct\n     *     the first and last letters\n     */\n    public String meth
+ od4(String str)\n    {\n\n    }\n\n    /** This method returns a random nu
+ mber.\n     *  @return a random number in range of 0 to upper-1\n     *  @
+ param upper the upper limit of the random number\n     */\n    public int 
+ method5(int upper)\n    {\n\n    }\n\n    public static void main(String[]
+  args)\n    {\n        MethodPractice1 app = new MethodPractice1()\;\n\n  
+       System.out.println("******************")\;\n        System.out.print
+ ln("   Test Method1")\;\n        System.out.println("******************")\
+ ;\n\n        System.out.println("Weight is " + app.method1(150))\;\n      
+   System.out.println("Weight is " + app.method1(99))\;\n        System.out
+ .println("Weight is " + app.method1(200))\;\n        System.out.println("W
+ eight is " + app.method1(300))\;\n\n        System.out.println("\n\n******
+ ************")\;\n        System.out.println("   Test Method2")\;\n       
+  System.out.println("******************")\;\n        app.method2("Computer
+ s are fun!")\;\n\n        System.out.println("\n\n******************")\;\n
+         System.out.println("   Test Method3")\;\n        System.out.printl
+ n("******************")\;\n        System.out.println("\nCount = " + app.m
+ ethod3())\;\n\n        System.out.println("\n\n******************")\;\n   
+      System.out.println("   Test Method4")\;\n        System.out.println("
+ ******************")\;\n        System.out.println("String = " + app.metho
+ d4("red"))\;\n        System.out.println("String = " + app.method4("green"
+ ))\;\n        System.out.println("String = " + app.method4("blue"))\;\n\n 
+        System.out.println("\n\n******************")\;\n        System.out.
+ println("   Test Method5")\;\n        System.out.println("****************
+ **")\;\n        System.out.println("Random Number = " + app.method5(5))\;\
+ n        System.out.println("Random Number = " + app.method5(50))\;\n     
+    System.out.println("Random Number = " + app.method5(500))\;\n        Sy
+ stem.out.println()\;\n    }\n}  \n  </pre>\n</div>\n<div id="csList">\n<ol
+ >\n<li style="margin-top: 20px\;">Implement <strong>method1</strong>. This
+  method returns a string using the following conditions: if weight is less
+  than 100 it returns "small"\, if weight is greater than or equal to 100 a
+ nd less than or equal to 200 it returns "medium"\, and if weight is greate
+ r than 200 it returns "large".<br><br>\n<p>The table below shows the retur
+ n value of 4 calls made to method1.</p>\n<table id="csTable" style="border
+ -collapse: collapse\; border-color: #34495e\; border-style: solid\;" borde
+ r="1" cellpadding="2">\n<tbody>\n<tr>\n<th style="text-align: center\;">Ca
+ ll</th>\n<th>Return Value</th>\n</tr>\n<tr>\n<td>method1(50)</td>\n<td sty
+ le="text-align: center\;">small</td>\n</tr>\n<tr>\n<td>method1(180)</td>\n
+ <td style="text-align: center\;">medium</td>\n</tr>\n<tr>\n<td>method1(220
+ )</td>\n<td style="text-align: center\;">large</td>\n</tr>\n<tr>\n<td>meth
+ od1(100)</td>\n<td style="text-align: center\;">medium</td>\n</tr>\n</tbod
+ y>\n</table>\n</li>\n<li style="margin-top: 20px\;">Implement <strong>meth
+ od2</strong>. This method prints the parameter phrase 10 times down the sc
+ reen. For example\, the call method2("Give me liberty or give me death") w
+ ould produce the following output<br>\n<div id="csOutput">\n<pre>Give me l
+ iberty or give me death\nGive me liberty or give me death\nGive me liberty
+  or give me death\nGive me liberty or give me death\nGive me liberty or gi
+ ve me death\nGive me liberty or give me death\nGive me liberty or give me 
+ death\nGive me liberty or give me death\nGive me liberty or give me death\
+ nGive me liberty or give me death</pre>\n</div>\nUse a for loop in your im
+ plementation.</li>\n<li style="margin-top: 20px\;">Implement <strong>metho
+ d3</strong>. This method allows a user to enter an unknown number of integ
+ ers from the keyboard. When the sentinel value -1 is entered the method di
+ splays the count of the number of integers entered. For example\, if the u
+ ser inputs 5 integers\, not including the sentinel value\, the method woul
+ d return 5.<br>Use a while loop in your implementation.</li>\n<li style="m
+ argin-top: 20px\;">Implement <strong>method4</strong>. This method returns
+  a string containing the first and last letter of str concatenated(merged)
+  together. <br>\n<p>The table below shows the return value of 4 calls made
+  to method4.</p>\n<table id="csTable" style="border-collapse: collapse\; b
+ order-color: #34495E\; border-style: solid\;" border="1" cellpadding="5">\
+ n<tbody>\n<tr>\n<th style="text-align: center\;">Call</th>\n<th style="tex
+ t-align: center\;">Return Value</th>\n</tr>\n<tr>\n<td style="text-align: 
+ center\;">method4("dog")</td>\n<td style="text-align: center\;">dg</td>\n<
+ /tr>\n<tr>\n<td style="text-align: center\;">method4("cat")</td>\n<td styl
+ e="text-align: center\;">ct</td>\n</tr>\n<tr>\n<td style="text-align: cent
+ er\;">method4("horse")</td>\n<td style="text-align: center\;">he</td>\n</t
+ r>\n<tr>\n<td style="text-align: center\;">method4("chicken")</td>\n<td st
+ yle="text-align: center\;">cn</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li 
+ style="margin-top: 20px\;">Implement <strong>method5</strong>. This method
+  returns a random number in the range of 0 to upper - 1.<br>\n<p>The table
+  below shows the range of possible return values for 4 calls made to metho
+ d5.</p>\n<table id="csTable" style="border-collapse: collapse\; border-col
+ or: #34495E\; border-style: solid\;" border="1" cellpadding="5">\n<tbody>\
+ n<tr>\n<th style="text-align: center\;">Call</th>\n<th style="text-align: 
+ center\;">Return Value Range</th>\n</tr>\n<tr>\n<td style="text-align: cen
+ ter\;">method5(2)</td>\n<td style="text-align: center\;">0-1</td>\n</tr>\n
+ <tr>\n<td style="text-align: center\;">method5(10)</td>\n<td style="text-a
+ lign: center\;">0-9</td>\n</tr>\n<tr>\n<td style="text-align: center\;">me
+ thod5(150)</td>\n<td style="text-align: center\;">0-149</td>\n</tr>\n<tr>\
+ n<td style="text-align: center\;">method5(200)</td>\n<td style="text-align
+ : center\;">0-199</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>\n</div>\n<
+ p>&nbsp\;</p>\n<h1 style="margin-top: 20px\;">Sample Run</h1>\n<div id="cs
+ SampleRun">\n<pre style="height: 300px\; overflow-y: scroll\; background-c
+ olor: rgba(0\,0\,0\,0.2)\;">******************\n   Test Method1\n*********
+ *********\nWeight is medium\nWeight is small\nWeight is medium\nWeight is 
+ large\n\n\n******************\n   Test Method2\n******************\nGive m
+ e liberty or give me death\nGive me liberty or give me death\nGive me libe
+ rty or give me death\nGive me liberty or give me death\nGive me liberty or
+  give me death\nGive me liberty or give me death\nGive me liberty or give 
+ me death\nGive me liberty or give me death\nGive me liberty or give me dea
+ th\nGive me liberty or give me death\n\n\n******************\n   Test Meth
+ od3\n******************\nEnter numbers--&gt\;\n10\n20\n30\n40\n50\n-1\n\nC
+ ount = 5\n\n\n******************\n   Test Method4\n******************\nStr
+ ing = rd\nString = gn\nString = be\n\n\n******************\n   Test Method
+ 5\n******************\nRandom Number = 4\nRandom Number = 16\nRandom Numbe
+ r = 290\n\n</pre>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232300Z
+UID:event-assignment-2534606
+DTSTART;VALUE=DATE:20220110T232900
+DTEND;VALUE=DATE:20220110T235900
+DESCRIPTION:Directions\n\nCopy the following code into a file named MethodP
+ ractice2.java\n\nimport java.util.*\;\n\npublic class MethodPractice2\n{\n
+ private Scanner keyboard = new Scanner(System.in)\;\n\n// Implement method
+ s below this line\n\npublic static void main(String[] args)\n{\nMethodPrac
+ tice2 app = new MethodPractice2()\;\n\nSystem.out.println("***************
+ ***")\;\nSystem.out.println(" Test greeting")\;\nSystem.out.println("*****
+ *************")\;\napp.greeting("Kendall"\, 6)\;\n\nSystem.out.println("\n
+ \n******************")\;\nSystem.out.println(" Test range")\;\nSystem.out.
+ println("******************")\;\napp.range(10\, 15)\;\n\nSystem.out.printl
+ n("\n\n******************")\;\nSystem.out.println(" Test compare")\;\nSyst
+ em.out.println("******************")\;\nSystem.out.println(app.compare("de
+ mand"))\;\nSystem.out.println(app.compare("football"))\;\nSystem.out.print
+ ln(app.compare("bulb"))\;\n\nSystem.out.println("\n\n******************")\
+ ;\nSystem.out.println(" Test reverse")\;\nSystem.out.println("************
+ ******")\;\nSystem.out.println(app.reverse("ball"))\;\nSystem.out.println(
+ app.reverse("courage"))\;\nSystem.out.println(app.reverse("hamburger"))\;\
+ n\nSystem.out.println("\n\n******************")\;\nSystem.out.println(" Te
+ st numOccurrences")\;\nSystem.out.println("******************")\;\nSystem.
+ out.println(app.numOccurrences("MISSISSIPPI"\, "I"))\;\nSystem.out.println
+ (app.numOccurrences("AUTOMOBILE"\, "O"))\;\nSystem.out.println(app.numOccu
+ rrences("TEXAS"\, "R"))\;\nSystem.out.println()\;\n}\n}\n\n* Implement a v
+ oid method named greeting that includes two formal parameters. The first p
+ arameter is of type String named firstName. The second parameter is of typ
+ e int named num. This method should print the phrase "__________\, have a 
+ nice day!" num times where the blank is the value of the parameter firstNa
+ me.\nFor example\, the call greeting("John"\, 5) would produce the followi
+ ng output\n\nJohn\, have a nice day.\nJohn\, have a nice day.\nJohn\, have
+  a nice day.\nJohn\, have a nice day.\nJohn\, have a nice day.\n\n* Implem
+ ent a void method named range that includes two formal parameters both of 
+ type int named begin and end respectively. This method should print a sequ
+ ence of numbers starting at begin and ending at end. For example\, the cal
+ l range(5\, 10) would produce the following output\n\n5\n6\n7\n8\n9\n10\n\
+ n* Implement a non-void method named compare that includes one formal para
+ meter of type String named str. This method should return a boolean value 
+ of true if the first character of str is equal to the last character\; oth
+ erwise\, it should return false. For example\, the call compare("noon") wo
+ uld return true since both the first letter and the last letter are the sa
+ me.\n\n* Implement a non-void method named reverse that includes one forma
+ l parameter of type String named str. This method should return a string t
+ hat is the reverse of str. For example\, the call reverse("computer") woul
+ d return the string "retupmoc".\n\n* Implement a non-void method named num
+ Occurrences that includes two formal parameters both of type String named 
+ word and letter respectively. This method should return a count of the num
+ ber of times letter occurs in word. For example\, the call numOccurrences(
+ "elephant"\, "e") would return a value of 2 since the letter "e" occurs in
+  the word "elephant" 2 times.\n\n**********\nSample Run\n**********\n\n***
+ ***************\nTest greeting\n******************\nKendall\, have a nice 
+ day.\nKendall\, have a nice day.\nKendall\, have a nice day.\nKendall\, ha
+ ve a nice day.\nKendall\, have a nice day.\nKendall\, have a nice day.\n\n
+ ******************\nTest range\n******************\n10\n11\n12\n13\n14\n15
+ \n\n******************\nTest compare\n******************\ntrue\nfalse\ntru
+ e\n\n******************\nTest reverse\n******************\nllab\negaruoc\n
+ regrubmah\n\n***********************\nTest numOccurrences\n***************
+ ********\n4\n2\n0
+SUMMARY:Method Practice II [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534606
+X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
+ family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark
+ )\;">Directions</span></div>\n<div id="csContent">\n<p>Copy the following 
+ code into a file named MethodPractice2.java</p>\n<div id="csCode">\n<pre>i
+ mport java.util.*\;\n\npublic class MethodPractice2\n{\n    private Scanne
+ r keyboard = new Scanner(System.in)\;\n\n      // Implement methods below 
+ this line\n\n\n\n    public static void main(String[] args)\n    {\n      
+   MethodPractice2 app = new MethodPractice2()\;\n\n        System.out.prin
+ tln("******************")\;\n        System.out.println("   Test greeting"
+ )\;\n        System.out.println("******************")\;\n        app.greet
+ ing("Kendall"\, 6)\;\n\n        System.out.println("\n\n******************
+ ")\;\n        System.out.println("   Test range")\;\n        System.out.pr
+ intln("******************")\;\n        app.range(10\, 15)\;\n\n        Sys
+ tem.out.println("\n\n******************")\;\n        System.out.println(" 
+   Test compare")\;\n        System.out.println("******************")\;\n  
+       System.out.println(app.compare("demand"))\;\n        System.out.prin
+ tln(app.compare("football"))\;\n        System.out.println(app.compare("bu
+ lb"))\;\n\n        System.out.println("\n\n******************")\;\n       
+  System.out.println("   Test reverse")\;\n        System.out.println("****
+ **************")\;\n        System.out.println(app.reverse("ball"))\;\n   
+      System.out.println(app.reverse("courage"))\;\n        System.out.prin
+ tln(app.reverse("hamburger"))\;\n\n        System.out.println("\n\n*******
+ ***********")\;\n        System.out.println("   Test numOccurrences")\;\n 
+        System.out.println("******************")\;\n        System.out.prin
+ tln(app.numOccurrences("MISSISSIPPI"\, "I"))\;\n        System.out.println
+ (app.numOccurrences("AUTOMOBILE"\, "O"))\;\n        System.out.println(app
+ .numOccurrences("TEXAS"\, "R"))\;\n        System.out.println()\;\n    }\n
+ }</pre>\n</div>\n<div id="csList">\n<ol>\n<li style="margin-top: 30px\;">I
+ mplement a void method named <strong>greeting</strong> that includes two f
+ ormal parameters. The first parameter is of type String named firstName. T
+ he second parameter is of type int named num. This method should print the
+  phrase "__________\, have a nice day!" num times where the blank is the v
+ alue of the parameter firstName.<br>For example\, the call greeting("John"
+ \, 5) would produce the following output<br>\n<div id="csOutput">\n<pre>Jo
+ hn\, have a nice day.\nJohn\, have a nice day.\nJohn\, have a nice day.\nJ
+ ohn\, have a nice day.\nJohn\, have a nice day.</pre>\n</div>\n</li>\n<li 
+ style="margin-top: 30px\;">Implement a void method named <strong>range</st
+ rong> that includes two formal parameters both of type int named begin and
+  end respectively. This method should print a sequence of numbers starting
+  at begin and ending at end. For example\, the call range(5\, 10) would pr
+ oduce the following output<br>\n<div id="csOutput">\n<pre>5\n6\n7\n8\n9\n1
+ 0</pre>\n</div>\n</li>\n<li style="margin-top: 30px\;">Implement a non-voi
+ d method named <strong>compare</strong> that includes one formal parameter
+  of type String named str. This method should return a boolean value of tr
+ ue if the first character of str is equal to the last character\; otherwis
+ e\, it should return false. For example\, the call compare("noon") would r
+ eturn true since both the first letter and the last letter are the same.</
+ li>\n<li style="margin-top: 30px\;">Implement a non-void method named <str
+ ong>reverse</strong> that includes one formal parameter of type String nam
+ ed str. This method should return a string that is the reverse of str. For
+  example\, the call reverse("computer") would return the string "retupmoc"
+ .</li>\n<li style="margin-top: 30px\;">Implement a non-void method named <
+ strong>numOccurrences</strong> that includes two formal parameters both of
+  type String named word and letter respectively. This method should return
+  a count of the number of times letter occurs in word. For example\, the c
+ all numOccurrences("elephant"\, "e") would return a value of 2 since the l
+ etter "e" occurs in the word "elephant" 2 times.</li>\n</ol>\n</div>\n<h1 
+ style="margin-top: 30px\;">Sample Run</h1>\n<div id="csSampleRun">\n<pre>*
+ *****************\n   Test greeting\n******************\nKendall\, have a 
+ nice day.\nKendall\, have a nice day.\nKendall\, have a nice day.\nKendall
+ \, have a nice day.\nKendall\, have a nice day.\nKendall\, have a nice day
+ .\n\n******************\n   Test range\n******************\n10\n11\n12\n13
+ \n14\n15\n\n******************\n   Test compare\n******************\ntrue\
+ nfalse\ntrue\n\n******************\n   Test reverse\n******************\nl
+ lab\negaruoc\nregrubmah\n\n***********************\n   Test numOccurrences
+ \n***********************\n4\n2\n0\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220114T165200Z
@@ -449,6 +908,220 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span>Submit a picture of yourself at schoo
  l with your reusable water bottle (on Wednesday) for 1 point!</span></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220119T232400Z
+UID:event-assignment-2534655
+DTSTART;VALUE=DATE:20220112T232900
+DTEND;VALUE=DATE:20220112T235900
+DESCRIPTION:Directions\n\nComplete the class Box that calculates the area a
+ nd volume of a cardboard box.\n\nRecall that programmers often use precond
+ itions and postconditions when describing the behavior of a method.\n\n* P
+ recondition - is a requirement that a user of a method must meet inorder f
+ or the method to work properly. For example\, in a banking class a deposit
+  method might have a precondition that a deposit can't be a negative numbe
+ r. If the deposit method is called with a negative number the method would
+  not give correct results.\n\n* Postcondition - is a statement that indica
+ tes what will be true when the method finishes its work. It is a descripti
+ on of what the method does. If the precondition is met the method promises
+  that its postcondition would also be met.\n\nCopy the following code into
+  a source file named Box.java.\n\npublic class Box\n{\n// Instance Variabl
+ es\n\n// Constructors\n\n// Methods\n\n/** precondition: none\n* postcondi
+ tion: calculates and returns the area of\n* the box (A = 6 * side * side)\
+ n* @return the area of the box\n*/\npublic int calculateArea()\n{\n\n}\n\n
+ /** precondition: none\n* postcondition: calculates and returns the volume
+  of\n* the box (V = side * side * side)\n* @return the volume of the box\n
+ */\npublic int calculateVolume()\n{\n\n}\n}\n\nCopy the testing class into
+  a source file named BoxTester.\n\npublic class BoxTester\n{\npublic stati
+ c void main(String[] args)\n{\nBox box1 = new Box(4)\; // instantiate box 
+ object\n\nSystem.out.println(" Box 1")\;\nSystem.out.println("=========")\
+ ;\nSystem.out.println("Area = " + box1.calculateArea())\;\nSystem.out.prin
+ tln("Volume = " + box1.calculateVolume())\;\n\nBox box2 = new Box(10)\;\n\
+ nSystem.out.println("\n Box 2")\;\nSystem.out.println("=========")\;\nSyst
+ em.out.println("Area = " + box2.calculateArea())\;\nSystem.out.println("Vo
+ lume = " + box2.calculateVolume())\;\n\nBox box3 = new Box(150)\;\n\nSyste
+ m.out.println("\n Box 3")\;\nSystem.out.println("=========")\;\nSystem.out
+ .println("Area = " + box3.calculateArea())\;\nSystem.out.println("Volume =
+  " + box3.calculateVolume())\;\n\n}\n}\n\n*************\nModifications\n**
+ ***********\n\nInstance Variables\n------------------\n\n* Create an insta
+ nce variable of type int named side.\n\nConstructors\n------------\n\n* Cr
+ eate a one parameter constructor that initializes side to the value specif
+ ied in its parameter list.\n\nMethods\n-------\n\n* Complete the method ca
+ lculateArea according to the specifications outlined in its pre and post c
+ onditions.\n\n* Complete the method calculateVolume according to the speci
+ fications outlined in its pre and post conditions.\n\n***********\nSource 
+ File\n***********\n\nBox.java\n\nBoxTester.java\n\n**********\nSample Run\
+ n**********\n\nBox 1\n=========\nArea = 96\nVolume = 64\n\nBox 2\n========
+ =\nArea = 600\nVolume = 1000\n\nBox 3\n=========\nArea = 135000\nVolume = 
+ 3375000
+SUMMARY:Box [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534655
+X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
+ family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark
+ )\;">Directions</span></div>\n<div id="csContent">\n<p>Complete the class 
+ Box that calculates the area and volume of a cardboard box.</p>\n<p>Recall
+  that programmers often use preconditions and postconditions when describi
+ ng the behavior of a method.</p>\n<div id="csList">\n<ul>\n<li><strong>Pre
+ condition</strong> - is a requirement that a user of a method must meet in
+ order for the method to work properly. For example\, in a banking class a 
+ deposit method might have a precondition that a deposit can't be a negativ
+ e number. If the deposit method is called with a negative number the metho
+ d would not give correct results.</li>\n<li><strong>Postcondition</strong>
+  - is a statement that indicates what will be true when the method finishe
+ s its work. It is a description of what the method does. If the preconditi
+ on is met the method promises that its postcondition would also be met.</l
+ i>\n</ul>\n</div>\n<p>Copy the following code into a source file named Box
+ .java.</p>\n<div id="csCode">\n<pre>public class Box\n{\n   // Instance Va
+ riables\n\n   // Constructors\n   \n   // Methods\n    \n   /** preconditi
+ on: none\n    *  postcondition: calculates and returns the area of\n    * 
+     the box (A = 6 * side * side)\n    *  @return the area of the box\n   
+  */\n   public int calculateArea()\n   {\n        \n   }\n    \n   /** pre
+ condition: none\n    *  postcondition: calculates and returns the volume o
+ f \n    *     the box (V = side * side * side)\n    *  @return the volume 
+ of the box\n    */\n   public int calculateVolume()\n   {\n       \n   }\n
+ }\n</pre>\n</div>\n<p>Copy the testing class into a source file named BoxT
+ ester.</p>\n<div id="csCode">\n<pre>public class BoxTester\n{\n    public 
+ static void main(String[] args)\n    {\n        Box box1 = new Box(4)\;   
+ // instantiate box object\n        \n        System.out.println("  Box 1")
+ \;\n        System.out.println("=========")\;\n        System.out.println(
+ "Area = " + box1.calculateArea())\;\n        System.out.println("Volume = 
+ " + box1.calculateVolume())\;\n        \n        Box box2 = new Box(10)\;\
+ n        \n        System.out.println("\n  Box 2")\;\n        System.out.p
+ rintln("=========")\;\n        System.out.println("Area = " + box2.calcula
+ teArea())\;\n        System.out.println("Volume = " + box2.calculateVolume
+ ())\;\n        \n        Box box3 = new Box(150)\;\n        \n        Syst
+ em.out.println("\n  Box 3")\;\n        System.out.println("=========")\;\n
+         System.out.println("Area = " + box3.calculateArea())\;\n        Sy
+ stem.out.println("Volume = " + box3.calculateVolume())\;\n        \n    }\
+ n}\n</pre>\n</div>\n<h1>Modifications</h1>\n<h3>Instance Variables</h3>\n<
+ div id="csList">\n<ol>\n<li>Create an instance variable of type int named 
+ <strong>side</strong>.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div id
+ ="csList">\n<ol start="2">\n<li>Create a one parameter constructor that in
+ itializes side to the value specified in its parameter list.</li>\n</ol>\n
+ </div>\n<h3>Methods</h3>\n<div id="csList">\n<ol start="3">\n<li>Complete 
+ the method <strong>calculateArea</strong> according to the specifications 
+ outlined in its pre and post conditions.</li>\n<li>Complete the method <st
+ rong>calculateVolume</strong> according to the specifications outlined in 
+ its pre and post conditions.</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p
+ >Box.java</p>\n<p>BoxTester.java</p>\n<h1>Sample Run</h1>\n<div id="csSamp
+ leRun">\n<pre>  Box 1\n=========\nArea = 96\nVolume = 64\n\n  Box 2\n=====
+ ====\nArea = 600\nVolume = 1000\n\n  Box 3\n=========\nArea = 135000\nVolu
+ me = 3375000\n</pre>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232400Z
+UID:event-assignment-2534659
+DTSTART;VALUE=DATE:20220112T232900
+DTEND;VALUE=DATE:20220112T235900
+DESCRIPTION:**********\nDirections\n**********\n\nComplete the class Car th
+ at calculates a car's miles per gallon (mpg) given the number of gallons u
+ sed between a specified starting and ending odometer reading. Using the ca
+ r's mpg the class also determines the number of miles the car can travel b
+ efore the gas tank is empty.\n\nCopy the following code into a file named 
+ Car.java\n\npublic class Car\n{\n// Constants\npublic final double capacit
+ y = 22\; // number of gallons the gas\n// tank can hold when full\n// Inst
+ ance Variables\n\n// Constructors\n\n// Methods\n\n/** precondition: gallo
+ ns > 0\n* postcondition: calculates and returns the cars MPG (miles per ga
+ llon)\n* for the current odometer readings.\n* @return the car's MPG\n*/\n
+ public double calculateMPG()\n{\n\n}\n\n/** precondition: none\n* postcond
+ ition: calculates and returns the number of miles the car\n* can travel be
+ fore its gas tank is empty.\n* @return number of miles car can travel befo
+ re tank is empty\n*/\npublic double milesToEmpty()\n{\n\n}\n}\n\nCopy the 
+ following code into a file named CarTester.java\n\npublic class CarTester\
+ n{\npublic static void main(String[] args)\n{\nCar car1 = new Car(1000\, 1
+ 450\, 20)\; // instantiate Car object\n\nSystem.out.println(" Car 1")\;\nS
+ ystem.out.println("=========")\;\nSystem.out.printf("MPG = %.1f \n"\, car1
+ .calculateMPG())\;\nSystem.out.printf("Miles to empty = %.1f \n"\, car1.mi
+ lesToEmpty())\;\n\nCar car2 = new Car(15000\, 15200\, 12)\;\n\nSystem.out.
+ println()\;\nSystem.out.println(" Car 2")\;\nSystem.out.println("=========
+ ")\;\nSystem.out.printf("MPG = %.1f \n"\, car2.calculateMPG())\;\nSystem.o
+ ut.printf("Miles to empty = %.1f \n"\, car2.milesToEmpty())\;\n\nCar car3 
+ = new Car(80000\, 80727\, 21)\;\n\nSystem.out.println()\;\nSystem.out.prin
+ tln(" Car 3")\;\nSystem.out.println("=========")\;\nSystem.out.printf("MPG
+  = %.1f \n"\, car3.calculateMPG())\;\nSystem.out.printf("Miles to empty = 
+ %.1f \n"\, car3.milesToEmpty())\;\n}\n}\n\n*************\nModifications\n*
+ ************\n\nInstance Variables\n------------------\n\n* Create an inst
+ ance variable of type double named startMiles. This variable contains the 
+ car's starting odometer reading.\n\n* Create an instance variable of type 
+ double named endMiles. This variable contains the car's ending odometer re
+ ading.\n\n* Create an instance variable of type double named gallons. This
+  variable contains the number of gallons used by the car between the odome
+ ter readings. The car's gas tank has a capacity of 22 gallons.\n\nConstruc
+ tors\n------------\n\n* Create a three parameter constructor that initiali
+ zes all three instance variables to the values specified in the parameter 
+ list.\n\nMethods\n-------\n\n* Complete the method calculateMPG according 
+ to the specifications outlined in its pre and post conditions.\n\n* Comple
+ te the method milesToEmpty according to the specifications outlined in its
+  pre and post conditions.\n\nHere is pseudocode that can be used to calcul
+ ate the number of miles the car can travel before empty.\n\nCalculate the 
+ mpg\nCalculate number of gallons remaining in gas tank\nMultiply the mpg b
+ y number of gallons remaining in gas tank\n\n***********\nSource File\n***
+ ********\n\nCar.java\n\nCarTester.java\n\n**********\nSample Run\n********
+ **\n\nCar 1\n=========\nMPG = 22.5\nMiles to empty = 45.0\n\nCar 2\n======
+ ===\nMPG = 16.7\nMiles to empty = 166.7\n\nCar 3\n=========\nMPG = 34.6\nM
+ iles to empty = 34.6
+SUMMARY:Car [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534659
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Complete the class Car
+  that calculates a car's miles per gallon (mpg) given the number of gallon
+ s used between a specified starting and ending odometer reading. Using the
+  car's mpg the class also determines the number of miles the car can trave
+ l before the gas tank is empty.</p>\n<p>Copy the following code into a fil
+ e named <strong>Car.java</strong></p>\n<div id="csCode">\n<pre>public clas
+ s Car\n{\n    // Constants\n    public final double capacity = 22\;   // n
+ umber of gallons the gas\n                                         // tank
+  can hold when full\n    // Instance Variables\n\n    \n    // Constructor
+ s\n\n    \n    // Methods\n    \n    /** precondition:  gallons &gt\; 0\n 
+     *  postcondition: calculates and returns the cars MPG (miles per gallo
+ n)\n     *     for the current odometer readings.\n     *  @return the car
+ 's MPG\n     */\n    public double calculateMPG()\n    {\n        \n    }\
+ n    \n    /** precondition:  none\n     *  postcondition: calculates and 
+ returns the number of miles the car\n     *     can travel before its gas 
+ tank is empty.\n     *  @return number of miles car can travel before tank
+  is empty\n     */\n    public double milesToEmpty()\n    {\n\n    }\n}</p
+ re>\n</div>\n<p>Copy the following code into a file named <strong>CarTeste
+ r.java</strong></p>\n<div id="csCode">\n<pre>public class CarTester\n{\n  
+   public static void main(String[] args)\n    {\n        Car car1 = new Ca
+ r(1000\, 1450\, 20)\;  // instantiate Car object\n        \n        System
+ .out.println("  Car 1")\;\n        System.out.println("=========")\;\n    
+     System.out.printf("MPG = %.1f \n"\,  car1.calculateMPG())\;\n        S
+ ystem.out.printf("Miles to empty = %.1f \n"\, car1.milesToEmpty())\;\n    
+     \n        Car car2 = new Car(15000\, 15200\, 12)\;\n        \n        
+ System.out.println()\;\n        System.out.println("  Car 2")\;\n        S
+ ystem.out.println("=========")\;\n        System.out.printf("MPG = %.1f \n
+ "\, car2.calculateMPG())\;\n        System.out.printf("Miles to empty = %.
+ 1f \n"\, car2.milesToEmpty())\;\n        \n        Car car3 = new Car(8000
+ 0\, 80727\, 21)\;\n        \n        System.out.println()\;\n        Syste
+ m.out.println("  Car 3")\;\n        System.out.println("=========")\;\n   
+      System.out.printf("MPG = %.1f \n"\, car3.calculateMPG())\;\n        S
+ ystem.out.printf("Miles to empty = %.1f \n"\, car3.milesToEmpty())\;      
+   \n   }\n}</pre>\n</div>\n<h1>Modifications</h1>\n<h3>Instance Variables<
+ /h3>\n<div id="csList">\n<ol>\n<li>Create an instance variable of type dou
+ ble named <strong>startMiles</strong>. This variable contains the car's st
+ arting odometer reading.</li>\n<li>Create an instance variable of type dou
+ ble named <strong>endMiles</strong>. This variable contains the car's endi
+ ng odometer reading.</li>\n<li>Create an instance variable of type double 
+ named <strong>gallons</strong>. This variable contains the number of gallo
+ ns used by the car between the odometer readings. The car's gas tank has a
+  capacity of 22 gallons.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div 
+ id="csList">\n<ol start="4">\n<li>Create a three parameter constructor tha
+ t initializes all three instance variables to the values specified in the 
+ parameter list.</li>\n</ol>\n</div>\n<h3>Methods</h3>\n<div id="csList">\n
+ <ol start="4">\n<ol start="4">\n<li>Complete the method <strong>calculateM
+ PG</strong> according to the specifications outlined in its pre and post c
+ onditions.</li>\n<li>Complete the method <strong>milesToEmpty</strong> acc
+ ording to the specifications outlined in its pre and post conditions.<br><
+ br>Here is pseudocode that can be used to calculate the number of miles th
+ e car can travel before empty.\n<div id="csOutput" style="width: 550px\;">
+ \n<pre>Calculate the mpg\nCalculate number of gallons remaining in gas tan
+ k\nMultiply the mpg by number of gallons remaining in gas tank \n</pre>\n<
+ /div>\n</li>\n</ol>\n</ol>\n<h1>Source File</h1>\n<p>Car.java</p>\n<p>CarT
+ ester.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre> Car 1\n
+ =========\nMPG = 22.5\nMiles to empty = 45.0\n\n  Car 2\n=========\nMPG = 
+ 16.7\nMiles to empty = 166.7\n\n  Car 3\n=========\nMPG = 34.6\nMiles to e
+ mpty = 34.6\n\n</pre>\n</div>\n</div>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220106T010500Z
 UID:event-assignment-2646930
 DTSTART;VALUE=DATE:20220112T232900
@@ -512,6 +1185,194 @@ X-ALT-DESC;FMTTYPE=text/html:<p>We will work on the <a class="instructure_f
  >Practice Problems--Kinematics</a> in class on Thursday\, August 19\, 2021
  . Work all the problems and submit the entire worksheet here. Be sure to s
  how your work!</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232400Z
+UID:event-assignment-2534660
+DTSTART;VALUE=DATE:20220112T232900
+DTEND;VALUE=DATE:20220112T235900
+DESCRIPTION:**********\nDirections\n**********\n\nThe student council at yo
+ ur school is sponsoring a dance and they have asked you to write a program
+  to help them track the number of students entering the dance and how much
+  money is made off of ticket sales. The council has decided to sell ticket
+ s to the dance according to the Renaissance incentives program. (Renaissan
+ ce is the school's rewards program that offers discounts to school functio
+ ns for students who make good grades.)\n\nTicket prices are as follows:\n\
+ nRenaissance Level Ticket Price\n\n* Gold - Free\n\n* Silver - 2.00\n\n* B
+ ronze - 4.00\n\n* No Pass - 6.00\n\nA student holding a gold card is admit
+ ted into the dance at no charge. A student holding a silver card is charge
+ d 2.00 dollars\, a student holding a bronze card is charged 4.00 dollars\,
+  and a student without a Renaissance card is charged 6.00 dollars.\n\nCopy
+  the following code into a file named Dance.java\n\npublic class Dance\n{\
+ n// Constants\npublic final int GoldPass = 1\;\npublic final int SilverPas
+ s = 2\;\npublic final int BronzePass = 3\;\npublic final int NoPass = 4\;\
+ n\n// Instance Variables\n\n// Constructors\npublic Dance()\n{\n\n}\n\n// 
+ Methods\n\n/** precondition: value of code is in the range (1 to 4) inclus
+ ive.\n* postcondition: updates the ticketSales by the price of the ticket\
+ n* specified by the parameter code. The attendance variable is\n* incremen
+ ted by one.\n* @param code a value from (1 - 4) indicating the type of tic
+ ket\n*/\npublic void buyTicket(int code)\n{\n\n}\n\n/** @return the value 
+ of attendance\n*/\npublic int getAttendance()\n{\n\n}\n\n/** @return the a
+ mount of ticketSales\n*/\npublic double getTicketSales()\n{\n\n}\n}\n\nCop
+ y the following code into a file named StudentCouncil.java\n\nimport java.
+ util.*\;\n\npublic class StudentCouncil\n{\n// Instance Variables\nprivate
+  Dance dance\;\nprivate Scanner scan\;\n\n// Constructor\npublic StudentCo
+ uncil()\n{\ndance = new Dance()\;\nscan = new Scanner(System.in)\;\n}\n\n/
+ / Methods\npublic void mainMenu()\n{\nint ans=0\;\n\ndo\n{\nSystem.out.pri
+ ntln("======================")\;\nSystem.out.println(" Main Menu")\;\nSyst
+ em.out.println("======================")\;\nSystem.out.println("1. Buy a T
+ icket")\;\nSystem.out.println("2. Print Summary Report")\;\nSystem.out.pri
+ ntln("3. Exit")\;\nSystem.out.println()\;\nSystem.out.print("Selection -->
+  ")\;\nans = scan.nextInt()\;\nSystem.out.println()\;\n\nif(ans == 1)\n{\n
+ buyTicket()\;\n}\nelse if (ans == 2)\n{\nprintSummary()\;\n}\n\n}\nwhile(a
+ ns != 3)\;\n\n}\n\n/** precondition: none\n* postcondition: prints a menu 
+ of ticket options and allows the\n* user to select one of the items in the
+  menu. It purchases\n* a ticket according to ticket type selected.\n*/\npu
+ blic void buyTicket()\n{\n\n}\n\n/** precondition: none\n* postcondition: 
+ prints a summary report that includes the\n* current number of students at
+ tending the dance and the\n* current amount of money made from ticket sale
+ s.\n*/\npublic void printSummary()\n{\n\n}\n	\npublic static void main(Str
+ ing[] args)\n{\nStudentCouncil app = new StudentCouncil()\;\napp.mainMenu(
+ )\;\n}\n}\n\n*************\nModifications\n*************\n\nComplete the D
+ ance class using the following specifications.\n\nInstance Variables\n----
+ --------------\n\n* Create an instance variable of type int named attendan
+ ce. This variable contains the current number of students attending the da
+ nce.\n\n* Create an instance variable of type double named ticketSales. Th
+ is variable contains the current amount of money made off of ticket sales.
+ \n\nConstructors\n------------\n\n* Create a no parameter constructor that
+  initializes both instance variables to their default values.\n\nMethods\n
+ -------\n\n* Complete the method buyTicket according to the specifications
+  outlined in its pre and post conditions.\n\n* Complete the method getAtte
+ ndance according to the specifications outlined in its pre and post condit
+ ions.\n\n* Complete the method getTicketSales according to the specificati
+ ons outlined in its pre and post conditions\n\n.\n\nComplete the StudentCo
+ uncil class using the following specifications.\n\nMethods\n-------\n\n* C
+ omplete the method buyTicket according to the specifications outlined in i
+ ts pre and post conditions.\n\n* Complete the method printSummary accordin
+ g to the specifications outlined in its pre and post conditions.\n\n******
+ *****\nSource File\n***********\n\nDance.java\n\nStudentCouncil.java\n\n**
+ ********\nSample Run\n**********\n\n======================\nMain Menu\n===
+ ===================\n1. Buy a Ticket\n2. Print Summary Report\n3. Exit\n\n
+ Selection --> 1\n\n===================\nBuy Ticket\n===================\n1
+ . Gold Pass\n2. Silver Pass\n3. Bronze Pass\n4. No Pass\n\nSelection -->1\
+ n\n======================\nMain Menu\n======================\n1. Buy a Tic
+ ket\n2. Print Summary Report\n3. Exit\n\nSelection --> 1\n\n==============
+ =====\nBuy Ticket\n===================\n1. Gold Pass\n2. Silver Pass\n3. B
+ ronze Pass\n4. No Pass\n\nSelection -->2\n\n======================\nMain M
+ enu\n======================\n1. Buy a Ticket\n2. Print Summary Report\n3. 
+ Exit\n\nSelection --> 1\n\n===================\nBuy Ticket\n==============
+ =====\n1. Gold Pass\n2. Silver Pass\n3. Bronze Pass\n4. No Pass\n\nSelecti
+ on -->3\n\n======================\nMain Menu\n======================\n1. B
+ uy a Ticket\n2. Print Summary Report\n3. Exit\n\nSelection --> 1\n\n======
+ =============\nBuy Ticket\n===================\n1. Gold Pass\n2. Silver Pa
+ ss\n3. Bronze Pass\n4. No Pass\n\nSelection -->4\n\n======================
+ \nMain Menu\n======================\n1. Buy a Ticket\n2. Print Summary Rep
+ ort\n3. Exit\n\nSelection --> 2\n\n===========================\nSummary Re
+ port\n===========================\nTotal Attendance = 4\nTicket Sales = $ 
+ 12.00\n\n======================\nMain Menu\n======================\n1. Buy
+  a Ticket\n2. Print Summary Report\n3. Exit\n\nSelection --> 3\n\nÂ 
+SUMMARY:School Dance [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534660
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The student council at
+  your school is sponsoring a dance and they have asked you to write a prog
+ ram to help them track the number of students entering the dance and how m
+ uch money is made off of ticket sales. The council has decided to sell tic
+ kets to the dance according to the Renaissance incentives program. (Renais
+ sance is the school's rewards program that offers discounts to school func
+ tions for students who make good grades.)</p>\n<p>Ticket prices are as fol
+ lows:</p>\n<p>Renaissance Level Ticket Price</p>\n<div id="csList">\n<ul>\
+ n<li>Gold - Free</li>\n<li>Silver - 2.00</li>\n<li>Bronze - 4.00</li>\n<li
+ >No Pass - 6.00</li>\n</ul>\n</div>\n<p>A student holding a gold card is a
+ dmitted into the dance at no charge. A student holding a silver card is ch
+ arged 2.00 dollars\, a student holding a bronze card is charged 4.00 dolla
+ rs\, and a student without a Renaissance card is charged 6.00 dollars.</p>
+ \n<p>Copy the following code into a file named <strong>Dance.java</strong>
+ </p>\n<div id="csCode">\n<pre>public class Dance\n{\n   // Constants\n   p
+ ublic final int GoldPass = 1\;\n   public final int SilverPass = 2\;\n   p
+ ublic final int BronzePass = 3\;\n   public final int NoPass = 4\;\n   \n 
+   // Instance Variables\n\n\n   \n   // Constructors\n   public Dance()\n 
+   {\n\n\n   }\n   \n   // Methods\n\n   /** precondition:  value of code i
+ s in the range (1 to 4) inclusive.\n    *  postcondition: updates the tick
+ etSales by the price of the ticket \n    *     specified by the parameter 
+ code. The attendance variable is \n    *     incremented by one.\n    *  @
+ param code a value from (1 - 4) indicating the type of ticket\n    */\n   
+ public void buyTicket(int code)\n   {\n\n\n   }\n\n   /** @return the valu
+ e of attendance\n    */\n   public int getAttendance()\n   {\n      \n   }
+ \n   \n   /** @return the amount of ticketSales\n    */\n   public double 
+ getTicketSales()\n   {\n      \n   } \n}</pre>\n</div>\n<p>Copy the follow
+ ing code into a file named <strong>StudentCouncil.java</strong></p>\n<div 
+ id="csCode">\n<pre>import java.util.*\;\n\npublic class StudentCouncil\n{ 
+ \n    // Instance Variables\n    private Dance dance\;\n    private Scanne
+ r scan\;\n    \n    // Constructor\n    public StudentCouncil()\n    {\n  
+       dance = new Dance()\;\n        scan = new Scanner(System.in)\;\n    
+ }\n    \n    // Methods\n    public void mainMenu()\n    {\n        int an
+ s=0\;\n        \n        do\n        {\n            System.out.println("==
+ ====================")\;\n            System.out.println("        Main Men
+ u")\;\n            System.out.println("======================")\;\n       
+      System.out.println("1. Buy a Ticket")\;\n            System.out.print
+ ln("2. Print Summary Report")\;\n            System.out.println("3. Exit")
+ \;\n            System.out.println()\;\n            System.out.print("Sele
+ ction --&gt\; ")\;\n            ans = scan.nextInt()\;\n            System
+ .out.println()\;\n            \n            if(ans == 1)\n            {\n 
+                buyTicket()\;\n            }\n            else if (ans == 2
+ )\n            {\n                printSummary()\;\n            }\n       
+  \n        }\n        while(ans != 3)\;\n        \n    }\n    \n    /** pr
+ econdition:  none\n     *  postcondition: prints a menu of ticket options 
+ and allows the \n     *     user to select one of the items in the menu. I
+ t purchases \n     *     a ticket according to ticket type selected.\n    
+  */\n    public void buyTicket()\n    {       \n        \n    }\n    \n   
+  /** precondition:  none\n     *  postcondition: prints a summary report t
+ hat includes the\n     *     current number of students attending the danc
+ e and the \n     *     current amount of money made from ticket sales.\n  
+    */   \n    public void printSummary()\n    {\n\n    }\n	\n    public st
+ atic void main(String[] args)\n    {\n        StudentCouncil app = new Stu
+ dentCouncil()\;\n        app.mainMenu()\;\n    }\n}</pre>\n</div>\n<h1>Mod
+ ifications</h1>\n<p>Complete the <strong>Dance</strong> class using the fo
+ llowing specifications.</p>\n<h3>Instance Variables</h3>\n<div id="csList"
+ >\n<ol start="1">\n<li>Create an instance variable of type int named <stro
+ ng>attendance</strong>. This variable contains the current number of stude
+ nts attending the dance.</li>\n<li>Create an instance variable of type dou
+ ble named <strong>ticketSales</strong>. This variable contains the current
+  amount of money made off of ticket sales.</li>\n</ol>\n</div>\n<h3>Constr
+ uctors</h3>\n<div id="csList">\n<ol start="3">\n<li>Create a no parameter 
+ constructor that initializes both instance variables to their default valu
+ es.</li>\n</ol>\n</div>\n<h3>Methods</h3>\n<div id="csList">\n<ol start="4
+ ">\n<li>Complete the method <strong>buyTicket</strong> according to the sp
+ ecifications outlined in its pre and post conditions.</li>\n<li>Complete t
+ he method <strong>getAttendance</strong> according to the specifications o
+ utlined in its pre and post conditions.</li>\n<li>Complete the method <str
+ ong>getTicketSales</strong> according to the specifications outlined in it
+ s pre and post conditions</li>\n.</ol>\n</div>\n<p>Complete the <strong>St
+ udentCouncil</strong> class using the following specifications.</p>\n<h3>M
+ ethods</h3>\n<div id="csList">\n<ol start="7">\n<li>Complete the method <s
+ trong>buyTicket</strong> according to the specifications outlined in its p
+ re and post conditions.</li>\n<li>Complete the method <strong>printSummary
+  </strong>according to the specifications outlined in its pre and post con
+ ditions.</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>Dance.java</p>\n<p>
+ StudentCouncil.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre
+ >======================\n        Main Menu\n======================\n1. Buy
+  a Ticket\n2. Print Summary Report\n3. Exit\n\nSelection --&gt\; 1\n\n====
+ ===============\n     Buy Ticket\n===================\n1. Gold Pass\n2. Si
+ lver Pass\n3. Bronze Pass\n4. No Pass\n\nSelection --&gt\;1\n\n===========
+ ===========\n        Main Menu\n======================\n1. Buy a Ticket\n2
+ . Print Summary Report\n3. Exit\n\nSelection --&gt\; 1\n\n================
+ ===\n     Buy Ticket\n===================\n1. Gold Pass\n2. Silver Pass\n3
+ . Bronze Pass\n4. No Pass\n\nSelection --&gt\;2\n\n======================\
+ n        Main Menu\n======================\n1. Buy a Ticket\n2. Print Summ
+ ary Report\n3. Exit\n\nSelection --&gt\; 1\n\n===================\n     Bu
+ y Ticket\n===================\n1. Gold Pass\n2. Silver Pass\n3. Bronze Pas
+ s\n4. No Pass\n\nSelection --&gt\;3\n\n======================\n        Mai
+ n Menu\n======================\n1. Buy a Ticket\n2. Print Summary Report\n
+ 3. Exit\n\nSelection --&gt\; 1\n\n===================\n     Buy Ticket\n==
+ =================\n1. Gold Pass\n2. Silver Pass\n3. Bronze Pass\n4. No Pas
+ s\n\nSelection --&gt\;4\n\n======================\n        Main Menu\n====
+ ==================\n1. Buy a Ticket\n2. Print Summary Report\n3. Exit\n\nS
+ election --&gt\; 2\n\n\n===========================\n        Summary Repor
+ t\n===========================\nTotal Attendance =   4\nTicket Sales     =
+  $ 12.00\n\n\n======================\n        Main Menu\n=================
+ =====\n1. Buy a Ticket\n2. Print Summary Report\n3. Exit\n\nSelection --&g
+ t\; 3\n</pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220111T130700Z
@@ -655,7 +1516,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  irst major "project" grade.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220110T182000Z
+DTSTAMP:20220119T231700Z
 UID:event-assignment-2693371
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -708,7 +1569,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong data-uw-styling-context="true">Quiz
   which attempt you are on.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T192700Z
+DTSTAMP:20220119T163900Z
 UID:event-assignment-2537945
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -763,7 +1624,191 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T154700Z
+DTSTAMP:20220119T232400Z
+UID:event-assignment-2534634
+DTSTART;VALUE=DATE:20220114T232900
+DTEND;VALUE=DATE:20220114T235900
+DESCRIPTION:**********\nDirections\n**********\n\nThe UIL has a Computer Sc
+ ience contest. In this contest contestants take a multiple choice test con
+ sisting of 40 questions. Contestants are rewarded 6 points for each correc
+ t answer and they are deducted 2 points for each incorrect answer. No poin
+ ts are deducted for skipping a problem. Write a program that calculates co
+ ntestants scores.\n\n* Input includes the contestants name\, number correc
+ t\, and number incorrect.\n\n* Output includes the contestants name\, numb
+ er correct\, number incorrect\, number of skips\, and score.\n\n* You need
+  to use the Utility class in your implementation.\n\n* Your program should
+  be decomposed into appropriate methods including a constructor and toStri
+ ng.\n\n********\nTurn in:\n********\n\nUILCompSci.java\n\n**********\nSamp
+ le Run\n**********\n\nEnter contestant's name --> John Wayne\nNumber corre
+ ct --> 30\nNumber incorrect --> 6\n\nContestant's Name : John Wayne\nCorre
+ ct : 30\nIncorrect : 6\nSkips : 4\n------------------------------\nScore :
+  168\n\nÂ 
+SUMMARY:UIL Comp Sci [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534634
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The UIL has a Computer
+  Science contest. In this contest contestants take a multiple choice test 
+ consisting of 40 questions. Contestants are rewarded 6 points for each cor
+ rect answer and they are deducted 2 points for each incorrect answer. No p
+ oints are deducted for skipping a problem. Write a program that calculates
+  contestants scores.</p>\n<div id="csList">\n<ul>\n<li>Input includes the 
+ contestants name\, number correct\, and number incorrect.</li>\n<li>Output
+  includes the contestants name\, number correct\, number incorrect\, numbe
+ r of skips\, and score.</li>\n<li>You need to use the <strong>Utility clas
+ s</strong> in your implementation.</li>\n<li>Your program should be decomp
+ osed into appropriate methods <strong>including a constructor and toString
+ </strong>.</li>\n</ul>\n</div>\n<h1>Turn in:</h1>\n<p>UILCompSci.java</p>\
+ n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre>Enter contestant's name
+  --&gt\; John Wayne\nNumber correct --&gt\; 30\nNumber incorrect --&gt\; 6
+ \n\nContestant's Name : John Wayne\nCorrect           : 30\nIncorrect     
+     : 6\nSkips             : 4\n------------------------------\nScore     
+         : 168\n\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232400Z
+UID:event-assignment-2534626
+DTSTART;VALUE=DATE:20220114T232900
+DTEND;VALUE=DATE:20220114T235900
+DESCRIPTION:**********\nDirections\n**********\n\nÂ \n\nThe code below is a
+ n example of the way we typically retrieve user input from the keyboard\n\
+ nScanner keyboard = new Scanner(System.in)\;\nSystem.out.print("Enter a nu
+ mber -->")\; // user prompt\nint num = keyboard.nextInt()\;\n\nTo demonstr
+ ate static methods you are going to define 3 static methods within a class
+  named Utility that will simplify the code above by first eliminating the 
+ need to instantiate a Scanner object and second it will combine together t
+ he user prompt and the line that reads the input. As an example\, the code
+  below also retrieves user input from the keyboard using a static method d
+ efined in the Utility class.\n\nint num = Utility.readInt("Enter a number 
+ -->")\;\n\nÂ \n\nTo display blank lines on the console window you have to 
+ include multiple printlns like the code below.\n\nSystem.out.println()\;\n
+ System.out.println()\;\nSystem.out.println()\;\n\nIn the Utility class you
+  are going to define a static method that displays blank lines using the f
+ ollowing syntax\n\nUtility.blankLines(3)\;\n\nwhere the argument 3 indicat
+ es how many blank lines to display.\n\nÂ \n\nCopy the following code into 
+ a file named Utility.java. The Utility class must have a private construct
+ or.\n\nimport java.util.*\;\n\npublic class Utility\n{\nprivate static Sca
+ nner keyboard = new Scanner(System.in)\;\n\n/** This method prompts a user
+  to enter\n* an integer value from the keyboard. It\n* then reads and retu
+ rns the integer value\n* using the Scanner class's nextInt method.\n* @par
+ am prompt the user prompt\n* @return the value read from keyboard\n*/\npub
+ lic static int readInt(String prompt)\n{\n\n}\n\n/** This method prompts a
+  user to enter\n* a double value from the keyboard. It\n* then reads and r
+ eturns the double value\n* using the Scanner class's nextDouble method.\n*
+  @param prompt the user prompt\n* @return the value read from keyboard\n*/
+ \npublic static double readDouble(String prompt)\n{\n\n}\n\n/** This metho
+ d prompts a user to enter\n* a string from the keyboard. It then\n* reads 
+ and returns the string using\n* the Scanner class's nextLine method.\n* @p
+ aram prompt the user prompt\n* @return the value read from keyboard\n*/\np
+ ublic static String readString(String prompt)\n{\n\n}\n\n/** This method p
+ rints blank lines on the\n* console window.\n* @param num the number of li
+ nes to display\n*/\npublic static void blankLines(int num)\n{\n\n}\n}\n\nM
+ ethod Implementation\n---------------------\n\n* Implement method readInt.
+  This method prompts a user to enter an integer value from the keyboard. I
+ t then reads and returns the integer value using the Scanner class's nextI
+ nt method.\nAdd a dummy read to the method just before the return line. Ex
+ ample\,\n\nkeyboard.nextLine()\; // dummy read return\n\n*If you don't rem
+ ember what a dummy read is click on the following link: [What is a dummy r
+ ead?] (ap/unit01_methodsReview/labExercises/dummyRead.html)\n\n* Implement
+  method readDouble. This method prompts a user to enter a double value fro
+ m the keyboard. It then reads and returns the double value using the Scann
+ er class's nextDouble method.\nAdd a dummy read to the method just before 
+ the return line.\n\n* Implement method readString. This method prompts a u
+ ser to enter a string from the keyboard. It then reads and returns the str
+ ing using the Scanner class's nextLine method. This method does not requir
+ e a dummy read.\n\n* Implement method blankLines. This method prints blank
+  lines on the console window.\n\nÂ \n\nTo test your Utility class copy the
+  following code into a file named UtilityTester.java.\n\nimport java.util.
+ *\;\n\npublic class UtilityTester\n{\npublic static void main(String[] arg
+ s)\n{\nint iNum = Utility.readInt("Enter an integer -->")\;\nSystem.out.pr
+ intln("The number = " + iNum)\;\n\nUtility.blankLines(2)\;\n\ndouble dNum 
+ = Utility.readDouble("Enter a double -->")\;\nSystem.out.println("The numb
+ er = " + dNum)\;\n\nUtility.blankLines(2)\;\n\nString str = Utility.readSt
+ ring("Enter a string -->")\;\nSystem.out.println("The string = " + str)\;\
+ n\nUtility.blankLines(2)\;\n}\n}\n\n***********\nSource File\n***********\
+ n\nUtility.java\n\nUtilityTester.java\n\n**********\nSample Run\n*********
+ *\n\nEnter a integer -->50\nThe number = 50\n\nEnter a double -->98.6\nThe
+  number = 98.6\n\nEnter a string -->Have a nice day\nThe string = Have a n
+ ice day\n\nÂ 
+SUMMARY:Utility [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534626
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
+ g></p>\n<p>The code below is an example of the way we typically retrieve u
+ ser input from the keyboard</p>\n<div id="csCode">\n<pre>Scanner keyboard 
+ = new Scanner(System.in)\;\nSystem.out.print("Enter a number --&gt\;")\;  
+     // user prompt\nint num = keyboard.nextInt()\;\n</pre>\n</div>\n<p>To 
+ demonstrate static methods you are going to define 3 static methods within
+  a class named Utility that will simplify the code above by first eliminat
+ ing the need to instantiate a Scanner object and second it will combine to
+ gether the user prompt and the line that reads the input. As an example\, 
+ the code below also retrieves user input from the keyboard using a static 
+ method defined in the Utility class.</p>\n<div id="csCode">\n<pre>int num 
+ = Utility.readInt("Enter a number --&gt\;")\;\n</pre>\n</div>\n<p>&nbsp\;<
+ /p>\n<p>To display blank lines on the console window you have to include m
+ ultiple printlns like the code below.</p>\n<div id="csCode">\n<pre>System.
+ out.println()\;\nSystem.out.println()\;\nSystem.out.println()\;\n</pre>\n<
+ /div>\n<p>In the Utility class you are going to define a static method tha
+ t displays blank lines using the following syntax</p>\n<div id="csCode">\n
+ <pre>Utility.blankLines(3)\;\n</pre>\n</div>\n<p>where the argument 3 indi
+ cates how many blank lines to display.</p>\n<p>&nbsp\;</p>\n<p>Copy the fo
+ llowing code into a file named <strong>Utility.java</strong>. <strong>The 
+ Utility class must have a private constructor.</strong></p>\n<div id="csCo
+ de">\n<pre>import java.util.*\;\n\npublic class Utility\n{\n    private st
+ atic Scanner keyboard = new Scanner(System.in)\;\n\n    /** This method pr
+ ompts a user to enter\n     *  an integer value from the keyboard. It\n   
+   *  then reads and returns the integer value  \n     *  using the Scanner
+  class's nextInt method.\n     *  @param prompt the user prompt\n     *  @
+ return the value read from keyboard\n     */\n    public static int readIn
+ t(String prompt)\n    {\n\n    }\n\n    /** This method prompts a user to 
+ enter\n     *  a double value from the keyboard. It\n     *  then reads an
+ d returns the double value  \n     *  using the Scanner class's nextDouble
+  method.\n     *  @param prompt the user prompt\n     *  @return the value
+  read from keyboard\n     */\n    public static double readDouble(String p
+ rompt)\n    {\n\n    }\n\n    /** This method prompts a user to enter\n   
+   *  a string from the keyboard. It then\n     *  reads and returns the st
+ ring using  \n     *  the Scanner class's nextLine method.\n     *  @param
+  prompt the user prompt\n     *  @return the value read from keyboard\n   
+   */\n    public static String readString(String prompt)\n    {\n\n    }\n
+ \n    /** This method prints blank lines on the\n     *  console window.\n
+      *  @param num the number of lines to display\n     */\n    public sta
+ tic void blankLines(int num)\n    {\n\n    }\n}\n</pre>\n</div>\n<h3>Metho
+ d Implementation</h3>\n<div id="csList">\n<ol>\n<li>Implement method <stro
+ ng>readInt</strong>. This method prompts a user to enter an integer value 
+ from the keyboard. It then reads and returns the integer value using the S
+ canner class's nextInt method.<br>Add a <strong>dummy read</strong> to the
+  method just before the return line. Example\, <br>\n<div id="csCode" styl
+ e="width: 400px\;">\n<div id="csHighlight">\n<pre>keyboard.nextLine()\; //
+  dummy read return</pre>\n</div>\n</div>\n<p>*If you don't remember what a
+  dummy read is click on the following link: <a style="color: #00f\;" href=
+ "ap/unit01_methodsReview/labExercises/dummyRead.html" target="_blank">What
+  is a dummy read?</a></p>\n</li>\n<li>Implement method <strong>readDouble<
+ /strong>. This method prompts a user to enter a double value from the keyb
+ oard. It then reads and returns the double value using the Scanner class's
+  nextDouble method.<br>Add a <strong>dummy read</strong> to the method jus
+ t before the return line.</li>\n<li>Implement method <strong>readString</s
+ trong>. This method prompts a user to enter a string from the keyboard. It
+  then reads and returns the string using the Scanner class's nextLine meth
+ od. This method does not require a dummy read.</li>\n<li>Implement method 
+ <strong>blankLines</strong>. This method prints blank lines on the console
+  window.</li>\n</ol>\n</div>\n<p>&nbsp\;</p>\n<p>To test your Utility clas
+ s copy the following code into a file named <strong>UtilityTester.java</st
+ rong>.</p>\n<div id="csCode">\n<pre>import java.util.*\;\n\npublic class U
+ tilityTester\n{\n    public static void main(String[] args)\n    {\n      
+   int iNum = Utility.readInt("Enter an integer --&gt\;")\;\n        System
+ .out.println("The number = " + iNum)\;\n\n        Utility.blankLines(2)\;\
+ n\n        double dNum = Utility.readDouble("Enter a double --&gt\;")\;\n 
+        System.out.println("The number = " + dNum)\;\n\n        Utility.bla
+ nkLines(2)\;\n\n        String str = Utility.readString("Enter a string --
+ &gt\;")\;\n        System.out.println("The string = " + str)\;\n\n        
+ Utility.blankLines(2)\;\n    }\n}\n</pre>\n</div>\n<h1>Source File</h1>\n<
+ p>Utility.java</p>\n<p>UtilityTester.java</p>\n<h1>Sample Run</h1>\n<div i
+ d="csSampleRun">\n<pre>Enter a integer --&gt\;50\nThe number = 50\n\n\nEnt
+ er a double --&gt\;98.6\nThe number = 98.6\n\n\nEnter a string --&gt\;Have
+  a nice day\nThe string = Have a nice day\n\n</pre>\n</div>\n<p>&nbsp\;</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T190800Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -783,7 +1828,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=01&year=2022#calendar_event_520540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211215T211300Z
+DTSTAMP:20220119T214300Z
 UID:event-assignment-2537912
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -917,6 +1962,338 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220119T232100Z
+UID:event-assignment-2534662
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[Monster.pdf] (https://lisdtx.instructure.com/courses/202975/fi
+ les/19784970?wrap=1)Â \n\nÂ \n\nStarter Files:\n\n[Monster.java] (https://
+ lisdtx.instructure.com/courses/202975/files/19784974?wrap=1)\n\nclass Mons
+ ter\n{\n	private String type\;\n	private int scareFactor\;\n	private doubl
+ e size\;\n\n	public Monster(String t\, int sf\, double s)\n	{\n		type = t\
+ ;		\n		scareFactor = sf\;\n		size = s\;\n	}\n\n	// write method equals bel
+ ow\n		\n}\n\n[MonsterRunner.java] (https://lisdtx.instructure.com/courses/
+ 202975/files/19784975?wrap=1) Â \n\npublic class MonsterRunner\n{\n\n	publ
+ ic static void main(String[] args)\n	{\n		Monster billy = new Monster("One
+ -eyed"\, 2\, 2.6)\;\n		Monster sully = new Monster("Furry"\, 9\, 6.5)\;\n	
+ 	Monster joe = new Monster("Furry"\, 4\, 3.3)\;\n		Monster al = new Monste
+ r("One-eyed"\, 5\, 2.6)\;\n		\n		System.out.print("Billy and Sully should 
+ NOT be equal and they are ")\;\n		\n		if(billy.equals(sully))\n			System.o
+ ut.println("equal.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n"
+ )\;\n		\n		System.out.print("Sully and Joe should NOT be equal and they ar
+ e ")\;\n		\n		if(sully.equals(joe))\n			System.out.println("equal.\n\n")\;
+ \n		else\n			System.out.println("NOT equal.\n\n")\;\n		\n		System.out.prin
+ t("Billy and Al should be equal and they are ")\;\n		\n		if(billy.equals(a
+ l))\n			System.out.println("equal.\n\n")\;\n		else\n			System.out.println(
+ "NOT equal.\n\n")\;\n	}\n\n}
+SUMMARY:Monster [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534662
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Monster.pdf" href="https://lisdtx.ins
+ tructure.com/courses/202975/files/19784970?wrap=1" target="_blank" data-ca
+ nvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com
+ /api/v1/courses/202975/files/19784970" data-api-returntype="File">Monster.
+ pdf</a>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="in
+ structure_file_link instructure_scribd_file inline_disabled" title="Monste
+ r.java" href="https://lisdtx.instructure.com/courses/202975/files/19784974
+ ?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint
+ ="https://lisdtx.instructure.com/api/v1/courses/202975/files/19784974" dat
+ a-api-returntype="File">Monster.java</a></p>\n<pre>class Monster\n{\n	priv
+ ate String type\;\n	private int scareFactor\;\n	private double size\;\n\n	
+ public Monster(String t\, int sf\, double s)\n	{\n		type = t\;		\n		scareF
+ actor = sf\;\n		size = s\;\n	}\n\n	// write method equals below\n		\n}\n\n
+ </pre>\n<p><a class="instructure_file_link instructure_scribd_file inline_
+ disabled" title="MonsterRunner.java" href="https://lisdtx.instructure.com/
+ courses/202975/files/19784975?wrap=1" target="_blank" data-canvas-previewa
+ ble="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
+ es/202975/files/19784975" data-api-returntype="File">MonsterRunner.java</a
+ > &nbsp\;</p>\n<pre>public class MonsterRunner\n{\n\n	public static void m
+ ain(String[] args)\n	{\n		Monster billy = new Monster("One-eyed"\, 2\, 2.6
+ )\;\n		Monster sully = new Monster("Furry"\, 9\, 6.5)\;\n		Monster joe = n
+ ew Monster("Furry"\, 4\, 3.3)\;\n		Monster al = new Monster("One-eyed"\, 5
+ \, 2.6)\;\n		\n		System.out.print("Billy and Sully should NOT be equal and
+  they are ")\;\n		\n		if(billy.equals(sully))\n			System.out.println("equa
+ l.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n")\;\n		\n		Syste
+ m.out.print("Sully and Joe should NOT be equal and they are ")\;\n		\n		if
+ (sully.equals(joe))\n			System.out.println("equal.\n\n")\;\n		else\n			Sys
+ tem.out.println("NOT equal.\n\n")\;\n		\n		System.out.print("Billy and Al 
+ should be equal and they are ")\;\n		\n		if(billy.equals(al))\n			System.o
+ ut.println("equal.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n"
+ )\;\n	}\n\n}\n\n</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T162300Z
+UID:event-assignment-2706919
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[Activity - Open Source vs. Proprietary.pdf] (https://lisdtx.in
+ structure.com/courses/190905/files/20494428/download?wrap=1)\n\nÂ 
+SUMMARY:Open Source vs. Proprietary [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2706919
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Activity - Open Source vs. Proprietary.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/190905/files/20494428/download?wrap=1"
+  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/f
+ iles/20494428" data-api-returntype="File">Activity - Open Source vs. Propr
+ ietary.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232200Z
+UID:event-assignment-2534668
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[lab06d.pdf] (https://lisdtx.instructure.com/courses/202975/fil
+ es/19785130?wrap=1)Â \n\nStarter Files:\n\n[Lab06d.java] (https://lisdtx.i
+ nstructure.com/courses/202975/files/19785134?wrap=1)Â \n\nimport static ja
+ va.lang.System.*\;\n\npublic class Lab06d\n{\n	public static void main( St
+ ring args[] )\n	{\n		//add test cases\n		\n		\n		\n	}\n}\n\n[Social.java] 
+ (https://lisdtx.instructure.com/courses/202975/files/19785135?wrap=1)Â \n\
+ nimport static java.lang.System.*\;\n\npublic class Social\n{\nprivate Str
+ ing socialNum\;\nprivate int sum\;\n\n	public Social()\n	{\n\n	}\n\n	publi
+ c Social(String soc)\n	{\n\n	}\n\n	public void setWord(String w)\n	{\n\n	}
+ \n\n	public void chopAndAdd()\n	{\n		String sub = socialNum\;\n\n	}\n\n	pu
+ blic String toString()\n	{\n		return "SS# " + socialNum + " has a total of
+  " + sum + "\n"\;\n	}\n}
+SUMMARY:SSN Chopper [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534668
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="lab06d.pdf" href="https://lisdtx.inst
+ ructure.com/courses/202975/files/19785130?wrap=1" target="_blank" data-can
+ vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
+ api/v1/courses/202975/files/19785130" data-api-returntype="File">lab06d.pd
+ f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
+ k instructure_scribd_file inline_disabled" title="Lab06d.java" href="https
+ ://lisdtx.instructure.com/courses/202975/files/19785134?wrap=1" target="_b
+ lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
+ structure.com/api/v1/courses/202975/files/19785134" data-api-returntype="F
+ ile">Lab06d.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
+ \npublic class Lab06d\n{\n	public static void main( String args[] )\n	{\n	
+ 	//add test cases\n		\n		\n		\n	}\n}\n</pre>\n<p><a class="instructure_fil
+ e_link instructure_scribd_file inline_disabled" title="Social.java" href="
+ https://lisdtx.instructure.com/courses/202975/files/19785135?wrap=1" targe
+ t="_blank" data-canvas-previewable="false" data-api-endpoint="https://lisd
+ tx.instructure.com/api/v1/courses/202975/files/19785135" data-api-returnty
+ pe="File">Social.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.
+ *\;\n\npublic class Social\n{\n   private String socialNum\;\n   private i
+ nt sum\;\n\n	public Social()\n	{\n\n\n	}\n\n	public Social(String soc)\n	{
+ \n\n\n	}\n\n\n	public void setWord(String w)\n	{\n\n\n	}\n\n	public void c
+ hopAndAdd()\n	{\n		String sub = socialNum\;\n\n\n\n\n\n\n\n	}\n\n	public S
+ tring toString()\n	{\n		return "SS# " + socialNum + " has a total of " + s
+ um + "\n"\;\n	}\n}\n</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232100Z
+UID:event-assignment-2534664
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[lab04e.pdf] (https://lisdtx.instructure.com/courses/202975/fil
+ es/19785038?wrap=1)Â \n\nÂ \n\nStarter Files:\n\n[Lab04e.java] (https://li
+ sdtx.instructure.com/courses/202975/files/19785044?wrap=1)\n\nimport stati
+ c java.lang.System.*\;\n\npublic class Lab04e\n{\n	public static void main
+  ( String[] args )\n	{\n		StringChecker demo = new StringChecker("chicken"
+ )\;\n		out.println("looking for c "+demo.findLetter('c'))\;\n		out.println
+ ("looking for ch "+demo.findSubString("ch"))\;\n		out.println("looking for
+  x "+demo.findSubString("x"))\;\n		out.println(demo)\;\n\n		demo.setString
+ ("alligator")\;\n		out.println("looking for g "+demo.findLetter('g'))\;\n	
+ 	out.println("looking for all "+demo.findSubString("all"))\;\n		out.printl
+ n("looking for gater "+demo.findSubString("gater"))\;\n		out.println(demo)
+ \;\n\n		demo.setString("COMPUTER SCIENCE IS THE BEST!")\;\n		out.println("
+ looking for U "+demo.findLetter('U'))\;\n		out.println("looking for COMP S
+ CI "+demo.findSubString("COMP SCI"))\;\n		out.println("looking for SCIENCE
+  "+demo.findSubString("SCIENCE"))\;\n		out.println(demo)\;\n	}\n}\n\n[Stri
+ ngChecker.java] (https://lisdtx.instructure.com/courses/202975/files/19785
+ 045?wrap=1) Â \n\nimport static java.lang.System.*\;\n\npublic class Strin
+ gChecker\n{\n	private String word\;\n\n	public StringChecker()\n	{\n\n	}\n
+ \n	public StringChecker(String s)\n	{\n\n	}\n\npublic void setString(Strin
+ g s)\n{\n	word=s\;\n}\n\n	public boolean findLetter(char c)\n	{\n\n		retur
+ n false\;\n	}\n\n	public boolean findSubString(String s)\n	{\n\n		return f
+ alse\;\n	}\n\n	public String toString()\n	{\n		return "\n\n"\;\n	}\n}
+SUMMARY:String Checker [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534664
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="lab04e.pdf" href="https://lisdtx.inst
+ ructure.com/courses/202975/files/19785038?wrap=1" target="_blank" data-can
+ vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
+ api/v1/courses/202975/files/19785038" data-api-returntype="File">lab04e.pd
+ f</a>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="inst
+ ructure_file_link instructure_scribd_file inline_disabled" title="Lab04e.j
+ ava" href="https://lisdtx.instructure.com/courses/202975/files/19785044?wr
+ ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/202975/files/19785044" data-a
+ pi-returntype="File">Lab04e.java</a></p>\n<pre>import static java.lang.Sys
+ tem.*\;\n\npublic class Lab04e\n{\n	public static void main ( String[] arg
+ s )\n	{\n		StringChecker demo = new StringChecker("chicken")\;\n		out.prin
+ tln("looking for c "+demo.findLetter('c'))\;\n		out.println("looking for c
+ h "+demo.findSubString("ch"))\;\n		out.println("looking for x "+demo.findS
+ ubString("x"))\;\n		out.println(demo)\;\n\n		demo.setString("alligator")\;
+ \n		out.println("looking for g "+demo.findLetter('g'))\;\n		out.println("l
+ ooking for all "+demo.findSubString("all"))\;\n		out.println("looking for 
+ gater "+demo.findSubString("gater"))\;\n		out.println(demo)\;\n\n		demo.se
+ tString("COMPUTER SCIENCE IS THE BEST!")\;\n		out.println("looking for U "
+ +demo.findLetter('U'))\;\n		out.println("looking for COMP SCI "+demo.findS
+ ubString("COMP SCI"))\;\n		out.println("looking for SCIENCE "+demo.findSub
+ String("SCIENCE"))\;\n		out.println(demo)\;\n	}\n}\n</pre>\n<p><a class="i
+ nstructure_file_link instructure_scribd_file inline_disabled" title="Strin
+ gChecker.java" href="https://lisdtx.instructure.com/courses/202975/files/1
+ 9785045?wrap=1" target="_blank" data-canvas-previewable="false" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/202975/files/197850
+ 45" data-api-returntype="File">StringChecker.java</a> &nbsp\;</p>\n<pre>im
+ port static java.lang.System.*\;\n\npublic class StringChecker\n{\n	privat
+ e String word\;\n\n	public StringChecker()\n	{\n\n\n	}\n\n	public StringCh
+ ecker(String s)\n	{\n\n\n	}\n\n   public void setString(String s)\n   {\n 
+   	word=s\;\n   }\n\n	public boolean findLetter(char c)\n	{\n\n\n\n		retur
+ n false\;\n	}\n\n	public boolean findSubString(String s)\n	{\n\n\n\n		retu
+ rn false\;\n	}\n\n 	public String toString()\n 	{\n 		return "\n\n"\;\n	}\
+ n}\n</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232100Z
+UID:event-assignment-2534663
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:Use the String Class API to look up and use appropriate methods
+ . link: https://docs.oracle.com/javase/7/docs/api/java/lang/String.htmlÂ \
+ n\nYou only need to write a main method\, do not write instance variables\
+ , constructors\, etc.\n\nOn steps 11-13 consider using Integer.toString( )
+ \, compareTo( )\, and Integer.parseInt( ).Â \n\nInstructions:\n\n[Stringer
+ cise.pdf] (https://lisdtx.instructure.com/courses/202975/files/19785012?wr
+ ap=1)Â 
+SUMMARY:Stringercise [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534663
+X-ALT-DESC;FMTTYPE=text/html:<p>Use the String Class API to look up and use
+  appropriate methods. link: <a href="https://docs.oracle.com/javase/7/docs
+ /api/java/lang/String.html" target="_blank">https://docs.oracle.com/javase
+ /7/docs/api/java/lang/String.html</a>&nbsp\;</p>\n<p>You only need to writ
+ e a main method\, do not write instance variables\, constructors\, etc.</p
+ >\n<p>On steps 11-13 consider using Integer.toString( )\, compareTo( )\, a
+ nd Integer.parseInt( ).&nbsp\;</p>\n<p>Instructions:</p>\n<p><a class="ins
+ tructure_file_link instructure_scribd_file inline_disabled" title="Stringe
+ rcise.pdf" href="https://lisdtx.instructure.com/courses/202975/files/19785
+ 012?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpo
+ int="https://lisdtx.instructure.com/api/v1/courses/202975/files/19785012" 
+ data-api-returntype="File">Stringercise.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T202600Z
+UID:event-assignment-2714258
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[Physics 11 Sample Tests.pdf] (https://lisdtx.instructure.com/c
+ ourses/172858/files/20600616?wrap=1)Â 
+SUMMARY:Unit 1 Pre-Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2714258
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Physics 11 Sample Tests.pdf" href="ht
+ tps://lisdtx.instructure.com/courses/172858/files/20600616?wrap=1" target=
+ "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
+ .instructure.com/api/v1/courses/172858/files/20600616" data-api-returntype
+ ="File">Physics 11 Sample Tests.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232200Z
+UID:event-assignment-2534669
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[lab06g.pdf] (https://lisdtx.instructure.com/courses/202975/fil
+ es/19785166?wrap=1)Â \n\nStarter Files:\n\n[Lab06g.java] (https://lisdtx.i
+ nstructure.com/courses/202975/files/19785170?wrap=1)Â \n\nimport static ja
+ va.lang.System.*\;\n\npublic class Lab06g\n{\n	public static void main( St
+ ring args[] )\n	{\n	 WordFun test = new WordFun("Hello World")\;\n	 out.pr
+ intln(test)\;\n	 test.makeUpper()\;\n	 out.println(test)\;\n	 test.addHyph
+ en()\;\n	 out.println(test)\;\n\n	 //add more test cases\n	\n	\n	\n	\n	\n	
+ }\n}\n\n[WordFun.java] (https://lisdtx.instructure.com/courses/202975/file
+ s/19785174?wrap=1)Â \n\nDo not use the replace() method.\n\nimport static 
+ java.lang.System.*\;\n\npublic class WordFun\n{\n	private String word\;\n\
+ n	public WordFun()\n	{\n\n	}\n\n	public WordFun(String w)\n	{\n\n	}\n\n	pu
+ blic void setWord(String w)\n	{\n\n	}\n\n	public void makeUpper()\n	{\n\n	
+ }\n\n	public void addHyphen()\n	{\n		int loc\;\n\n	}\n\n	public String toS
+ tring()\n	{\n		return ""\;\n	}\n}
+SUMMARY:Word Fun [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534669
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="lab06g.pdf" href="https://lisdtx.inst
+ ructure.com/courses/202975/files/19785166?wrap=1" target="_blank" data-can
+ vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
+ api/v1/courses/202975/files/19785166" data-api-returntype="File">lab06g.pd
+ f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
+ k instructure_scribd_file inline_disabled" title="Lab06g.java" href="https
+ ://lisdtx.instructure.com/courses/202975/files/19785170?wrap=1" target="_b
+ lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
+ structure.com/api/v1/courses/202975/files/19785170" data-api-returntype="F
+ ile">Lab06g.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
+ \npublic class Lab06g\n{\n	public static void main( String args[] )\n	{\n	
+    WordFun test = new WordFun("Hello World")\;\n	   out.println(test)\;\n	
+    test.makeUpper()\;\n	   out.println(test)\;\n	   test.addHyphen()\;\n	 
+   out.println(test)\;\n\n	   //add more test cases\n	   \n	   \n	   \n	   
+ \n	   \n	}\n}\n</pre>\n<p><a class="instructure_file_link instructure_scri
+ bd_file inline_disabled" title="WordFun.java" href="https://lisdtx.instruc
+ ture.com/courses/202975/files/19785174?wrap=1" target="_blank" data-canvas
+ -previewable="false" data-api-endpoint="https://lisdtx.instructure.com/api
+ /v1/courses/202975/files/19785174" data-api-returntype="File">WordFun.java
+ </a>&nbsp\;</p>\n<p><strong>Do not use the replace() method.</strong></p>\
+ n<pre>import static java.lang.System.*\;\n\npublic class WordFun\n{\n	priv
+ ate String word\;\n\n	public WordFun()\n	{\n\n\n	}\n\n	public WordFun(Stri
+ ng w)\n	{\n\n\n	}\n\n	public void setWord(String w)\n	{\n\n\n	}\n\n	public
+  void makeUpper()\n	{\n\n\n	}\n\n	public void addHyphen()\n	{\n		int loc\;
+ \n\n\n	}\n\n	public String toString()\n	{\n		return ""\;\n	}\n}\n</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T232100Z
+UID:event-assignment-2534666
+DTSTART;VALUE=DATE:20220119T232900
+DTEND;VALUE=DATE:20220119T235900
+DESCRIPTION:[lab06c.pdf] (https://lisdtx.instructure.com/courses/202975/fil
+ es/19785098?wrap=1)Â \n\nStarter Files:\n\n[Lab06c.java] (https://lisdtx.i
+ nstructure.com/courses/202975/files/19785099?wrap=1)Â \n\nimport static ja
+ va.lang.System.*\;\n\npublic class Lab06c\n{\npublic static void main( Str
+ ing args[] )\n{\n		//add test cases\n		\n\n	}\n}\n\n[WordsCompare.java] (h
+ ttps://lisdtx.instructure.com/courses/202975/files/19785100?wrap=1)Â \n\ni
+ mport static java.lang.System.*\;\n\npublic class WordsCompare\n{\n	privat
+ e String wordOne\, wordTwo\;\nprivate int compare\;\n\n	public WordsCompar
+ e()\n	{\n\n	}\n\n	public WordsCompare(String one\, String two)\n	{\n\n	}\n
+ \n	public void setWords(String one\, String two)\n	{\n\n	}\n\n	public void
+  compare()\n	{\n\n	}\n\n	public String toString()\n	{\n		if(compare<0)\n		
+ {\n			return wordOne + " should be placed before " + wordTwo + "\n"\;\n		}
+ \n		else\n		{\n			return wordOne + " should be placed after " + wordTwo + 
+ "\n"\;\n		}\n	}\n}
+SUMMARY:Words Compare [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534666
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="lab06c.pdf" href="https://lisdtx.inst
+ ructure.com/courses/202975/files/19785098?wrap=1" target="_blank" data-can
+ vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
+ api/v1/courses/202975/files/19785098" data-api-returntype="File">lab06c.pd
+ f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
+ k instructure_scribd_file inline_disabled" title="Lab06c.java" href="https
+ ://lisdtx.instructure.com/courses/202975/files/19785099?wrap=1" target="_b
+ lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
+ structure.com/api/v1/courses/202975/files/19785099" data-api-returntype="F
+ ile">Lab06c.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
+ \npublic class Lab06c\n{\n   public static void main( String args[] )\n   
+ {\n		//add test cases\n		\n\n	}\n}\n</pre>\n<p><a class="instructure_file_
+ link instructure_scribd_file inline_disabled" title="WordsCompare.java" hr
+ ef="https://lisdtx.instructure.com/courses/202975/files/19785100?wrap=1" t
+ arget="_blank" data-canvas-previewable="false" data-api-endpoint="https://
+ lisdtx.instructure.com/api/v1/courses/202975/files/19785100" data-api-retu
+ rntype="File">WordsCompare.java</a>&nbsp\;</p>\n<pre>import static java.la
+ ng.System.*\;\n\npublic class WordsCompare\n{\n	private String wordOne\, w
+ ordTwo\;\n   private int compare\;\n\n	public WordsCompare()\n	{\n\n\n	}\n
+ \n	public WordsCompare(String one\, String two)\n	{\n\n\n\n	}\n\n	public v
+ oid setWords(String one\, String two)\n	{\n\n\n	}\n\n	public void compare(
+ )\n	{\n\n\n	}\n\n	public String toString()\n	{\n		if(compare&lt\;0)\n		{\n
+ 			return wordOne + " should be placed before " + wordTwo + "\n"\;\n		}\n	
+ 	else\n		{\n			return wordOne + " should be placed after " + wordTwo + "\n
+ "\;\n		}\n	}\n}\n</pre>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220117T190000Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
@@ -993,6 +2370,26 @@ DTEND;VALUE=DATE:20220121T235900
 SUMMARY:1/21: Girls Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499115
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220119T165700Z
+UID:event-assignment-2706918
+DTSTART;VALUE=DATE:20220121T232900
+DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:[Project - Business Technology Needs (1)-1.pdf] (https://lisdtx
+ .instructure.com/courses/190905/files/20494429?wrap=1)
+SUMMARY:Business Technology Needs - Project [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2706918
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Business Technology Needs (
+ 1)-1.pdf" href="https://lisdtx.instructure.com/courses/190905/files/204944
+ 29?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoi
+ nt="https://lisdtx.instructure.com/api/v1/courses/190905/files/20494429" d
+ ata-api-returntype="File">Project - Business Technology Needs (1)-1.pdf</a
+ ></p>\n<p><span style="width: 43rem\; height: 1rem\; vertical-align: middl
+ e\;" aria-label="Loading" data-placeholder-for="Project%20-%20Business%20T
+ echnology%20Needs%20(1).pdf"> </span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220117T190100Z
@@ -3385,7 +4782,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220119T073010Z
+DTSTAMP:20220120T073007Z
 UID:65108103101981149732651031011101009732771111103249474948
 DTSTART;TZID=America/Chicago:20220110
 DTEND;TZID=America/Chicago:20220111
@@ -3393,7 +4790,7 @@ SUMMARY:Algebra Agenda Mon 1/10
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T073010Z
+DTSTAMP:20220120T073007Z
 UID:65108103101981149732651031011101009732841171013249474949
 DTSTART;TZID=America/Chicago:20220111
 DTEND;TZID=America/Chicago:20220112
@@ -3401,7 +4798,7 @@ SUMMARY:Algebra Agenda Tue 1/11
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T073010Z
+DTSTAMP:20220120T073007Z
 UID:65108103101981149732651031011101009732871011003249474950
 DTSTART;TZID=America/Chicago:20220112
 DTEND;TZID=America/Chicago:20220113
@@ -3409,7 +4806,7 @@ SUMMARY:Algebra Agenda Wed 1/12
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T073010Z
+DTSTAMP:20220120T073007Z
 UID:65108103101981149732651031011101009732841041173249474951
 DTSTART;TZID=America/Chicago:20220113
 DTEND;TZID=America/Chicago:20220114
@@ -3417,7 +4814,7 @@ SUMMARY:Algebra Agenda Thu 1/13
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T073010Z
+DTSTAMP:20220120T073007Z
 UID:65108103101981149732651031011101009732701141053249474952
 DTSTART;TZID=America/Chicago:20220114
 DTEND;TZID=America/Chicago:20220115
