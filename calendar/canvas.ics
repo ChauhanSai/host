@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20211221T180000Z
-UID:event-assignment-2499196
-DTSTART;VALUE=DATE:20211221T232900
-DTEND;VALUE=DATE:20211221T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:12/21: Boys Basketball Game vs Abilene [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=12&year=2021#assignment_2499196
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211216T205900Z
 UID:event-calendar-event-520849
 DTSTART;VALUE=DATE:20220103
@@ -181,7 +170,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220110T162200Z
+DTSTAMP:20220121T174400Z
 UID:event-assignment-2678831
 DTSTART;VALUE=DATE:20220107T232900
 DTEND;VALUE=DATE:20220107T235900
@@ -215,7 +204,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Start notes on all parent functions:</p>\n<
  api-returntype="File">Parent Functions Notes[1] newest.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T131000Z
+DTSTAMP:20220124T135200Z
 UID:event-assignment-2698924
 DTSTART:20220110T213500Z
 DTEND:20220110T213500Z
@@ -226,7 +215,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T131000Z
+DTSTAMP:20220124T135200Z
 UID:event-assignment-2689314
 DTSTART:20220110T213500Z
 DTEND:20220110T213500Z
@@ -237,7 +226,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T202100Z
+DTSTAMP:20220123T173600Z
 UID:event-assignment-2537910
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -375,7 +364,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that p
  \n</pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220114T165200Z
+DTSTAMP:20220121T174400Z
 UID:event-assignment-2689134
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -602,7 +591,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
  r = 290\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232300Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2534606
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -731,7 +720,7 @@ X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
  \n***********************\n4\n2\n0\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220114T165200Z
+DTSTAMP:20220121T174400Z
 UID:event-assignment-2689139
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -831,7 +820,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here is the <a class="instructure_file_link
  re.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220112T164800Z
+DTSTAMP:20220125T171100Z
 UID:event-assignment-2689135
 DTSTART;VALUE=DATE:20220111T232900
 DTEND;VALUE=DATE:20220111T235900
@@ -847,7 +836,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  1213" data-api-returntype="File">Activity - Problem Situations.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220112T163900Z
+DTSTAMP:20220125T174300Z
 UID:event-assignment-2689137
 DTSTART;VALUE=DATE:20220111T232900
 DTEND;VALUE=DATE:20220111T235900
@@ -868,31 +857,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   can complete using a pdf editor or complete using microsoft word.&nbsp\; 
  If you use microsoft word\, you can just type the number and the answer to
   it! Do on your own then we will complete together!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220111T214100Z
-UID:event-assignment-2695663
-DTSTART:20220112T213500Z
-DTEND:20220112T213500Z
-DESCRIPTION:This is a group quiz. But hurry\, you only have 30 minutes.
-SUMMARY:UNIT 0 QUIZ PHYSICS BASICS [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2695663
-X-ALT-DESC;FMTTYPE=text/html:<p>This is a group quiz. But hurry\, you only 
- have 30 minutes.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220118T130400Z
-UID:event-assignment-2600462
-DTSTART;VALUE=DATE:20220112T232900
-DTEND;VALUE=DATE:20220112T235900
-DESCRIPTION:This is a timed quiz.Â  You have 30 minutes of until 3:15 PM\, 
- which ever comes first.
-SUMMARY:Fundamentals Quiz [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2600462
-X-ALT-DESC;FMTTYPE=text/html:<p>This is a timed quiz.&nbsp\; You have 30 mi
- nutes of until 3:15 PM\, which ever comes first.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220113T195300Z
@@ -1187,7 +1151,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>We will work on the <a class="instructure_f
  how your work!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232400Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2534660
 DTSTART;VALUE=DATE:20220112T232900
 DTEND;VALUE=DATE:20220112T235900
@@ -1375,7 +1339,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The student council at
  t\; 3\n</pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220111T130700Z
+DTSTAMP:20220124T135900Z
 UID:event-assignment-2647399
 DTSTART;VALUE=DATE:20220112T232900
 DTEND;VALUE=DATE:20220112T235900
@@ -1477,7 +1441,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are more <a class="instructure_file_li
  \, and submit your work here.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220114T135800Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2705781
 DTSTART;VALUE=DATE:20220113T232900
 DTEND;VALUE=DATE:20220113T235900
@@ -1488,7 +1452,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220112T161400Z
+DTSTAMP:20220125T171100Z
 UID:event-assignment-2689136
 DTSTART;VALUE=DATE:20220113T232900
 DTEND;VALUE=DATE:20220113T235900
@@ -1516,7 +1480,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  irst major "project" grade.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T231700Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2693371
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -1613,7 +1577,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220114T181200Z
+DTSTAMP:20220125T171100Z
 UID:event-assignment-2689133
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -1624,7 +1588,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232400Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2534634
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -1808,7 +1772,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
  >
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T190800Z
+DTSTAMP:20220124T204700Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -1828,7 +1792,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=01&year=2022#calendar_event_520540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T214300Z
+DTSTAMP:20220123T173600Z
 UID:event-assignment-2537912
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -1868,7 +1832,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T164800Z
+DTSTAMP:20220125T174300Z
 UID:event-assignment-2706917
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -1899,25 +1863,53 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Find the acceptable use policy for your sch
  eptable Use Policies.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220106T011600Z
+DTSTAMP:20220124T143300Z
 UID:event-assignment-2647394
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
+DESCRIPTION:Here are the notes and problems for [Adding Vectors] (https://l
+ isdtx.instructure.com/courses/172858/files/20146782?wrap=1). We will do pa
+ rt of it in class\, and the rest is homework (submit here).\n\nWe will be 
+ going over [Graphing Vectors] (https://lisdtx.instructure.com/courses/1728
+ 58/files/20146786?wrap=1) in class as well\, but we will finish it in clas
+ s.
 SUMMARY:Adding Vectors [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2647394
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="A
+ dding Vctors.pdf" href="https://lisdtx.instructure.com/courses/172858/file
+ s/20146782?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instr
+ ucture.com/api/v1/courses/172858/files/20146782" data-api-returntype="File
+ ">Adding Vectors</a>. We will do part of it in class\, and the rest is hom
+ ework (submit here).</p>\n<p>We will be going over <a class="instructure_f
+ ile_link instructure_scribd_file inline_disabled" title="Graphing Vectors 
+ Practice.pdf" href="https://lisdtx.instructure.com/courses/172858/files/20
+ 146786?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructu
+ re.com/api/v1/courses/172858/files/20146786" data-api-returntype="File">Gr
+ aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220106T011700Z
 UID:event-assignment-2647398
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
+DESCRIPTION:Here are the notes and problems for [Relative Motion] (https://
+ lisdtx.instructure.com/courses/172858/files/20146781?wrap=1). We will work
+  some of this in class\, and the rest is homework (submit here).
 SUMMARY:Relative Motion [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=01&year=2022#assignment_2647398
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="R
+ elative Motion.pdf" href="https://lisdtx.instructure.com/courses/172858/fi
+ les/20146781?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172858/files/20146781" data-api-returntype="Fi
+ le">Relative Motion</a>. We will work some of this in class\, and the rest
+  is homework (submit here).</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220118T131000Z
+DTSTAMP:20220124T135200Z
 UID:event-assignment-2705536
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -1949,17 +1941,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ure.com/courses/172585/files/19814593/preview" target="_blank" data-api-en
  dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981459
  3" data-api-returntype="File">Topic 1 Review PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220119T013000Z
-UID:event-assignment-2534540
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:
-SUMMARY:Equals/toString Method Quiz [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534540
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220119T232100Z
@@ -2023,7 +2004,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  )\;\n	}\n\n}\n\n</pre>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T162300Z
+DTSTAMP:20220125T174300Z
 UID:event-assignment-2706919
 DTSTART;VALUE=DATE:20220119T232900
 DTEND;VALUE=DATE:20220119T235900
@@ -2085,7 +2066,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  um + "\n"\;\n	}\n}\n</pre>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232100Z
+DTSTAMP:20220124T192700Z
 UID:event-assignment-2534664
 DTSTART;VALUE=DATE:20220119T232900
 DTEND;VALUE=DATE:20220119T235900
@@ -2151,7 +2132,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  n}\n</pre>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232100Z
+DTSTAMP:20220124T192700Z
 UID:event-assignment-2534663
 DTSTART;VALUE=DATE:20220119T232900
 DTEND;VALUE=DATE:20220119T235900
@@ -2179,7 +2160,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Use the String Class API to look up and use
  data-api-returntype="File">Stringercise.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T202600Z
+DTSTAMP:20220124T135200Z
 UID:event-assignment-2714258
 DTSTART;VALUE=DATE:20220119T232900
 DTEND;VALUE=DATE:20220119T235900
@@ -2196,7 +2177,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ="File">Physics 11 Sample Tests.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T232200Z
+DTSTAMP:20220124T192700Z
 UID:event-assignment-2534669
 DTSTART;VALUE=DATE:20220119T232900
 DTEND;VALUE=DATE:20220119T235900
@@ -2294,7 +2275,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  "\;\n		}\n	}\n}\n</pre>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190000Z
+DTSTAMP:20220125T023600Z
+UID:event-assignment-2720575
+DTSTART;VALUE=DATE:20220120T232900
+DTEND;VALUE=DATE:20220120T235900
+DESCRIPTION:
+SUMMARY:APLine FRQ [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2720575
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220124T215400Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
 DTEND;VALUE=DATE:20220120T235900
@@ -2345,34 +2337,40 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T191900Z
+DTSTAMP:20220125T023600Z
 UID:event-assignment-2534510
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:
 SUMMARY:if Statements AP Review [AP Comp Sci - S22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
  month=01&year=2022#assignment_2534510
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220122T020000Z
 UID:event-assignment-2499227
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/21: Boys Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499227
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220121T230000Z
 UID:event-assignment-2499115
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/21: Girls Basketball Game vs Flower Mound [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499115
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220119T165700Z
+DTSTAMP:20220125T171100Z
 UID:event-assignment-2706918
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
@@ -2390,6 +2388,50 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ></p>\n<p><span style="width: 43rem\; height: 1rem\; vertical-align: middl
  e\;" aria-label="Loading" data-placeholder-for="Project%20-%20Business%20T
  echnology%20Needs%20(1).pdf"> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220121T142700Z
+UID:event-assignment-2534540
+DTSTART;VALUE=DATE:20220121T232900
+DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:
+SUMMARY:Equals/toString Method Quiz [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534540
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T171100Z
+UID:event-assignment-2706916
+DTSTART;VALUE=DATE:20220121T232900
+DTEND;VALUE=DATE:20220121T235900
+DESCRIPTION:
+SUMMARY:Workplace Technology Test [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=01&year=2022#assignment_2706916
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220124T191000Z
+UID:event-assignment-2722477
+DTSTART;VALUE=DATE:20220124T232900
+DTEND;VALUE=DATE:20220124T235900
+DESCRIPTION:
+SUMMARY:Unit 1 MC Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2722477
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220124T191100Z
+UID:event-assignment-2722479
+DTSTART;VALUE=DATE:20220124T232900
+DTEND;VALUE=DATE:20220124T235900
+DESCRIPTION:
+SUMMARY:Unit 1 FRQ Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2722479
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220117T190100Z
@@ -2443,67 +2485,503 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499231
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220125T230000Z
 UID:event-assignment-2499116
 DTSTART;VALUE=DATE:20220125T232900
 DTEND;VALUE=DATE:20220125T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:1/25: Girls Basketball Game vs Plano/Clark [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499116
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-calendar-event-520501
-DTSTART;VALUE=DATE:20220126
-DTEND;VALUE=DATE:20220127
-DESCRIPTION:
-SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520501
-X-ALT-DESC;FMTTYPE=text/html:
+DTSTAMP:20220125T040700Z
+UID:event-assignment-2534675
+DTSTART;VALUE=DATE:20220125T232900
+DTEND;VALUE=DATE:20220125T235900
+DESCRIPTION:**********\nDirections\n**********\n\nA basketball coach has as
+ ked you to write a program that he can use to calculate player stats after
+  a game. Given the following information: free throws made\, free throws a
+ ttempted\, 2 point field goals made\, 2 point field goals attempted\, 3 po
+ int field goals made\, and 3 point field goals attempted\, he wants the pr
+ ogram to generate the following information: percentage of free throws mad
+ e\, percentage of 2 point field goals made\, percentage of 3 point field g
+ oals made\, and total points scored.\n\nYou decide the problem can be deco
+ mposed into the following two classes: Player and Team. The Player class s
+ tores the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attempte
+ d\, 3FG made\, and 3FG attempted. The class also calculates the percentage
+  of FT made\, percentage of 2FG made\, percentage of 3FG made\, and total 
+ points scored.\n\nThe Team class is a client of the Player class. It uses 
+ an array to store up to 20 players.\n\n************\nPlayer class\n*******
+ *****\n\nCreate a file named Player.java and add the following code.\n\npu
+ blic class Player\n{\n// instance variables\n\n// constructors\n\n// acces
+ sor methods\n	\n// other methods\n\n}\n\nInstance Variables\n-------------
+ -----\n\n* Declare a variable of type String named playerName.\n\n* Declar
+ e a variable of type int named ftm (free throws made).\n\n* Declare a vari
+ able of type int named fta (free throws attempted).\n\n* Declare a variabl
+ e of type int named fg2m (2 point field goals made).\n\n* Declare a variab
+ le of type int named fg2a (2 point field goals attempted).\n\n* Declare a 
+ variable of type int named fg3m (3 point field goals made).\n\n* Declare a
+  variable of type int named fg3a (3 point field goals attempted).\n\nConst
+ ructors\n------------\n\n* Add the following constructor\n\npublic Player(
+ String playerName\, int ftm\, int fta\,\nint fgm2\, int fga2\, int fgm3\, 
+ int fga3)\n{\nthis.playerName = playerName\;\nthis.ftm = ftm\;\nthis.fta =
+  fta\;\nthis.fgm2 = fgm2\;\nthis.fga2 = fga2\;\nthis.fgm3 = fgm3\;\nthis.f
+ ga3 = fga3\;\n}\n\nNotice the use of the keyword "this" in the body of the
+  constructor. "this" is used to allow an object to refer to itself. I am u
+ sing it here because I did not want to come up with different variable nam
+ e for each of the 7 parameters. Look at the following code from above.\n\n
+ this.ftm = ftm\;\n\nThe "this" in the code is used to reference the variab
+ le ftm declared in the instance variable section of the class. The ftm var
+ iable that does not use "this" refers to the parameter ftm which is a temp
+ orary local variable used to assign a value to the instance variable.\n\nA
+ ccessor Methods\n----------------\n\n* Implement an accessor method for ea
+ ch instance variable.\n\nOther Methods\n-------------\n\n* Implement a met
+ hod named getFTPercentage. This method calculates and returns the free thr
+ ow percentage using the following formula:\n\nFREE_THROW_PERCENTAGE =\n((d
+ ouble)FREE_THROWS_MADE / FREE_THROWS_ATTEMPTED) * 100\n\n* Implement a met
+ hod named getFG2Percentage. This method calculates and returns the 2 point
+  field goal percentage using the following formula:\n\n2POINT_FIELDGOAL_PE
+ RCENTAGE =\n((double)2POINT_FIELDGOAL_MADE / 2POINT_FIELDGOAL_ATTEMPTED) *
+  100\n\n* Implement a method named getFG3Percentage. This method calculate
+ s and returns the 3 point field goal percentage using the following formul
+ a:\n\n3POINT_FIELDGOAL_PERCENTAGE =\n((double)3POINT_FIELDGOAL_MADE / 3POI
+ NT_FIELDGOAL_ATTEMPTED) * 100\n\n* Implement a method named getPointsScore
+ d. This method calculates and returns the total points scored using the fo
+ llowing formula:\n\nPOINTS_SCORED =\nFREE_THROWS_MADE + 2POINT_FIELDGOAL_M
+ ADE * 2 + 3POINT_FIELDGOAL_MADE * 3\n\nÂ \n\n**********\nTeam class\n*****
+ *****\n\nCreate a file named Team.java and add the following code.\n\nimpo
+ rt java.util.*\;\n\npublic class Team\n{\n// instance variables\n\n// cons
+ tructor\n\n/* This method allows a user to input up to 20 basketball playe
+ rs and\n* stores them in an array.\n*/\npublic void addPlayers()\n{\nScann
+ er keyboard = new Scanner(System.in)\;\n\n}\n\n/* This method displays eac
+ h Player in the array\n*/\npublic void printPlayers()\n{\n\n}\n\npublic st
+ atic void main(String[] args)\n{\nTeam app = new Team()\;\napp.addPlayers(
+ )\;\napp.printPlayers()\;\n}\n}\n\nInstance Variables\n------------------\
+ n\n* Add any necessary instance variables.\n\nConstructors\n------------\n
+ \n* Implement any necessary constructors.\n\naddPlayers Method\n----------
+ -------\n\n* Implement the method addPlayers. This method allows a user to
+  input up to 20 basketball players and stores them in an array.\n\nprintPl
+ ayers Method\n-------------------\n\n* Implement the method printPlayers. 
+ This method displays each Player in the array. The information displayed i
+ ncludes the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attemp
+ ted\, 3FG made\, 3FG attempted\, percentage of FT made\, percentage of 2FG
+  made\, percentage of 3FG made\, and total points scored.\n\n***********\n
+ Source File\n***********\n\nPlayer.java\n\nTeam.java\n\n**********\nSample
+  Run\n**********\n\n************************\n* addPlayers *\n************
+ ************\n\nEnter player name-->Michael Jordan\nEnter free throws made
+  -->5\nEnter free throws attempted -->6\nEnter 2 pt field goals made -->12
+ \nEnter 2 pt field goals attempted -->24\nEnter 3 pt fields goals made --3
+ \nEnter 3 pt field goals attempted -->4\n\nEnter another player [y/n]:y\n\
+ nEnter player name-->Magic Johnson\nEnter free throws made -->1\nEnter fre
+ e throws attempted -->3\nEnter 2 pt field goals made -->8\nEnter 2 pt fiel
+ d goals attempted -->10\nEnter 3 pt fields goals made --1\nEnter 3 pt fiel
+ d goals attempted -->1\n\nEnter another player [y/n]:y\n\nEnter player nam
+ e-->Dirk Nowitzki\nEnter free throws made -->10\nEnter free throws attempt
+ ed -->10\nEnter 2 pt field goals made -->15\nEnter 2 pt field goals attemp
+ ted -->28\nEnter 3 pt fields goals made --4\nEnter 3 pt field goals attemp
+ ted -->5\n\nEnter another player [y/n]:n\n\n************************\n* pr
+ intPlayers *\n************************\nName = Michael Jordan\nFree Throws
+  % = 83.33333333333334\n2 pt Field Goal % = 50.0\n3 pt Field Goal % = 75.0
+ \nTotal Points Scored = 38\n\nName = Magic Johnson\nFree Throws % = 33.333
+ 33333333333\n2 pt Field Goal % = 80.0\n3 pt Field Goal % = 100.0\nTotal Po
+ ints Scored = 20\n\nName = Dirk Nowitzki\nFree Throws % = 100.0\n2 pt Fiel
+ d Goal % = 53.57142857142857\n3 pt Field Goal % = 80.0\nTotal Points Score
+ d = 52\n\nÂ 
+SUMMARY:Basketball [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534675
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>A basketball coach has
+  asked you to write a program that he can use to calculate player stats af
+ ter a game. Given the following information: free throws made\, free throw
+ s attempted\, 2 point field goals made\, 2 point field goals attempted\, 3
+  point field goals made\, and 3 point field goals attempted\, he wants the
+  program to generate the following information: percentage of free throws 
+ made\, percentage of 2 point field goals made\, percentage of 3 point fiel
+ d goals made\, and total points scored.</p>\n<p>You decide the problem can
+  be decomposed into the following two classes: <strong>Player</strong> and
+  <strong>Team</strong>. The Player class stores the player's name\, FT mad
+ e\, FT attempted\, 2FG made\, 2FG attempted\, 3FG made\, and 3FG attempted
+ . The class also calculates the percentage of FT made\, percentage of 2FG 
+ made\, percentage of 3FG made\, and total points scored.</p>\n<p>The Team 
+ class is a client of the Player class. It uses an array to store up to 20 
+ players.</p>\n<h1>Player class</h1>\n<p>Create a file named <strong>Player
+ .java</strong> and add the following code.</p>\n<div id="csCode">\n<pre>pu
+ blic class Player\n{\n    // instance variables\n\n    // constructors\n\n
+     // accessor methods\n	\n    // other methods\n\n}\n</pre>\n</div>\n<h3
+ >Instance Variables</h3>\n<div id="csList">\n<ol>\n<li>Declare a variable 
+ of type String named <strong>playerName</strong>.</li>\n<li>Declare a vari
+ able of type int named <strong>ftm</strong> (free throws made).</li>\n<li>
+ Declare a variable of type int named <strong>fta</strong> (free throws att
+ empted).</li>\n<li>Declare a variable of type int named <strong>fg2m</stro
+ ng> (2 point field goals made).</li>\n<li>Declare a variable of type int n
+ amed <strong>fg2a</strong> (2 point field goals attempted).</li>\n<li>Decl
+ are a variable of type int named <strong>fg3m</strong> (3 point field goal
+ s made).</li>\n<li>Declare a variable of type int named <strong>fg3a</stro
+ ng> (3 point field goals attempted).</li>\n</ol>\n</div>\n<h3>Constructors
+ </h3>\n<div id="csList">\n<ol start="8">\n<li>Add the following constructo
+ r<br>\n<div id="csCode" style="width: 600px\;">\n<pre>public Player(String
+  playerName\, int ftm\, int fta\,\n              int fgm2\, int fga2\, int
+  fgm3\, int fga3)\n   {\n       this.playerName = playerName\;\n       thi
+ s.ftm = ftm\;\n       this.fta = fta\;\n       this.fgm2 = fgm2\;\n       
+ this.fga2 = fga2\;\n       this.fgm3 = fgm3\;\n       this.fga3 = fga3\;\n
+    }</pre>\n</div>\n<p>Notice the use of the keyword <strong>"this"</stron
+ g> in the body of the constructor. "this" is used to allow an object to re
+ fer to itself. I am using it here because I did not want to come up with d
+ ifferent variable name for each of the 7 parameters. Look at the following
+  code from above.</p>\n<div id="csCode" style="width: 130px\;">\n<pre>this
+ .ftm = ftm\;</pre>\n</div>\n<p>The "this" in the code is used to reference
+  the variable ftm declared in the instance variable section of the class. 
+ The ftm variable that does not use "this" refers to the parameter ftm whic
+ h is a temporary local variable used to assign a value to the instance var
+ iable.</p>\n</li>\n</ol>\n</div>\n<h3>Accessor Methods</h3>\n<div id="csLi
+ st">\n<ol start="9">\n<li>Implement an <strong>accessor</strong> method fo
+ r each instance variable.</li>\n</ol>\n</div>\n<h3>Other Methods</h3>\n<di
+ v id="csList">\n<ol start="10">\n<li>Implement a method named <strong>getF
+ TPercentage</strong>. This method calculates and returns the free throw pe
+ rcentage using the following formula:<br><br>\n<div id="csOutput" style="w
+ idth: 580px\; font-size: 1.0em\;">\n<pre>FREE_THROW_PERCENTAGE =<br> ((dou
+ ble)FREE_THROWS_MADE / FREE_THROWS_ATTEMPTED) * 100\n</pre>\n</div>\n</li>
+ \n<li>Implement a method named <strong>getFG2Percentage</strong>. This met
+ hod calculates and returns the 2 point field goal percentage using the fol
+ lowing formula:<br><br>\n<div id="csOutput" style="width: 580px\; font-siz
+ e: 1.0em\;">\n<pre>2POINT_FIELDGOAL_PERCENTAGE =<br> ((double)2POINT_FIELD
+ GOAL_MADE / 2POINT_FIELDGOAL_ATTEMPTED) * 100\n</pre>\n</div>\n</li>\n<li>
+ Implement a method named <strong>getFG3Percentage</strong>. This method ca
+ lculates and returns the 3 point field goal percentage using the following
+  formula:<br><br>\n<div id="csOutput" style="width: 580px\; font-size: 1.0
+ em\;">\n<pre>3POINT_FIELDGOAL_PERCENTAGE =<br> ((double)3POINT_FIELDGOAL_M
+ ADE / 3POINT_FIELDGOAL_ATTEMPTED) * 100\n</pre>\n</div>\n</li>\n<li>Implem
+ ent a method named <strong>getPointsScored</strong>. This method calculate
+ s and returns the total points scored using the following formula:<br><br>
+ \n<div id="csOutput" style="width: 580px\; font-size: 1.0em\;">\n<pre>POIN
+ TS_SCORED = <br>FREE_THROWS_MADE + 2POINT_FIELDGOAL_MADE * 2 + 3POINT_FIEL
+ DGOAL_MADE * 3\n</pre>\n</div>\n</li>\n</ol>\n</div>\n<p>&nbsp\;</p>\n<h1>
+ Team class</h1>\n<p>Create a file named <strong>Team.java</strong> and add
+  the following code.</p>\n<div id="csCode">\n<pre>import java.util.*\;\n\n
+ public class Team\n{\n    // instance variables\n\n    // constructor\n\n\
+ n    /* This method allows a user to input up to 20 basketball players and
+  \n     *  stores them in an array.\n     */\n    public void addPlayers()
+ \n    {\n        Scanner keyboard = new Scanner(System.in)\;\n\n\n    }\n\
+ n    /* This method displays each Player in the array \n     */\n    publi
+ c void printPlayers()\n    {\n\n    }\n\n    public static void main(Strin
+ g[] args)\n    {\n        Team app = new Team()\;\n        app.addPlayers(
+ )\;\n        app.printPlayers()\;\n    }\n}\n</pre>\n</div>\n<h3>Instance 
+ Variables</h3>\n<div id="csList">\n<ol start="14">\n<li>Add any necessary 
+ instance variables.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div id="c
+ sList">\n<ol start="15">\n<li>Implement any necessary constructors.</li>\n
+ </ol>\n</div>\n<h3>addPlayers Method</h3>\n<div id="csList">\n<ol start="1
+ 6">\n<li>Implement the method <strong>addPlayers</strong>. This method all
+ ows a user to input up to 20 basketball players and stores them in an arra
+ y.</li>\n</ol>\n</div>\n<h3>printPlayers Method</h3>\n<div id="csList">\n<
+ ol start="17">\n<li>Implement the method <strong>printPlayers</strong>. Th
+ is method displays each Player in the array. The information displayed inc
+ ludes the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attempte
+ d\, 3FG made\, 3FG attempted\, percentage of FT made\, percentage of 2FG m
+ ade\, percentage of 3FG made\, and total points scored.</li>\n</ol>\n</div
+ >\n<h1>Source File</h1>\n<p>Player.java</p>\n<p>Team.java</p>\n<h1>Sample 
+ Run</h1>\n<div id="csSampleRun">\n<pre>************************\n*      ad
+ dPlayers      *\n************************\n\nEnter player name--&gt\;Micha
+ el Jordan\nEnter free throws made --&gt\;5\nEnter free throws attempted --
+ &gt\;6\nEnter 2 pt field goals made --&gt\;12\nEnter 2 pt field goals atte
+ mpted --&gt\;24\nEnter 3 pt fields goals made --3\nEnter 3 pt field goals 
+ attempted --&gt\;4\n\nEnter another player [y/n]:y\n\nEnter player name--&
+ gt\;Magic Johnson\nEnter free throws made --&gt\;1\nEnter free throws atte
+ mpted --&gt\;3\nEnter 2 pt field goals made --&gt\;8\nEnter 2 pt field goa
+ ls attempted --&gt\;10\nEnter 3 pt fields goals made --1\nEnter 3 pt field
+  goals attempted --&gt\;1\n\nEnter another player [y/n]:y\n\nEnter player 
+ name--&gt\;Dirk Nowitzki\nEnter free throws made --&gt\;10\nEnter free thr
+ ows attempted --&gt\;10\nEnter 2 pt field goals made --&gt\;15\nEnter 2 pt
+  field goals attempted --&gt\;28\nEnter 3 pt fields goals made --4\nEnter 
+ 3 pt field goals attempted --&gt\;5\n\nEnter another player [y/n]:n\n\n***
+ *********************\n*     printPlayers     *\n************************\
+ nName = Michael Jordan\nFree Throws % = 83.33333333333334\n2 pt Field Goal
+  % = 50.0\n3 pt Field Goal % = 75.0\nTotal Points Scored = 38\n\nName = Ma
+ gic Johnson\nFree Throws % = 33.33333333333333\n2 pt Field Goal % = 80.0\n
+ 3 pt Field Goal % = 100.0\nTotal Points Scored = 20\n\nName = Dirk Nowitzk
+ i\nFree Throws % = 100.0\n2 pt Field Goal % = 53.57142857142857\n3 pt Fiel
+ d Goal % = 80.0\nTotal Points Scored = 52\n</pre>\n</div>\n<p><br><br></p>
+ \n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-assignment-2537942
+DTSTAMP:20220125T133300Z
+UID:event-assignment-2534676
+DTSTART;VALUE=DATE:20220125T232900
+DTEND;VALUE=DATE:20220125T235900
+DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that stor
+ es birthday information about your friends and family. This information sh
+ ould include the person's name and birthday. The program should allow you 
+ to enter info for at least 50 people and then display this information on 
+ the console window.\n\nThe program should be decomposed into the following
+  two classes: Birthday and BirthdayManager. The Birthday class stores a pe
+ rson's name and birthday. The BirthdayManager class is a client of the Bir
+ thday class. It maintains a list of up to 50 people.\n\nIn writing these t
+ wo classes include any necessary instance variables\, constructors\, and m
+ ethods.\n\nÂ \n\n**********\nSample Run\n**********\n\n*******************
+ *****\n* addBirthdays *\n************************\nEnter name --> John Way
+ ne\nEnter Bday --> March 25\n\nEnter Another[y/n] : y\n\nEnter name --> Ji
+ mmy Stewart\nEnter Bday --> November 14\n\nEnter Another[y/n] : y\n\nEnter
+  name --> Clark Gable\nEnter Bday --> August 2\n\nEnter Another[y/n] : n\n
+ \n************************\n* printBirthdays *\n************************\n
+ \nEnter name = John Wayne\nEnter Bday = March 25\n\nEnter name = Jimmy Ste
+ wart\nEnter Bday = November 14\n\nEnter name = Clark Gable\nEnter Bday = A
+ ugust 2\n\nÂ 
+SUMMARY:Birthday List [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534676
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that s
+ tores birthday information about your friends and family. This information
+  should include the person's name and birthday. The program should allow y
+ ou to enter info for at least 50 people and then display this information 
+ on the console window.</p>\n<p>The program should be decomposed into the f
+ ollowing two classes: <strong>Birthday</strong> and <strong>BirthdayManage
+ r</strong>. The Birthday class stores a person's name and birthday. The Bi
+ rthdayManager class is a client of the Birthday class. It maintains a list
+  of up to 50 people.</p>\n<p>In writing these two classes include any nece
+ ssary instance variables\, constructors\, and methods.</p>\n<p>&nbsp\;</p>
+ \n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre>**********************
+ **\n*     addBirthdays     *\n************************\nEnter name --&gt\;
+  John Wayne\nEnter Bday --&gt\; March 25\n\nEnter Another[y/n] : y\n\nEnte
+ r name --&gt\; Jimmy Stewart\nEnter Bday --&gt\; November 14\n\nEnter Anot
+ her[y/n] : y\n\nEnter name --&gt\; Clark Gable\nEnter Bday --&gt\; August 
+ 2\n\nEnter Another[y/n] : n\n\n************************\n*    printBirthda
+ ys    *\n************************\n\nEnter name = John Wayne\nEnter Bday =
+  March 25\n\nEnter name = Jimmy Stewart\nEnter Bday = November 14\n\nEnter
+  name = Clark Gable\nEnter Bday = August 2\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T040700Z
+UID:event-assignment-2534674
+DTSTART;VALUE=DATE:20220125T232900
+DTEND;VALUE=DATE:20220125T235900
+DESCRIPTION:**********\nDirections\n**********\n\nAn English class in a sma
+ ll rural school is reading Hamlet. The teacher assigns a book to each stud
+ ent in the class. She has asked you to write a program that can help her k
+ eep track of books assigned to each student. You decide the problem can be
+  decomposed into the following two classes: Book and Inventory. The Book c
+ lass stores the name of a student and the assigned book number. The Invent
+ ory class is a client of the Book class. It uses an array to store up to 2
+ 0 books.\n\n**********\nBook class\n**********\n\nCreate a file named Book
+ .java and add the following code.\n\npublic class Book\n{\n// instance var
+ iables\n\n// constructors\n\n// accessor methods\n\n// toString method\n	\
+ n}\n\nInstance Variables\n------------------\n\n* Declare a variable of ty
+ pe String named studentName.\n\n* Declare a variable of type String named 
+ bookNumber.\n\nConstructors\n------------\n\n* Implement a constructor whi
+ ch allows a client to assign initial values to studentName and bookNumber.
+ \n\nAccessor Methods\n----------------\n\n* Implement an accessor method f
+ or each instance variable.\n\ntoString Method\n---------------\n\n* Implem
+ ent a toString method.\n\nÂ \n\n***************\nInventory class\n********
+ *******\n\nCreate a file named Inventory.java and add the following code.\
+ n\nimport java.util.*\;\n\npublic class Inventory\n{\n// instance variable
+ s\nprivate Book[] books\; // declare array variable\nprivate int numBooks\
+ ; // logical size of array\n\n// constructor\npublic Inventory()\n{\nbooks
+  = new Book[20]\; // instantiate array with length 20\nnumBooks = 0\; // n
+ o books added yet\n}\n\n/* This method allows a user to input up to 20 boo
+ ks and stores them\nin the array books.\n*/\npublic void addBooks()\n{\nSc
+ anner keyboard = new Scanner(System.in)\;\n\n}\n\n/* This method displays 
+ the student name and book number for each\n* Book in the array.\n*/\npubli
+ c void printBooks()\n{\n\n}\n\npublic static void main(String[] args)\n{\n
+ Inventory app = new Inventory()\;\napp.addBooks()\;\napp.printBooks()\;\n}
+ \n}\n\naddBooks Method\n---------------\n\n* Implement the method addBooks
+ . This method allows a user to enter up to 20 books and stores them in the
+  array books.\n\nHere is the pseudocode for the method.\n\nloop while ANSW
+ ER = "y"\noutput "Student Name -->"\ninput NAME\noutput "Book Number -->"\
+ ninput NUMBER\n\nBOOKS[NUMBOOKS] = new Book(NAME\, NUMBER)\;\nNUMBOOKS = N
+ UMBOOKS + 1\;\n\noutput "Enter another book[y/n]:"\ninput ANSWER\nend loop
+ \n\nprintBooks Method\n-----------------\n\n* Implement the method printBo
+ oks. This method displays the student name and book number for each Book i
+ n the array.\n\n***********\nSource File\n***********\n\nBook.java\n\nInve
+ ntory.java\n\n**********\nSample Run\n**********\n\n**********************
+ **\n* addBooks *\n************************\nStudent Name -->John Wayne\nBo
+ ok Number -->5\n\nEnter another book[y/n]: y\n\nStudent Name -->Jimmy Stew
+ art\nBook Number -->19\n\nEnter another book[y/n]: y\n\nStudent Name -->Na
+ talie Wood\nBook Number -->2\n\nEnter another book[y/n]: y\n\nStudent Name
+  -->Clint Eastwood\nBook Number -->15\n\nEnter another book[y/n]: n\n\n***
+ *********************\n* printBooks *\n************************\nStudent N
+ ame = John Wayne\nBook Number = 5\n\nStudent Name = Jimmy Stewart\nBook Nu
+ mber = 19\n\nStudent Name = Natalie Wood\nBook Number = 2\n\nStudent Name 
+ = Clint Eastwood\nBook Number = 15
+SUMMARY:Book Inventory [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534674
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>An English class in a 
+ small rural school is reading Hamlet. The teacher assigns a book to each s
+ tudent in the class. She has asked you to write a program that can help he
+ r keep track of books assigned to each student. You decide the problem can
+  be decomposed into the following two classes: <strong>Book</strong> and <
+ strong>Inventory</strong>. The Book class stores the name of a student and
+  the assigned book number. The Inventory class is a client of the Book cla
+ ss. It uses an array to store up to 20 books.</p>\n<h1>Book class</h1>\n<p
+ >Create a file named <strong>Book.java</strong> and add the following code
+ .</p>\n<div id="csCode">\n<pre>public class Book\n{\n    // instance varia
+ bles\n\n    // constructors\n\n    // accessor methods\n\n    // toString 
+ method\n	\n}\n</pre>\n</div>\n<h3>Instance Variables</h3>\n<div id="csList
+ ">\n<ol>\n<li>Declare a variable of type String named <strong>studentName<
+ /strong>.</li>\n<li>Declare a variable of type String named <strong>bookNu
+ mber</strong>.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div id="csList
+ ">\n<ol start="3">\n<li>Implement a <strong>constructor</strong> which all
+ ows a client to assign initial values to studentName and bookNumber.</li>\
+ n</ol>\n</div>\n<h3>Accessor Methods</h3>\n<div id="csList">\n<ol start="4
+ ">\n<li>Implement an <strong>accessor</strong> method for each instance va
+ riable.</li>\n</ol>\n</div>\n<h3>toString Method</h3>\n<div id="csList">\n
+ <ol start="5">\n<li>Implement a <strong>toString</strong> method.</li>\n</
+ ol>\n</div>\n<p>&nbsp\;</p>\n<h1>Inventory class</h1>\n<p>Create a file na
+ med <strong>Inventory.java</strong> and add the following code.</p>\n<div 
+ id="csCode">\n<pre>import java.util.*\;\n\npublic class Inventory\n{\n    
+ // instance variables\n    private Book[] books\;     // declare array var
+ iable\n    private int numBooks\;     // logical size of array\n\n    // c
+ onstructor\n    public Inventory()\n    {\n        books = new Book[20]\; 
+  // instantiate array with length 20\n        numBooks = 0\;          // n
+ o books added yet\n    }\n\n    /* This method allows a user to input up t
+ o 20 books and stores them\n       in the array books.\n     */\n    publi
+ c void addBooks()\n    {\n        Scanner keyboard = new Scanner(System.in
+ )\;\n\n\n    }\n\n    /* This method displays the student name and book nu
+ mber for each \n     * Book in the array.\n     */\n    public void printB
+ ooks()\n    {\n\n    }\n\n    public static void main(String[] args)\n    
+ {\n        Inventory app = new Inventory()\;\n        app.addBooks()\;\n  
+       app.printBooks()\;\n    }\n}\n</pre>\n</div>\n<h3>addBooks Method</h
+ 3>\n<div id="csList">\n<ol start="6">\n<li>Implement the method <strong>ad
+ dBooks</strong>. This method allows a user to enter up to 20 books and sto
+ res them in the array books.<br><br>Here is the pseudocode for the method.
+ <br>\n<div id="csOutput">\n<pre>loop while ANSWER = "y"\n   output "Studen
+ t Name --&gt\;"\n   input NAME\n   output "Book Number --&gt\;"\n   input 
+ NUMBER\n\n   BOOKS[NUMBOOKS] = new Book(NAME\, NUMBER)\;\n   NUMBOOKS = NU
+ MBOOKS + 1\;\n   \n   output "Enter another book[y/n]:"\n   input ANSWER\n
+ end loop</pre>\n</div>\n</li>\n</ol>\n</div>\n<h3>printBooks Method</h3>\n
+ <div id="csList">\n<ol start="7">\n<li>Implement the method <strong>printB
+ ooks</strong>. This method displays the student name and book number for e
+ ach Book in the array.</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>Book.
+ java</p>\n<p>Inventory.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun
+ ">\n<pre>************************\n*       addBooks       *\n*************
+ ***********\nStudent Name --&gt\;John Wayne\nBook Number --&gt\;5\n\nEnter
+  another book[y/n]: y\n\nStudent Name --&gt\;Jimmy Stewart\nBook Number --
+ &gt\;19\n\nEnter another book[y/n]: y\n\nStudent Name --&gt\;Natalie Wood\
+ nBook Number --&gt\;2\n\nEnter another book[y/n]: y\n\nStudent Name --&gt\
+ ;Clint Eastwood\nBook Number --&gt\;15\n\nEnter another book[y/n]: n\n\n**
+ **********************\n*      printBooks      *\n************************
+ \nStudent Name = John Wayne\nBook Number = 5\n\nStudent Name = Jimmy Stewa
+ rt\nBook Number = 19\n\nStudent Name = Natalie Wood\nBook Number = 2\n\nSt
+ udent Name = Clint Eastwood\nBook Number = 15\n</pre>\n</div>\n<p><br><br>
+ <br></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T040700Z
+UID:event-assignment-2534672
+DTSTART;VALUE=DATE:20220125T232900
+DTEND;VALUE=DATE:20220125T235900
+DESCRIPTION:**********\nDirections\n**********\n\nIn this assignment you ar
+ e going to implement two classes: Dog and Kennel. The Dog class stores inf
+ ormation about a dog including the dog's name and breed. The Kennel class 
+ is a client of the Dog class. It can store up to 5 Dog objects in an array
+ .\n\n*********\nDog class\n*********\n\nCreate a file named Dog.java and a
+ dd the following code.\n\npublic class Dog\n{\n// instance variables\n\n//
+  constructors\n\n// accessor methods\n\n// mutator methods\n	\n}\n\nInstan
+ ce Variables\n------------------\n\n* Declare a variable of type String na
+ med name.\n\n* Declare a variable of type String named breed.\n\nConstruct
+ ors\n------------\n\n* Implement a default constructor.\n\n* Implement a s
+ econd constructor which allows a client to assign initial values to name a
+ nd breed.\n\nAccessor Methods\n----------------\n\n* Implement an accessor
+  method for each instance variable.\n\nMutator Methods\n---------------\n\
+ n* Implement a mutator method for each instance variable.\n\nÂ \n\n*******
+ *****\nKennel class\n************\n\nCreate a file named Kennel.java and a
+ dd the following code.\n\nimport java.util.*\;\n\npublic class Kennel\n{\n
+ // instance variable\nprivate Dog[] dogs\; // declare array variable\n\n//
+  constructor\npublic Kennel()\n{\ndogs = new Dog[5]\; // instantiate array
+  with length 5\n}\n\n/* This method allows a user input information about 
+ 5 dogs and\n* stores this information in the array dogs.\n*/\npublic void 
+ addDogs()\n{\nScanner keyboard = new Scanner(System.in)\;\n\n}\n\n/* This 
+ method displays the name and breed for each Dog in the array.\n*/\npublic 
+ void printDogs()\n{\n\n}\n\npublic static void main(String[] args)\n{\nKen
+ nel app = new Kennel()\;\napp.addDogs()\;\napp.printDogs()\;\n}\n}\n\naddD
+ ogs Method\n--------------\n\n* Implement the method addDogs. This method 
+ allows a user to enter information for 5 dogs and store this information i
+ n the array dogs.\n\nHere is the pseudocode for the method.\n\nloop I from
+  0 to 4\noutput "Enter dog name -->"\ninput NAME\noutput "Enter dog breed 
+ -->"\ninput BREED\n\nDOGS[I] = new Dog(NAME\, BREED)\;\nend loop\n\nprintD
+ ogs Method\n----------------\n\n* Implement the method printDogs. This met
+ hod displays the name and breed for each dog in the array.\n\nHere is the 
+ pseudocode for the method.\n\nloop I from 0 to 4\noutput DOGS[I].getName()
+ \;\noutput DOGS[I].getBreed()\;\nend loop\n\n***********\nSource File\n***
+ ********\n\nDog.java\n\nKennel.java\n\n**********\nSample Run\n**********\
+ n\n************************\n* addDogs *\n************************\nEnter 
+ dog name -->Maddie\nEnter dog breed -->Golden Retriever\n\nEnter dog name 
+ -->Sam\nEnter dog breed -->Black Lab\n\nEnter dog name -->Mitzy\nEnter dog
+  breed -->Beagle\n\nEnter dog name -->Rex\nEnter dog breed -->German Shepe
+ rd\n\nEnter dog name -->Sally\nEnter dog breed -->mix\n\n*****************
+ *******\n* printDogs *\n************************\nDog name = Maddie\nDog b
+ reed = Golden Retriever\n\nDog name = Sam\nDog breed = Black Lab\n\nDog na
+ me = Mitzy\nDog breed = Beagle\n\nDog name = Rex\nDog breed = German Shepe
+ rd\n\nDog name = Sally\nDog breed = mix\n\nÂ 
+SUMMARY:Kennel [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=01&year=2022#assignment_2534672
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>In this assignment you
+  are going to implement two classes: <strong>Dog</strong> and <strong>Kenn
+ el</strong>. The Dog class stores information about a dog including the do
+ g's name and breed. The Kennel class is a client of the Dog class. It can 
+ store up to 5 Dog objects in an array.</p>\n<h1>Dog class</h1>\n<p>Create 
+ a file named <strong>Dog.java</strong> and add the following code.</p>\n<d
+ iv id="csCode">\n<pre>public class Dog\n{\n    // instance variables\n\n  
+   // constructors\n\n    // accessor methods\n\n    // mutator methods\n	\
+ n}\n</pre>\n</div>\n<h3>Instance Variables</h3>\n<div id="csList">\n<ol>\n
+ <li>Declare a variable of type String named <strong>name</strong>.</li>\n<
+ li>Declare a variable of type String named <strong>breed</strong>.</li>\n<
+ /ol>\n</div>\n<h3>Constructors</h3>\n<div id="csList">\n<ol start="3">\n<l
+ i>Implement a <strong>default constructor</strong>.</li>\n<li>Implement a 
+ <strong>second constructor</strong> which allows a client to assign initia
+ l values to name and breed.</li>\n</ol>\n</div>\n<h3>Accessor Methods</h3>
+ \n<div id="csList">\n<ol start="5">\n<li>Implement an <strong>accessor met
+ hod</strong> for each instance variable.</li>\n</ol>\n</div>\n<h3>Mutator 
+ Methods</h3>\n<div id="csList">\n<ol start="6">\n<li>Implement a <strong>m
+ utator method</strong> for each instance variable.</li>\n</ol>\n</div>\n<p
+ >&nbsp\;</p>\n<h1>Kennel class</h1>\n<p>Create a file named <strong>Kennel
+ .java</strong> and add the following code.</p>\n<div id="csCode">\n<pre>im
+ port java.util.*\;\n\npublic class Kennel\n{\n    // instance variable\n  
+   private Dog[] dogs\;     // declare array variable\n\n    // constructor
+ \n    public Kennel()\n    {\n        dogs = new Dog[5]\;  // instantiate 
+ array with length 5\n    }\n\n    /* This method allows a user input infor
+ mation about 5 dogs and\n     * stores this information in the array dogs.
+ \n     */\n    public void addDogs()\n    {\n        Scanner keyboard = ne
+ w Scanner(System.in)\;\n\n\n    }\n\n    /* This method displays the name 
+ and breed for each Dog in the array.\n     */\n    public void printDogs()
+ \n    {\n\n    }\n\n    public static void main(String[] args)\n    {\n   
+      Kennel app = new Kennel()\;\n        app.addDogs()\;\n        app.pri
+ ntDogs()\;\n    }\n}\n</pre>\n</div>\n<h3>addDogs Method</h3>\n<div id="cs
+ List">\n<ol start="7">\n<li>Implement the method <strong>addDogs</strong>.
+  This method allows a user to enter information for 5 dogs and store this 
+ information in the array dogs.<br><br>Here is the pseudocode for the metho
+ d.<br>\n<div id="csOutput">\n<pre>loop I from 0 to 4\n   output "Enter dog
+  name --&gt\;"\n   input NAME\n   output "Enter dog breed --&gt\;"\n   inp
+ ut BREED\n\n   DOGS[I] = new Dog(NAME\, BREED)\;\nend loop</pre>\n</div>\n
+ </li>\n</ol>\n</div>\n<h3>printDogs Method</h3>\n<div id="csList">\n<ol st
+ art="8">\n<li>Implement the method <strong>printDogs</strong>. This method
+  displays the name and breed for each dog in the array.<br><br>Here is the
+  pseudocode for the method.<br>\n<div id="csOutput">\n<pre>loop I from 0 t
+ o 4\n   output DOGS[I].getName()\;\n   output DOGS[I].getBreed()\;\nend lo
+ op</pre>\n</div>\n</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>Dog.java<
+ /p>\n<p>Kennel.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre
+ >************************\n*       addDogs        *\n*********************
+ ***\nEnter dog name --&gt\;Maddie\nEnter dog breed --&gt\;Golden Retriever
+ \n\nEnter dog name --&gt\;Sam\nEnter dog breed --&gt\;Black Lab\n\nEnter d
+ og name --&gt\;Mitzy\nEnter dog breed --&gt\;Beagle\n\nEnter dog name --&g
+ t\;Rex\nEnter dog breed --&gt\;German Sheperd\n\nEnter dog name --&gt\;Sal
+ ly\nEnter dog breed --&gt\;mix\n\n************************\n*      printDo
+ gs       *\n************************\nDog name = Maddie\nDog breed = Golde
+ n Retriever\n\nDog name = Sam\nDog breed = Black Lab\n\nDog name = Mitzy\n
+ Dog breed = Beagle\n\nDog name = Rex\nDog breed = German Sheperd\n\nDog na
+ me = Sally\nDog breed = mix\n</pre>\n</div>\n<p><br><br></p>\n<p>&nbsp\;</
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220120T190800Z
+UID:event-assignment-2716122
 DTSTART;VALUE=DATE:20220126T232900
 DTEND;VALUE=DATE:20220126T235900
-DESCRIPTION:[PAP Topic 2 Absolute Value\, graphing\, transformations HW.pdf
- ] (https://lisdtx.instructure.com/courses/172585/files/19814588/preview)
-SUMMARY:HW DUE: 2.3 - 2.5 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2537942
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="PAP Topic 2 Absolute Value\, graphing\, transformatio
- ns HW.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814
- 588/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure
- .com/api/v1/courses/172585/files/19814588" data-api-returntype="File">PAP 
- Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-calendar-event-520458
-DTSTART;VALUE=DATE:20220127
-DTEND;VALUE=DATE:20220128
-DESCRIPTION:[Topic 2 Review PAP.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814516/preview)
-SUMMARY:Review - Topic 2 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520458
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Topic 2 Review PAP.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814516/preview" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981451
- 6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190000Z
-UID:event-assignment-2537951
-DTSTART;VALUE=DATE:20220128T232900
-DTEND;VALUE=DATE:20220128T235900
 DESCRIPTION:
-SUMMARY:Topic 2 Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2537951
+SUMMARY:1/26- Water Bottle Wenesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=01&year=2022#assignment_2716122
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,6 +3003,31 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=01&year=2022#assignment_2499117
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220125T181000Z
+UID:event-assignment-2695663
+DTSTART:20220130T213500Z
+DTEND:20220130T213500Z
+DESCRIPTION:This is a group quiz. But hurry\, you only have 30 minutes.
+SUMMARY:UNIT 0 QUIZ PHYSICS BASICS [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2695663
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a group quiz. But hurry\, you only 
+ have 30 minutes.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T233000Z
+UID:event-assignment-2600462
+DTSTART;VALUE=DATE:20220130T232900
+DTEND;VALUE=DATE:20220130T235900
+DESCRIPTION:This is a timed quiz.Â  You have 30 minutes of until 3:15 PM\, 
+ which ever comes first.
+SUMMARY:Fundamentals Quiz [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=01&year=2022#assignment_2600462
+X-ALT-DESC;FMTTYPE=text/html:<p>This is a timed quiz.&nbsp\; You have 30 mi
+ nutes of until 3:15 PM\, which ever comes first.</p>
+END:VEVENT
+BEGIN:VEVENT
 UID:event-assignment-2433334
 DTSTART;VALUE=DATE:20220130T232900
 DTEND;VALUE=DATE:20220130T235900
@@ -2538,46 +3041,48 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
   HHS Auditorium</p>\n<p>When? TBD</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190000Z
-UID:event-calendar-event-520526
+DTSTAMP:20220125T205900Z
+UID:event-calendar-event-520501
 DTSTART;VALUE=DATE:20220131
 DTEND;VALUE=DATE:20220201
-DESCRIPTION:[3.1-3.2 Solve Systems by table\, graph and math Blank Notes.pd
- f] (https://lisdtx.instructure.com/courses/172585/files/19814608/preview)\
- n\nHW: [3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/cour
- ses/172585/files/19814612/download?wrap=1)\n\nÂ 
-SUMMARY:3.1 - 3.2 Notes: Systems [Alg 2 Hon-RIORDAN]
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520526
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.1-3.2 Solve Systems by table\, graph and math Blank
-  Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981
- 4608/preview" target="_blank" data-api-endpoint="https://lisdtx.instructur
- e.com/api/v1/courses/172585/files/19814608" data-api-returntype="File">3.1
- -3.2 Solve Systems by table\, graph and math Blank Notes.pdf</a></p>\n<p>H
- W: <a id="6668117" class="instructure_file_link instructure_scribd_file" h
- ref="https://lisdtx.instructure.com/courses/172585/files/19814612/download
- ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
- "https://lisdtx.instructure.com/api/v1/courses/172585/files/19814612" data
- -api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\n<p>&nbsp\;</p
- >
+ month=01&year=2022#calendar_event_520501
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190000Z
-UID:event-calendar-event-520463
-DTSTART;VALUE=DATE:20220131
-DTEND;VALUE=DATE:20220201
-DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
- urses/172585/files/19814584/preview)
-SUMMARY:Topics 3 & 4 Review [Alg 2 Hon-RIORDAN]
+DTSTAMP:20220125T205900Z
+UID:event-assignment-2537942
+DTSTART;VALUE=DATE:20220131T232900
+DTEND;VALUE=DATE:20220131T235900
+DESCRIPTION:[PAP Topic 2 Absolute Value\, graphing\, transformations HW.pdf
+ ] (https://lisdtx.instructure.com/courses/172585/files/19814588/preview)
+SUMMARY:HW DUE: 2.3 - 2.5 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520463
+ month=01&year=2022#assignment_2537942
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Topic 3 &amp\; 4 Review PAP.pdf" href="https://lisdtx
- .instructure.com/courses/172585/files/19814584/preview" target="_blank" da
- ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
- s/19814584" data-api-returntype="File">Topic 3 &amp\; 4 Review PAP.pdf</a>
- </p>
+ _scribd_file" title="PAP Topic 2 Absolute Value\, graphing\, transformatio
+ ns HW.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814
+ 588/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure
+ .com/api/v1/courses/172585/files/19814588" data-api-returntype="File">PAP 
+ Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205900Z
+UID:event-calendar-event-520458
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+DESCRIPTION:[Topic 2 Review PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814516/preview)
+SUMMARY:Review - Topic 2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520458
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 2 Review PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814516/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981451
+ 6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
@@ -2598,116 +3103,68 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499119
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190200Z
-UID:event-calendar-event-520527
-DTSTART;VALUE=DATE:20220202
-DTEND;VALUE=DATE:20220203
-DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming Blank N
- otes.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814555/pr
- eview)\n\nHW: [3.3-3.4 Systems of Inequalities and Linear Programming.pdf]
-  (https://lisdtx.instructure.com/courses/172585/files/19814474/preview)\n\
- nÂ 
-SUMMARY:3.3 - 3.4 Graphing Systems [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520527
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
- g Blank Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
- es/19814555/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
- tructure.com/api/v1/courses/172585/files/19814555" data-api-returntype="Fi
- le">3.3-3.4 Systems of Inequalities and Linear Programming Blank Notes.pdf
- </a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" 
- title="3.3-3.4 Systems of Inequalities and Linear Programming.pdf" href="h
- ttps://lisdtx.instructure.com/courses/172585/files/19814474/preview" targe
- t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
- s/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems of Ine
- qualities and Linear Programming.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190200Z
-UID:event-assignment-2537917
+DTSTAMP:20220125T205900Z
+UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220202T232900
 DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:[3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/
- courses/172585/files/19814612/preview)\n\nÂ 
-SUMMARY:HW DUE 3.1-3.2 & Systems Applications [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537917
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.1-3.2  and Systems Apps.pdf" href="https://lisdtx.i
- nstructure.com/courses/172585/files/19814612/preview" target="_blank" data
- -api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/
- 19814612" data-api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\
- n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190200Z
-UID:event-calendar-event-520487
-DTSTART;VALUE=DATE:20220203
-DTEND;VALUE=DATE:20220204
-DESCRIPTION:[3.5 Systems with 3 Variables Blank Notes.pdf] (https://lisdtx.
- instructure.com/courses/172585/files/19814567/preview)\n\nHW: [3.5 Systems
-  in 3 Variables.pdf] (https://lisdtx.instructure.com/courses/172585/files/
- 19814502/preview)\n\nÂ 
-SUMMARY:3.5 Systems in 3 Variables [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520487
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.5 Systems with 3 Variables Blank Notes.pdf" href="h
- ttps://lisdtx.instructure.com/courses/172585/files/19814567/preview" targe
- t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
- s/172585/files/19814567" data-api-returntype="File">3.5 Systems with 3 Var
- iables Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link ins
- tructure_scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https:/
- /lisdtx.instructure.com/courses/172585/files/19814502/preview" target="_bl
- ank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/1725
- 85/files/19814502" data-api-returntype="File">3.5 Systems in 3 Variables.p
- df</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190200Z
-UID:event-assignment-2537918
-DTSTART;VALUE=DATE:20220203T232900
-DTEND;VALUE=DATE:20220203T235900
-DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming.pdf] (h
- ttps://lisdtx.instructure.com/courses/172585/files/19814474/download?wrap=
- 1)
-SUMMARY:HW DUE 3.3-3.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537918
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
- g.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814474/
- download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
- courses/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems 
- of Inequalities and Linear Programming.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-calendar-event-520509
-DTSTART;VALUE=DATE:20220204
-DTEND;VALUE=DATE:20220205
 DESCRIPTION:
-SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+SUMMARY:Topic 2 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520509
+ month=02&year=2022#assignment_2537951
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-assignment-2537919
-DTSTART;VALUE=DATE:20220204T232900
-DTEND;VALUE=DATE:20220204T235900
-DESCRIPTION:[3.5 Systems in 3 Variables.pdf] (https://lisdtx.instructure.co
- m/courses/172585/files/19814502/download?wrap=1)
-SUMMARY:HW DUE 3.5 [Alg 2 Hon-RIORDAN]
+DTSTAMP:20220120T185600Z
+UID:event-assignment-2716264
+DTSTART;VALUE=DATE:20220202T232900
+DTEND;VALUE=DATE:20220202T235900
+DESCRIPTION:
+SUMMARY:2/2 - Water Bottle Wednesday  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2716264
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210000Z
+UID:event-calendar-event-520526
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+DESCRIPTION:[3.1-3.2 Solve Systems by table\, graph and math Blank Notes.pd
+ f] (https://lisdtx.instructure.com/courses/172585/files/19814608/preview)\
+ n\nHW: [3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814612/download?wrap=1)\n\nÂ 
+SUMMARY:3.1 - 3.2 Notes: Systems [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537919
+ month=02&year=2022#calendar_event_520526
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https://lisdtx.
- instructure.com/courses/172585/files/19814502/download?wrap=1" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981450
- 2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
+ _scribd_file" title="3.1-3.2 Solve Systems by table\, graph and math Blank
+  Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981
+ 4608/preview" target="_blank" data-api-endpoint="https://lisdtx.instructur
+ e.com/api/v1/courses/172585/files/19814608" data-api-returntype="File">3.1
+ -3.2 Solve Systems by table\, graph and math Blank Notes.pdf</a></p>\n<p>H
+ W: <a id="6668117" class="instructure_file_link instructure_scribd_file" h
+ ref="https://lisdtx.instructure.com/courses/172585/files/19814612/download
+ ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
+ "https://lisdtx.instructure.com/api/v1/courses/172585/files/19814612" data
+ -api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\n<p>&nbsp\;</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210000Z
+UID:event-calendar-event-520463
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
+ urses/172585/files/19814584/preview)
+SUMMARY:Topics 3 & 4 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520463
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Topic 3 &amp\; 4 Review PAP.pdf" href="https://lisdtx
+ .instructure.com/courses/172585/files/19814584/preview" target="_blank" da
+ ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
+ s/19814584" data-api-returntype="File">Topic 3 &amp\; 4 Review PAP.pdf</a>
+ </p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
@@ -2737,10 +3194,151 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2693761
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190400Z
-UID:event-calendar-event-520528
+DTSTAMP:20220125T210300Z
+UID:event-calendar-event-520527
 DTSTART;VALUE=DATE:20220207
 DTEND;VALUE=DATE:20220208
+DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming Blank N
+ otes.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814555/pr
+ eview)\n\nHW: [3.3-3.4 Systems of Inequalities and Linear Programming.pdf]
+  (https://lisdtx.instructure.com/courses/172585/files/19814474/preview)\n\
+ nÂ 
+SUMMARY:3.3 - 3.4 Graphing Systems [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520527
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
+ g Blank Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
+ es/19814555/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172585/files/19814555" data-api-returntype="Fi
+ le">3.3-3.4 Systems of Inequalities and Linear Programming Blank Notes.pdf
+ </a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" 
+ title="3.3-3.4 Systems of Inequalities and Linear Programming.pdf" href="h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814474/preview" targe
+ t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
+ s/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems of Ine
+ qualities and Linear Programming.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-assignment-2537917
+DTSTART;VALUE=DATE:20220207T232900
+DTEND;VALUE=DATE:20220207T235900
+DESCRIPTION:[3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/
+ courses/172585/files/19814612/preview)\n\nÂ 
+SUMMARY:HW DUE 3.1-3.2 & Systems Applications [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537917
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.1-3.2  and Systems Apps.pdf" href="https://lisdtx.i
+ nstructure.com/courses/172585/files/19814612/preview" target="_blank" data
+ -api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/
+ 19814612" data-api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\
+ n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499244
+DTSTART;VALUE=DATE:20220207T232900
+DTEND;VALUE=DATE:20220207T235900
+SUMMARY:2/7: Boys Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499244
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-calendar-event-520487
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+DESCRIPTION:[3.5 Systems with 3 Variables Blank Notes.pdf] (https://lisdtx.
+ instructure.com/courses/172585/files/19814567/preview)\n\nHW: [3.5 Systems
+  in 3 Variables.pdf] (https://lisdtx.instructure.com/courses/172585/files/
+ 19814502/preview)\n\nÂ 
+SUMMARY:3.5 Systems in 3 Variables [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520487
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.5 Systems with 3 Variables Blank Notes.pdf" href="h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814567/preview" targe
+ t="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/course
+ s/172585/files/19814567" data-api-returntype="File">3.5 Systems with 3 Var
+ iables Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_file_link ins
+ tructure_scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https:/
+ /lisdtx.instructure.com/courses/172585/files/19814502/preview" target="_bl
+ ank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/1725
+ 85/files/19814502" data-api-returntype="File">3.5 Systems in 3 Variables.p
+ df</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-assignment-2537918
+DTSTART;VALUE=DATE:20220208T232900
+DTEND;VALUE=DATE:20220208T235900
+DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming.pdf] (h
+ ttps://lisdtx.instructure.com/courses/172585/files/19814474/download?wrap=
+ 1)
+SUMMARY:HW DUE 3.3-3.4 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537918
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
+ g.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814474/
+ download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
+ courses/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems 
+ of Inequalities and Linear Programming.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211129T190200Z
+UID:event-assignment-2499123
+DTSTART;VALUE=DATE:20220208T232900
+DTEND;VALUE=DATE:20220208T235900
+SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-calendar-event-520509
+DTSTART;VALUE=DATE:20220209
+DTEND;VALUE=DATE:20220210
+DESCRIPTION:
+SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520509
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-assignment-2537919
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:[3.5 Systems in 3 Variables.pdf] (https://lisdtx.instructure.co
+ m/courses/172585/files/19814502/download?wrap=1)
+SUMMARY:HW DUE 3.5 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#assignment_2537919
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https://lisdtx.
+ instructure.com/courses/172585/files/19814502/download?wrap=1" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981450
+ 2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220120T190200Z
+UID:event-assignment-2716271
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:
+SUMMARY:2/9 Water Bottle Wednesday  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2716271
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210300Z
+UID:event-calendar-event-520528
+DTSTART;VALUE=DATE:20220210
+DTEND;VALUE=DATE:20220211
 DESCRIPTION:[3.6\, 4.1-4.2 Matrices add subtract multiply Blank Notes.pdf] 
  (https://lisdtx.instructure.com/courses/172585/files/19814571/preview)\n\n
  HW: [3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https://lisd
@@ -2762,19 +3360,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  iply.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
-UID:event-assignment-2499244
-DTSTART;VALUE=DATE:20220207T232900
-DTEND;VALUE=DATE:20220207T235900
-SUMMARY:2/7: Boys Basketball Game vs Lewisville [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2499244
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190400Z
+DTSTAMP:20220125T210200Z
 UID:event-calendar-event-520529
-DTSTART;VALUE=DATE:20220208
-DTEND;VALUE=DATE:20220209
+DTSTART;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220212
 DESCRIPTION:[4.3-4.4 Matrices Determinants\, inverses\, systems Blank Notes
  .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814572/previe
  w)\n\nHW: [4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf] (http
@@ -2796,10 +3385,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  , Inverses\, Systems.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190400Z
+DTSTAMP:20220125T210200Z
 UID:event-assignment-2537920
-DTSTART;VALUE=DATE:20220208T232900
-DTEND;VALUE=DATE:20220208T235900
+DTSTART;VALUE=DATE:20220211T232900
+DTEND;VALUE=DATE:20220211T235900
 DESCRIPTION:[3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https
  ://lisdtx.instructure.com/courses/172585/files/19814605/download?wrap=1)
 SUMMARY:HW DUE 3.6\, 4.1-4.2 [Alg 2 Hon-RIORDAN]
@@ -2813,19 +3402,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  es\, add\, subtract\, multiply.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
-UID:event-assignment-2499123
-DTSTART;VALUE=DATE:20220208T232900
-DTEND;VALUE=DATE:20220208T235900
-SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499248
+DTSTART;VALUE=DATE:20220211T232900
+DTEND;VALUE=DATE:20220211T235900
+SUMMARY:2/11: Boys Basketball Game vs Plano East [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2499123
+ month=02&year=2022#assignment_2499248
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T210200Z
 UID:event-calendar-event-520370
-DTSTART;VALUE=DATE:20220209
-DTEND;VALUE=DATE:20220210
+DTSTART;VALUE=DATE:20220214
+DTEND;VALUE=DATE:20220215
 DESCRIPTION:[Algebra - Solving Simultaneous Linear Equations by Gauss-Jorda
  n Elimination 3 by 3] (https://www.youtube.com/watch?v=MRrOglQbL_Y)\n\n[Ca
  lculator Row Reduction Gaussian Elimination] (https://www.youtube.com/watc
@@ -2843,10 +3432,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="" href="https://www.youtube.com/w
  \n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190400Z
+DTSTAMP:20220125T210200Z
 UID:event-calendar-event-520502
-DTSTART;VALUE=DATE:20220209
-DTEND;VALUE=DATE:20220210
+DTSTART;VALUE=DATE:20220214
+DTEND;VALUE=DATE:20220215
 DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2854,10 +3443,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190400Z
+DTSTAMP:20220125T210200Z
 UID:event-assignment-2537921
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
+DTSTART;VALUE=DATE:20220214T232900
+DTEND;VALUE=DATE:20220214T235900
 DESCRIPTION:[4.3-4.4 Matrices\, Determinants\, Inverses\, Systems.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814611/download?wrap=1)
 SUMMARY:HW DUE 4.3-4.4  [Alg 2 Hon-RIORDAN]
@@ -2871,10 +3460,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   Determinants\, Inverses\, Systems.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T210200Z
 UID:event-calendar-event-520460
-DTSTART;VALUE=DATE:20220210
-DTEND;VALUE=DATE:20220211
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
 DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
  urses/172585/files/19814584/preview)
 SUMMARY:Review Topics 3 & 4 [Alg 2 Hon-RIORDAN]
@@ -2888,10 +3477,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  </p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20211129T194500Z
+UID:event-assignment-2499249
+DTSTART;VALUE=DATE:20220215T232900
+DTEND;VALUE=DATE:20220215T235900
+SUMMARY:2/15: Boys Basketball Game vs Flower Mound [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2499249
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T210200Z
 UID:event-assignment-2537954
-DTSTART;VALUE=DATE:20220211T232900
-DTEND;VALUE=DATE:20220211T235900
+DTSTART;VALUE=DATE:20220216T232900
+DTEND;VALUE=DATE:20220216T235900
 DESCRIPTION:Â \n\nÂ 
 SUMMARY:Topics 3/4 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -2899,19 +3497,21 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
-UID:event-assignment-2499248
-DTSTART;VALUE=DATE:20220211T232900
-DTEND;VALUE=DATE:20220211T235900
-SUMMARY:2/11: Boys Basketball Game vs Plano East [StuCo 21-22]
+DTSTAMP:20220120T190300Z
+UID:event-assignment-2716274
+DTSTART;VALUE=DATE:20220216T232900
+DTEND;VALUE=DATE:20220216T235900
+DESCRIPTION:
+SUMMARY:2/16 Water Bottle Wednesday  [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2499248
+ month=02&year=2022#assignment_2716274
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520530
-DTSTART;VALUE=DATE:20220214
-DTEND;VALUE=DATE:20220215
+DTSTART;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220218
 DESCRIPTION:[5.5\, 5.6 Factoring & Solving Quadratic Blank Notes.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814620/preview)\n\nHW: [
  Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.instructure.com
@@ -2933,10 +3533,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  \n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520392
-DTSTART;VALUE=DATE:20220214
-DTEND;VALUE=DATE:20220215
+DTSTART;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220218
 DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
  ucture.com/courses/172585/files/19814630/preview)
 SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
@@ -2950,19 +3550,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  s Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
-UID:event-assignment-2499249
-DTSTART;VALUE=DATE:20220215T232900
-DTEND;VALUE=DATE:20220215T235900
-SUMMARY:2/15: Boys Basketball Game vs Flower Mound [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2499249
+DTSTAMP:20211216T210700Z
+UID:event-calendar-event-520821
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=02&year=2022#calendar_event_520821
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520531
-DTSTART;VALUE=DATE:20220216
-DTEND;VALUE=DATE:20220217
+DTSTART;VALUE=DATE:20220222
+DTEND;VALUE=DATE:20220223
 DESCRIPTION:[Complete the Square Blank Notes.pdf] (https://lisdtx.instructu
  re.com/courses/172585/files/19814625/preview)\n\nHW: [5.7-5.8 Completing S
  quare\, Quad Formula Practice.pdf] (https://lisdtx.instructure.com/courses
@@ -2983,10 +3583,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  re\, Quad Formula Practice.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-assignment-2537925
-DTSTART;VALUE=DATE:20220216T232900
-DTEND;VALUE=DATE:20220216T235900
+DTSTART;VALUE=DATE:20220222T232900
+DTEND;VALUE=DATE:20220222T235900
 DESCRIPTION:[Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.ins
  tructure.com/courses/172585/files/19814505/download?wrap=1)
 SUMMARY:HW DUE 5.5-5.6 [Alg 2 Hon-RIORDAN]
@@ -3000,10 +3600,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  \; Solve Quads.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520503
-DTSTART;VALUE=DATE:20220217
-DTEND;VALUE=DATE:20220218
+DTSTART;VALUE=DATE:20220223
+DTEND;VALUE=DATE:20220224
 DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3011,10 +3611,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-assignment-2537926
-DTSTART;VALUE=DATE:20220217T232900
-DTEND;VALUE=DATE:20220217T235900
+DTSTART;VALUE=DATE:20220223T232900
+DTEND;VALUE=DATE:20220223T235900
 DESCRIPTION:[5.7-5.8 Completing Square\, Quad Formula Practice.pdf] (https:
  //lisdtx.instructure.com/courses/172585/files/19814621/download?wrap=1)
 SUMMARY:HW DUE 5.7-5.8 [Alg 2 Hon-RIORDAN]
@@ -3028,10 +3628,21 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  uare\, Quad Formula Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220120T190400Z
+UID:event-assignment-2716276
+DTSTART;VALUE=DATE:20220223T232900
+DTEND;VALUE=DATE:20220223T235900
+DESCRIPTION:
+SUMMARY:2/23 Water Bottle Wednesday  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2716276
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520532
-DTSTART;VALUE=DATE:20220218
-DTEND;VALUE=DATE:20220219
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
 DESCRIPTION:[Complex Numbers Blank Notes.pdf] (https://lisdtx.instructure.c
  om/courses/172585/files/19814723/download)\n\nHW: [5.9 Complex Numbers Pra
  ctice .pdf.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ] (https://lisdtx.instructu
@@ -3053,19 +3664,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T210700Z
-UID:event-calendar-event-520821
-DTSTART;VALUE=DATE:20220221
-DTEND;VALUE=DATE:20220222
-SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520821
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T193400Z
+DTSTAMP:20220125T203700Z
 UID:event-calendar-event-520371
-DTSTART;VALUE=DATE:20220222
-DTEND;VALUE=DATE:20220223
+DTSTART;VALUE=DATE:20220225
+DTEND;VALUE=DATE:20220226
 DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
  ucture.com/courses/172585/files/19814630/preview)
 SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
@@ -3079,10 +3681,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  s Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220117T190300Z
+DTSTAMP:20220125T203700Z
 UID:event-assignment-2537927
-DTSTART;VALUE=DATE:20220222T232900
-DTEND;VALUE=DATE:20220222T235900
+DTSTART;VALUE=DATE:20220225T232900
+DTEND;VALUE=DATE:20220225T235900
 DESCRIPTION:[5.9 Complex Numbers Practice .pdf] (https://lisdtx.instructure
  .com/courses/172585/files/19814628/download?wrap=1)
 SUMMARY:HW DUE 5.9 [Alg 2 Hon-RIORDAN]
@@ -3095,10 +3697,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  4628" data-api-returntype="File">5.9 Complex Numbers Practice .pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193400Z
+DTSTAMP:20220125T203600Z
 UID:event-calendar-event-520506
-DTSTART;VALUE=DATE:20220223
-DTEND;VALUE=DATE:20220224
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220301
 DESCRIPTION:
 SUMMARY:Topic 5A Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3106,17 +3708,17 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193400Z
+DTSTAMP:20220125T203900Z
 UID:event-calendar-event-520462
-DTSTART;VALUE=DATE:20220224
-DTEND;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
 DESCRIPTION:[5.1 & 5.2 Graphing Quadratics Blank Notes.pdf] (https://lisdtx
  .instructure.com/courses/172585/files/19814575/preview)\n\nHW: [Practice 5
  .1 - 5.2 Graphing Quadratics Practice PAP.pdf] (https://lisdtx.instructure
  .com/courses/172585/files/19814634/preview)\n\nÂ 
 SUMMARY:5.1 - 5.2 Quadratic Graphing Basics [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520462
+ month=03&year=2022#calendar_event_520462
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="5.1 &amp\; 5.2 Graphing Quadratics Blank Notes.pdf" h
  ref="https://lisdtx.instructure.com/courses/172585/files/19814575/preview"
@@ -3131,15 +3733,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  <p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193400Z
+DTSTAMP:20220125T203900Z
 UID:event-calendar-event-520369
-DTSTART;VALUE=DATE:20220224
-DTEND;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220302
 DESCRIPTION:[5.1-5.4\, 5.10-5.11 Review.pdf] (https://lisdtx.instructure.co
  m/courses/172585/files/19814576/preview)
 SUMMARY:Topic 5B Review [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520369
+ month=03&year=2022#calendar_event_520369
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="5.1-5.4\, 5.10-5.11  Review.pdf" href="https://lisdtx
  .instructure.com/courses/172585/files/19814576/preview" target="_blank" da
@@ -3148,17 +3750,28 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  /p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193500Z
+DTSTAMP:20220120T191400Z
+UID:event-assignment-2716291
+DTSTART;VALUE=DATE:20220302T232900
+DTEND;VALUE=DATE:20220302T235900
+DESCRIPTION:
+SUMMARY:3/2 Water Bottle Wednesday  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2716291
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T203400Z
 UID:event-calendar-event-520493
-DTSTART;VALUE=DATE:20220228
-DTEND;VALUE=DATE:20220301
+DTSTART;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220304
 DESCRIPTION:[5.3 & 5.4 Write Equation\, Focus\, Directrix Blank Notes.pdf] 
  (https://lisdtx.instructure.com/courses/172585/files/19814632/preview)\n\n
  Â \n\nHW: [Practice 5.3 - 5.4 NO FOCUS:DIRECTRIX.pdf] (https://lisdtx.inst
  ructure.com/courses/172585/files/19814635?wrap=1)Â \n\nÂ 
 SUMMARY:5.3 - 5.4 Regression (Part 1) [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520493
+ month=03&year=2022#calendar_event_520493
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="5.3 &amp\; 5.4 Write Equation\, Focus\, Directrix Bla
  nk Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19
@@ -3174,15 +3787,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  >&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193500Z
+DTSTAMP:20220125T203400Z
 UID:event-assignment-2537922
-DTSTART;VALUE=DATE:20220228T232900
-DTEND;VALUE=DATE:20220228T235900
+DTSTART;VALUE=DATE:20220303T232900
+DTEND;VALUE=DATE:20220303T235900
 DESCRIPTION:[Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814634/download?wrap=1)
 SUMMARY:HW DUE 5.1-5.2 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537922
+ month=03&year=2022#assignment_2537922
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.p
  df" href="https://lisdtx.instructure.com/courses/172585/files/19814634/dow
@@ -3191,10 +3804,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Graphing Quadratics Practice PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193800Z
+DTSTAMP:20220125T203400Z
 UID:event-calendar-event-520494
-DTSTART;VALUE=DATE:20220301
-DTEND;VALUE=DATE:20220302
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220305
 DESCRIPTION:[5.10 & 5.11 Quadratic Systems and Inequalities Blank Notes.pdf
  ] (https://lisdtx.instructure.com/courses/172585/files/19814633/preview)\n
  \nHW: [5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (https://l
@@ -3216,10 +3829,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  lities &amp\; Systems Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193800Z
+DTSTAMP:20220125T203400Z
 UID:event-assignment-2537924
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
+DTSTART;VALUE=DATE:20220304T232900
+DTEND;VALUE=DATE:20220304T235900
 DESCRIPTION:[Practice 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practic
  e.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814639/downl
  oad?wrap=1)
@@ -3234,27 +3847,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193800Z
-UID:event-assignment-2537923
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:[5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (http
- s://lisdtx.instructure.com/courses/172585/files/19814636/download?wrap=1)
-SUMMARY:HW DUE 5.10-5.11 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#assignment_2537923
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.10-5.11 Quadratic Inequalities &amp\; Systems Pract
- ice.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981463
- 6/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
- 1/courses/172585/files/19814636" data-api-returntype="File">5.10-5.11 Quad
- ratic Inequalities &amp\; Systems Practice.pdf</a></p>
+DTSTAMP:20211007T020500Z
+UID:event-assignment-2391477
+DTSTART;VALUE=DATE:20220304T232900
+DTEND;VALUE=DATE:20220304T235900
+SUMMARY:3/3: Midwinter/UIL Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2391477
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
+DTSTAMP:20220125T210800Z
 UID:event-calendar-event-520498
-DTSTART;VALUE=DATE:20220303
-DTEND;VALUE=DATE:20220304
+DTSTART;VALUE=DATE:20220307
+DTEND;VALUE=DATE:20220308
 DESCRIPTION:Here is the homework key for 5.10-5.11.Â  Please go over this a
  s a class and help each other with questions.Â \n\n[key] ($CANVAS_COURSE_R
  EFERENCE$/file_ref/gf6a9601c16cc18123c69aa1b8360a972?wrap=1)\n\nREMIND EVE
@@ -3284,10 +3889,76 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here is the homework key for 5.10-5.11.&nbs
  "File">5.1-5.4\, 5.10-5.11 Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220125T210800Z
+UID:event-assignment-2537923
+DTSTART;VALUE=DATE:20220307T232900
+DTEND;VALUE=DATE:20220307T235900
+DESCRIPTION:[5.10-5.11 Quadratic Inequalities & Systems Practice.pdf] (http
+ s://lisdtx.instructure.com/courses/172585/files/19814636/download?wrap=1)
+SUMMARY:HW DUE 5.10-5.11 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537923
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="5.10-5.11 Quadratic Inequalities &amp\; Systems Pract
+ ice.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981463
+ 6/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
+ 1/courses/172585/files/19814636" data-api-returntype="File">5.10-5.11 Quad
+ ratic Inequalities &amp\; Systems Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520475
+DTSTART;VALUE=DATE:20220308
+DTEND;VALUE=DATE:20220309
+DESCRIPTION:
+SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520475
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520466
+DTSTART;VALUE=DATE:20220309
+DTEND;VALUE=DATE:20220310
+DESCRIPTION:[Midterm Review.pdf] (https://lisdtx.instructure.com/courses/17
+ 2585/files/19814661/preview)
+SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520466
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Midterm Review.pdf" href="https://lisdtx.instructure.
+ com/courses/172585/files/19814661/preview" target="_blank" data-api-endpoi
+ nt="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814661" d
+ ata-api-returntype="File">Midterm Review.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220120T191600Z
+UID:event-assignment-2716296
+DTSTART;VALUE=DATE:20220309T232900
+DTEND;VALUE=DATE:20220309T235900
+DESCRIPTION:
+SUMMARY:3/9 Water Bottle Wednesday  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2716296
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520368
+DTSTART;VALUE=DATE:20220310
+DTEND;VALUE=DATE:20220311
+DESCRIPTION:
+SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520368
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T211000Z
 UID:event-assignment-2537952
-DTSTART;VALUE=DATE:20220304T232900
-DTEND;VALUE=DATE:20220304T235900
+DTSTART;VALUE=DATE:20220310T232900
+DTEND;VALUE=DATE:20220310T235900
 DESCRIPTION:
 SUMMARY:Topic 5B Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3295,19 +3966,77 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211007T020500Z
-UID:event-assignment-2391477
-DTSTART;VALUE=DATE:20220304T232900
-DTEND;VALUE=DATE:20220304T235900
-SUMMARY:3/3: Midwinter/UIL Concert [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2391477
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520374
+DTSTART;VALUE=DATE:20220311
+DTEND;VALUE=DATE:20220312
+DESCRIPTION:
+SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520374
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193800Z
+DTSTAMP:20211216T193700Z
+UID:event-calendar-event-520373
+DTSTART;VALUE=DATE:20220311
+DTEND;VALUE=DATE:20220312
+DESCRIPTION:
+SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520373
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520822
+DTSTART;VALUE=DATE:20220314
+DTEND;VALUE=DATE:20220315
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520822
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520823
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20220316
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520823
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194300Z
+UID:event-calendar-event-520824
+DTSTART;VALUE=DATE:20220316
+DTEND;VALUE=DATE:20220317
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520824
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194400Z
+UID:event-calendar-event-520825
+DTSTART;VALUE=DATE:20220317
+DTEND;VALUE=DATE:20220318
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520825
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211216T194400Z
+UID:event-calendar-event-520826
+DTSTART;VALUE=DATE:20220318
+DTEND;VALUE=DATE:20220319
+SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#calendar_event_520826
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205600Z
 UID:event-assignment-2537907
-DTSTART;VALUE=DATE:20220307T232900
-DTEND;VALUE=DATE:20220307T235900
+DTSTART;VALUE=DATE:20220321T232900
+DTEND;VALUE=DATE:20220321T235900
 DESCRIPTION:Whoâ€™s at Fault?\n\nÂ \n\nYou are a forensics expert for the M
  ulti-Accident Investigation Team (M.A.I.T.) that has been called to analyz
  e a recent traffic accident and testify in an upcoming court case\, Myers 
@@ -3411,115 +4140,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong><span
  i>\n</ul>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
-UID:event-calendar-event-520475
-DTSTART;VALUE=DATE:20220308
-DTEND;VALUE=DATE:20220309
-DESCRIPTION:
-SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520475
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
-UID:event-calendar-event-520466
-DTSTART;VALUE=DATE:20220309
-DTEND;VALUE=DATE:20220310
-DESCRIPTION:[Midterm Review.pdf] (https://lisdtx.instructure.com/courses/17
- 2585/files/19814661/preview)
-SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520466
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Midterm Review.pdf" href="https://lisdtx.instructure.
- com/courses/172585/files/19814661/preview" target="_blank" data-api-endpoi
- nt="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814661" d
- ata-api-returntype="File">Midterm Review.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
-UID:event-calendar-event-520368
-DTSTART;VALUE=DATE:20220310
-DTEND;VALUE=DATE:20220311
-DESCRIPTION:
-SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520368
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
-UID:event-calendar-event-520374
-DTSTART;VALUE=DATE:20220311
-DTEND;VALUE=DATE:20220312
-DESCRIPTION:
-SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520374
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T193700Z
-UID:event-calendar-event-520373
-DTSTART;VALUE=DATE:20220311
-DTEND;VALUE=DATE:20220312
-DESCRIPTION:
-SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520373
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194300Z
-UID:event-calendar-event-520822
-DTSTART;VALUE=DATE:20220314
-DTEND;VALUE=DATE:20220315
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520822
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194300Z
-UID:event-calendar-event-520823
-DTSTART;VALUE=DATE:20220315
-DTEND;VALUE=DATE:20220316
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520823
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194300Z
-UID:event-calendar-event-520824
-DTSTART;VALUE=DATE:20220316
-DTEND;VALUE=DATE:20220317
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520824
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194400Z
-UID:event-calendar-event-520825
-DTSTART;VALUE=DATE:20220317
-DTEND;VALUE=DATE:20220318
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520825
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194400Z
-UID:event-calendar-event-520826
-DTSTART;VALUE=DATE:20220318
-DTEND;VALUE=DATE:20220319
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520826
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520510
-DTSTART;VALUE=DATE:20220321
-DTEND;VALUE=DATE:20220322
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220323
 DESCRIPTION:[9.1-9.2_Roots_and_Radicals_Blank_Notes.pdf] (https://lisdtx.in
  structure.com/courses/172585/files/19814672/preview)\n\nHW: [Practice 9.1-
  9.2 Roots & Radicals.pdf] (https://lisdtx.instructure.com/courses/172585/f
@@ -3540,10 +4164,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ts &amp\; Radicals.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194300Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520519
-DTSTART;VALUE=DATE:20220321
-DTEND;VALUE=DATE:20220322
+DTSTART;VALUE=DATE:20220322
+DTEND;VALUE=DATE:20220323
 DESCRIPTION:[Topics 6\, 9\, 10 PAP Review.pdf] (https://lisdtx.instructure.
  com/courses/172585/files/19814676/preview)
 SUMMARY:Topics 6\, 9\, 10 Review [Alg 2 Hon-RIORDAN]
@@ -3557,10 +4181,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520465
-DTSTART;VALUE=DATE:20220322
-DTEND;VALUE=DATE:20220323
+DTSTART;VALUE=DATE:20220323
+DTEND;VALUE=DATE:20220324
 DESCRIPTION:[9.3-9.4_Binomial expression\, Rational exponents Blank_Notes.p
  df] (https://lisdtx.instructure.com/courses/172585/files/19814674/preview)
  \n\nHW: [Practice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf] (h
@@ -3583,10 +4207,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ssion\, Rational Exponents.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205500Z
 UID:event-assignment-2537938
-DTSTART;VALUE=DATE:20220322T232900
-DTEND;VALUE=DATE:20220322T235900
+DTSTART;VALUE=DATE:20220323T232900
+DTEND;VALUE=DATE:20220323T235900
 DESCRIPTION:[Practice 9.1-9.2 Roots & Radicals.pdf] (https://lisdtx.instruc
  ture.com/courses/172585/files/19814671/download?wrap=1)
 SUMMARY:HW DUE 9.1-9.2 [Alg 2 Hon-RIORDAN]
@@ -3600,10 +4224,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  dicals.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194100Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520464
-DTSTART;VALUE=DATE:20220323
-DTEND;VALUE=DATE:20220324
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
 DESCRIPTION:[6.1-10.3 Graph roots\, cubes\, inv Blank Notes.pdf] (https://l
  isdtx.instructure.com/courses/172585/files/19814663/preview)\n\nWe will co
  ntinue these notes tomorrow.\n\nHW: [Practice 6.1-6.3\, 10.1-10.3 Grpahing
@@ -3628,10 +4252,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  bsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520507
-DTSTART;VALUE=DATE:20220323
-DTEND;VALUE=DATE:20220324
+DTSTART;VALUE=DATE:20220324
+DTEND;VALUE=DATE:20220325
 DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3639,10 +4263,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205500Z
 UID:event-assignment-2537939
-DTSTART;VALUE=DATE:20220323T232900
-DTEND;VALUE=DATE:20220323T235900
+DTSTART;VALUE=DATE:20220324T232900
+DTEND;VALUE=DATE:20220324T235900
 DESCRIPTION:[Practice 9.3-9.4 Binomial Expression\, Rational Exponents.pdf]
   (https://lisdtx.instructure.com/courses/172585/files/19814510/download?wr
  ap=1)
@@ -3657,10 +4281,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9.4 Binomial Expression\, Rational Exponents.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194100Z
+DTSTAMP:20211101T180600Z
+UID:event-assignment-2466303
+DTSTART;VALUE=DATE:20220324T232900
+DTEND;VALUE=DATE:20220324T235900
+SUMMARY:3/24: Pre-UIL Concert [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2466303
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520518
-DTSTART;VALUE=DATE:20220324
-DTEND;VALUE=DATE:20220325
+DTSTART;VALUE=DATE:20220325
+DTEND;VALUE=DATE:20220326
 DESCRIPTION:Please open yesterday's notes.Â  We will start where we left of
   yesterday.\n\nHW: [Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, 
  Inverses.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981466
@@ -3678,19 +4311,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Please open yesterday's notes.&nbsp\; We wi
  verses.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211101T180600Z
-UID:event-assignment-2466303
-DTSTART;VALUE=DATE:20220324T232900
-DTEND;VALUE=DATE:20220324T235900
-SUMMARY:3/24: Pre-UIL Concert [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2466303
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194100Z
+DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520521
-DTSTART;VALUE=DATE:20220325
-DTEND;VALUE=DATE:20220326
+DTSTART;VALUE=DATE:20220328
+DTEND;VALUE=DATE:20220329
 DESCRIPTION:[Unit 4 Solving roots and cubes blank notes.pdf] (https://lisdt
  x.instructure.com/courses/172585/files/19814577/preview)\n\nHW: [Practice 
  6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf] (https://lisdtx.instructure.
@@ -3712,10 +4336,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194200Z
+DTSTAMP:20220125T205500Z
 UID:event-assignment-2537928
-DTSTART;VALUE=DATE:20220325T232900
-DTEND;VALUE=DATE:20220325T235900
+DTSTART;VALUE=DATE:20220328T232900
+DTEND;VALUE=DATE:20220328T235900
 DESCRIPTION:[Practice 6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses
  .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814660/downlo
  ad?wrap=1)
@@ -3730,10 +4354,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194200Z
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520504
-DTSTART;VALUE=DATE:20220328
-DTEND;VALUE=DATE:20220329
+DTSTART;VALUE=DATE:20220329
+DTEND;VALUE=DATE:20220330
 DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3741,10 +4365,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194200Z
+DTSTAMP:20220125T205400Z
 UID:event-assignment-2537929
-DTSTART;VALUE=DATE:20220328T232900
-DTEND;VALUE=DATE:20220328T235900
+DTSTART;VALUE=DATE:20220329T232900
+DTEND;VALUE=DATE:20220329T235900
 DESCRIPTION:[Practice 6.4\, 6.5\, 10.4 Solving Roots and Cubes.pdf] (https:
  //lisdtx.instructure.com/courses/172585/files/19814662/download?wrap=1)
 SUMMARY:HW DUE 6.4\, 6.5\, 10.4 [Alg 2 Hon-RIORDAN]
@@ -3758,10 +4382,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  10.4 Solving Roots and Cubes.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194000Z
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520516
-DTSTART;VALUE=DATE:20220329
-DTEND;VALUE=DATE:20220330
+DTSTART;VALUE=DATE:20220330
+DTEND;VALUE=DATE:20220331
 DESCRIPTION:[Topics 6\, 9\, 10 PAP Review.pdf] (https://lisdtx.instructure.
  com/courses/172585/files/19814676/preview)
 SUMMARY:Topics 6\, 9\, 10 Review [Alg 2 Hon-RIORDAN]
@@ -3775,17 +4399,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
-UID:event-assignment-2537946
-DTSTART;VALUE=DATE:20220330T232900
-DTEND;VALUE=DATE:20220330T235900
-DESCRIPTION:
-SUMMARY:Test - Topics 6\, 9\, 10 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#assignment_2537946
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211021T181100Z
 UID:event-assignment-2433348
 DTSTART;VALUE=DATE:20220330T232900
@@ -3796,17 +4409,28 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=03&year=2022#assignment_2433348
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194900Z
+DTSTAMP:20220125T205400Z
+UID:event-assignment-2537946
+DTSTART;VALUE=DATE:20220331T232900
+DTEND;VALUE=DATE:20220331T235900
+DESCRIPTION:
+SUMMARY:Test - Topics 6\, 9\, 10 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=03&year=2022#assignment_2537946
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520514
-DTSTART;VALUE=DATE:20220331
-DTEND;VALUE=DATE:20220401
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220402
 DESCRIPTION:[8.1-8.2 Polynomials Graph\, -\, -\, - Blank_Notes.pdf] (https:
  //lisdtx.instructure.com/courses/172585/files/19814578/preview)\n\nHW: [Pr
  actice 8.1 & 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf] (https://lisdtx.in
  structure.com/courses/172585/files/19814668/preview)\n\nÂ 
 SUMMARY:8.1 - 8.2 Polynomial Operations [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520514
+ month=04&year=2022#calendar_event_520514
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="8.1-8.2 Polynomials Graph\, -\, -\, - Blank_Notes.pdf
  " href="https://lisdtx.instructure.com/courses/172585/files/19814578/previ
@@ -3821,15 +4445,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   PAP.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T194900Z
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520515
-DTSTART;VALUE=DATE:20220331
-DTEND;VALUE=DATE:20220401
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220402
 DESCRIPTION:[Topic 8 Review PAP.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814579/preview)
 SUMMARY:Topic 8 Review [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520515
+ month=04&year=2022#calendar_event_520515
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="Topic 8 Review PAP.pdf" href="https://lisdtx.instruct
  ure.com/courses/172585/files/19814579/preview" target="_blank" data-api-en
@@ -3837,10 +4461,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211600Z
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520520
-DTSTART;VALUE=DATE:20220401
-DTEND;VALUE=DATE:20220402
+DTSTART;VALUE=DATE:20220404
+DTEND;VALUE=DATE:20220405
 DESCRIPTION:[8.3-8.4_Polynomials Factor and Solve Blank_Notes.pdf] (https:/
  /lisdtx.instructure.com/courses/172585/files/19814727/preview)\n\nHW: [Pra
  ctice 8.3 & 8.4 Factor and Solve Polynomials PAP.pdf] (https://lisdtx.inst
@@ -3863,10 +4487,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  .pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211600Z
+DTSTAMP:20220125T205400Z
 UID:event-assignment-2537934
-DTSTART;VALUE=DATE:20220401T232900
-DTEND;VALUE=DATE:20220401T235900
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
 DESCRIPTION:[Practice 8.1 & 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814668/download?wrap=1)
 SUMMARY:HW DUE 8.1-8.2 [Alg 2 Hon-RIORDAN]
@@ -3880,10 +4504,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  &amp\; 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211600Z
+DTSTAMP:20211216T195000Z
+UID:event-calendar-event-520827
+DTSTART;VALUE=DATE:20220405
+DTEND;VALUE=DATE:20220406
+SUMMARY:Eng. I EOC [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520827
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520467
-DTSTART;VALUE=DATE:20220404
-DTEND;VALUE=DATE:20220405
+DTSTART;VALUE=DATE:20220406
+DTEND;VALUE=DATE:20220407
 DESCRIPTION:[8.5 Poly Division Blank Notes.pdf] (https://lisdtx.instructure
  .com/courses/172585/files/19814683/preview)\n\nHW: [Practice 8.5.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814667/preview)\n\nÂ 
@@ -3902,10 +4535,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  pe="File">Practice 8.5.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211600Z
+DTSTAMP:20220125T205400Z
 UID:event-assignment-2537935
-DTSTART;VALUE=DATE:20220404T232900
-DTEND;VALUE=DATE:20220404T235900
+DTSTART;VALUE=DATE:20220406T232900
+DTEND;VALUE=DATE:20220406T235900
 DESCRIPTION:[Practice 8.3 & 8.4 Factor and Solve Polynomials PAP.pdf] (http
  s://lisdtx.instructure.com/courses/172585/files/19814527/download?wrap=1)
 SUMMARY:HW DUE 8.3-8.4 [Alg 2 Hon-RIORDAN]
@@ -3919,19 +4552,19 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  amp\; 8.4 Factor and Solve Polynomials PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T195000Z
-UID:event-calendar-event-520827
-DTSTART;VALUE=DATE:20220405
-DTEND;VALUE=DATE:20220406
-SUMMARY:Eng. I EOC [Alg 2 Hon-RIORDAN]
+DTSTAMP:20211216T195100Z
+UID:event-calendar-event-520828
+DTSTART;VALUE=DATE:20220407
+DTEND;VALUE=DATE:20220408
+SUMMARY:Eng. II STAAR EOC [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520827
+ month=04&year=2022#calendar_event_520828
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-calendar-event-520511
-DTSTART;VALUE=DATE:20220406
-DTEND;VALUE=DATE:20220407
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220409
 DESCRIPTION:[Factoring Blank Notes.pdf] (https://lisdtx.instructure.com/cou
  rses/172585/files/19814678/preview)\n\nHW: [Factoring Practice (short).pdf
  ] (https://lisdtx.instructure.com/courses/172585/files/19814681/preview)\n
@@ -3951,10 +4584,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ="File">Factoring Practice (short).pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-calendar-event-520505
-DTSTART;VALUE=DATE:20220406
-DTEND;VALUE=DATE:20220407
+DTSTART;VALUE=DATE:20220408
+DTEND;VALUE=DATE:20220409
 DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -3962,10 +4595,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-assignment-2537936
-DTSTART;VALUE=DATE:20220406T232900
-DTEND;VALUE=DATE:20220406T235900
+DTSTART;VALUE=DATE:20220408T232900
+DTEND;VALUE=DATE:20220408T235900
 DESCRIPTION:[Practice 8.5.pdf] (https://lisdtx.instructure.com/courses/1725
  85/files/19814667/download?wrap=1)
 SUMMARY:HW DUE 8.5 [Alg 2 Hon-RIORDAN]
@@ -3978,19 +4611,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  turntype="File">Practice 8.5.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T195100Z
-UID:event-calendar-event-520828
-DTSTART;VALUE=DATE:20220407
-DTEND;VALUE=DATE:20220408
-SUMMARY:Eng. II STAAR EOC [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520828
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-calendar-event-520497
-DTSTART;VALUE=DATE:20220408
-DTEND;VALUE=DATE:20220409
+DTSTART;VALUE=DATE:20220411
+DTEND;VALUE=DATE:20220412
 DESCRIPTION:[8.6 and 8.7 Rational roots Blank Notes.pdf] (https://lisdtx.in
  structure.com/courses/172585/files/19814643/preview)\n\nHW: [Practice 8.6 
  & 8.7.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814528/p
@@ -4011,10 +4635,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  \n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-assignment-2537937
-DTSTART;VALUE=DATE:20220411T232900
-DTEND;VALUE=DATE:20220411T235900
+DTSTART;VALUE=DATE:20220412T232900
+DTEND;VALUE=DATE:20220412T235900
 DESCRIPTION:[Practice 8.6 & 8.7.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814528/download?wrap=1)
 SUMMARY:HW DUE 8.6-8.7 [Alg 2 Hon-RIORDAN]
@@ -4027,10 +4651,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  data-api-returntype="File">Practice 8.6 &amp\; 8.7.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-assignment-2537940
-DTSTART;VALUE=DATE:20220411T232900
-DTEND;VALUE=DATE:20220411T235900
+DTSTART;VALUE=DATE:20220412T232900
+DTEND;VALUE=DATE:20220412T235900
 DESCRIPTION:[Factoring Practice (short).pdf] (https://lisdtx.instructure.co
  m/courses/172585/files/19814681/download?wrap=1)
 SUMMARY:HW DUE Factoring [Alg 2 Hon-RIORDAN]
@@ -4043,10 +4667,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  1" data-api-returntype="File">Factoring Practice (short).pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205300Z
 UID:event-assignment-2537953
-DTSTART;VALUE=DATE:20220411T232900
-DTEND;VALUE=DATE:20220411T235900
+DTSTART;VALUE=DATE:20220412T232900
+DTEND;VALUE=DATE:20220412T235900
 DESCRIPTION:
 SUMMARY:Topic 8 Polynomials Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -4054,10 +4678,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520468
-DTSTART;VALUE=DATE:20220412
-DTEND;VALUE=DATE:20220413
+DTSTART;VALUE=DATE:20220413
+DTEND;VALUE=DATE:20220414
 DESCRIPTION:[Topic 8 Review PAP.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814579/preview)
 SUMMARY:Topic 8 Review [Alg 2 Hon-RIORDAN]
@@ -4070,55 +4694,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537948
-DTSTART;VALUE=DATE:20220413T232900
-DTEND;VALUE=DATE:20220413T235900
+DTSTART;VALUE=DATE:20220414T232900
+DTEND;VALUE=DATE:20220414T235900
 DESCRIPTION:
 SUMMARY:Test Topic 8 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#assignment_2537948
 X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
-UID:event-calendar-event-520512
-DTSTART;VALUE=DATE:20220414
-DTEND;VALUE=DATE:20220415
-DESCRIPTION:[7.1-7.2 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
- es/172585/files/19814686/preview)\n\nHW: [Prac 7.1-7.2 with word probs PAP
- .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814692/previe
- w)\n\nÂ 
-SUMMARY:7.1 - 7.2 Attributes & Transformatons of Exponential Functions [Alg
-  2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520512
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="7.1-7.2 Blank Notes.pdf" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814686/preview" target="_blank" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198146
- 86" data-api-returntype="File">7.1-7.2 Blank Notes.pdf</a></p>\n<p>HW: <a 
- class="instructure_file_link instructure_scribd_file" title="Prac 7.1-7.2 
- with word probs PAP.pdf" href="https://lisdtx.instructure.com/courses/1725
- 85/files/19814692/preview" target="_blank" data-api-endpoint="https://lisd
- tx.instructure.com/api/v1/courses/172585/files/19814692" data-api-returnty
- pe="File">Prac 7.1-7.2 with word probs PAP.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
-UID:event-calendar-event-520459
-DTSTART;VALUE=DATE:20220414
-DTEND;VALUE=DATE:20220415
-DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814700/preview)
-SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520459
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
- 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211101T180600Z
@@ -4148,10 +4732,50 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#calendar_event_520843
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211700Z
+DTSTAMP:20220125T205200Z
+UID:event-calendar-event-520512
+DTSTART;VALUE=DATE:20220419
+DTEND;VALUE=DATE:20220420
+DESCRIPTION:[7.1-7.2 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
+ es/172585/files/19814686/preview)\n\nHW: [Prac 7.1-7.2 with word probs PAP
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814692/previe
+ w)\n\nÂ 
+SUMMARY:7.1 - 7.2 Attributes & Transformatons of Exponential Functions [Alg
+  2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520512
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="7.1-7.2 Blank Notes.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814686/preview" target="_blank" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198146
+ 86" data-api-returntype="File">7.1-7.2 Blank Notes.pdf</a></p>\n<p>HW: <a 
+ class="instructure_file_link instructure_scribd_file" title="Prac 7.1-7.2 
+ with word probs PAP.pdf" href="https://lisdtx.instructure.com/courses/1725
+ 85/files/19814692/preview" target="_blank" data-api-endpoint="https://lisd
+ tx.instructure.com/api/v1/courses/172585/files/19814692" data-api-returnty
+ pe="File">Prac 7.1-7.2 with word probs PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205200Z
+UID:event-calendar-event-520459
+DTSTART;VALUE=DATE:20220419
+DTEND;VALUE=DATE:20220420
+DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
+ s/172585/files/19814700/preview)
+SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=04&year=2022#calendar_event_520459
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
+ ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
+ 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520469
-DTSTART;VALUE=DATE:20220420
-DTEND;VALUE=DATE:20220421
+DTSTART;VALUE=DATE:20220421
+DTEND;VALUE=DATE:20220422
 DESCRIPTION:[7.3-7.4 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
  es/172585/files/19814728/preview)\n\nHW: [Practice 7.3 - 7.4 PAP.pdf] (htt
  ps://lisdtx.instructure.com/courses/172585/files/19814689/preview)\n\nÂ 
@@ -4170,10 +4794,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Practice 7.3 - 7.4 PAP.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211800Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537930
-DTSTART;VALUE=DATE:20220420T232900
-DTEND;VALUE=DATE:20220420T235900
+DTSTART;VALUE=DATE:20220421T232900
+DTEND;VALUE=DATE:20220421T235900
 DESCRIPTION:[Prac 7.1-7.2 with word probs PAP.pdf] (https://lisdtx.instruct
  ure.com/courses/172585/files/19814692/download?wrap=1)
 SUMMARY:HW DUE 7.1-7.2 [Alg 2 Hon-RIORDAN]
@@ -4187,10 +4811,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520381
-DTSTART;VALUE=DATE:20220421
-DTEND;VALUE=DATE:20220422
+DTSTART;VALUE=DATE:20220422
+DTEND;VALUE=DATE:20220423
 DESCRIPTION:[Logarithms\, Explained - Steve Kelly] (https://www.youtube.com
  /watch?v=zzu2POfYv0Y)\n\nhttps://matchthememory.com/Log\n\nÂ 
 SUMMARY:Log Basics [Alg 2 Hon-RIORDAN]
@@ -4203,10 +4827,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="" href="https://www.youtube.com/w
  om/Log</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537906
-DTSTART;VALUE=DATE:20220421T232900
-DTEND;VALUE=DATE:20220421T235900
+DTSTART;VALUE=DATE:20220422T232900
+DTEND;VALUE=DATE:20220422T235900
 DESCRIPTION:
 SUMMARY:7.1-7.4 Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -4214,10 +4838,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211800Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537931
-DTSTART;VALUE=DATE:20220421T232900
-DTEND;VALUE=DATE:20220421T235900
+DTSTART;VALUE=DATE:20220422T232900
+DTEND;VALUE=DATE:20220422T235900
 DESCRIPTION:[Practice 7.3 - 7.4 PAP.pdf] (https://lisdtx.instructure.com/co
  urses/172585/files/19814689/download?wrap=1)
 SUMMARY:HW DUE 7.3-7.4 [Alg 2 Hon-RIORDAN]
@@ -4230,10 +4854,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ata-api-returntype="File">Practice 7.3 - 7.4 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520517
-DTSTART;VALUE=DATE:20220422
-DTEND;VALUE=DATE:20220423
+DTSTART;VALUE=DATE:20220425
+DTEND;VALUE=DATE:20220426
 DESCRIPTION:[7.5 - 7.6 Blank Notes.pdf] (https://lisdtx.instructure.com/cou
  rses/172585/files/19814699/preview)\n\nHW: [Practice 7.5\, 7.6.pdf] (https
  ://lisdtx.instructure.com/courses/172585/files/19814691/preview)\n\nÂ 
@@ -4252,10 +4876,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Practice 7.5\, 7.6.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520470
-DTSTART;VALUE=DATE:20220425
-DTEND;VALUE=DATE:20220426
+DTSTART;VALUE=DATE:20220426
+DTEND;VALUE=DATE:20220427
 DESCRIPTION:[7.7-7.10 Blank Notes.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814729/preview)\n\nHW: [Practice 7.7-7.10.pdf] (https:/
  /lisdtx.instructure.com/courses/172585/files/19814693/preview)\n\nÂ 
@@ -4274,10 +4898,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ctice 7.7-7.10.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537932
-DTSTART;VALUE=DATE:20220425T232900
-DTEND;VALUE=DATE:20220425T235900
+DTSTART;VALUE=DATE:20220426T232900
+DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:[Practice 7.5\, 7.6.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814691/download?wrap=1)
 SUMMARY:HW DUE 7.5-7.6 [Alg 2 Hon-RIORDAN]
@@ -4290,10 +4914,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  api-returntype="File">Practice 7.5\, 7.6.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537909
-DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
+DTSTART;VALUE=DATE:20220427T232900
+DTEND;VALUE=DATE:20220427T235900
 DESCRIPTION:
 SUMMARY:Exponentials/Logs Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -4301,10 +4925,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-assignment-2537933
-DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
+DTSTART;VALUE=DATE:20220427T232900
+DTEND;VALUE=DATE:20220427T235900
 DESCRIPTION:[Practice 7.7-7.10.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814693/download?wrap=1)
 SUMMARY:HW DUE 7.7-7.10 [Alg 2 Hon-RIORDAN]
@@ -4317,10 +4941,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  pi-returntype="File">Practice 7.7-7.10.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T211900Z
+DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520473
-DTSTART;VALUE=DATE:20220427
-DTEND;VALUE=DATE:20220428
+DTSTART;VALUE=DATE:20220428
+DTEND;VALUE=DATE:20220429
 DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814700/preview)
 SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
@@ -4333,10 +4957,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T205300Z
 UID:event-assignment-2537947
-DTSTART;VALUE=DATE:20220428T232900
-DTEND;VALUE=DATE:20220428T235900
+DTSTART;VALUE=DATE:20220429T232900
+DTEND;VALUE=DATE:20220429T235900
 DESCRIPTION:
 SUMMARY:Test Topic 7 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -4344,17 +4968,17 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
+DTSTAMP:20220125T205300Z
 UID:event-calendar-event-520472
-DTSTART;VALUE=DATE:20220429
-DTEND;VALUE=DATE:20220430
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
 DESCRIPTION:[11.1 - 11.2 Blank_Notes.pdf] (https://lisdtx.instructure.com/c
  ourses/172585/files/19814581/preview)\n\nHW: [Practice 11.1 - 11.2.pdf] (h
  ttps://lisdtx.instructure.com/courses/172585/files/19814704/preview)\n\nÂ 
 SUMMARY:11.1 - 11.2 Inverse Variation & Transform Reciprocal Functions [Alg
   2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520472
+ month=05&year=2022#calendar_event_520472
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="11.1 - 11.2 Blank_Notes.pdf" href="https://lisdtx.ins
  tructure.com/courses/172585/files/19814581/preview" target="_blank" data-a
@@ -4367,58 +4991,20 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  File">Practice 11.1 - 11.2.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
+DTSTAMP:20220125T205300Z
 UID:event-calendar-event-520457
-DTSTART;VALUE=DATE:20220429
-DTEND;VALUE=DATE:20220430
+DTSTART;VALUE=DATE:20220502
+DTEND;VALUE=DATE:20220503
 DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
  es/172585/files/19814703/preview)
 SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520457
+ month=05&year=2022#calendar_event_520457
 X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  _scribd_file" title="Review Topic 11 PAP.pdf" href="https://lisdtx.instruc
  ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
  ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
  03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
-UID:event-calendar-event-520495
-DTSTART;VALUE=DATE:20220502
-DTEND;VALUE=DATE:20220503
-DESCRIPTION:[11.3 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
- 172585/files/19814710/preview)\n\nHW: [Practice 11.3 PAP.pdf] (https://lis
- dtx.instructure.com/courses/172585/files/19814707/preview)\n\nÂ 
-SUMMARY:11.3 Asymptotes & Disconinuities [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520495
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="11.3 Blank Notes.pdf" href="https://lisdtx.instructur
- e.com/courses/172585/files/19814710/preview" target="_blank" data-api-endp
- oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814710"
-  data-api-returntype="File">11.3 Blank Notes.pdf</a></p>\n<p>HW: <a class=
- "instructure_file_link instructure_scribd_file" title="Practice 11.3 PAP.p
- df" href="https://lisdtx.instructure.com/courses/172585/files/19814707/pre
- view" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/ap
- i/v1/courses/172585/files/19814707" data-api-returntype="File">Practice 11
- .3 PAP.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
-UID:event-assignment-2537913
-DTSTART;VALUE=DATE:20220502T232900
-DTEND;VALUE=DATE:20220502T235900
-DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
- ses/172585/files/19814704/download?wrap=1)
-SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537913
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 11.1 - 11.2.pdf" href="https://lisdtx.instru
- cture.com/courses/172585/files/19814704/download?wrap=1" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814704" dat
- a-api-returntype="File">Practice 11.1 - 11.2.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T204500Z
@@ -4439,10 +5025,48 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520845
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
-UID:event-calendar-event-520496
+DTSTAMP:20220125T204900Z
+UID:event-calendar-event-520495
 DTSTART;VALUE=DATE:20220505
 DTEND;VALUE=DATE:20220506
+DESCRIPTION:[11.3 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
+ 172585/files/19814710/preview)\n\nHW: [Practice 11.3 PAP.pdf] (https://lis
+ dtx.instructure.com/courses/172585/files/19814707/preview)\n\nÂ 
+SUMMARY:11.3 Asymptotes & Disconinuities [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#calendar_event_520495
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="11.3 Blank Notes.pdf" href="https://lisdtx.instructur
+ e.com/courses/172585/files/19814710/preview" target="_blank" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814710"
+  data-api-returntype="File">11.3 Blank Notes.pdf</a></p>\n<p>HW: <a class=
+ "instructure_file_link instructure_scribd_file" title="Practice 11.3 PAP.p
+ df" href="https://lisdtx.instructure.com/courses/172585/files/19814707/pre
+ view" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/ap
+ i/v1/courses/172585/files/19814707" data-api-returntype="File">Practice 11
+ .3 PAP.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T204900Z
+UID:event-assignment-2537913
+DTSTART;VALUE=DATE:20220505T232900
+DTEND;VALUE=DATE:20220505T235900
+DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
+ ses/172585/files/19814704/download?wrap=1)
+SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
+ month=05&year=2022#assignment_2537913
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Practice 11.1 - 11.2.pdf" href="https://lisdtx.instru
+ cture.com/courses/172585/files/19814704/download?wrap=1" data-api-endpoint
+ ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814704" dat
+ a-api-returntype="File">Practice 11.1 - 11.2.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220125T204900Z
+UID:event-calendar-event-520496
+DTSTART;VALUE=DATE:20220506
+DTEND;VALUE=DATE:20220507
 DESCRIPTION:[11.4 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
  172585/files/19814711/preview)\n\nHW: [Practice 11.4 .pdf] (https://lisdtx
  .instructure.com/courses/172585/files/19814708/preview)
@@ -4462,10 +5086,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  .pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T204900Z
 UID:event-assignment-2537914
-DTSTART;VALUE=DATE:20220505T232900
-DTEND;VALUE=DATE:20220505T235900
+DTSTART;VALUE=DATE:20220506T232900
+DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:[Practice 11.3 PAP.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814707/download?wrap=1)
 SUMMARY:HW DUE 11.3 [Alg 2 Hon-RIORDAN]
@@ -4478,10 +5102,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  pi-returntype="File">Practice 11.3 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T204900Z
 UID:event-assignment-2537915
-DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
+DTSTART;VALUE=DATE:20220509T232900
+DTEND;VALUE=DATE:20220509T235900
 DESCRIPTION:[Practice 11.4 .pdf] (https://lisdtx.instructure.com/courses/17
  2585/files/19814708/download?wrap=1)
 SUMMARY:HW DUE 11.4 [Alg 2 Hon-RIORDAN]
@@ -4494,10 +5118,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  returntype="File">Practice 11.4 .pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T204900Z
 UID:event-assignment-2537943
-DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
+DTSTART;VALUE=DATE:20220509T232900
+DTEND;VALUE=DATE:20220509T235900
 DESCRIPTION:
 SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -4505,10 +5129,10 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
+DTSTAMP:20220125T204900Z
 UID:event-calendar-event-520471
-DTSTART;VALUE=DATE:20220509
-DTEND;VALUE=DATE:20220510
+DTSTART;VALUE=DATE:20220510
+DTEND;VALUE=DATE:20220511
 DESCRIPTION:[11.5 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
  172585/files/19814582/preview)\n\n[11.6 Blank Notes.pdf] (https://lisdtx.i
  nstructure.com/courses/172585/files/19814583/preview)\n\nHW: [Practice 11.
@@ -4533,10 +5157,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  api-returntype="File">Practice 11.5 - 11.6.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
+DTSTAMP:20220125T204900Z
 UID:event-calendar-event-520524
-DTSTART;VALUE=DATE:20220510
-DTEND;VALUE=DATE:20220511
+DTSTART;VALUE=DATE:20220511
+DTEND;VALUE=DATE:20220512
 DESCRIPTION:First\, check your hw.Â  If you have questions\, make sure to a
  sk.Â  Then\, turn your 11.5-11.6 hw in.\n\n[11.5-11.6 hw key again-1.pdf] 
  ($CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad689ca100495b4f40fc6a7968f?wrap
@@ -4576,10 +5200,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p>First\, check your hw.&nbsp\; If you have q
  le">Rational Applications PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T204900Z
 UID:event-assignment-2537916
-DTSTART;VALUE=DATE:20220510T232900
-DTEND;VALUE=DATE:20220510T235900
+DTSTART;VALUE=DATE:20220511T232900
+DTEND;VALUE=DATE:20220511T235900
 DESCRIPTION:[Practice 11.5 - 11.6.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814713/download?wrap=1)\n\nÂ 
 SUMMARY:HW DUE 11.5-11.6 [Alg 2 Hon-RIORDAN]
@@ -4593,10 +5217,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a id="6669495" class="instructure_file_lin
  f</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220125T204900Z
 UID:event-assignment-2537911
-DTSTART;VALUE=DATE:20220511T232900
-DTEND;VALUE=DATE:20220511T235900
+DTSTART;VALUE=DATE:20220512T232900
+DTEND;VALUE=DATE:20220512T235900
 DESCRIPTION:[Rational Applications PAP.pdf] (https://lisdtx.instructure.com
  /courses/172585/files/19814714/download?wrap=1)
 SUMMARY:HW DUE - Rational Applications [Alg 2 Hon-RIORDAN]
@@ -4609,10 +5233,10 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  " data-api-returntype="File">Rational Applications PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212100Z
+DTSTAMP:20220125T204900Z
 UID:event-calendar-event-520522
-DTSTART;VALUE=DATE:20220512
-DTEND;VALUE=DATE:20220513
+DTSTART;VALUE=DATE:20220513
+DTEND;VALUE=DATE:20220514
 DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
  es/172585/files/19814703/preview)
 SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
@@ -4623,17 +5247,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
  ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
  03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
-UID:event-assignment-2537950
-DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
-DESCRIPTION:
-SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537950
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211007T020500Z
@@ -4663,22 +5276,24 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=05&year=2022#assignment_2466322
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T212200Z
-UID:event-calendar-event-520984
-DTSTART;VALUE=DATE:20220516
-DTEND;VALUE=DATE:20220517
-SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
+DTSTAMP:20220125T204900Z
+UID:event-assignment-2537950
+DTSTART;VALUE=DATE:20220516T232900
+DTEND;VALUE=DATE:20220516T235900
+DESCRIPTION:
+SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520984
+ month=05&year=2022#assignment_2537950
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211216T205100Z
-UID:event-calendar-event-520846
+DTSTAMP:20220125T205000Z
+UID:event-calendar-event-537415
 DTSTART;VALUE=DATE:20220517
 DTEND;VALUE=DATE:20220518
 SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520846
+ month=05&year=2022#calendar_event_537415
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T205000Z
@@ -4782,7 +5397,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220120T073007Z
+DTSTAMP:20220125T184806Z
 UID:65108103101981149732651031011101009732771111103249474948
 DTSTART;TZID=America/Chicago:20220110
 DTEND;TZID=America/Chicago:20220111
@@ -4790,7 +5405,7 @@ SUMMARY:Algebra Agenda Mon 1/10
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220120T073007Z
+DTSTAMP:20220125T184806Z
 UID:65108103101981149732651031011101009732841171013249474949
 DTSTART;TZID=America/Chicago:20220111
 DTEND;TZID=America/Chicago:20220112
@@ -4798,7 +5413,7 @@ SUMMARY:Algebra Agenda Tue 1/11
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220120T073007Z
+DTSTAMP:20220125T184806Z
 UID:65108103101981149732651031011101009732871011003249474950
 DTSTART;TZID=America/Chicago:20220112
 DTEND;TZID=America/Chicago:20220113
@@ -4806,7 +5421,7 @@ SUMMARY:Algebra Agenda Wed 1/12
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220120T073007Z
+DTSTAMP:20220125T184806Z
 UID:65108103101981149732651031011101009732841041173249474951
 DTSTART;TZID=America/Chicago:20220113
 DTEND;TZID=America/Chicago:20220114
@@ -4814,7 +5429,7 @@ SUMMARY:Algebra Agenda Thu 1/13
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220120T073007Z
+DTSTAMP:20220125T184806Z
 UID:65108103101981149732651031011101009732701141053249474952
 DTSTART;TZID=America/Chicago:20220114
 DTEND;TZID=America/Chicago:20220115
