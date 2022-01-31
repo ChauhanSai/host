@@ -1339,34 +1339,6 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The student council at
  t\; 3\n</pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220124T135900Z
-UID:event-assignment-2647399
-DTSTART;VALUE=DATE:20220112T232900
-DTEND;VALUE=DATE:20220112T235900
-DESCRIPTION:Here are the notes and practice problems for:\n\n[Trigonometry 
- Basics] (https://lisdtx.instructure.com/courses/172858/files/20146777?wrap
- =1)\n\n[Vector Basics] (https://lisdtx.instructure.com/courses/172858/file
- s/20146775?wrap=1)\n\nWe will go over the notes in class and work a few of
-  the problems. Any problems not worked together in class will be homework 
- to upload here.
-SUMMARY:Trig and Vector Basics [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2647399
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and practice problems fo
- r:</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_
- disabled" title="Trig Basics.pdf" href="https://lisdtx.instructure.com/cou
- rses/172858/files/20146777?wrap=1" target="_blank" data-api-endpoint="http
- s://lisdtx.instructure.com/api/v1/courses/172858/files/20146777" data-api-
- returntype="File">Trigonometry Basics</a></p>\n<p><a class="instructure_fi
- le_link instructure_scribd_file inline_disabled" title="Vector Basics.pdf"
-  href="https://lisdtx.instructure.com/courses/172858/files/20146775?wrap=1
- " target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1
- /courses/172858/files/20146775" data-api-returntype="File">Vector Basics</
- a></p>\n<p>We will go over the notes in class and work a few of the proble
- ms. Any problems not worked together in class will be homework to upload h
- ere.</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211215T195400Z
 UID:event-calendar-event-520491
 DTSTART;VALUE=DATE:20220113
@@ -1861,52 +1833,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Find the acceptable use policy for your sch
  5/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
  1/courses/190905/files/20494425" data-api-returntype="File">Activity - Acc
  eptable Use Policies.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T143300Z
-UID:event-assignment-2647394
-DTSTART;VALUE=DATE:20220118T232900
-DTEND;VALUE=DATE:20220118T235900
-DESCRIPTION:Here are the notes and problems for [Adding Vectors] (https://l
- isdtx.instructure.com/courses/172858/files/20146782?wrap=1). We will do pa
- rt of it in class\, and the rest is homework (submit here).\n\nWe will be 
- going over [Graphing Vectors] (https://lisdtx.instructure.com/courses/1728
- 58/files/20146786?wrap=1) in class as well\, but we will finish it in clas
- s.
-SUMMARY:Adding Vectors [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2647394
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
- s="instructure_file_link instructure_scribd_file inline_disabled" title="A
- dding Vctors.pdf" href="https://lisdtx.instructure.com/courses/172858/file
- s/20146782?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instr
- ucture.com/api/v1/courses/172858/files/20146782" data-api-returntype="File
- ">Adding Vectors</a>. We will do part of it in class\, and the rest is hom
- ework (submit here).</p>\n<p>We will be going over <a class="instructure_f
- ile_link instructure_scribd_file inline_disabled" title="Graphing Vectors 
- Practice.pdf" href="https://lisdtx.instructure.com/courses/172858/files/20
- 146786?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructu
- re.com/api/v1/courses/172858/files/20146786" data-api-returntype="File">Gr
- aphing Vectors</a> in class as well\, but we will finish it in class.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220106T011700Z
-UID:event-assignment-2647398
-DTSTART;VALUE=DATE:20220118T232900
-DTEND;VALUE=DATE:20220118T235900
-DESCRIPTION:Here are the notes and problems for [Relative Motion] (https://
- lisdtx.instructure.com/courses/172858/files/20146781?wrap=1). We will work
-  some of this in class\, and the rest is homework (submit here).
-SUMMARY:Relative Motion [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2647398
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
- s="instructure_file_link instructure_scribd_file inline_disabled" title="R
- elative Motion.pdf" href="https://lisdtx.instructure.com/courses/172858/fi
- les/20146781?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.ins
- tructure.com/api/v1/courses/172858/files/20146781" data-api-returntype="Fi
- le">Relative Motion</a>. We will work some of this in class\, and the rest
-  is homework (submit here).</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220124T135200Z
@@ -3109,6 +3035,61 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499119
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220130T230500Z
+UID:event-assignment-2647394
+DTSTART;VALUE=DATE:20220201T232900
+DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:Here are the notes and problems for [Adding Vectors] (https://l
+ isdtx.instructure.com/courses/172858/files/20146782?wrap=1). We will do pa
+ rt of it in class\, and the rest is homework (submit here).\n\nWe will be 
+ going over [Graphing Vectors] (https://lisdtx.instructure.com/courses/1728
+ 58/files/20146786?wrap=1) in class as well\, but we will finish it in clas
+ s.
+SUMMARY:Adding Vectors [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647394
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="A
+ dding Vctors.pdf" href="https://lisdtx.instructure.com/courses/172858/file
+ s/20146782?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instr
+ ucture.com/api/v1/courses/172858/files/20146782" data-api-returntype="File
+ ">Adding Vectors</a>. We will do part of it in class\, and the rest is hom
+ ework (submit here).</p>\n<p>We will be going over <a class="instructure_f
+ ile_link instructure_scribd_file inline_disabled" title="Graphing Vectors 
+ Practice.pdf" href="https://lisdtx.instructure.com/courses/172858/files/20
+ 146786?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructu
+ re.com/api/v1/courses/172858/files/20146786" data-api-returntype="File">Gr
+ aphing Vectors</a> in class as well\, but we will finish it in class.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220130T230300Z
+UID:event-assignment-2647399
+DTSTART;VALUE=DATE:20220201T232900
+DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:Here are the notes and practice problems for:\n\n[Trigonometry 
+ Basics] (https://lisdtx.instructure.com/courses/172858/files/20146777?wrap
+ =1)\n\n[Vector Basics] (https://lisdtx.instructure.com/courses/172858/file
+ s/20146775?wrap=1)\n\nWe will go over the notes in class and work a few of
+  the problems. Any problems not worked together in class will be homework 
+ to upload here.
+SUMMARY:Trig and Vector Basics [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647399
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and practice problems fo
+ r:</p>\n<p><a class="instructure_file_link instructure_scribd_file inline_
+ disabled" title="Trig Basics.pdf" href="https://lisdtx.instructure.com/cou
+ rses/172858/files/20146777?wrap=1" target="_blank" data-api-endpoint="http
+ s://lisdtx.instructure.com/api/v1/courses/172858/files/20146777" data-api-
+ returntype="File">Trigonometry Basics</a></p>\n<p><a class="instructure_fi
+ le_link instructure_scribd_file inline_disabled" title="Vector Basics.pdf"
+  href="https://lisdtx.instructure.com/courses/172858/files/20146775?wrap=1
+ " target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1
+ /courses/172858/files/20146775" data-api-returntype="File">Vector Basics</
+ a></p>\n<p>We will go over the notes in class and work a few of the proble
+ ms. Any problems not worked together in class will be homework to upload h
+ ere.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205900Z
 UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220202T232900
@@ -3129,6 +3110,25 @@ SUMMARY:2/2 - Water Bottle Wednesday  [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2716264
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220130T230500Z
+UID:event-assignment-2647398
+DTSTART;VALUE=DATE:20220202T232900
+DTEND;VALUE=DATE:20220202T235900
+DESCRIPTION:Here are the notes and problems for [Relative Motion] (https://
+ lisdtx.instructure.com/courses/172858/files/20146781?wrap=1). We will work
+  some of this in class\, and the rest is homework (submit here).
+SUMMARY:Relative Motion [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647398
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="R
+ elative Motion.pdf" href="https://lisdtx.instructure.com/courses/172858/fi
+ les/20146781?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.ins
+ tructure.com/api/v1/courses/172858/files/20146781" data-api-returntype="Fi
+ le">Relative Motion</a>. We will work some of this in class\, and the rest
+  is homework (submit here).</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T210000Z
@@ -3173,6 +3173,52 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  </p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220130T230900Z
+UID:event-assignment-2647395
+DTSTART;VALUE=DATE:20220203T232900
+DTEND;VALUE=DATE:20220203T235900
+DESCRIPTION:Here are More Practice for Projectile Motion [page 1] (https://
+ lisdtx.instructure.com/courses/172858/files/20146768?wrap=1) and [page 2] 
+ (https://lisdtx.instructure.com/courses/172858/files/20146772?wrap=1). We 
+ will work some of them in class\, and the first 5 problems on each page ar
+ e homework to be submitted here.
+SUMMARY:More Practice for Projectile Motion  [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647395
+X-ALT-DESC;FMTTYPE=text/html:<p>Here are More Practice for Projectile Motio
+ n <a class="instructure_file_link instructure_scribd_file inline_disabled"
+  title="Horizontal Release Projectile Problems.pdf" href="https://lisdtx.i
+ nstructure.com/courses/172858/files/20146768?wrap=1" target="_blank" data-
+ api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172858/files/2
+ 0146768" data-api-returntype="File">page 1</a> and <a class="instructure_f
+ ile_link instructure_scribd_file inline_disabled" title="Angled Release Pr
+ ojectile Problems.pdf" href="https://lisdtx.instructure.com/courses/172858
+ /files/20146772?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/172858/files/20146772" data-api-returntype=
+ "File">page 2</a>. We will work some of them in class\, and the first 5 pr
+ oblems on each page are homework to be submitted here.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220130T230900Z
+UID:event-assignment-2647396
+DTSTART;VALUE=DATE:20220203T232900
+DTEND;VALUE=DATE:20220203T235900
+DESCRIPTION:We will be conducting [this experiment] (https://lisdtx.instruc
+ ture.com/courses/172858/files/20146771?wrap=1) on Thursday\, Sept. 9\, dur
+ ing class. Lab reports will be due on Tuesday\, Sept. 14. Submit your lab 
+ report here.
+SUMMARY:Projectile Motion Lab [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647396
+X-ALT-DESC;FMTTYPE=text/html:<p>We will be conducting <a class="instructure
+ _file_link instructure_scribd_file inline_disabled" title="Projectile Moti
+ on Lab.pdf" href="https://lisdtx.instructure.com/courses/172858/files/2014
+ 6771?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructure
+ .com/api/v1/courses/172858/files/20146771" data-api-returntype="File">this
+  experiment</a> on Thursday\, Sept. 9\, during class. Lab reports will be 
+ due on Tuesday\, Sept. 14. Submit your lab report here.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
 UID:event-assignment-2499239
 DTSTART;VALUE=DATE:20220204T232900
@@ -3189,6 +3235,15 @@ DTEND;VALUE=DATE:20220204T235900
 SUMMARY:2/4: Girls Basketball Game vs Plano West/Shepton [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499121
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220131T021800Z
+UID:event-assignment-2534509
+DTSTART;VALUE=DATE:20220204T232900
+DTEND;VALUE=DATE:20220204T235900
+SUMMARY:Arrays AP Review [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2534509
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220110T192700Z
