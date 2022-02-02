@@ -7,15 +7,6 @@ X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
 DTSTAMP:20211216T205900Z
-UID:event-calendar-event-520849
-DTSTART;VALUE=DATE:20220103
-DTEND;VALUE=DATE:20220104
-SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520849
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T205900Z
 UID:event-calendar-event-520850
 DTSTART;VALUE=DATE:20220104
 DTEND;VALUE=DATE:20220105
@@ -1744,7 +1735,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
  >
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220127T181200Z
+DTSTAMP:20220201T204900Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -2212,7 +2203,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220131T202200Z
+DTSTAMP:20220201T202800Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
 DTEND;VALUE=DATE:20220120T235900
@@ -2327,7 +2318,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T171100Z
+DTSTAMP:20220201T155000Z
 UID:event-assignment-2706916
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
@@ -2385,7 +2376,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  W.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220129T180100Z
+DTSTAMP:20220201T212900Z
 UID:event-assignment-2537941
 DTSTART;VALUE=DATE:20220125T232900
 DTEND;VALUE=DATE:20220125T235900
@@ -2960,6 +2951,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This is a timed quiz.&nbsp\; You have 30 mi
  nutes of until 3:15 PM\, which ever comes first.</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220201T192900Z
 UID:event-assignment-2433334
 DTSTART;VALUE=DATE:20220130T232900
 DTEND;VALUE=DATE:20220130T235900
@@ -2973,7 +2965,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
   HHS Auditorium</p>\n<p>When? TBD</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T205900Z
+DTSTAMP:20220201T212900Z
 UID:event-assignment-2537942
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -2990,7 +2982,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220131T220100Z
+DTSTAMP:20220201T183300Z
 UID:event-assignment-2727633
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -3017,22 +3009,26 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  6" data-api-returntype="File">Topic 2 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220202T020000Z
 UID:event-assignment-2499236
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/1: Boys Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499236
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220201T230000Z
 UID:event-assignment-2499119
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/1: Girls Basketball Game vs Marcus [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499119
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220130T230500Z
@@ -3062,6 +3058,27 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
  aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220201T165600Z
+UID:event-assignment-2720034
+DTSTART;VALUE=DATE:20220201T232900
+DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:[Project - Sexting Cases.pdf] (https://lisdtx.instructure.com/c
+ ourses/190905/files/20707673/download?wrap=1)\n\nÂ \n\nIn 3-5 slides! Give
+  me as much information as you can on the case in those slides.Â  If you c
+ hoose to write a couple of paragraphs\, that is fine too!
+SUMMARY:Sexting Cases Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2720034
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Project - Sexting Cases.pdf" href="https://lisdtx.ins
+ tructure.com/courses/190905/files/20707673/download?wrap=1" data-api-endpo
+ int="https://lisdtx.instructure.com/api/v1/courses/190905/files/20707673" 
+ data-api-returntype="File">Project - Sexting Cases.pdf</a></p>\n<p>&nbsp\;
+ </p>\n<p>In 3-5 slides! Give me as much information as you can on the case
+  in those slides.&nbsp\; If you choose to write a couple of paragraphs\, t
+ hat is fine too!</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220130T230300Z
 UID:event-assignment-2647399
 DTSTART;VALUE=DATE:20220201T232900
@@ -3088,6 +3105,28 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and practice problems fo
  a></p>\n<p>We will go over the notes in class and work a few of the proble
  ms. Any problems not worked together in class will be homework to upload h
  ere.</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220201T155400Z
+UID:event-assignment-2720038
+DTSTART;VALUE=DATE:20220201T232900
+DTEND;VALUE=DATE:20220201T235900
+DESCRIPTION:[Activity - Words Matter.pdf] (https://lisdtx.instructure.com/c
+ ourses/190905/files/20707676/download?wrap=1)\n\nCreate a powerpoint/googl
+ e sheets/word document with your answers and group name!Â  All must turn i
+ t in if you work in groups! Convert to powerpoint or word document if you 
+ use google sheets or slides.
+SUMMARY:Words Matter Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2720038
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Activity - Words Matter.pdf" href="https://lisdtx.ins
+ tructure.com/courses/190905/files/20707676/download?wrap=1" data-api-endpo
+ int="https://lisdtx.instructure.com/api/v1/courses/190905/files/20707676" 
+ data-api-returntype="File">Activity - Words Matter.pdf</a></p>\n<p>Create 
+ a powerpoint/google sheets/word document with your answers and group name!
+ &nbsp\; All must turn it in if you work in groups! Convert to powerpoint o
+ r word document if you use google sheets or slides.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205900Z
@@ -3769,6 +3808,19 @@ SUMMARY:Topic 5A Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=02&year=2022#calendar_event_520506
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220201T190700Z
+UID:event-assignment-2728778
+DTSTART;VALUE=DATE:20220228T232900
+DTEND;VALUE=DATE:20220228T235900
+DESCRIPTION:Submit a picture of your receipt here :)Â \n\n1 DOLLAR = 1 POIN
+ T\n\nMAX 5 POINTS
+SUMMARY:American Heart Association Fundraiser  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2728778
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your receipt here :)&nb
+ sp\;</p>\n<p>1 DOLLAR = 1 POINT</p>\n<p>MAX 5 POINTS</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T203900Z
@@ -5460,7 +5512,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220201T073007Z
+DTSTAMP:20220202T073010Z
 UID:8511010511632493277971061111143276979832916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220202
 DTEND;TZID=America/Chicago:20220203
@@ -5468,7 +5520,7 @@ SUMMARY:Unit 1 Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T073007Z
+DTSTAMP:20220202T073010Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220204
 DTEND;TZID=America/Chicago:20220205
