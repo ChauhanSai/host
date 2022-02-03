@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20211216T205900Z
-UID:event-calendar-event-520850
-DTSTART;VALUE=DATE:20220104
-DTEND;VALUE=DATE:20220105
-SUMMARY:NO SCHOOL [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520850
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220105T020000Z
 UID:event-assignment-2499204
 DTSTART;VALUE=DATE:20220104T232900
@@ -1735,7 +1726,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
  >
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T204900Z
+DTSTAMP:20220202T164400Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -2203,7 +2194,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T202800Z
+DTSTAMP:20220202T161700Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
 DTEND;VALUE=DATE:20220120T235900
@@ -2307,7 +2298,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  echnology%20Needs%20(1).pdf"> </span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220121T142700Z
+DTSTAMP:20220203T015800Z
 UID:event-assignment-2534540
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
@@ -2893,7 +2884,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>In this assignment you
  p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220120T190800Z
+DTSTAMP:20220202T182800Z
 UID:event-assignment-2716122
 DTSTART;VALUE=DATE:20220126T232900
 DTEND;VALUE=DATE:20220126T235900
@@ -2982,7 +2973,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T183300Z
+DTSTAMP:20220202T153300Z
 UID:event-assignment-2727633
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -3058,7 +3049,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
  aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T165600Z
+DTSTAMP:20220202T154900Z
 UID:event-assignment-2720034
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
@@ -3151,6 +3142,24 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220202T181900Z
+UID:event-assignment-2647396
+DTSTART;VALUE=DATE:20220202T232900
+DTEND;VALUE=DATE:20220202T235900
+DESCRIPTION:We will be conducting [this experiment] (https://lisdtx.instruc
+ ture.com/courses/172858/files/20146771?wrap=1) on Wednesday February 2\, d
+ uring class.Â 
+SUMMARY:Projectile Motion Lab [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2647396
+X-ALT-DESC;FMTTYPE=text/html:<p>We will be conducting <a class="instructure
+ _file_link instructure_scribd_file inline_disabled" title="Projectile Moti
+ on Lab.pdf" href="https://lisdtx.instructure.com/courses/172858/files/2014
+ 6771?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructure
+ .com/api/v1/courses/172858/files/20146771" data-api-returntype="File">this
+  experiment</a> on Wednesday February 2\, during class.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220130T230500Z
 UID:event-assignment-2647398
 DTSTART;VALUE=DATE:20220202T232900
@@ -3238,24 +3247,50 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are More Practice for Projectile Motio
  oblems on each page are homework to be submitted here.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220130T230900Z
-UID:event-assignment-2647396
+DTSTAMP:20220202T164500Z
+UID:event-assignment-2720035
 DTSTART;VALUE=DATE:20220203T232900
 DTEND;VALUE=DATE:20220203T235900
-DESCRIPTION:We will be conducting [this experiment] (https://lisdtx.instruc
- ture.com/courses/172858/files/20146771?wrap=1) on Thursday\, Sept. 9\, dur
- ing class. Lab reports will be due on Tuesday\, Sept. 14. Submit your lab 
- report here.
-SUMMARY:Projectile Motion Lab [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2647396
-X-ALT-DESC;FMTTYPE=text/html:<p>We will be conducting <a class="instructure
- _file_link instructure_scribd_file inline_disabled" title="Projectile Moti
- on Lab.pdf" href="https://lisdtx.instructure.com/courses/172858/files/2014
- 6771?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructure
- .com/api/v1/courses/172858/files/20146771" data-api-returntype="File">this
-  experiment</a> on Thursday\, Sept. 9\, during class. Lab reports will be 
- due on Tuesday\, Sept. 14. Submit your lab report here.</p>
+DESCRIPTION:[Project - Stop Cyberbullying.pdf] (https://lisdtx.instructure.
+ com/courses/190905/files/20707671/download?wrap=1)\n\n7-10 Slides or more.
+ Â  1st slide being the intro and members.Â \n\n3-5 Bullets per slide.Â  I 
+ need as much information as possible! Use pics and graphics.Â  Be creative
+ !Â \n\n[Project - Protect Your Computer.pdf] (https://lisdtx.instructure.c
+ om/courses/190905/files/20910908?wrap=1)Â \n\n7-10 Slides or more.Â  1st s
+ lide being the intro and members.\n\n3-5 Bullets per slide.Â  I need as mu
+ ch information as possible! Use pics and graphics.Â  Be creative!\n\n[Proj
+ ect - Investigating E-mail Scams.pdf] (https://lisdtx.instructure.com/cour
+ ses/190905/files/20910993?wrap=1)Â \n\n7-10 Slides or more.Â  1st slide be
+ ing the intro and members.\n\n3-5 Bullets per slide.Â  I need as much info
+ rmation as possible! Use pics and graphics.Â  Be creative!
+SUMMARY:Stop CyberBullying [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2720035
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Project - Stop Cyberbullying.pdf" href="https://lisdt
+ x.instructure.com/courses/190905/files/20707671/download?wrap=1" data-api-
+ endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/20707
+ 671" data-api-returntype="File">Project - Stop Cyberbullying.pdf</a></p>\n
+ <p>7-10 Slides or more.&nbsp\; 1st slide being the intro and members.&nbsp
+ \;</p>\n<p>3-5 Bullets per slide.&nbsp\; I need as much information as pos
+ sible! Use pics and graphics.&nbsp\; Be creative!&nbsp\;</p>\n<p><a class=
+ "instructure_file_link instructure_scribd_file inline_disabled" title="Pro
+ ject - Protect Your Computer.pdf" href="https://lisdtx.instructure.com/cou
+ rses/190905/files/20910908?wrap=1" target="_blank" data-canvas-previewable
+ ="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
+ 190905/files/20910908" data-api-returntype="File">Project - Protect Your C
+ omputer.pdf</a>&nbsp\;</p>\n<p>7-10 Slides or more.&nbsp\; 1st slide being
+  the intro and members.</p>\n<p>3-5 Bullets per slide.&nbsp\; I need as mu
+ ch information as possible! Use pics and graphics.&nbsp\; Be creative!</p>
+ \n<p><a class="instructure_file_link instructure_scribd_file inline_disabl
+ ed" title="Project - Investigating E-mail Scams.pdf" href="https://lisdtx.
+ instructure.com/courses/190905/files/20910993?wrap=1" target="_blank" data
+ -canvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.
+ com/api/v1/courses/190905/files/20910993" data-api-returntype="File">Proje
+ ct - Investigating E-mail Scams.pdf</a>&nbsp\;</p>\n<p>7-10 Slides or more
+ .&nbsp\; 1st slide being the intro and members.</p>\n<p>3-5 Bullets per sl
+ ide.&nbsp\; I need as much information as possible! Use pics and graphics.
+ &nbsp\; Be creative!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211129T194500Z
@@ -5512,7 +5547,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220202T073010Z
+DTSTAMP:20220203T073010Z
 UID:8511010511632493277971061111143276979832916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220202
 DTEND;TZID=America/Chicago:20220203
@@ -5520,7 +5555,7 @@ SUMMARY:Unit 1 Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T073010Z
+DTSTAMP:20220203T073010Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220204
 DTEND;TZID=America/Chicago:20220205
