@@ -6,49 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20211215T204900Z
-UID:event-calendar-event-520400
-DTSTART;VALUE=DATE:20220106
-DTEND;VALUE=DATE:20220107
-DESCRIPTION:* [Review of Algebra I] ($CANVAS_COURSE_REFERENCE$/file_ref/ga5
- ce2723dd2bee900d127a6dc4d4edc3/preview)\n\n* Syllabus\n\n* Work Ethic\n\n*
-  Canvas\n\n* Textbook\n\n* WebEx\n\nHomework:Â  Pre-read [1.1 - 1.2 Note K
- ey] (https://lisdtx.instructure.com/courses/172585/files/19814506/preview)
-SUMMARY:Course Overview [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520400
-X-ALT-DESC;FMTTYPE=text/html:<ul>\n<li><a class="instructure_file_link inst
- ructure_scribd_file" title="Pre-AP Algebra II Summer Assignment updated.pd
- f" href="$CANVAS_COURSE_REFERENCE$/file_ref/ga5ce2723dd2bee900d127a6dc4d4e
- dc3/preview" target="_blank">Review of Algebra I</a></li>\n<li>Syllabus</l
- i>\n<li>Work Ethic</li>\n<li>Canvas</li>\n<li>Textbook</li>\n<li>WebEx</li
- >\n</ul>\n<p>Homework:&nbsp\; Pre-read <a class="instructure_file_link ins
- tructure_scribd_file" title="1.1-1.2 Parent Function\, Domain &amp\; Range
- \, Notation Note KEY.pdf" href="https://lisdtx.instructure.com/courses/172
- 585/files/19814506/preview" target="_blank" data-api-endpoint="https://lis
- dtx.instructure.com/api/v1/courses/172585/files/19814506" data-api-returnt
- ype="File">1.1 - 1.2 Note Key</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211215T195400Z
-UID:event-calendar-event-520397
-DTSTART;VALUE=DATE:20220106
-DTEND;VALUE=DATE:20220107
-DESCRIPTION:[Topic 1 Review PAP.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814593/preview)\n\n(The Review Key will always be posted 
- as an announcement the day before the test.)
-SUMMARY:Topic 1 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520397
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Topic 1 Review PAP.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814593/preview" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981459
- 3" data-api-returntype="File">Topic 1 Review PAP.pdf</a></p>\n<p>(The Revi
- ew Key will always be posted as an announcement the day before the test.)<
- /p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211215T205000Z
 UID:event-calendar-event-520523
 DTSTART;VALUE=DATE:20220107
@@ -3262,22 +3219,26 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  &nbsp\; Be creative!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220205T013000Z
 UID:event-assignment-2499239
 DTSTART;VALUE=DATE:20220204T232900
 DTEND;VALUE=DATE:20220204T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/4: Boys Basketball Game vs Plano West [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499239
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220204T230000Z
 UID:event-assignment-2499121
 DTSTART;VALUE=DATE:20220204T232900
 DTEND;VALUE=DATE:20220204T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/4: Girls Basketball Game vs Plano West/Shepton [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499121
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220131T140000Z
@@ -3291,13 +3252,17 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220110T192700Z
+DTSTAMP:20220205T060000Z
 UID:event-assignment-2693761
 DTSTART;VALUE=DATE:20220205T232900
 DTEND;VALUE=DATE:20220205T235900
+DESCRIPTION:Submit a picture of you working the event - must be able to tel
+ l that it is both you and the actual event.
 SUMMARY:Daddy-Daughter Dance 2022 [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2693761
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of you working the event -
+  must be able to tell that it is both you and the actual event.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T210300Z
@@ -3515,6 +3480,15 @@ DTEND;VALUE=DATE:20220211T235900
 SUMMARY:2/11: Boys Basketball Game vs Plano East [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499248
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220205T032100Z
+UID:event-assignment-2730652
+DTSTART;VALUE=DATE:20220211T232900
+DTEND;VALUE=DATE:20220211T235900
+SUMMARY:2D Array Intro Quiz [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2730652
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T210200Z
@@ -5516,7 +5490,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220204T073007Z
+DTSTAMP:20220205T073009Z
 UID:708281583266117115326810111510510311032383283101108102326810511810511511111432916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220206T232900
 DTEND;TZID=America/Chicago:20220206T235900
@@ -5524,7 +5498,7 @@ SUMMARY:FRQ: Bus Design & Self Divisor [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220204T073007Z
+DTSTAMP:20220205T073009Z
 UID:50683265114114971213273110116111328111710512232916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220206T232900
 DTEND;TZID=America/Chicago:20220206T235900
@@ -5532,7 +5506,7 @@ SUMMARY:2D Array Into Quiz [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220204T073007Z
+DTSTAMP:20220205T073009Z
 UID:7610110111699111100101328710110110710812132671111101161011151163250555732916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220205T203000
 DTEND;TZID=America/Chicago:20220205T210000
@@ -5540,7 +5514,7 @@ SUMMARY:Leetcode Weekly Contest 279 [AP Comp Sci - S22]
 DESCRIPTION:https://leetcode.com/contest/weekly-contest-279/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220204T073007Z
+DTSTAMP:20220205T073009Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
