@@ -6,33 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20211215T205000Z
-UID:event-calendar-event-520523
-DTSTART;VALUE=DATE:20220107
-DTEND;VALUE=DATE:20220108
-DESCRIPTION:You may take notes on paper or use my guided notes and take not
- es on your iPad.\n\n[1.1-1.2 Parent Functions\, Domain & Range\, Notation 
- Blank Notes.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981
- 4585/preview)\n\nÂ \n\nHW: [Functions Practice (Newest) PAP.pdf] (https://
- lisdtx.instructure.com/courses/172585/files/19814592/preview) Â \n\nÂ 
-SUMMARY:1.1-1.2 Functions [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520523
-X-ALT-DESC;FMTTYPE=text/html:<p>You may take notes on paper or use my guide
- d notes and take notes on your iPad.</p>\n<p><a class="instructure_file_li
- nk instructure_scribd_file" title="1.1-1.2 Parent Functions\, Domain &amp\
- ; Range\, Notation Blank Notes.pdf" href="https://lisdtx.instructure.com/c
- ourses/172585/files/19814585/preview" target="_blank" data-api-endpoint="h
- ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814585" data-a
- pi-returntype="File">1.1-1.2 Parent Functions\, Domain &amp\; Range\, Nota
- tion Blank Notes.pdf</a></p>\n<p>&nbsp\;</p>\n<p>HW: <a class="instructure
- _file_link instructure_scribd_file" title="Functions Practice (Newest) PAP
- .pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814592/p
- review" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/
- api/v1/courses/172585/files/19814592" data-api-returntype="File">Functions
-  Practice (Newest) PAP.pdf</a> &nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211216T191400Z
 UID:event-assignment-2537944
 DTSTART;VALUE=DATE:20220107T232900
@@ -3252,7 +3225,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220205T060000Z
+DTSTAMP:20220206T060400Z
 UID:event-assignment-2693761
 DTSTART;VALUE=DATE:20220205T232900
 DTEND;VALUE=DATE:20220205T235900
@@ -3482,7 +3455,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499248
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220205T032100Z
+DTSTAMP:20220205T190000Z
 UID:event-assignment-2730652
 DTSTART;VALUE=DATE:20220211T232900
 DTEND;VALUE=DATE:20220211T235900
@@ -5490,7 +5463,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220205T073009Z
+DTSTAMP:20220206T073011Z
 UID:708281583266117115326810111510510311032383283101108102326810511810511511111432916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220206T232900
 DTEND;TZID=America/Chicago:20220206T235900
@@ -5498,7 +5471,7 @@ SUMMARY:FRQ: Bus Design & Self Divisor [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220205T073009Z
+DTSTAMP:20220206T073011Z
 UID:50683265114114971213273110116111328111710512232916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220206T232900
 DTEND;TZID=America/Chicago:20220206T235900
@@ -5506,7 +5479,7 @@ SUMMARY:2D Array Into Quiz [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220205T073009Z
+DTSTAMP:20220206T073011Z
 UID:7610110111699111100101328710110110710812132671111101161011151163250555732916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220205T203000
 DTEND;TZID=America/Chicago:20220205T210000
@@ -5514,7 +5487,7 @@ SUMMARY:Leetcode Weekly Contest 279 [AP Comp Sci - S22]
 DESCRIPTION:https://leetcode.com/contest/weekly-contest-279/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220205T073009Z
+DTSTAMP:20220206T073011Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
