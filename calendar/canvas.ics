@@ -46,7 +46,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220131T220100Z
+DTSTAMP:20220207T212100Z
 UID:event-assignment-2537910
 DTSTART;VALUE=DATE:20220110T232900
 DTEND;VALUE=DATE:20220110T235900
@@ -1244,7 +1244,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T171100Z
+DTSTAMP:20220207T192800Z
 UID:event-assignment-2689136
 DTSTART;VALUE=DATE:20220113T232900
 DTEND;VALUE=DATE:20220113T235900
@@ -1584,7 +1584,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=01&year=2022#calendar_event_520540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220131T220100Z
+DTSTAMP:20220207T212600Z
 UID:event-assignment-2537912
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -2032,7 +2032,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T161700Z
+DTSTAMP:20220207T213000Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
 DTEND;VALUE=DATE:20220120T235900
@@ -2147,7 +2147,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T155000Z
+DTSTAMP:20220207T192800Z
 UID:event-assignment-2706916
 DTSTART;VALUE=DATE:20220121T232900
 DTEND;VALUE=DATE:20220121T235900
@@ -2205,7 +2205,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  W.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T212900Z
+DTSTAMP:20220207T212600Z
 UID:event-assignment-2537941
 DTSTART;VALUE=DATE:20220125T232900
 DTEND;VALUE=DATE:20220125T235900
@@ -2794,7 +2794,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
   HHS Auditorium</p>\n<p>When? TBD</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T212900Z
+DTSTAMP:20220207T212600Z
 UID:event-assignment-2537942
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -2887,7 +2887,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
  aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T154900Z
+DTSTAMP:20220207T192800Z
 UID:event-assignment-2720034
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
@@ -2936,7 +2936,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and practice problems fo
  ere.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T155400Z
+DTSTAMP:20220207T192800Z
 UID:event-assignment-2720038
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
@@ -2958,7 +2958,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  r word document if you use google sheets or slides.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220203T191500Z
+DTSTAMP:20220207T170800Z
 UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220202T232900
 DTEND;VALUE=DATE:20220202T235900
@@ -3043,7 +3043,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are More Practice for Projectile Motio
  oblems on each page are homework to be submitted here.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T164500Z
+DTSTAMP:20220207T192800Z
 UID:event-assignment-2720035
 DTSTART;VALUE=DATE:20220203T232900
 DTEND;VALUE=DATE:20220203T235900
@@ -3122,7 +3122,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220206T060400Z
+DTSTAMP:20220207T164900Z
 UID:event-assignment-2693761
 DTSTART;VALUE=DATE:20220205T232900
 DTEND;VALUE=DATE:20220205T235900
@@ -3177,13 +3177,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  </p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T194500Z
+DTSTAMP:20220208T020000Z
 UID:event-assignment-2499244
 DTSTART;VALUE=DATE:20220207T232900
 DTEND;VALUE=DATE:20220207T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/7: Boys Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499244
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030800Z
@@ -3236,6 +3238,31 @@ DTEND;VALUE=DATE:20220208T235900
 SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499123
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220207T164400Z
+UID:event-assignment-2733066
+DTSTART;VALUE=DATE:20220208T232900
+DTEND;VALUE=DATE:20220208T235900
+DESCRIPTION:[Project - Operating Systems.pdf] (https://lisdtx.instructure.c
+ om/courses/190905/files/20964188/download?wrap=1)\n\n5-7 Slides\, explain 
+ how the operating system functions to make each component work.Â  There ar
+ e 5 of them! Use graphics and pics to assist in your creation!Â  Don't jus
+ t use the information from the powerpoint!Â  Find some different informati
+ on on in your research! Can be a group project or an individual project!
+SUMMARY:Operating Systems Project [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2733066
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="Project - Operating Systems.pdf" href="https://lisdtx
+ .instructure.com/courses/190905/files/20964188/download?wrap=1" data-api-e
+ ndpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/209641
+ 88" data-api-returntype="File">Project - Operating Systems.pdf</a></p>\n<p
+ >5-7 Slides\, explain how the operating system functions to make each comp
+ onent work.&nbsp\; There are 5 of them! Use graphics and pics to assist in
+  your creation!&nbsp\; Don't just use the information from the powerpoint!
+ &nbsp\; Find some different information on in your research! Can be a grou
+ p project or an individual project!</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -3361,22 +3388,32 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
  month=02&year=2022#assignment_2730652
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T132300Z
+DTSTAMP:20220208T114000Z
 UID:event-assignment-2600396
 DTSTART:20220214T055800Z
 DTEND:20220214T055800Z
+DESCRIPTION:
 SUMMARY:One Dimensional Retest MC [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=02&year=2022#assignment_2600396
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T132700Z
+DTSTAMP:20220207T160000Z
 UID:event-assignment-2600676
 DTSTART;VALUE=DATE:20220213T232900
 DTEND;VALUE=DATE:20220213T235900
+DESCRIPTION:[UNIT 1 FRQ F20.pdf] (https://lisdtx.instructure.com/courses/17
+ 2858/files/20028533/download?wrap=1)
 SUMMARY:Unit 1 Re-Test FRQ [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=02&year=2022#assignment_2600676
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file" title="UNIT 1 FRQ F20.pdf" href="https://lisdtx.instructure.
+ com/courses/172858/files/20028533/download?wrap=1" target="_blank" data-ca
+ nvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com
+ /api/v1/courses/172858/files/20028533" data-api-returntype="File">UNIT 1 F
+ RQ F20.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -5429,35 +5466,35 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220207T073009Z
-UID:708281583266117115326810111510510311032383283101108102326810511810511511111432916580326711110911232839910532453283505093
-DTSTART;TZID=America/Chicago:20220206T232900
-DTEND;TZID=America/Chicago:20220206T235900
-SUMMARY:FRQ: Bus Design & Self Divisor [AP Comp Sci - S22]
+DTSTAMP:20220208T073008Z
+UID:70828132916580326711110911232839910532453283505093
+DTSTART;TZID=America/Chicago:20220210T141200
+DTEND;TZID=America/Chicago:20220210T144200
+SUMMARY:FRQ [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T073009Z
-UID:50683265114114971213273110116111328111710512232916580326711110911232839910532453283505093
-DTSTART;TZID=America/Chicago:20220206T232900
-DTEND;TZID=America/Chicago:20220206T235900
-SUMMARY:2D Array Into Quiz [AP Comp Sci - S22]
+DTSTAMP:20220208T073008Z
+UID:77971161141051203277971061111143276979832916580326711110911232839910532453283505093
+DTSTART;TZID=America/Chicago:20220214T141200
+DTEND;TZID=America/Chicago:20220214T144200
+SUMMARY:Matrix Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T073009Z
-UID:7610110111699111100101328710110110710812132671111101161011151163250555732916580326711110911232839910532453283505093
-DTSTART;TZID=America/Chicago:20220205T203000
-DTEND;TZID=America/Chicago:20220205T210000
-SUMMARY:Leetcode Weekly Contest 279 [AP Comp Sci - S22]
-DESCRIPTION:https://leetcode.com/contest/weekly-contest-279/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T073009Z
+DTSTAMP:20220208T073008Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
 SUMMARY:Unit 2 2D Motion Test [Physics Hon-JENKINS]
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T073008Z
+UID:85110105116325032506832801141013284101115116329180104121115105991153272111110457469787573788393
+DTSTART;TZID=America/Chicago:20220208
+DTEND;TZID=America/Chicago:20220209
+SUMMARY:Unit 2 2D Pre Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
