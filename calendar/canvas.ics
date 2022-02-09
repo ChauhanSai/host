@@ -6,24 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20211216T210300Z
-UID:event-calendar-event-520455
-DTSTART;VALUE=DATE:20220110
-DTEND;VALUE=DATE:20220111
-DESCRIPTION:Start notes on all parent functions:\n\n[Parent Functions Notes
- [1] newest.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814
- 595/download?wrap=1)
-SUMMARY:Parent Functions Notes [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520455
-X-ALT-DESC;FMTTYPE=text/html:<p>Start notes on all parent functions:</p>\n<
- p><a id="6666430" class="instructure_file_link instructure_scribd_file" hr
- ef="https://lisdtx.instructure.com/courses/172585/files/19814595/download?
- wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="
- https://lisdtx.instructure.com/api/v1/courses/172585/files/19814595" data-
- api-returntype="File">Parent Functions Notes[1] newest.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220124T135200Z
 UID:event-assignment-2698924
 DTSTART:20220110T213500Z
@@ -2794,7 +2776,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
   HHS Auditorium</p>\n<p>When? TBD</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T212600Z
+DTSTAMP:20220208T195300Z
 UID:event-assignment-2537942
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -2887,7 +2869,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
  aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T192800Z
+DTSTAMP:20220208T163400Z
 UID:event-assignment-2720034
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
@@ -2958,7 +2940,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  r word document if you use google sheets or slides.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T170800Z
+DTSTAMP:20220208T202600Z
 UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220202T232900
 DTEND;VALUE=DATE:20220202T235900
@@ -3231,16 +3213,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211129T190200Z
+DTSTAMP:20220208T230000Z
 UID:event-assignment-2499123
 DTSTART;VALUE=DATE:20220208T232900
 DTEND;VALUE=DATE:20220208T235900
+DESCRIPTION:Submit your picture here!
 SUMMARY:2/8: Girls Basketball Game vs Lewisville [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2499123
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T164400Z
+DTSTAMP:20220208T162200Z
 UID:event-assignment-2733066
 DTSTART;VALUE=DATE:20220208T232900
 DTEND;VALUE=DATE:20220208T235900
@@ -3249,7 +3233,9 @@ DESCRIPTION:[Project - Operating Systems.pdf] (https://lisdtx.instructure.c
  how the operating system functions to make each component work.Â  There ar
  e 5 of them! Use graphics and pics to assist in your creation!Â  Don't jus
  t use the information from the powerpoint!Â  Find some different informati
- on on in your research! Can be a group project or an individual project!
+ on on in your research! Can be a group project or an individual project!\n
+ \nProcess ManagementÂ \n\nMemory Management\n\nFile Management\n\nHardware
+  Management\n\nSecurity Management
 SUMMARY:Operating Systems Project [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
  month=02&year=2022#assignment_2733066
@@ -3262,7 +3248,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  onent work.&nbsp\; There are 5 of them! Use graphics and pics to assist in
   your creation!&nbsp\; Don't just use the information from the powerpoint!
  &nbsp\; Find some different information on in your research! Can be a grou
- p project or an individual project!</p>
+ p project or an individual project!</p>\n<p>Process Management&nbsp\;</p>\
+ n<p>Memory Management</p>\n<p>File Management</p>\n<p>Hardware Management<
+ /p>\n<p>Security Management</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -3316,6 +3304,271 @@ SUMMARY:2/9 Water Bottle Wednesday  [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=02&year=2022#assignment_2716271
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T134100Z
+UID:event-assignment-2534715
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:**************\nStarter Files:\n**************\n\n[ChartManager
+ .java] (https://lisdtx.instructure.com/courses/202975/files/19786586?wrap=
+ 1)\n\n[SeatingChart.java] (https://lisdtx.instructure.com/courses/202975/f
+ iles/19786589?wrap=1)\n\n[] (https://lisdtx.instructure.com/courses/202975
+ /files/19786589?wrap=1)[Student.java] (https://lisdtx.instructure.com/cour
+ ses/202975/files/19786595?wrap=1) Â Â \n\n**********\nDirections\n********
+ **\n\nWrite a program that allows a teacher to create and store students i
+ n a seating chart. A student is represented by the following class:\n\npub
+ lic class Student\n{\n// instance variables\nprivate String name\;\nprivat
+ e String id\;\n\n// default constructor\npublic Student()\n{\nname = "vaca
+ nt"\;\nid = ""\;\n}\n\n// another constructor\npublic Student(String n\, S
+ tring i)\n{\nname = n\;\nid = i\;\n}\n\n// mutator methods\npublic void se
+ tName(String n)\n{\nname = n\;\n}\n\npublic void setID(String i)\n{\nid = 
+ i\;\n}\n\n// accessor methods\npublic String getName()\n{\nreturn name\;\n
+ }\n\npublic String getID()\n{\nreturn id\;\n}\n\n// toString method\npubli
+ c String toString()\n{\nreturn String.format("%-10s"\, name)\;\n}\n}\n\nTh
+ e seating chart is represented in the class SeatingChart as a 2D array of 
+ Student objects:\n\nprivate Student[][] chart\;\n\nYou will be writing met
+ hods in the SeatingChart class.\n\nMethod addStudent\n-----------------\n\
+ nWrite method addStudent. Given a Student object and a seat location addSt
+ udent adds the Student to the seating chart at a specified location. If th
+ e specified location is a valid location the Student is added to the chart
+  and the method returns true\; otherwise the Student is not added to the c
+ hart and the method returns false.\n\nMethod swapSeats\n----------------\n
+ \nWrite method swapSeats. Given two seat locations swapSeats swaps seats o
+ f two students in the seating chart. If both seat locations are valid the 
+ Students are swapped and the method returns true\; otherwise the Students 
+ are not swapped and the method returns false.\n\nMethod scrambleChart\n---
+ -----------------\n\nWrite method scrambleChart. scrambleChart creates a n
+ ew 2D array of Student objects by taking all the students from the seating
+  chart and placing them in a new chart at random locations. Any seats not 
+ assigned to a student should be assigned a default Student object which\, 
+ when displayed\, will print the word "vacant". A seat is empty in the new 
+ chart if the array cell contains the keyword null.\n\n**********\nSample R
+ un\n**********\n\n---------------------------\nOriginal Seating Chart\n---
+ ------------------------\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\,3) vacan
+ t (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1\,4) J
+ ill\n(2\,0) Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) John\n(3\,0)
+  Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) vacant\n-------------
+ --------------\nTest addStudent\n---------------------------\nRex placed i
+ n seat (3\,4)\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\,3) vacant (0\,4) Al
+ an\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1\,4) Jill\n(2\,0)
+  Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) John\n(3\,0) Suzy (3\,1
+ ) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n---------------------------
+ \nTest addStudent\n---------------------------\nError: Olivia not added to
+  seating chart at Location (5\,2)\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\
+ ,3) vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant
+  (1\,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) Joh
+ n\n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n-------
+ --------------------\nTest swapSeats\n---------------------------\nJohn(0\
+ ,0) and Max(2\,2) swapped seats\n(0\,0) Max (0\,1) Amy (0\,2) Josey (0\,3)
+  vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1
+ \,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) John (2\,3) Alex (2\,4) John\
+ n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n---------
+ ------------------\nTest swapSeats\n---------------------------\nError: Ka
+ ren(2\,0) and Suzy(4\,0) not swapped\n(0\,0) Max (0\,1) Amy (0\,2) Josey (
+ 0\,3) vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vaca
+ nt (1\,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) John (2\,3) Alex (2\,4) 
+ John\n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n----
+ -----------------------\nTest scrambleChart\n---------------------------\n
+ (0\,0) vacant (0\,1) Suzy (0\,2) vacant (0\,3) Jill (0\,4) Sam\n(1\,0) Ala
+ n (1\,1) vacant (1\,2) Josey (1\,3) John (1\,4) Alex\n(2\,0) Karen (2\,1) 
+ Mary (2\,2) Callie (2\,3) vacant (2\,4) John\n(3\,0) Max (3\,1) vacant (3\
+ ,2) Fred (3\,3) Rex (3\,4) Amy\n\nÂ 
+SUMMARY:Seating Chart [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2534715
+X-ALT-DESC;FMTTYPE=text/html:<h1>Starter Files:</h1>\n<p><a class="instruct
+ ure_file_link instructure_scribd_file inline_disabled" title="ChartManager
+ .java" href="https://lisdtx.instructure.com/courses/202975/files/19786586?
+ wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint=
+ "https://lisdtx.instructure.com/api/v1/courses/202975/files/19786586" data
+ -api-returntype="File">ChartManager.java</a></p>\n<p><a class="instructure
+ _file_link instructure_scribd_file inline_disabled" title="SeatingChart.ja
+ va" href="https://lisdtx.instructure.com/courses/202975/files/19786589?wra
+ p=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="ht
+ tps://lisdtx.instructure.com/api/v1/courses/202975/files/19786589" data-ap
+ i-returntype="File">SeatingChart.java</a></p>\n<p><a class="instructure_fi
+ le_link instructure_scribd_file inline_disabled" title="SeatingChart.java"
+  href="https://lisdtx.instructure.com/courses/202975/files/19786589?wrap=1
+ " target="_blank" data-canvas-previewable="false" data-api-endpoint="https
+ ://lisdtx.instructure.com/api/v1/courses/202975/files/19786589" data-api-r
+ eturntype="File"></a><a class="instructure_file_link instructure_scribd_fi
+ le inline_disabled" title="Student.java" href="https://lisdtx.instructure.
+ com/courses/202975/files/19786595?wrap=1" target="_blank" data-canvas-prev
+ iewable="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/c
+ ourses/202975/files/19786595" data-api-returntype="File">Student.java</a> 
+ &nbsp\;&nbsp\;</p>\n<h1>Directions</h1>\n<p>Write a program that allows a 
+ teacher to create and store students in a seating chart. A student is repr
+ esented by the following class:</p>\n<div id="csCode">\n<pre>public class 
+ Student\n{\n    // instance variables\n    private String name\;\n    priv
+ ate String id\;\n\n    // default constructor\n    public Student()\n    {
+ \n        name = "vacant"\;\n        id = ""\;\n    }\n\n    // another co
+ nstructor\n    public Student(String n\, String i)\n    {\n        name = 
+ n\;\n        id = i\;\n    }\n\n    // mutator methods\n    public void se
+ tName(String n)\n    {\n        name = n\;\n    }\n\n    public void setID
+ (String i)\n    {\n        id = i\;\n    }\n\n    // accessor methods\n   
+  public String getName()\n    {\n        return name\;\n    }\n\n    publi
+ c String getID()\n    {\n        return id\;\n    }\n\n    // toString met
+ hod\n    public String toString()\n    {\n        return String.format("%-
+ 10s"\, name)\;\n    }\n}\n</pre>\n</div>\n<p>The seating chart is represen
+ ted in the class SeatingChart as a 2D array of Student objects:</p>\n<div 
+ id="csCode">\n<pre>private Student[][] chart\;</pre>\n</div>\n<p>You will 
+ be writing methods in the <strong>SeatingChart</strong> class.</p>\n<h3>Me
+ thod addStudent</h3>\n<p>Write method addStudent. Given a Student object a
+ nd a seat location <strong>addStudent</strong> adds the Student to the sea
+ ting chart at a specified location. If the specified location is a valid l
+ ocation the Student is added to the chart and the method returns true\; ot
+ herwise the Student is not added to the chart and the method returns false
+ .</p>\n<h3>Method swapSeats</h3>\n<p>Write method swapSeats. Given two sea
+ t locations <strong>swapSeats</strong> swaps seats of two students in the 
+ seating chart. If both seat locations are valid the Students are swapped a
+ nd the method returns true\; otherwise the Students are not swapped and th
+ e method returns false.</p>\n<h3>Method scrambleChart</h3>\n<p>Write metho
+ d scrambleChart. <strong>scrambleChart</strong> creates a new 2D array of 
+ Student objects by taking all the students from the seating chart and plac
+ ing them in a new chart at random locations. Any seats not assigned to a s
+ tudent should be assigned a default Student object which\, when displayed\
+ , will print the word "vacant". A seat is empty in the new chart if the ar
+ ray cell contains the keyword <strong>null</strong>.</p>\n<h1>Sample Run</
+ h1>\n<div id="csSampleRun">\n<pre>---------------------------\n   Original
+  Seating Chart\n---------------------------\n(0\,0) John      (0\,1) Amy  
+      (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,1
+ ) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen   
+   (2\,1) vacant    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\,0) S
+ uzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) vacant\
+ n---------------------------\n   Test addStudent\n------------------------
+ ---\nRex placed in seat (3\,4)\n(0\,0) John      (0\,1) Amy       (0\,2) J
+ osey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,1) Fred      (
+ 1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen     (2\,1) vaca
+ nt    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\,0) Suzy      (3\,
+ 1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex\n---------------
+ ------------\n   Test addStudent\n---------------------------\nError: Oliv
+ ia not added to seating chart at Location (5\,2)\n(0\,0) John      (0\,1) 
+ Amy       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    
+ (1\,1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Kar
+ en     (2\,1) vacant    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\
+ ,0) Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Re
+ x\n---------------------------\n   Test swapSeats\n-----------------------
+ ----\nJohn(0\,0) and Max(2\,2) swapped seats\n(0\,0) Max       (0\,1) Amy 
+       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,
+ 1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen  
+    (2\,1) vacant    (2\,2) John      (2\,3) Alex      (2\,4) John\n(3\,0) 
+ Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex\n-
+ --------------------------\n   Test swapSeats\n---------------------------
+ \nError: Karen(2\,0) and Suzy(4\,0) not swapped\n(0\,0) Max       (0\,1) A
+ my       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (
+ 1\,1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Kare
+ n     (2\,1) vacant    (2\,2) John      (2\,3) Alex      (2\,4) John\n(3\,
+ 0) Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex
+ \n---------------------------\n   Test scrambleChart\n--------------------
+ -------\n(0\,0) vacant    (0\,1) Suzy      (0\,2) vacant    (0\,3) Jill   
+    (0\,4) Sam\n(1\,0) Alan      (1\,1) vacant    (1\,2) Josey     (1\,3) J
+ ohn      (1\,4) Alex\n(2\,0) Karen     (2\,1) Mary      (2\,2) Callie    (
+ 2\,3) vacant    (2\,4) John\n(3\,0) Max       (3\,1) vacant    (3\,2) Fred
+       (3\,3) Rex       (3\,4) Amy\n\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T170700Z
+UID:event-assignment-2534712
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that crea
+ tes two two-dimensional arrays of size 4x4 and fills them with random valu
+ es in the range of 0 to 9. The program should then compare the correspondi
+ ng elements of these matrices and place the larger of the two numbers in t
+ he corresponding position of a third matrix.\n\nÂ \n\n***********\nSource 
+ File\n***********\n\nStoreLargest.java\n\n**********\nSample Run\n********
+ **\n\nMatrix 1\n2 7 6 4\n6 1 2 4\n9 7 2 6\n8 3 2 1\n\nMatrix 2\n4 1 3 7\n6
+  2 3 8\n7 2 2 4\n4 2 3 1\n\nLargest Elements\n4 7 6 7\n6 2 3 8\n9 7 2 6\n8
+  3 3 1\n\nÂ 
+SUMMARY:Store Largest [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2534712
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that c
+ reates <strong>two</strong> two-dimensional arrays of size 4x4 and fills t
+ hem with random values in the range of 0 to 9. The program should then com
+ pare the corresponding elements of these matrices and place the larger of 
+ the two numbers in the corresponding position of a third matrix.</p>\n<p>&
+ nbsp\;</p>\n<h1>Source File</h1>\n<p>StoreLargest.java</p>\n<h1>Sample Run
+ </h1>\n<div id="csSampleRun">\n<pre>Matrix 1\n2 7 6 4\n6 1 2 4\n9 7 2 6 \n
+ 8 3 2 1 \n\nMatrix 2\n4 1 3 7\n6 2 3 8 \n7 2 2 4\n4 2 3 1\n\nLargest Eleme
+ nts\n4 7 6 7\n6 2 3 8\n9 7 2 6\n8 3 3 1\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T134100Z
+UID:event-assignment-2534714
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that prom
+ pts the user for the dimensions of a two-dimensional array. It then create
+ s an array with the specified size and fills each cell with random integer
+ s in the range of 0 to 9. The program should then print the two-dimensiona
+ l array and the sum of each row and column as shown in the sample output b
+ elow.\n\nTo do this assignment you will need three sets of nested for loop
+ s. One set to create the matrix\, another set to sum the rows and print th
+ e matrix and the row sums\, and a third set to sum the columns and print t
+ he column sums below the matrix.\n\nGAMER MODE: This can be solved using a
+  single nested loop structure to print array and find totals. You can use 
+ an enhanced loop to print col totals after the nested loop.\n\n***********
+ \nSource File\n***********\n\nSumMatrix.java\n\n**********\nSample Run\n**
+ ********\n\nEnter the number of rows --> 3\nEnter the number of columns --
+ >4\n\n4 3 8 9 24\n2 1 4 7 14\n5 2 3 8 18\n\n11 6 15 24\n\nÂ 
+SUMMARY:Sum Matrix [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2534714
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that p
+ rompts the user for the dimensions of a two-dimensional array. It then cre
+ ates an array with the specified size and fills each cell with random inte
+ gers in the range of 0 to 9. The program should then print the two-dimensi
+ onal array and the sum of each row and column as shown in the sample outpu
+ t below.</p>\n<p>To do this assignment you will need three sets of nested 
+ for loops. One set to create the matrix\, another set to sum the rows and 
+ print the matrix and the row sums\, and a third set to sum the columns and
+  print the column sums below the matrix.</p>\n<p><strong>GAMER MODE: This 
+ can be solved using a single nested loop structure to print array and find
+  totals. You can use an enhanced loop to print col totals after the nested
+  loop.</strong></p>\n<h1>Source File</h1>\n<p>SumMatrix.java</p>\n<h1>Samp
+ le Run</h1>\n<div id="csSampleRun">\n<pre>Enter the number of rows --&gt\;
+  3\nEnter the number of columns --&gt\;4 \n\n4 3 8 9     24\n2 1 4 7     1
+ 4\n5 2 3 8     18\n\n11 6 15 24\n\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T134100Z
+UID:event-assignment-2534710
+DTSTART;VALUE=DATE:20220209T232900
+DTEND;VALUE=DATE:20220209T235900
+DESCRIPTION:**********\nDirections\n**********\n\nAllow a user to create a 
+ matrix of any size filled with random numbers in the range of -100 to 100.
+  Print the original matrix and its transpose with appropriate labels as sh
+ own.\n\nThe transpose of a two-dimensional array (matrix) is obtained by i
+ nterchanging rows and columns. Thus\, Row 0 of the original becomes Column
+  0 of the transpose\, Row 1 of the original becomes Column 1 of the transp
+ ose\, and so on.\n\n***********\nSource File\n***********\n\nTranspose.jav
+ a\n\n************\nSample Run 1\n************\n\nEnter number of rows-->5\
+ nEnter number of columns-->5\n\nOriginal Matrix\n45 67 89 12 -3\n-3 -6 -7 
+ -4 -9\n96 81 -8 52 12\n14 -7 72 29 -1\n19 43 28 63 87\n\nTranspose\n45 -3 
+ 96 14 19\n67 -6 81 -7 43\n89 -7 -8 72 28\n12 -4 52 29 63\n-3 -9 12 -1 87\n
+ \n************\nSample Run 2\n************\n\nEnter number of rows-->2\nEn
+ ter number of columns-->3\n\nOriginal Matrix\n45 67 89\n-3 -6 -7\n\nTransp
+ ose\n45 -3\n67 -6\n89 -7\n\nÂ 
+SUMMARY:Transpose [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2534710
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Allow a user to create
+  a matrix of any size filled with random numbers in the range of -100 to 1
+ 00. Print the original matrix and its transpose with appropriate labels as
+  shown.</p>\n<p>The transpose of a two-dimensional array (matrix) is obtai
+ ned by interchanging rows and columns. Thus\, Row 0 of the original become
+ s Column 0 of the transpose\, Row 1 of the original becomes Column 1 of th
+ e transpose\, and so on.</p>\n<h1>Source File</h1>\n<p>Transpose.java</p>\
+ n<h1>Sample Run 1</h1>\n<div id="csSampleRun">\n<pre>Enter number of rows-
+ -&gt\;5\nEnter number of columns--&gt\;5\n\nOriginal Matrix\n45 67 89 12 -
+ 3\n-3 -6 -7 -4 -9\n96 81 -8 52 12\n14 -7 72 29 -1\n19 43 28 63 87\n\nTrans
+ pose\n45 -3 96 14 19\n67 -6 81 -7 43\n89 -7 -8 72 28\n12 -4 52 29 63\n-3 -
+ 9 12 -1 87\n</pre>\n</div>\n<h1>Sample Run 2</h1>\n<div id="csSampleRun">\
+ n<pre>Enter number of rows--&gt\;2\nEnter number of columns--&gt\;3\n\nOri
+ ginal Matrix\n45 67 89 \n-3 -6 -7\n\n\nTranspose\n45 -3\n67 -6\n89 -7\n\n<
+ /pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -3397,6 +3650,24 @@ SUMMARY:One Dimensional Retest MC [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=02&year=2022#assignment_2600396
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T202600Z
+UID:event-assignment-2600493
+DTSTART;VALUE=DATE:20220213T232900
+DTEND;VALUE=DATE:20220213T235900
+SUMMARY:Two Dimensional Motion MC Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2600493
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220208T210300Z
+UID:event-assignment-2600664
+DTSTART;VALUE=DATE:20220213T232900
+DTEND;VALUE=DATE:20220213T235900
+SUMMARY:Honors Two Dimensional Motion FRQ TEST [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2600664
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T160000Z
@@ -5466,7 +5737,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220208T073008Z
+DTSTAMP:20220209T073014Z
 UID:70828132916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220210T141200
 DTEND;TZID=America/Chicago:20220210T144200
@@ -5474,7 +5745,7 @@ SUMMARY:FRQ [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T073008Z
+DTSTAMP:20220209T073014Z
 UID:77971161141051203277971061111143276979832916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220214T141200
 DTEND;TZID=America/Chicago:20220214T144200
@@ -5482,7 +5753,7 @@ SUMMARY:Matrix Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T073008Z
+DTSTAMP:20220209T073014Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
@@ -5490,7 +5761,7 @@ SUMMARY:Unit 2 2D Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T073008Z
+DTSTAMP:20220209T073014Z
 UID:85110105116325032506832801141013284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220208
 DTEND;TZID=America/Chicago:20220209
