@@ -6,581 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220124T135200Z
-UID:event-assignment-2698924
-DTSTART:20220110T213500Z
-DTEND:20220110T213500Z
-DESCRIPTION:
-SUMMARY:Safety Contract [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2698924
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T135200Z
-UID:event-assignment-2689314
-DTSTART:20220110T213500Z
-DTEND:20220110T213500Z
-DESCRIPTION:
-SUMMARY:Safety Quiz [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2689314
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T212100Z
-UID:event-assignment-2537910
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:[Functions Practice (Newest) PAP.pdf] (https://lisdtx.instructu
- re.com/courses/172585/files/19814592/download?wrap=1)
-SUMMARY:HW DUE - Functions Practice [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2537910
-X-ALT-DESC;FMTTYPE=text/html:<p><a id="6666429" class="instructure_file_lin
- k instructure_scribd_file" href="https://lisdtx.instructure.com/courses/17
- 2585/files/19814592/download?wrap=1" target="_blank" data-canvas-previewab
- le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
- /172585/files/19814592" data-api-returntype="File">Functions Practice (New
- est) PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220119T232300Z
-UID:event-assignment-2534616
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that play
- s a guessing game using the following rules:\n\n* The program generates a 
- random number between 1 and 100.\n\n* The player attempts to guess the num
- ber selected by the computer.\n\n* If the player's guess is less than the 
- number\, the message "Too Low\, Try Again." is displayed and the user is p
- rompted to guess again.\n\n* If the player's guess is greater than the num
- ber\, the message "Too High\, Try Again." is displayed and the user is pro
- mpted to guess again.\n\n* If the player guesses the number correctly\, th
- e message "You found it in ___ tries." is displayed with the number of tim
- es the player had to guess before the number was found.\n\n* Play continue
- s until the user guesses the computer's number.\n\nMethod Decomposition\n-
- -------------------\n\nThis program can be decomposed into the following m
- ethods.\n\n[] (https://lisdtx.instructure.com/courses/202975/files/1978413
- 3/preview)\n\nCopy the following code into a file named GuessingGame.java\
- n\nimport java.util.*\;\n\npublic class GuessingGame\n{\n// instance varia
- bles\nprivate int number\; // the random number\nprivate int myGuess\; // 
- current guess\nprivate int numGuesses\; // number of guesses\n\nprivate Sc
- anner keyboard = new Scanner(System.in)\;\n\n/** generates a random number
-  in the range of\n* 1 to 100 inclusive.\n*/\npublic void generateNumber()\
- n{\n\n}\n\n/** Displays a prompt asking player to make a guess. It\n* read
- s the guess and stores it in the variable\n* myGuess. It also increments t
- he variable numGuesses.\n*/\npublic void makeGuess()\n{\n\n}\n\n/* Determi
- nes whether player's guess was correct. If\n* myGuess was a match it retur
- ns true. If myGuess was\n* less than number then it displays the message\n
- * "Too Low\, Try Again!" and returns false. If myGuess\n* was greater than
-  number then it displays the\n* message "Too High\, Try Again!" and return
- s false.\n*/\npublic boolean winner()\n{\n\n}\n	\n/** Generates the random
-  number then allows the player to\n* continually guess the random number u
- ntil it is found.\n* Once the number is found it displays a message\n* ind
- icating how many guesses it took to find the\n* number.\n*/\npublic void p
- layGame()\n{\n\n}\n\npublic static void main (String[] args)\n{\nGuessingG
- ame app = new GuessingGame()\;\napp.playGame()\;\n}\n}\n\nImplement Method
- s\n-----------------\n\n* Implement method generateNumber. This method gen
- erates a random number in the range of 1 to 100 inclusive and stores it in
-  the variable number.\n\n* Implement method makeGuess. This method display
- s a prompt asking user to make a guess. It reads the guess and stores it i
- n the variable myGuess. It also increments the variable numGuesses by one.
- \n\n* Implement method winner. This method determines whether the player's
-  guess was correct. If myGuess was a match it returns true. If myGuess was
-  less than the number then it displays the message "Too Low\, Try Again!" 
- and returns false. If myGuess was greater than the number then it displays
-  the message "Too High\, Try Again!" and returns false.\n\n* Implement met
- hod playGame. Generates the random number then allows the user to continua
- lly guess the random number until it is found. Once the number is found it
-  displays a message indicating how many guesses it took to find the number
- . Use methods generateNumber\, makeGuess\, and winner in your implementati
- on.\n\n***********\nSource File\n***********\n\nGuessingGame.java\n\n*****
- *****\nSample Run\n**********\n\nMake Guess -->50\nToo High\, Try Again!\n
- \nMake Guess -->25\nToo High\, Try Again!\n\nMake Guess -->15\nToo Low\, T
- ry Again\n\nMake Guess -->20\nYou found it in 4 tries.\n\nÂ 
-SUMMARY:Guessing Game [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534616
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that p
- lays a guessing game using the following rules:</p>\n<div id="csList">\n<u
- l>\n<li>The program generates a random number between 1 and 100.</li>\n<li
- >The player attempts to guess the number selected by the computer.</li>\n<
- li>If the player's guess is less than the number\, the message "Too Low\, 
- Try Again." is displayed and the user is prompted to guess again.</li>\n<l
- i>If the player's guess is greater than the number\, the message "Too High
- \, Try Again." is displayed and the user is prompted to guess again.</li>\
- n<li>If the player guesses the number correctly\, the message "You found i
- t in ___ tries." is displayed with the number of times the player had to g
- uess before the number was found.</li>\n<li>Play continues until the user 
- guesses the computer's number.</li>\n</ul>\n</div>\n<h3>Method Decompositi
- on</h3>\n<p>This program can be decomposed into the following methods.</p>
- \n<div><img style="display: block\; margin-left: auto\; margin-right: auto
- \;" role="presentation" src="https://lisdtx.instructure.com/courses/202975
- /files/19784133/preview" alt="" data-api-endpoint="https://lisdtx.instruct
- ure.com/api/v1/courses/202975/files/19784133" data-api-returntype="File"><
- /div>\n<p>Copy the following code into a file named GuessingGame.java</p>\
- n<div id="csCode">\n<pre>import java.util.*\;\n\npublic class GuessingGame
- \n{\n    // instance variables\n    private int number\;      // the rando
- m number\n    private int myGuess\;     // current guess\n    private int 
- numGuesses\;  // number of guesses\n\n    private Scanner keyboard = new S
- canner(System.in)\;\n\n    /** generates a random number in the range of\n
-      *  1 to 100 inclusive.\n     */\n    public void generateNumber()\n  
-   {\n\n    }\n\n    /** Displays a prompt asking player to make a guess. I
- t\n     *  reads the guess and stores it in the variable\n     *  myGuess.
-  It also increments the variable numGuesses.\n     */\n    public void mak
- eGuess()\n    {\n\n    }\n\n    /* Determines whether player's guess was c
- orrect. If\n     * myGuess was a match it returns true. If myGuess was\n  
-    * less than number then it displays the message\n     * "Too Low\, Try 
- Again!" and returns false. If myGuess\n     *  was greater than number the
- n it displays the\n     *  message "Too High\, Try Again!" and returns fal
- se.\n     */\n    public boolean winner()\n    {\n\n    }\n	\n    /** Gene
- rates the random number then allows the player to\n     *  continually gue
- ss the random number until it is found.\n     *  Once the number is found 
- it displays a message\n     *  indicating how many guesses it took to find
-  the\n     *  number.\n     */\n    public void playGame()\n    {\n\n    }
- \n\n    public static void main (String[] args)\n    {\n        GuessingGa
- me app = new GuessingGame()\;\n        app.playGame()\;\n    }\n}\n</pre>\
- n</div>\n<h3>Implement Methods</h3>\n<div id="csList">\n<ol>\n<li style="m
- argin-top: 30px\;">Implement method <strong>generateNumber</strong>. This 
- method generates a random number in the range of 1 to 100 inclusive and st
- ores it in the variable number.</li>\n<li style="margin-top: 30px\;">Imple
- ment method <strong>makeGuess</strong>. This method displays a prompt aski
- ng user to make a guess. It reads the guess and stores it in the variable 
- myGuess. It also increments the variable numGuesses by one.</li>\n<li styl
- e="margin-top: 30px\;">Implement method <strong>winner</strong>. This meth
- od determines whether the player's guess was correct. If myGuess was a mat
- ch it returns true. If myGuess was less than the number then it displays t
- he message "Too Low\, Try Again!" and returns false. If myGuess was greate
- r than the number then it displays the message "Too High\, Try Again!" and
-  returns false.</li>\n<li style="margin-top: 30px\;">Implement method <str
- ong>playGame</strong>. Generates the random number then allows the user to
-  continually guess the random number until it is found. Once the number is
-  found it displays a message indicating how many guesses it took to find t
- he number. Use methods <strong>generateNumber</strong>\, <strong>makeGuess
- </strong>\, and <strong>winner</strong> in your implementation.</li>\n</ol
- >\n</div>\n<h1>Source File</h1>\n<p>GuessingGame.java</p>\n<h1>Sample Run<
- /h1>\n<div id="csSampleRun">\n<pre>Make Guess --&gt\;50\nToo High\, Try Ag
- ain!\n\nMake Guess --&gt\;25\nToo High\, Try Again!\n\nMake Guess --&gt\;1
- 5\nToo Low\, Try Again\n\nMake Guess --&gt\;20\nYou found it in 4 tries.\n
- \n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220121T174400Z
-UID:event-assignment-2689134
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:[Activity - Internal Components.pdf] (https://lisdtx.instructur
- e.com/courses/190905/files/20281209/download?wrap=1)\n\nComplete this assi
- gnment on ICEV.
-SUMMARY:Internal Components Activity [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2689134
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Activity - Internal Components.pdf" href="https://lis
- dtx.instructure.com/courses/190905/files/20281209/download?wrap=1" data-ap
- i-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/202
- 81209" data-api-returntype="File">Activity - Internal Components.pdf</a></
- p>\n<p>Complete this assignment on ICEV.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220119T232300Z
-UID:event-assignment-2534605
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:Directions\n\nCopy the following code into a file named MethodP
- ractice1.java\n\nimport java.util.*\;\n\npublic class MethodPractice1\n{\n
- private Scanner keyboard = new Scanner(System.in)\;\n\n/** This method ret
- urns a string using the following\n* conditions: if weight is less than 10
- 0 it returns\n* "small"\, if weight is greater than or equal to 100\n* and
-  less than or equal to 200 it returns "medium"\,\n* if weight is greater t
- han 200 it returns "large".\n* @return the string "small"\, "medium"\, or 
- "large"\n* @param weight number representing a weight\n*/\npublic String m
- ethod1(int weight)\n{\n\n}\n\n/** This method prints phrase 10 times.\n* @
-  param phrase the string to be printed\n*/\npublic void method2(String phr
- ase)\n{\n\n}\n\n/** This method allows a user to enter an unknown\n* numbe
- r of integers from the keyboard. When the\n* sentinel value -1 is entered 
- the method returns\n* the count of the number of integers entered.\n* @ret
- urn count of the number of integers entered\n*/\npublic int method3()\n{\n
- \n}\n\n/** This method returns a string containing the\n* first and last l
- etter of str concatenated\n* together.\n* @return a string containing two 
- letters\n* @param str the string from which to extract\n* the first and la
- st letters\n*/\npublic String method4(String str)\n{\n\n}\n\n/** This meth
- od returns a random number.\n* @return a random number in range of 0 to up
- per-1\n* @param upper the upper limit of the random number\n*/\npublic int
-  method5(int upper)\n{\n\n}\n\npublic static void main(String[] args)\n{\n
- MethodPractice1 app = new MethodPractice1()\;\n\nSystem.out.println("*****
- *************")\;\nSystem.out.println(" Test Method1")\;\nSystem.out.print
- ln("******************")\;\n\nSystem.out.println("Weight is " + app.method
- 1(150))\;\nSystem.out.println("Weight is " + app.method1(99))\;\nSystem.ou
- t.println("Weight is " + app.method1(200))\;\nSystem.out.println("Weight i
- s " + app.method1(300))\;\n\nSystem.out.println("\n\n******************")\
- ;\nSystem.out.println(" Test Method2")\;\nSystem.out.println("************
- ******")\;\napp.method2("Computers are fun!")\;\n\nSystem.out.println("\n\
- n******************")\;\nSystem.out.println(" Test Method3")\;\nSystem.out
- .println("******************")\;\nSystem.out.println("\nCount = " + app.me
- thod3())\;\n\nSystem.out.println("\n\n******************")\;\nSystem.out.p
- rintln(" Test Method4")\;\nSystem.out.println("******************")\;\nSys
- tem.out.println("String = " + app.method4("red"))\;\nSystem.out.println("S
- tring = " + app.method4("green"))\;\nSystem.out.println("String = " + app.
- method4("blue"))\;\n\nSystem.out.println("\n\n******************")\;\nSyst
- em.out.println(" Test Method5")\;\nSystem.out.println("******************"
- )\;\nSystem.out.println("Random Number = " + app.method5(5))\;\nSystem.out
- .println("Random Number = " + app.method5(50))\;\nSystem.out.println("Rand
- om Number = " + app.method5(500))\;\nSystem.out.println()\;\n}\n}\n\n* Imp
- lement method1. This method returns a string using the following condition
- s: if weight is less than 100 it returns "small"\, if weight is greater th
- an or equal to 100 and less than or equal to 200 it returns "medium"\, and
-  if weight is greater than 200 it returns "large".\n\nThe table below show
- s the return value of 4 calls made to method1.\n\nCall\n\nReturn Value\n\n
- method1(50)\n\nsmall\n\nmethod1(180)\n\nmedium\n\nmethod1(220)\n\nlarge\n\
- nmethod1(100)\n\nmedium\n\n* Implement method2. This method prints the par
- ameter phrase 10 times down the screen. For example\, the call method2("Gi
- ve me liberty or give me death") would produce the following output\n\nGiv
- e me liberty or give me death\nGive me liberty or give me death\nGive me l
- iberty or give me death\nGive me liberty or give me death\nGive me liberty
-  or give me death\nGive me liberty or give me death\nGive me liberty or gi
- ve me death\nGive me liberty or give me death\nGive me liberty or give me 
- death\nGive me liberty or give me death\n\nUse a for loop in your implemen
- tation.\n\n* Implement method3. This method allows a user to enter an unkn
- own number of integers from the keyboard. When the sentinel value -1 is en
- tered the method displays the count of the number of integers entered. For
-  example\, if the user inputs 5 integers\, not including the sentinel valu
- e\, the method would return 5.\nUse a while loop in your implementation.\n
- \n* Implement method4. This method returns a string containing the first a
- nd last letter of str concatenated(merged) together.\n\nThe table below sh
- ows the return value of 4 calls made to method4.\n\nCall\n\nReturn Value\n
- \nmethod4("dog")\n\ndg\n\nmethod4("cat")\n\nct\n\nmethod4("horse")\n\nhe\n
- \nmethod4("chicken")\n\ncn\n\n* Implement method5. This method returns a r
- andom number in the range of 0 to upper - 1.\n\nThe table below shows the 
- range of possible return values for 4 calls made to method5.\n\nCall\n\nRe
- turn Value Range\n\nmethod5(2)\n\n0-1\n\nmethod5(10)\n\n0-9\n\nmethod5(150
- )\n\n0-149\n\nmethod5(200)\n\n0-199\n\nÂ \n\n**********\nSample Run\n*****
- *****\n\n******************\nTest Method1\n******************\nWeight is m
- edium\nWeight is small\nWeight is medium\nWeight is large\n\n*************
- *****\nTest Method2\n******************\nGive me liberty or give me death\
- nGive me liberty or give me death\nGive me liberty or give me death\nGive 
- me liberty or give me death\nGive me liberty or give me death\nGive me lib
- erty or give me death\nGive me liberty or give me death\nGive me liberty o
- r give me death\nGive me liberty or give me death\nGive me liberty or give
-  me death\n\n******************\nTest Method3\n******************\nEnter n
- umbers-->\n10\n20\n30\n40\n50\n-1\n\nCount = 5\n\n******************\nTest
-  Method4\n******************\nString = rd\nString = gn\nString = be\n\n***
- ***************\nTest Method5\n******************\nRandom Number = 4\nRand
- om Number = 16\nRandom Number = 290
-SUMMARY:Method Practice I [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534605
-X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
- family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark
- )\;">Directions</span></div>\n<div id="csContent">\n<p>Copy the following 
- code into a file named <strong>MethodPractice1.java</strong></p>\n<div id=
- "csCode">\n<pre style="height: 300px\; overflow-y: scroll\; background-col
- or: rgba(0\,0\,0\,0.2)\;">import java.util.*\;\n\npublic class MethodPract
- ice1\n{\n    private Scanner keyboard = new Scanner(System.in)\;\n\n    /*
- * This method returns a string using the following\n     *  conditions: if
-  weight is less than 100 it returns\n     *  "small"\, if weight is greate
- r than or equal to 100\n     *  and less than or equal to 200 it returns "
- medium"\,\n     *  if weight is greater than 200 it returns "large".\n    
-  *  @return the string "small"\, "medium"\, or "large"\n     *  @param wei
- ght number representing a weight\n     */\n    public String method1(int w
- eight)\n    {\n\n    }\n\n    /** This method prints phrase 10 times.\n   
-   *  @ param phrase the string to be printed\n     */\n    public void met
- hod2(String phrase)\n    {\n\n    }\n\n    /** This method allows a user t
- o enter an unknown\n     *  number of integers from the keyboard. When the
- \n     *  sentinel value -1 is entered the method returns\n     *  the cou
- nt of the number of integers entered.\n     *  @return count of the number
-  of integers entered\n     */\n    public int method3()\n    {\n\n    }\n\
- n    /** This method returns a string containing the\n     *  first and la
- st letter of str concatenated\n     *  together.\n     *  @return a string
-  containing two letters\n     *  @param str the string from which to extra
- ct\n     *     the first and last letters\n     */\n    public String meth
- od4(String str)\n    {\n\n    }\n\n    /** This method returns a random nu
- mber.\n     *  @return a random number in range of 0 to upper-1\n     *  @
- param upper the upper limit of the random number\n     */\n    public int 
- method5(int upper)\n    {\n\n    }\n\n    public static void main(String[]
-  args)\n    {\n        MethodPractice1 app = new MethodPractice1()\;\n\n  
-       System.out.println("******************")\;\n        System.out.print
- ln("   Test Method1")\;\n        System.out.println("******************")\
- ;\n\n        System.out.println("Weight is " + app.method1(150))\;\n      
-   System.out.println("Weight is " + app.method1(99))\;\n        System.out
- .println("Weight is " + app.method1(200))\;\n        System.out.println("W
- eight is " + app.method1(300))\;\n\n        System.out.println("\n\n******
- ************")\;\n        System.out.println("   Test Method2")\;\n       
-  System.out.println("******************")\;\n        app.method2("Computer
- s are fun!")\;\n\n        System.out.println("\n\n******************")\;\n
-         System.out.println("   Test Method3")\;\n        System.out.printl
- n("******************")\;\n        System.out.println("\nCount = " + app.m
- ethod3())\;\n\n        System.out.println("\n\n******************")\;\n   
-      System.out.println("   Test Method4")\;\n        System.out.println("
- ******************")\;\n        System.out.println("String = " + app.metho
- d4("red"))\;\n        System.out.println("String = " + app.method4("green"
- ))\;\n        System.out.println("String = " + app.method4("blue"))\;\n\n 
-        System.out.println("\n\n******************")\;\n        System.out.
- println("   Test Method5")\;\n        System.out.println("****************
- **")\;\n        System.out.println("Random Number = " + app.method5(5))\;\
- n        System.out.println("Random Number = " + app.method5(50))\;\n     
-    System.out.println("Random Number = " + app.method5(500))\;\n        Sy
- stem.out.println()\;\n    }\n}  \n  </pre>\n</div>\n<div id="csList">\n<ol
- >\n<li style="margin-top: 20px\;">Implement <strong>method1</strong>. This
-  method returns a string using the following conditions: if weight is less
-  than 100 it returns "small"\, if weight is greater than or equal to 100 a
- nd less than or equal to 200 it returns "medium"\, and if weight is greate
- r than 200 it returns "large".<br><br>\n<p>The table below shows the retur
- n value of 4 calls made to method1.</p>\n<table id="csTable" style="border
- -collapse: collapse\; border-color: #34495e\; border-style: solid\;" borde
- r="1" cellpadding="2">\n<tbody>\n<tr>\n<th style="text-align: center\;">Ca
- ll</th>\n<th>Return Value</th>\n</tr>\n<tr>\n<td>method1(50)</td>\n<td sty
- le="text-align: center\;">small</td>\n</tr>\n<tr>\n<td>method1(180)</td>\n
- <td style="text-align: center\;">medium</td>\n</tr>\n<tr>\n<td>method1(220
- )</td>\n<td style="text-align: center\;">large</td>\n</tr>\n<tr>\n<td>meth
- od1(100)</td>\n<td style="text-align: center\;">medium</td>\n</tr>\n</tbod
- y>\n</table>\n</li>\n<li style="margin-top: 20px\;">Implement <strong>meth
- od2</strong>. This method prints the parameter phrase 10 times down the sc
- reen. For example\, the call method2("Give me liberty or give me death") w
- ould produce the following output<br>\n<div id="csOutput">\n<pre>Give me l
- iberty or give me death\nGive me liberty or give me death\nGive me liberty
-  or give me death\nGive me liberty or give me death\nGive me liberty or gi
- ve me death\nGive me liberty or give me death\nGive me liberty or give me 
- death\nGive me liberty or give me death\nGive me liberty or give me death\
- nGive me liberty or give me death</pre>\n</div>\nUse a for loop in your im
- plementation.</li>\n<li style="margin-top: 20px\;">Implement <strong>metho
- d3</strong>. This method allows a user to enter an unknown number of integ
- ers from the keyboard. When the sentinel value -1 is entered the method di
- splays the count of the number of integers entered. For example\, if the u
- ser inputs 5 integers\, not including the sentinel value\, the method woul
- d return 5.<br>Use a while loop in your implementation.</li>\n<li style="m
- argin-top: 20px\;">Implement <strong>method4</strong>. This method returns
-  a string containing the first and last letter of str concatenated(merged)
-  together. <br>\n<p>The table below shows the return value of 4 calls made
-  to method4.</p>\n<table id="csTable" style="border-collapse: collapse\; b
- order-color: #34495E\; border-style: solid\;" border="1" cellpadding="5">\
- n<tbody>\n<tr>\n<th style="text-align: center\;">Call</th>\n<th style="tex
- t-align: center\;">Return Value</th>\n</tr>\n<tr>\n<td style="text-align: 
- center\;">method4("dog")</td>\n<td style="text-align: center\;">dg</td>\n<
- /tr>\n<tr>\n<td style="text-align: center\;">method4("cat")</td>\n<td styl
- e="text-align: center\;">ct</td>\n</tr>\n<tr>\n<td style="text-align: cent
- er\;">method4("horse")</td>\n<td style="text-align: center\;">he</td>\n</t
- r>\n<tr>\n<td style="text-align: center\;">method4("chicken")</td>\n<td st
- yle="text-align: center\;">cn</td>\n</tr>\n</tbody>\n</table>\n</li>\n<li 
- style="margin-top: 20px\;">Implement <strong>method5</strong>. This method
-  returns a random number in the range of 0 to upper - 1.<br>\n<p>The table
-  below shows the range of possible return values for 4 calls made to metho
- d5.</p>\n<table id="csTable" style="border-collapse: collapse\; border-col
- or: #34495E\; border-style: solid\;" border="1" cellpadding="5">\n<tbody>\
- n<tr>\n<th style="text-align: center\;">Call</th>\n<th style="text-align: 
- center\;">Return Value Range</th>\n</tr>\n<tr>\n<td style="text-align: cen
- ter\;">method5(2)</td>\n<td style="text-align: center\;">0-1</td>\n</tr>\n
- <tr>\n<td style="text-align: center\;">method5(10)</td>\n<td style="text-a
- lign: center\;">0-9</td>\n</tr>\n<tr>\n<td style="text-align: center\;">me
- thod5(150)</td>\n<td style="text-align: center\;">0-149</td>\n</tr>\n<tr>\
- n<td style="text-align: center\;">method5(200)</td>\n<td style="text-align
- : center\;">0-199</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>\n</div>\n<
- p>&nbsp\;</p>\n<h1 style="margin-top: 20px\;">Sample Run</h1>\n<div id="cs
- SampleRun">\n<pre style="height: 300px\; overflow-y: scroll\; background-c
- olor: rgba(0\,0\,0\,0.2)\;">******************\n   Test Method1\n*********
- *********\nWeight is medium\nWeight is small\nWeight is medium\nWeight is 
- large\n\n\n******************\n   Test Method2\n******************\nGive m
- e liberty or give me death\nGive me liberty or give me death\nGive me libe
- rty or give me death\nGive me liberty or give me death\nGive me liberty or
-  give me death\nGive me liberty or give me death\nGive me liberty or give 
- me death\nGive me liberty or give me death\nGive me liberty or give me dea
- th\nGive me liberty or give me death\n\n\n******************\n   Test Meth
- od3\n******************\nEnter numbers--&gt\;\n10\n20\n30\n40\n50\n-1\n\nC
- ount = 5\n\n\n******************\n   Test Method4\n******************\nStr
- ing = rd\nString = gn\nString = be\n\n\n******************\n   Test Method
- 5\n******************\nRandom Number = 4\nRandom Number = 16\nRandom Numbe
- r = 290\n\n</pre>\n</div>\n</div>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T021200Z
-UID:event-assignment-2534606
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:Directions\n\nCopy the following code into a file named MethodP
- ractice2.java\n\nimport java.util.*\;\n\npublic class MethodPractice2\n{\n
- private Scanner keyboard = new Scanner(System.in)\;\n\n// Implement method
- s below this line\n\npublic static void main(String[] args)\n{\nMethodPrac
- tice2 app = new MethodPractice2()\;\n\nSystem.out.println("***************
- ***")\;\nSystem.out.println(" Test greeting")\;\nSystem.out.println("*****
- *************")\;\napp.greeting("Kendall"\, 6)\;\n\nSystem.out.println("\n
- \n******************")\;\nSystem.out.println(" Test range")\;\nSystem.out.
- println("******************")\;\napp.range(10\, 15)\;\n\nSystem.out.printl
- n("\n\n******************")\;\nSystem.out.println(" Test compare")\;\nSyst
- em.out.println("******************")\;\nSystem.out.println(app.compare("de
- mand"))\;\nSystem.out.println(app.compare("football"))\;\nSystem.out.print
- ln(app.compare("bulb"))\;\n\nSystem.out.println("\n\n******************")\
- ;\nSystem.out.println(" Test reverse")\;\nSystem.out.println("************
- ******")\;\nSystem.out.println(app.reverse("ball"))\;\nSystem.out.println(
- app.reverse("courage"))\;\nSystem.out.println(app.reverse("hamburger"))\;\
- n\nSystem.out.println("\n\n******************")\;\nSystem.out.println(" Te
- st numOccurrences")\;\nSystem.out.println("******************")\;\nSystem.
- out.println(app.numOccurrences("MISSISSIPPI"\, "I"))\;\nSystem.out.println
- (app.numOccurrences("AUTOMOBILE"\, "O"))\;\nSystem.out.println(app.numOccu
- rrences("TEXAS"\, "R"))\;\nSystem.out.println()\;\n}\n}\n\n* Implement a v
- oid method named greeting that includes two formal parameters. The first p
- arameter is of type String named firstName. The second parameter is of typ
- e int named num. This method should print the phrase "__________\, have a 
- nice day!" num times where the blank is the value of the parameter firstNa
- me.\nFor example\, the call greeting("John"\, 5) would produce the followi
- ng output\n\nJohn\, have a nice day.\nJohn\, have a nice day.\nJohn\, have
-  a nice day.\nJohn\, have a nice day.\nJohn\, have a nice day.\n\n* Implem
- ent a void method named range that includes two formal parameters both of 
- type int named begin and end respectively. This method should print a sequ
- ence of numbers starting at begin and ending at end. For example\, the cal
- l range(5\, 10) would produce the following output\n\n5\n6\n7\n8\n9\n10\n\
- n* Implement a non-void method named compare that includes one formal para
- meter of type String named str. This method should return a boolean value 
- of true if the first character of str is equal to the last character\; oth
- erwise\, it should return false. For example\, the call compare("noon") wo
- uld return true since both the first letter and the last letter are the sa
- me.\n\n* Implement a non-void method named reverse that includes one forma
- l parameter of type String named str. This method should return a string t
- hat is the reverse of str. For example\, the call reverse("computer") woul
- d return the string "retupmoc".\n\n* Implement a non-void method named num
- Occurrences that includes two formal parameters both of type String named 
- word and letter respectively. This method should return a count of the num
- ber of times letter occurs in word. For example\, the call numOccurrences(
- "elephant"\, "e") would return a value of 2 since the letter "e" occurs in
-  the word "elephant" 2 times.\n\n**********\nSample Run\n**********\n\n***
- ***************\nTest greeting\n******************\nKendall\, have a nice 
- day.\nKendall\, have a nice day.\nKendall\, have a nice day.\nKendall\, ha
- ve a nice day.\nKendall\, have a nice day.\nKendall\, have a nice day.\n\n
- ******************\nTest range\n******************\n10\n11\n12\n13\n14\n15
- \n\n******************\nTest compare\n******************\ntrue\nfalse\ntru
- e\n\n******************\nTest reverse\n******************\nllab\negaruoc\n
- regrubmah\n\n***********************\nTest numOccurrences\n***************
- ********\n4\n2\n0
-SUMMARY:Method Practice II [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534606
-X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle"><span style="font-
- family: inherit\; font-size: 1.8em\; color: var(--ic-brand-font-color-dark
- )\;">Directions</span></div>\n<div id="csContent">\n<p>Copy the following 
- code into a file named MethodPractice2.java</p>\n<div id="csCode">\n<pre>i
- mport java.util.*\;\n\npublic class MethodPractice2\n{\n    private Scanne
- r keyboard = new Scanner(System.in)\;\n\n      // Implement methods below 
- this line\n\n\n\n    public static void main(String[] args)\n    {\n      
-   MethodPractice2 app = new MethodPractice2()\;\n\n        System.out.prin
- tln("******************")\;\n        System.out.println("   Test greeting"
- )\;\n        System.out.println("******************")\;\n        app.greet
- ing("Kendall"\, 6)\;\n\n        System.out.println("\n\n******************
- ")\;\n        System.out.println("   Test range")\;\n        System.out.pr
- intln("******************")\;\n        app.range(10\, 15)\;\n\n        Sys
- tem.out.println("\n\n******************")\;\n        System.out.println(" 
-   Test compare")\;\n        System.out.println("******************")\;\n  
-       System.out.println(app.compare("demand"))\;\n        System.out.prin
- tln(app.compare("football"))\;\n        System.out.println(app.compare("bu
- lb"))\;\n\n        System.out.println("\n\n******************")\;\n       
-  System.out.println("   Test reverse")\;\n        System.out.println("****
- **************")\;\n        System.out.println(app.reverse("ball"))\;\n   
-      System.out.println(app.reverse("courage"))\;\n        System.out.prin
- tln(app.reverse("hamburger"))\;\n\n        System.out.println("\n\n*******
- ***********")\;\n        System.out.println("   Test numOccurrences")\;\n 
-        System.out.println("******************")\;\n        System.out.prin
- tln(app.numOccurrences("MISSISSIPPI"\, "I"))\;\n        System.out.println
- (app.numOccurrences("AUTOMOBILE"\, "O"))\;\n        System.out.println(app
- .numOccurrences("TEXAS"\, "R"))\;\n        System.out.println()\;\n    }\n
- }</pre>\n</div>\n<div id="csList">\n<ol>\n<li style="margin-top: 30px\;">I
- mplement a void method named <strong>greeting</strong> that includes two f
- ormal parameters. The first parameter is of type String named firstName. T
- he second parameter is of type int named num. This method should print the
-  phrase "__________\, have a nice day!" num times where the blank is the v
- alue of the parameter firstName.<br>For example\, the call greeting("John"
- \, 5) would produce the following output<br>\n<div id="csOutput">\n<pre>Jo
- hn\, have a nice day.\nJohn\, have a nice day.\nJohn\, have a nice day.\nJ
- ohn\, have a nice day.\nJohn\, have a nice day.</pre>\n</div>\n</li>\n<li 
- style="margin-top: 30px\;">Implement a void method named <strong>range</st
- rong> that includes two formal parameters both of type int named begin and
-  end respectively. This method should print a sequence of numbers starting
-  at begin and ending at end. For example\, the call range(5\, 10) would pr
- oduce the following output<br>\n<div id="csOutput">\n<pre>5\n6\n7\n8\n9\n1
- 0</pre>\n</div>\n</li>\n<li style="margin-top: 30px\;">Implement a non-voi
- d method named <strong>compare</strong> that includes one formal parameter
-  of type String named str. This method should return a boolean value of tr
- ue if the first character of str is equal to the last character\; otherwis
- e\, it should return false. For example\, the call compare("noon") would r
- eturn true since both the first letter and the last letter are the same.</
- li>\n<li style="margin-top: 30px\;">Implement a non-void method named <str
- ong>reverse</strong> that includes one formal parameter of type String nam
- ed str. This method should return a string that is the reverse of str. For
-  example\, the call reverse("computer") would return the string "retupmoc"
- .</li>\n<li style="margin-top: 30px\;">Implement a non-void method named <
- strong>numOccurrences</strong> that includes two formal parameters both of
-  type String named word and letter respectively. This method should return
-  a count of the number of times letter occurs in word. For example\, the c
- all numOccurrences("elephant"\, "e") would return a value of 2 since the l
- etter "e" occurs in the word "elephant" 2 times.</li>\n</ol>\n</div>\n<h1 
- style="margin-top: 30px\;">Sample Run</h1>\n<div id="csSampleRun">\n<pre>*
- *****************\n   Test greeting\n******************\nKendall\, have a 
- nice day.\nKendall\, have a nice day.\nKendall\, have a nice day.\nKendall
- \, have a nice day.\nKendall\, have a nice day.\nKendall\, have a nice day
- .\n\n******************\n   Test range\n******************\n10\n11\n12\n13
- \n14\n15\n\n******************\n   Test compare\n******************\ntrue\
- nfalse\ntrue\n\n******************\n   Test reverse\n******************\nl
- lab\negaruoc\nregrubmah\n\n***********************\n   Test numOccurrences
- \n***********************\n4\n2\n0\n\n</pre>\n</div>\n</div>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220121T174400Z
-UID:event-assignment-2689139
-DTSTART;VALUE=DATE:20220110T232900
-DTEND;VALUE=DATE:20220110T235900
-DESCRIPTION:[IntrotoComputersCrossword.pdf] (https://lisdtx.instructure.com
- /courses/190905/files/20281214/download?wrap=1)\n\nThis crossword will be 
- completed on paper.Â  If you lose it\, you will have access to it here to 
- print off another copy!
-SUMMARY:Vocabulary Crossword Puzzle  [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2689139
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="IntrotoComputersCrossword.pdf" href="https://lisdtx.i
- nstructure.com/courses/190905/files/20281214/download?wrap=1" data-api-end
- point="https://lisdtx.instructure.com/api/v1/courses/190905/files/20281214
- " data-api-returntype="File">IntrotoComputersCrossword.pdf</a></p>\n<p>Thi
- s crossword will be completed on paper.&nbsp\; If you lose it\, you will h
- ave access to it here to print off another copy!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211215T195400Z
-UID:event-calendar-event-520456
-DTSTART;VALUE=DATE:20220111
-DTEND;VALUE=DATE:20220112
-DESCRIPTION:Finish Parent Function Notes from Friday - Here is the pdf in c
- ase you have gone mad:Â  [Parent Functions Notes[1] newest.pdf] (https://l
- isdtx.instructure.com/courses/172585/files/19814595/download?wrap=1)\n\nTh
- en\,Â  we will go over and complete this worksheet together:Â Â Â  [Transf
- ormations worksheet.pdf] (https://lisdtx.instructure.com/courses/172585/fi
- les/19814599/preview)\n\nÂ \n\nÂ 
-SUMMARY:More Parent Functions & Transformatioins [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520456
-X-ALT-DESC;FMTTYPE=text/html:<p>Finish Parent Function Notes from Friday - 
- Here is the pdf in case you have gone mad:&nbsp\; <a id="6666430" class="i
- nstructure_file_link instructure_scribd_file" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814595/download?wrap=1" target="_blank" da
- ta-canvas-previewable="true" data-api-endpoint="https://lisdtx.instructure
- .com/api/v1/courses/172585/files/19814595" data-api-returntype="File">Pare
- nt Functions Notes[1] newest.pdf</a></p>\n<p>Then\,&nbsp\; we will go over
-  and complete this worksheet together:&nbsp\;&nbsp\;&nbsp\; <a class="inst
- ructure_file_link instructure_scribd_file" title="Transformations workshee
- t.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814599/
- preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.com
- /api/v1/courses/172585/files/19814599" data-api-returntype="File">Transfor
- mations worksheet.pdf</a></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211215T195400Z
-UID:event-calendar-event-520499
-DTSTART;VALUE=DATE:20220111
-DTEND;VALUE=DATE:20220112
-DESCRIPTION:
-SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520499
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220113T193700Z
 UID:event-assignment-2499210
 DTSTART;VALUE=DATE:20220111T232900
@@ -1546,7 +971,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
  >
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T164400Z
+DTSTAMP:20220209T215300Z
 UID:event-assignment-2708516
 DTSTART;VALUE=DATE:20220114T232900
 DTEND;VALUE=DATE:20220114T235900
@@ -2014,7 +1439,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T213000Z
+DTSTAMP:20220209T215300Z
 UID:event-assignment-2537949
 DTSTART;VALUE=DATE:20220120T232900
 DTEND;VALUE=DATE:20220120T235900
@@ -2940,7 +2365,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  r word document if you use google sheets or slides.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T202600Z
+DTSTAMP:20220209T215300Z
 UID:event-assignment-2537951
 DTSTART;VALUE=DATE:20220202T232900
 DTEND;VALUE=DATE:20220202T235900
@@ -3277,7 +2702,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  df</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
+DTSTAMP:20220210T021300Z
 UID:event-assignment-2537918
 DTSTART;VALUE=DATE:20220209T232900
 DTEND;VALUE=DATE:20220209T235900
@@ -3596,6 +3021,16 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  instructure.com/courses/172585/files/19814502/download?wrap=1" data-api-en
  dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981450
  2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220210T121300Z
+UID:event-assignment-2733064
+DTSTART;VALUE=DATE:20220210T232900
+DTEND;VALUE=DATE:20220210T235900
+SUMMARY:Information System Management Tools Activity [Bus Info Mgmt I-GRAHA
+ M]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2733064
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -5737,7 +5172,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220209T073014Z
+DTSTAMP:20220210T073010Z
 UID:70828132916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220210T141200
 DTEND;TZID=America/Chicago:20220210T144200
@@ -5745,7 +5180,7 @@ SUMMARY:FRQ [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T073014Z
+DTSTAMP:20220210T073010Z
 UID:77971161141051203277971061111143276979832916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220214T141200
 DTEND;TZID=America/Chicago:20220214T144200
@@ -5753,7 +5188,7 @@ SUMMARY:Matrix Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T073014Z
+DTSTAMP:20220210T073010Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
@@ -5761,11 +5196,27 @@ SUMMARY:Unit 2 2D Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220209T073014Z
-UID:85110105116325032506832801141013284101115116329180104121115105991153272111110457469787573788393
-DTSTART;TZID=America/Chicago:20220208
-DTEND;TZID=America/Chicago:20220209
-SUMMARY:Unit 2 2D Pre Test [Physics Hon-JENKINS]
+DTSTAMP:20220210T073010Z
+UID:6580326912097109328210110310511511611497116105111110
+DTSTART;TZID=America/Chicago:20220404
+DTEND;TZID=America/Chicago:20220405
+SUMMARY:AP Exam Registration
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220210T073010Z
+UID:8083658432841019710932809711410111011647831161171001011101163277101101116105110103
+DTSTART;TZID=America/Chicago:20220228T183000
+DTEND;TZID=America/Chicago:20220228T190000
+SUMMARY:PSAT Team Parent/Student Meeting
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220210T073010Z
+UID:808365843284101971093270111114109
+DTSTART;TZID=America/Chicago:20220218
+DTEND;TZID=America/Chicago:20220219
+SUMMARY:PSAT Team Form
+DESCRIPTION:http://tiny.cc/PSATForm
 END:VEVENT
 END:VCALENDAR
