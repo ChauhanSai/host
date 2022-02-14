@@ -6,397 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220106T010700Z
-UID:event-assignment-2646927
-DTSTART;VALUE=DATE:20220113T232900
-DTEND;VALUE=DATE:20220113T235900
-DESCRIPTION:We will talk about various aspects of free fall including a dem
- onstration of a candle in free fall\, and we will spend some time analyzin
- g the [Apollo 15 hammer and feather experiment] (https://www.youtube.com/w
- atch?v=Oo8TaPVsn9Y) (in [Flipping Physics] (https://www.flippingphysics.co
- m/apollo-15-feather-and-hammer-drop.html)). We will also talk about the no
- tes on the front of the [Free Fall worksheet] (https://lisdtx.instructure.
- com/courses/172858/files/20145229?wrap=1). The back side will be homework 
- that is due Sunday night\, August 22. Submit your homework here.
-SUMMARY:Free Fall [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2646927
-X-ALT-DESC;FMTTYPE=text/html:<p>We will talk about various aspects of free 
- fall including a demonstration of a candle in free fall\, and we will spen
- d some time analyzing the <a class="inline_disabled" href="https://www.you
- tube.com/watch?v=Oo8TaPVsn9Y" target="_blank">Apollo 15 hammer and feather
-  experiment</a> (in <a class="inline_disabled" href="https://www.flippingp
- hysics.com/apollo-15-feather-and-hammer-drop.html" target="_blank">Flippin
- g Physics</a>). We will also talk about the notes on the front of the <a c
- lass="instructure_file_link instructure_scribd_file inline_disabled" title
- ="Freefall.pdf" href="https://lisdtx.instructure.com/courses/172858/files/
- 20145229?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instruc
- ture.com/api/v1/courses/172858/files/20145229" data-api-returntype="File">
- Free Fall worksheet</a>. The back side will be homework that is due Sunday
-  night\, August 22. Submit your homework here.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220106T010800Z
-UID:event-assignment-2646932
-DTSTART;VALUE=DATE:20220113T232900
-DTEND;VALUE=DATE:20220113T235900
-DESCRIPTION:Here are more [Kinematics Problems] (https://lisdtx.instructure
- .com/courses/172858/files/20145230?wrap=1) for you to practice with. Pleas
- e work all the problems\, show your work\, and submit your work here.
-SUMMARY:More Kinematics Practice [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2646932
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are more <a class="instructure_file_li
- nk instructure_scribd_file inline_disabled" title="Kinematics 2.pdf" href=
- "https://lisdtx.instructure.com/courses/172858/files/20145230?wrap=1" targ
- et="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
- es/172858/files/20145230" data-api-returntype="File">Kinematics Problems</
- a> for you to practice with. Please work all the problems\, show your work
- \, and submit your work here.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220125T023600Z
-UID:event-assignment-2705781
-DTSTART;VALUE=DATE:20220113T232900
-DTEND;VALUE=DATE:20220113T235900
-DESCRIPTION:
-SUMMARY:Palindrome FRQ [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2705781
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T192800Z
-UID:event-assignment-2689136
-DTSTART;VALUE=DATE:20220113T232900
-DTEND;VALUE=DATE:20220113T235900
-DESCRIPTION:[Project - Computer Selection.pdf] (https://lisdtx.instructure.
- com/courses/190905/files/20281212?wrap=1)Â \n\nProject should be very deta
- iled with at least 12 Slides!Â  You must use PowerPoint to complete the pr
- oject!Â  This is an individual project\, but don't hesitate to ask me or a
-  neighbor!Â  Have fun with it and answer all of the questions on the instr
- uction sheet! I know we haven't covered PowerPoint in full just yet\, but 
- do your best with it! This will be your first major "project" grade.
-SUMMARY:Project - Computer Selection [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2689136
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Computer Selection.pdf" hre
- f="https://lisdtx.instructure.com/courses/190905/files/20281212?wrap=1" ta
- rget="_blank" data-canvas-previewable="false" data-api-endpoint="https://l
- isdtx.instructure.com/api/v1/courses/190905/files/20281212" data-api-retur
- ntype="File">Project - Computer Selection.pdf</a>&nbsp\;</p>\n<p>Project s
- hould be very detailed with at least 12 Slides!&nbsp\; You must use PowerP
- oint to complete the project!&nbsp\; This is an individual project\, but d
- on't hesitate to ask me or a neighbor!&nbsp\; Have fun with it and answer 
- all of the questions on the instruction sheet! I know we haven't covered P
- owerPoint in full just yet\, but do your best with it! This will be your f
- irst major "project" grade.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220125T023600Z
-UID:event-assignment-2693371
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:Quiz Notes::\n\nAll Quizzes must be takenÂ 5Â times to receive 
- any credit.\n\nÂ  Â Â If the quiz is NOT taken at least 5 times\, the grad
- e will be a zero.\n\nÂ Â 3.0Â is the passing grade for the quizzes. Quiz a
- verages of 3.0 and greater will earn 100 points.\n\nÂ  Â  Â If the quiz av
- erageÂ 3.0 is not reached\, the grade will be a 60.\n\nÂ \n\nThe quizzes a
- re graded by average. You may attempt the quizzes as many times as you wou
- ld like.\nÂ  Â Â The more quizzes you take\, the harder it is to bring up 
- your average.\n\nÂ \n\nQuizzes are assigned each week on monday and are du
- e the following Friday at 23:59. Late submissions are permitted until that
-  Sunday at 23:59.\n\nÂ \n\nStudents should assume there is a weekly quiz e
- ach week without exception. Students who fail to complete a quiz are not a
- ble to make up this credit later.Â  If there is any reason you cannot comp
- lete a quiz before the due date\, you must email dippreyb@lisd.net immedia
- tely and explain the problems you are experiencing.\n\nIf you find an erro
- r (incorrect answer\, misspelling\, etc.) with a question:Â \n1. EMAIL the
-  teacher (dippreyb@lisd.net) what quiz you are on (i.e. Week 1 Quiz) AND w
- hich attempt you are on.
-SUMMARY:Methods and Objects Review [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2693371
-X-ALT-DESC;FMTTYPE=text/html:<p><strong data-uw-styling-context="true">Quiz
-  Notes::</strong></p>\n<p data-uw-styling-context="true">All Quizzes must 
- be taken&nbsp\;<strong data-uw-styling-context="true">5&nbsp\;</strong>tim
- es to receive any credit.</p>\n<p>&nbsp\; &nbsp\;&nbsp\;<em data-uw-stylin
- g-context="true">If the quiz is NOT taken at least 5 times\, the grade wil
- l be a zero.</em></p>\n<p data-uw-styling-context="true">&nbsp\;&nbsp\;<st
- rong data-uw-styling-context="true">3.0</strong>&nbsp\;is the passing grad
- e for the quizzes. Quiz averages of 3.0 and greater will earn 100 points.<
- /p>\n<p>&nbsp\; &nbsp\; &nbsp\;<em data-uw-styling-context="true">If the q
- uiz average</em><em data-uw-styling-context="true">&nbsp\;3.0 is not reach
- ed\, the grade will be a 60.</em></p>\n<p>&nbsp\;</p>\n<p data-uw-styling-
- context="true">The quizzes are graded by average. You may attempt the quiz
- zes as many times as you would like.<br role="presentation">&nbsp\; &nbsp\
- ;&nbsp\;<em data-uw-styling-context="true">The more quizzes you take\, the
-  harder it is to bring up your average.</em></p>\n<p>&nbsp\;</p>\n<p data-
- uw-styling-context="true">Quizzes are assigned each week on monday and are
-  due the following Friday at 23:59. Late submissions are permitted until t
- hat Sunday at 23:59.</p>\n<p>&nbsp\;</p>\n<p data-uw-styling-context="true
- ">Students should assume there is a weekly quiz each week without exceptio
- n. Students who fail to complete a quiz are not able to make up this credi
- t later.&nbsp\; If there is any reason you cannot complete a quiz before t
- he due date\, you must email dippreyb@lisd.net immediately and explain the
-  problems you are experiencing.</p>\n<p data-uw-styling-context="true"><em
- ><br role="presentation"></em>If you find an error (incorrect answer\, mis
- spelling\, etc.) with a question:&nbsp\;<br role="presentation">1. EMAIL t
- he teacher (dippreyb@lisd.net) what quiz you are on (i.e. Week 1 Quiz) AND
-  which attempt you are on.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220127T181200Z
-UID:event-assignment-2537945
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:
-SUMMARY:Summer packet [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2537945
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220115T020000Z
-UID:event-assignment-2499215
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/14: Boys Basketball Game vs Lewisville [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499215
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220114T230000Z
-UID:event-assignment-2499106
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/14: Girls Basketball Game vs Lewisville [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499106
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220113T183800Z
-UID:event-assignment-2703979
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:
-SUMMARY:Hat Day!!! [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2703979
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220131T160500Z
-UID:event-assignment-2689133
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:
-SUMMARY:Introduction to Computers TEST [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2689133
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T021200Z
-UID:event-assignment-2534634
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:**********\nDirections\n**********\n\nThe UIL has a Computer Sc
- ience contest. In this contest contestants take a multiple choice test con
- sisting of 40 questions. Contestants are rewarded 6 points for each correc
- t answer and they are deducted 2 points for each incorrect answer. No poin
- ts are deducted for skipping a problem. Write a program that calculates co
- ntestants scores.\n\n* Input includes the contestants name\, number correc
- t\, and number incorrect.\n\n* Output includes the contestants name\, numb
- er correct\, number incorrect\, number of skips\, and score.\n\n* You need
-  to use the Utility class in your implementation.\n\n* Your program should
-  be decomposed into appropriate methods including a constructor and toStri
- ng.\n\n********\nTurn in:\n********\n\nUILCompSci.java\n\n**********\nSamp
- le Run\n**********\n\nEnter contestant's name --> John Wayne\nNumber corre
- ct --> 30\nNumber incorrect --> 6\n\nContestant's Name : John Wayne\nCorre
- ct : 30\nIncorrect : 6\nSkips : 4\n------------------------------\nScore :
-  168\n\nÂ 
-SUMMARY:UIL Comp Sci [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534634
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The UIL has a Computer
-  Science contest. In this contest contestants take a multiple choice test 
- consisting of 40 questions. Contestants are rewarded 6 points for each cor
- rect answer and they are deducted 2 points for each incorrect answer. No p
- oints are deducted for skipping a problem. Write a program that calculates
-  contestants scores.</p>\n<div id="csList">\n<ul>\n<li>Input includes the 
- contestants name\, number correct\, and number incorrect.</li>\n<li>Output
-  includes the contestants name\, number correct\, number incorrect\, numbe
- r of skips\, and score.</li>\n<li>You need to use the <strong>Utility clas
- s</strong> in your implementation.</li>\n<li>Your program should be decomp
- osed into appropriate methods <strong>including a constructor and toString
- </strong>.</li>\n</ul>\n</div>\n<h1>Turn in:</h1>\n<p>UILCompSci.java</p>\
- n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre>Enter contestant's name
-  --&gt\; John Wayne\nNumber correct --&gt\; 30\nNumber incorrect --&gt\; 6
- \n\nContestant's Name : John Wayne\nCorrect           : 30\nIncorrect     
-     : 6\nSkips             : 4\n------------------------------\nScore     
-         : 168\n\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220119T232400Z
-UID:event-assignment-2534626
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:**********\nDirections\n**********\n\nÂ \n\nThe code below is a
- n example of the way we typically retrieve user input from the keyboard\n\
- nScanner keyboard = new Scanner(System.in)\;\nSystem.out.print("Enter a nu
- mber -->")\; // user prompt\nint num = keyboard.nextInt()\;\n\nTo demonstr
- ate static methods you are going to define 3 static methods within a class
-  named Utility that will simplify the code above by first eliminating the 
- need to instantiate a Scanner object and second it will combine together t
- he user prompt and the line that reads the input. As an example\, the code
-  below also retrieves user input from the keyboard using a static method d
- efined in the Utility class.\n\nint num = Utility.readInt("Enter a number 
- -->")\;\n\nÂ \n\nTo display blank lines on the console window you have to 
- include multiple printlns like the code below.\n\nSystem.out.println()\;\n
- System.out.println()\;\nSystem.out.println()\;\n\nIn the Utility class you
-  are going to define a static method that displays blank lines using the f
- ollowing syntax\n\nUtility.blankLines(3)\;\n\nwhere the argument 3 indicat
- es how many blank lines to display.\n\nÂ \n\nCopy the following code into 
- a file named Utility.java. The Utility class must have a private construct
- or.\n\nimport java.util.*\;\n\npublic class Utility\n{\nprivate static Sca
- nner keyboard = new Scanner(System.in)\;\n\n/** This method prompts a user
-  to enter\n* an integer value from the keyboard. It\n* then reads and retu
- rns the integer value\n* using the Scanner class's nextInt method.\n* @par
- am prompt the user prompt\n* @return the value read from keyboard\n*/\npub
- lic static int readInt(String prompt)\n{\n\n}\n\n/** This method prompts a
-  user to enter\n* a double value from the keyboard. It\n* then reads and r
- eturns the double value\n* using the Scanner class's nextDouble method.\n*
-  @param prompt the user prompt\n* @return the value read from keyboard\n*/
- \npublic static double readDouble(String prompt)\n{\n\n}\n\n/** This metho
- d prompts a user to enter\n* a string from the keyboard. It then\n* reads 
- and returns the string using\n* the Scanner class's nextLine method.\n* @p
- aram prompt the user prompt\n* @return the value read from keyboard\n*/\np
- ublic static String readString(String prompt)\n{\n\n}\n\n/** This method p
- rints blank lines on the\n* console window.\n* @param num the number of li
- nes to display\n*/\npublic static void blankLines(int num)\n{\n\n}\n}\n\nM
- ethod Implementation\n---------------------\n\n* Implement method readInt.
-  This method prompts a user to enter an integer value from the keyboard. I
- t then reads and returns the integer value using the Scanner class's nextI
- nt method.\nAdd a dummy read to the method just before the return line. Ex
- ample\,\n\nkeyboard.nextLine()\; // dummy read return\n\n*If you don't rem
- ember what a dummy read is click on the following link: [What is a dummy r
- ead?] (ap/unit01_methodsReview/labExercises/dummyRead.html)\n\n* Implement
-  method readDouble. This method prompts a user to enter a double value fro
- m the keyboard. It then reads and returns the double value using the Scann
- er class's nextDouble method.\nAdd a dummy read to the method just before 
- the return line.\n\n* Implement method readString. This method prompts a u
- ser to enter a string from the keyboard. It then reads and returns the str
- ing using the Scanner class's nextLine method. This method does not requir
- e a dummy read.\n\n* Implement method blankLines. This method prints blank
-  lines on the console window.\n\nÂ \n\nTo test your Utility class copy the
-  following code into a file named UtilityTester.java.\n\nimport java.util.
- *\;\n\npublic class UtilityTester\n{\npublic static void main(String[] arg
- s)\n{\nint iNum = Utility.readInt("Enter an integer -->")\;\nSystem.out.pr
- intln("The number = " + iNum)\;\n\nUtility.blankLines(2)\;\n\ndouble dNum 
- = Utility.readDouble("Enter a double -->")\;\nSystem.out.println("The numb
- er = " + dNum)\;\n\nUtility.blankLines(2)\;\n\nString str = Utility.readSt
- ring("Enter a string -->")\;\nSystem.out.println("The string = " + str)\;\
- n\nUtility.blankLines(2)\;\n}\n}\n\n***********\nSource File\n***********\
- n\nUtility.java\n\nUtilityTester.java\n\n**********\nSample Run\n*********
- *\n\nEnter a integer -->50\nThe number = 50\n\nEnter a double -->98.6\nThe
-  number = 98.6\n\nEnter a string -->Have a nice day\nThe string = Have a n
- ice day\n\nÂ 
-SUMMARY:Utility [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534626
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><strong>&nbsp\;</stron
- g></p>\n<p>The code below is an example of the way we typically retrieve u
- ser input from the keyboard</p>\n<div id="csCode">\n<pre>Scanner keyboard 
- = new Scanner(System.in)\;\nSystem.out.print("Enter a number --&gt\;")\;  
-     // user prompt\nint num = keyboard.nextInt()\;\n</pre>\n</div>\n<p>To 
- demonstrate static methods you are going to define 3 static methods within
-  a class named Utility that will simplify the code above by first eliminat
- ing the need to instantiate a Scanner object and second it will combine to
- gether the user prompt and the line that reads the input. As an example\, 
- the code below also retrieves user input from the keyboard using a static 
- method defined in the Utility class.</p>\n<div id="csCode">\n<pre>int num 
- = Utility.readInt("Enter a number --&gt\;")\;\n</pre>\n</div>\n<p>&nbsp\;<
- /p>\n<p>To display blank lines on the console window you have to include m
- ultiple printlns like the code below.</p>\n<div id="csCode">\n<pre>System.
- out.println()\;\nSystem.out.println()\;\nSystem.out.println()\;\n</pre>\n<
- /div>\n<p>In the Utility class you are going to define a static method tha
- t displays blank lines using the following syntax</p>\n<div id="csCode">\n
- <pre>Utility.blankLines(3)\;\n</pre>\n</div>\n<p>where the argument 3 indi
- cates how many blank lines to display.</p>\n<p>&nbsp\;</p>\n<p>Copy the fo
- llowing code into a file named <strong>Utility.java</strong>. <strong>The 
- Utility class must have a private constructor.</strong></p>\n<div id="csCo
- de">\n<pre>import java.util.*\;\n\npublic class Utility\n{\n    private st
- atic Scanner keyboard = new Scanner(System.in)\;\n\n    /** This method pr
- ompts a user to enter\n     *  an integer value from the keyboard. It\n   
-   *  then reads and returns the integer value  \n     *  using the Scanner
-  class's nextInt method.\n     *  @param prompt the user prompt\n     *  @
- return the value read from keyboard\n     */\n    public static int readIn
- t(String prompt)\n    {\n\n    }\n\n    /** This method prompts a user to 
- enter\n     *  a double value from the keyboard. It\n     *  then reads an
- d returns the double value  \n     *  using the Scanner class's nextDouble
-  method.\n     *  @param prompt the user prompt\n     *  @return the value
-  read from keyboard\n     */\n    public static double readDouble(String p
- rompt)\n    {\n\n    }\n\n    /** This method prompts a user to enter\n   
-   *  a string from the keyboard. It then\n     *  reads and returns the st
- ring using  \n     *  the Scanner class's nextLine method.\n     *  @param
-  prompt the user prompt\n     *  @return the value read from keyboard\n   
-   */\n    public static String readString(String prompt)\n    {\n\n    }\n
- \n    /** This method prints blank lines on the\n     *  console window.\n
-      *  @param num the number of lines to display\n     */\n    public sta
- tic void blankLines(int num)\n    {\n\n    }\n}\n</pre>\n</div>\n<h3>Metho
- d Implementation</h3>\n<div id="csList">\n<ol>\n<li>Implement method <stro
- ng>readInt</strong>. This method prompts a user to enter an integer value 
- from the keyboard. It then reads and returns the integer value using the S
- canner class's nextInt method.<br>Add a <strong>dummy read</strong> to the
-  method just before the return line. Example\, <br>\n<div id="csCode" styl
- e="width: 400px\;">\n<div id="csHighlight">\n<pre>keyboard.nextLine()\; //
-  dummy read return</pre>\n</div>\n</div>\n<p>*If you don't remember what a
-  dummy read is click on the following link: <a style="color: #00f\;" href=
- "ap/unit01_methodsReview/labExercises/dummyRead.html" target="_blank">What
-  is a dummy read?</a></p>\n</li>\n<li>Implement method <strong>readDouble<
- /strong>. This method prompts a user to enter a double value from the keyb
- oard. It then reads and returns the double value using the Scanner class's
-  nextDouble method.<br>Add a <strong>dummy read</strong> to the method jus
- t before the return line.</li>\n<li>Implement method <strong>readString</s
- trong>. This method prompts a user to enter a string from the keyboard. It
-  then reads and returns the string using the Scanner class's nextLine meth
- od. This method does not require a dummy read.</li>\n<li>Implement method 
- <strong>blankLines</strong>. This method prints blank lines on the console
-  window.</li>\n</ol>\n</div>\n<p>&nbsp\;</p>\n<p>To test your Utility clas
- s copy the following code into a file named <strong>UtilityTester.java</st
- rong>.</p>\n<div id="csCode">\n<pre>import java.util.*\;\n\npublic class U
- tilityTester\n{\n    public static void main(String[] args)\n    {\n      
-   int iNum = Utility.readInt("Enter an integer --&gt\;")\;\n        System
- .out.println("The number = " + iNum)\;\n\n        Utility.blankLines(2)\;\
- n\n        double dNum = Utility.readDouble("Enter a double --&gt\;")\;\n 
-        System.out.println("The number = " + dNum)\;\n\n        Utility.bla
- nkLines(2)\;\n\n        String str = Utility.readString("Enter a string --
- &gt\;")\;\n        System.out.println("The string = " + str)\;\n\n        
- Utility.blankLines(2)\;\n    }\n}\n</pre>\n</div>\n<h1>Source File</h1>\n<
- p>Utility.java</p>\n<p>UtilityTester.java</p>\n<h1>Sample Run</h1>\n<div i
- d="csSampleRun">\n<pre>Enter a integer --&gt\;50\nThe number = 50\n\n\nEnt
- er a double --&gt\;98.6\nThe number = 98.6\n\n\nEnter a string --&gt\;Have
-  a nice day\nThe string = Have a nice day\n\n</pre>\n</div>\n<p>&nbsp\;</p
- >
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220209T215300Z
-UID:event-assignment-2708516
-DTSTART;VALUE=DATE:20220114T232900
-DTEND;VALUE=DATE:20220114T235900
-DESCRIPTION:
-SUMMARY:Summer Packet Quiz [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2708516
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211216T210500Z
 UID:event-calendar-event-520540
 DTSTART;VALUE=DATE:20220117
@@ -406,7 +15,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=01&year=2022#calendar_event_520540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T212600Z
+DTSTAMP:20220212T162300Z
 UID:event-assignment-2537912
 DTSTART;VALUE=DATE:20220118T232900
 DTEND;VALUE=DATE:20220118T235900
@@ -1005,7 +614,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  W.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T212600Z
+DTSTAMP:20220212T162300Z
 UID:event-assignment-2537941
 DTSTART;VALUE=DATE:20220125T232900
 DTEND;VALUE=DATE:20220125T235900
@@ -1594,7 +1203,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
   HHS Auditorium</p>\n<p>When? TBD</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220208T195300Z
+DTSTAMP:20220212T162300Z
 UID:event-assignment-2537942
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -1611,7 +1220,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Topic 2 Absolute Value\, graphing\, transformations HW.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220202T153300Z
+DTSTAMP:20220212T162300Z
 UID:event-assignment-2727633
 DTSTART;VALUE=DATE:20220131T232900
 DTEND;VALUE=DATE:20220131T235900
@@ -2292,7 +1901,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  qualities and Linear Programming.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T030800Z
+DTSTAMP:20220212T162400Z
 UID:event-assignment-2537917
 DTSTART;VALUE=DATE:20220208T232900
 DTEND;VALUE=DATE:20220208T235900
@@ -2384,7 +1993,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220210T021300Z
+DTSTAMP:20220212T162400Z
 UID:event-assignment-2537918
 DTSTART;VALUE=DATE:20220209T232900
 DTEND;VALUE=DATE:20220209T235900
@@ -2678,7 +2287,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Allow a user to create
  /pre>\n</div>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
+DTSTAMP:20220212T162400Z
 UID:event-assignment-2537919
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -2730,7 +2339,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220211T221000Z
+DTSTAMP:20220212T162300Z
 UID:event-assignment-2740399
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -2824,7 +2433,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  n Test FRQ.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T160000Z
+DTSTAMP:20220214T054600Z
 UID:event-assignment-2600676
 DTSTART;VALUE=DATE:20220213T232900
 DTEND;VALUE=DATE:20220213T235900
@@ -4891,7 +4500,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:70828132916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220210T141200
 DTEND;TZID=America/Chicago:20220210T144200
@@ -4899,7 +4508,7 @@ SUMMARY:FRQ [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:77971161141051203277971061111143276979832916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220214T141200
 DTEND;TZID=America/Chicago:20220214T144200
@@ -4907,7 +4516,7 @@ SUMMARY:Matrix Major Lab [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:85110105116325032506832771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220210
 DTEND;TZID=America/Chicago:20220211
@@ -4915,7 +4524,7 @@ SUMMARY:Unit 2 2D Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:6580326912097109328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220404
 DTEND;TZID=America/Chicago:20220405
@@ -4923,7 +4532,7 @@ SUMMARY:AP Exam Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:8083658432841019710932809711410111011647831161171001011101163277101101116105110103
 DTSTART;TZID=America/Chicago:20220228T183000
 DTEND;TZID=America/Chicago:20220228T190000
@@ -4931,7 +4540,7 @@ SUMMARY:PSAT Team Parent/Student Meeting
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220212T073309Z
+DTSTAMP:20220214T073010Z
 UID:808365843284101971093270111114109
 DTSTART;TZID=America/Chicago:20220218
 DTEND;TZID=America/Chicago:20220219
