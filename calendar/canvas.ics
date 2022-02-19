@@ -6,338 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220217T021500Z
-UID:event-assignment-2534662
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[Monster.pdf] (https://lisdtx.instructure.com/courses/202975/fi
- les/19784970?wrap=1)Â \n\nÂ \n\nStarter Files:\n\n[Monster.java] (https://
- lisdtx.instructure.com/courses/202975/files/19784974?wrap=1)\n\nclass Mons
- ter\n{\n	private String type\;\n	private int scareFactor\;\n	private doubl
- e size\;\n\n	public Monster(String t\, int sf\, double s)\n	{\n		type = t\
- ;		\n		scareFactor = sf\;\n		size = s\;\n	}\n\n	// write method equals bel
- ow\n		\n}\n\n[MonsterRunner.java] (https://lisdtx.instructure.com/courses/
- 202975/files/19784975?wrap=1) Â \n\npublic class MonsterRunner\n{\n\n	publ
- ic static void main(String[] args)\n	{\n		Monster billy = new Monster("One
- -eyed"\, 2\, 2.6)\;\n		Monster sully = new Monster("Furry"\, 9\, 6.5)\;\n	
- 	Monster joe = new Monster("Furry"\, 4\, 3.3)\;\n		Monster al = new Monste
- r("One-eyed"\, 5\, 2.6)\;\n		\n		System.out.print("Billy and Sully should 
- NOT be equal and they are ")\;\n		\n		if(billy.equals(sully))\n			System.o
- ut.println("equal.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n"
- )\;\n		\n		System.out.print("Sully and Joe should NOT be equal and they ar
- e ")\;\n		\n		if(sully.equals(joe))\n			System.out.println("equal.\n\n")\;
- \n		else\n			System.out.println("NOT equal.\n\n")\;\n		\n		System.out.prin
- t("Billy and Al should be equal and they are ")\;\n		\n		if(billy.equals(a
- l))\n			System.out.println("equal.\n\n")\;\n		else\n			System.out.println(
- "NOT equal.\n\n")\;\n	}\n\n}
-SUMMARY:Monster [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534662
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Monster.pdf" href="https://lisdtx.ins
- tructure.com/courses/202975/files/19784970?wrap=1" target="_blank" data-ca
- nvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com
- /api/v1/courses/202975/files/19784970" data-api-returntype="File">Monster.
- pdf</a>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="in
- structure_file_link instructure_scribd_file inline_disabled" title="Monste
- r.java" href="https://lisdtx.instructure.com/courses/202975/files/19784974
- ?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/202975/files/19784974" dat
- a-api-returntype="File">Monster.java</a></p>\n<pre>class Monster\n{\n	priv
- ate String type\;\n	private int scareFactor\;\n	private double size\;\n\n	
- public Monster(String t\, int sf\, double s)\n	{\n		type = t\;		\n		scareF
- actor = sf\;\n		size = s\;\n	}\n\n	// write method equals below\n		\n}\n\n
- </pre>\n<p><a class="instructure_file_link instructure_scribd_file inline_
- disabled" title="MonsterRunner.java" href="https://lisdtx.instructure.com/
- courses/202975/files/19784975?wrap=1" target="_blank" data-canvas-previewa
- ble="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
- es/202975/files/19784975" data-api-returntype="File">MonsterRunner.java</a
- > &nbsp\;</p>\n<pre>public class MonsterRunner\n{\n\n	public static void m
- ain(String[] args)\n	{\n		Monster billy = new Monster("One-eyed"\, 2\, 2.6
- )\;\n		Monster sully = new Monster("Furry"\, 9\, 6.5)\;\n		Monster joe = n
- ew Monster("Furry"\, 4\, 3.3)\;\n		Monster al = new Monster("One-eyed"\, 5
- \, 2.6)\;\n		\n		System.out.print("Billy and Sully should NOT be equal and
-  they are ")\;\n		\n		if(billy.equals(sully))\n			System.out.println("equa
- l.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n")\;\n		\n		Syste
- m.out.print("Sully and Joe should NOT be equal and they are ")\;\n		\n		if
- (sully.equals(joe))\n			System.out.println("equal.\n\n")\;\n		else\n			Sys
- tem.out.println("NOT equal.\n\n")\;\n		\n		System.out.print("Billy and Al 
- should be equal and they are ")\;\n		\n		if(billy.equals(al))\n			System.o
- ut.println("equal.\n\n")\;\n		else\n			System.out.println("NOT equal.\n\n"
- )\;\n	}\n\n}\n\n</pre>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220217T183900Z
-UID:event-assignment-2706919
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[Activity - Open Source vs. Proprietary.pdf] (https://lisdtx.in
- structure.com/courses/190905/files/20494428/download?wrap=1)\n\nÂ 
-SUMMARY:Open Source vs. Proprietary [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2706919
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Activity - Open Source vs. Proprietary.pdf" href="htt
- ps://lisdtx.instructure.com/courses/190905/files/20494428/download?wrap=1"
-  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/f
- iles/20494428" data-api-returntype="File">Activity - Open Source vs. Propr
- ietary.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T012100Z
-UID:event-assignment-2534668
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[lab06d.pdf] (https://lisdtx.instructure.com/courses/202975/fil
- es/19785130?wrap=1)Â \n\nStarter Files:\n\n[Lab06d.java] (https://lisdtx.i
- nstructure.com/courses/202975/files/19785134?wrap=1)Â \n\nimport static ja
- va.lang.System.*\;\n\npublic class Lab06d\n{\n	public static void main( St
- ring args[] )\n	{\n		//add test cases\n		\n		\n		\n	}\n}\n\n[Social.java] 
- (https://lisdtx.instructure.com/courses/202975/files/19785135?wrap=1)Â \n\
- nimport static java.lang.System.*\;\n\npublic class Social\n{\nprivate Str
- ing socialNum\;\nprivate int sum\;\n\n	public Social()\n	{\n\n	}\n\n	publi
- c Social(String soc)\n	{\n\n	}\n\n	public void setWord(String w)\n	{\n\n	}
- \n\n	public void chopAndAdd()\n	{\n		String sub = socialNum\;\n\n	}\n\n	pu
- blic String toString()\n	{\n		return "SS# " + socialNum + " has a total of
-  " + sum + "\n"\;\n	}\n}
-SUMMARY:SSN Chopper [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534668
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="lab06d.pdf" href="https://lisdtx.inst
- ructure.com/courses/202975/files/19785130?wrap=1" target="_blank" data-can
- vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
- api/v1/courses/202975/files/19785130" data-api-returntype="File">lab06d.pd
- f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
- k instructure_scribd_file inline_disabled" title="Lab06d.java" href="https
- ://lisdtx.instructure.com/courses/202975/files/19785134?wrap=1" target="_b
- lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/202975/files/19785134" data-api-returntype="F
- ile">Lab06d.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
- \npublic class Lab06d\n{\n	public static void main( String args[] )\n	{\n	
- 	//add test cases\n		\n		\n		\n	}\n}\n</pre>\n<p><a class="instructure_fil
- e_link instructure_scribd_file inline_disabled" title="Social.java" href="
- https://lisdtx.instructure.com/courses/202975/files/19785135?wrap=1" targe
- t="_blank" data-canvas-previewable="false" data-api-endpoint="https://lisd
- tx.instructure.com/api/v1/courses/202975/files/19785135" data-api-returnty
- pe="File">Social.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.
- *\;\n\npublic class Social\n{\n   private String socialNum\;\n   private i
- nt sum\;\n\n	public Social()\n	{\n\n\n	}\n\n	public Social(String soc)\n	{
- \n\n\n	}\n\n\n	public void setWord(String w)\n	{\n\n\n	}\n\n	public void c
- hopAndAdd()\n	{\n		String sub = socialNum\;\n\n\n\n\n\n\n\n	}\n\n	public S
- tring toString()\n	{\n		return "SS# " + socialNum + " has a total of " + s
- um + "\n"\;\n	}\n}\n</pre>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T192700Z
-UID:event-assignment-2534664
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[lab04e.pdf] (https://lisdtx.instructure.com/courses/202975/fil
- es/19785038?wrap=1)Â \n\nÂ \n\nStarter Files:\n\n[Lab04e.java] (https://li
- sdtx.instructure.com/courses/202975/files/19785044?wrap=1)\n\nimport stati
- c java.lang.System.*\;\n\npublic class Lab04e\n{\n	public static void main
-  ( String[] args )\n	{\n		StringChecker demo = new StringChecker("chicken"
- )\;\n		out.println("looking for c "+demo.findLetter('c'))\;\n		out.println
- ("looking for ch "+demo.findSubString("ch"))\;\n		out.println("looking for
-  x "+demo.findSubString("x"))\;\n		out.println(demo)\;\n\n		demo.setString
- ("alligator")\;\n		out.println("looking for g "+demo.findLetter('g'))\;\n	
- 	out.println("looking for all "+demo.findSubString("all"))\;\n		out.printl
- n("looking for gater "+demo.findSubString("gater"))\;\n		out.println(demo)
- \;\n\n		demo.setString("COMPUTER SCIENCE IS THE BEST!")\;\n		out.println("
- looking for U "+demo.findLetter('U'))\;\n		out.println("looking for COMP S
- CI "+demo.findSubString("COMP SCI"))\;\n		out.println("looking for SCIENCE
-  "+demo.findSubString("SCIENCE"))\;\n		out.println(demo)\;\n	}\n}\n\n[Stri
- ngChecker.java] (https://lisdtx.instructure.com/courses/202975/files/19785
- 045?wrap=1) Â \n\nimport static java.lang.System.*\;\n\npublic class Strin
- gChecker\n{\n	private String word\;\n\n	public StringChecker()\n	{\n\n	}\n
- \n	public StringChecker(String s)\n	{\n\n	}\n\npublic void setString(Strin
- g s)\n{\n	word=s\;\n}\n\n	public boolean findLetter(char c)\n	{\n\n		retur
- n false\;\n	}\n\n	public boolean findSubString(String s)\n	{\n\n		return f
- alse\;\n	}\n\n	public String toString()\n	{\n		return "\n\n"\;\n	}\n}
-SUMMARY:String Checker [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534664
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="lab04e.pdf" href="https://lisdtx.inst
- ructure.com/courses/202975/files/19785038?wrap=1" target="_blank" data-can
- vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
- api/v1/courses/202975/files/19785038" data-api-returntype="File">lab04e.pd
- f</a>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="inst
- ructure_file_link instructure_scribd_file inline_disabled" title="Lab04e.j
- ava" href="https://lisdtx.instructure.com/courses/202975/files/19785044?wr
- ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
- ttps://lisdtx.instructure.com/api/v1/courses/202975/files/19785044" data-a
- pi-returntype="File">Lab04e.java</a></p>\n<pre>import static java.lang.Sys
- tem.*\;\n\npublic class Lab04e\n{\n	public static void main ( String[] arg
- s )\n	{\n		StringChecker demo = new StringChecker("chicken")\;\n		out.prin
- tln("looking for c "+demo.findLetter('c'))\;\n		out.println("looking for c
- h "+demo.findSubString("ch"))\;\n		out.println("looking for x "+demo.findS
- ubString("x"))\;\n		out.println(demo)\;\n\n		demo.setString("alligator")\;
- \n		out.println("looking for g "+demo.findLetter('g'))\;\n		out.println("l
- ooking for all "+demo.findSubString("all"))\;\n		out.println("looking for 
- gater "+demo.findSubString("gater"))\;\n		out.println(demo)\;\n\n		demo.se
- tString("COMPUTER SCIENCE IS THE BEST!")\;\n		out.println("looking for U "
- +demo.findLetter('U'))\;\n		out.println("looking for COMP SCI "+demo.findS
- ubString("COMP SCI"))\;\n		out.println("looking for SCIENCE "+demo.findSub
- String("SCIENCE"))\;\n		out.println(demo)\;\n	}\n}\n</pre>\n<p><a class="i
- nstructure_file_link instructure_scribd_file inline_disabled" title="Strin
- gChecker.java" href="https://lisdtx.instructure.com/courses/202975/files/1
- 9785045?wrap=1" target="_blank" data-canvas-previewable="false" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/202975/files/197850
- 45" data-api-returntype="File">StringChecker.java</a> &nbsp\;</p>\n<pre>im
- port static java.lang.System.*\;\n\npublic class StringChecker\n{\n	privat
- e String word\;\n\n	public StringChecker()\n	{\n\n\n	}\n\n	public StringCh
- ecker(String s)\n	{\n\n\n	}\n\n   public void setString(String s)\n   {\n 
-   	word=s\;\n   }\n\n	public boolean findLetter(char c)\n	{\n\n\n\n		retur
- n false\;\n	}\n\n	public boolean findSubString(String s)\n	{\n\n\n\n		retu
- rn false\;\n	}\n\n 	public String toString()\n 	{\n 		return "\n\n"\;\n	}\
- n}\n</pre>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T192700Z
-UID:event-assignment-2534663
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:Use the String Class API to look up and use appropriate methods
- . link: https://docs.oracle.com/javase/7/docs/api/java/lang/String.htmlÂ \
- n\nYou only need to write a main method\, do not write instance variables\
- , constructors\, etc.\n\nOn steps 11-13 consider using Integer.toString( )
- \, compareTo( )\, and Integer.parseInt( ).Â \n\nInstructions:\n\n[Stringer
- cise.pdf] (https://lisdtx.instructure.com/courses/202975/files/19785012?wr
- ap=1)Â 
-SUMMARY:Stringercise [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534663
-X-ALT-DESC;FMTTYPE=text/html:<p>Use the String Class API to look up and use
-  appropriate methods. link: <a href="https://docs.oracle.com/javase/7/docs
- /api/java/lang/String.html" target="_blank">https://docs.oracle.com/javase
- /7/docs/api/java/lang/String.html</a>&nbsp\;</p>\n<p>You only need to writ
- e a main method\, do not write instance variables\, constructors\, etc.</p
- >\n<p>On steps 11-13 consider using Integer.toString( )\, compareTo( )\, a
- nd Integer.parseInt( ).&nbsp\;</p>\n<p>Instructions:</p>\n<p><a class="ins
- tructure_file_link instructure_scribd_file inline_disabled" title="Stringe
- rcise.pdf" href="https://lisdtx.instructure.com/courses/202975/files/19785
- 012?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpo
- int="https://lisdtx.instructure.com/api/v1/courses/202975/files/19785012" 
- data-api-returntype="File">Stringercise.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T135200Z
-UID:event-assignment-2714258
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[Physics 11 Sample Tests.pdf] (https://lisdtx.instructure.com/c
- ourses/172858/files/20600616?wrap=1)Â 
-SUMMARY:Unit 1 Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=01&year=2022#assignment_2714258
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Physics 11 Sample Tests.pdf" href="ht
- tps://lisdtx.instructure.com/courses/172858/files/20600616?wrap=1" target=
- "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
- .instructure.com/api/v1/courses/172858/files/20600616" data-api-returntype
- ="File">Physics 11 Sample Tests.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220124T192700Z
-UID:event-assignment-2534669
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[lab06g.pdf] (https://lisdtx.instructure.com/courses/202975/fil
- es/19785166?wrap=1)Â \n\nStarter Files:\n\n[Lab06g.java] (https://lisdtx.i
- nstructure.com/courses/202975/files/19785170?wrap=1)Â \n\nimport static ja
- va.lang.System.*\;\n\npublic class Lab06g\n{\n	public static void main( St
- ring args[] )\n	{\n	 WordFun test = new WordFun("Hello World")\;\n	 out.pr
- intln(test)\;\n	 test.makeUpper()\;\n	 out.println(test)\;\n	 test.addHyph
- en()\;\n	 out.println(test)\;\n\n	 //add more test cases\n	\n	\n	\n	\n	\n	
- }\n}\n\n[WordFun.java] (https://lisdtx.instructure.com/courses/202975/file
- s/19785174?wrap=1)Â \n\nDo not use the replace() method.\n\nimport static 
- java.lang.System.*\;\n\npublic class WordFun\n{\n	private String word\;\n\
- n	public WordFun()\n	{\n\n	}\n\n	public WordFun(String w)\n	{\n\n	}\n\n	pu
- blic void setWord(String w)\n	{\n\n	}\n\n	public void makeUpper()\n	{\n\n	
- }\n\n	public void addHyphen()\n	{\n		int loc\;\n\n	}\n\n	public String toS
- tring()\n	{\n		return ""\;\n	}\n}
-SUMMARY:Word Fun [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534669
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="lab06g.pdf" href="https://lisdtx.inst
- ructure.com/courses/202975/files/19785166?wrap=1" target="_blank" data-can
- vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
- api/v1/courses/202975/files/19785166" data-api-returntype="File">lab06g.pd
- f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
- k instructure_scribd_file inline_disabled" title="Lab06g.java" href="https
- ://lisdtx.instructure.com/courses/202975/files/19785170?wrap=1" target="_b
- lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/202975/files/19785170" data-api-returntype="F
- ile">Lab06g.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
- \npublic class Lab06g\n{\n	public static void main( String args[] )\n	{\n	
-    WordFun test = new WordFun("Hello World")\;\n	   out.println(test)\;\n	
-    test.makeUpper()\;\n	   out.println(test)\;\n	   test.addHyphen()\;\n	 
-   out.println(test)\;\n\n	   //add more test cases\n	   \n	   \n	   \n	   
- \n	   \n	}\n}\n</pre>\n<p><a class="instructure_file_link instructure_scri
- bd_file inline_disabled" title="WordFun.java" href="https://lisdtx.instruc
- ture.com/courses/202975/files/19785174?wrap=1" target="_blank" data-canvas
- -previewable="false" data-api-endpoint="https://lisdtx.instructure.com/api
- /v1/courses/202975/files/19785174" data-api-returntype="File">WordFun.java
- </a>&nbsp\;</p>\n<p><strong>Do not use the replace() method.</strong></p>\
- n<pre>import static java.lang.System.*\;\n\npublic class WordFun\n{\n	priv
- ate String word\;\n\n	public WordFun()\n	{\n\n\n	}\n\n	public WordFun(Stri
- ng w)\n	{\n\n\n	}\n\n	public void setWord(String w)\n	{\n\n\n	}\n\n	public
-  void makeUpper()\n	{\n\n\n	}\n\n	public void addHyphen()\n	{\n		int loc\;
- \n\n\n	}\n\n	public String toString()\n	{\n		return ""\;\n	}\n}\n</pre>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T012100Z
-UID:event-assignment-2534666
-DTSTART;VALUE=DATE:20220119T232900
-DTEND;VALUE=DATE:20220119T235900
-DESCRIPTION:[lab06c.pdf] (https://lisdtx.instructure.com/courses/202975/fil
- es/19785098?wrap=1)Â \n\nStarter Files:\n\n[Lab06c.java] (https://lisdtx.i
- nstructure.com/courses/202975/files/19785099?wrap=1)Â \n\nimport static ja
- va.lang.System.*\;\n\npublic class Lab06c\n{\npublic static void main( Str
- ing args[] )\n{\n		//add test cases\n		\n\n	}\n}\n\n[WordsCompare.java] (h
- ttps://lisdtx.instructure.com/courses/202975/files/19785100?wrap=1)Â \n\ni
- mport static java.lang.System.*\;\n\npublic class WordsCompare\n{\n	privat
- e String wordOne\, wordTwo\;\nprivate int compare\;\n\n	public WordsCompar
- e()\n	{\n\n	}\n\n	public WordsCompare(String one\, String two)\n	{\n\n	}\n
- \n	public void setWords(String one\, String two)\n	{\n\n	}\n\n	public void
-  compare()\n	{\n\n	}\n\n	public String toString()\n	{\n		if(compare<0)\n		
- {\n			return wordOne + " should be placed before " + wordTwo + "\n"\;\n		}
- \n		else\n		{\n			return wordOne + " should be placed after " + wordTwo + 
- "\n"\;\n		}\n	}\n}
-SUMMARY:Words Compare [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534666
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="lab06c.pdf" href="https://lisdtx.inst
- ructure.com/courses/202975/files/19785098?wrap=1" target="_blank" data-can
- vas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/
- api/v1/courses/202975/files/19785098" data-api-returntype="File">lab06c.pd
- f</a>&nbsp\;</p>\n<p>Starter Files:</p>\n<p><a class="instructure_file_lin
- k instructure_scribd_file inline_disabled" title="Lab06c.java" href="https
- ://lisdtx.instructure.com/courses/202975/files/19785099?wrap=1" target="_b
- lank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/202975/files/19785099" data-api-returntype="F
- ile">Lab06c.java</a>&nbsp\;</p>\n<pre>import static java.lang.System.*\;\n
- \npublic class Lab06c\n{\n   public static void main( String args[] )\n   
- {\n		//add test cases\n		\n\n	}\n}\n</pre>\n<p><a class="instructure_file_
- link instructure_scribd_file inline_disabled" title="WordsCompare.java" hr
- ef="https://lisdtx.instructure.com/courses/202975/files/19785100?wrap=1" t
- arget="_blank" data-canvas-previewable="false" data-api-endpoint="https://
- lisdtx.instructure.com/api/v1/courses/202975/files/19785100" data-api-retu
- rntype="File">WordsCompare.java</a>&nbsp\;</p>\n<pre>import static java.la
- ng.System.*\;\n\npublic class WordsCompare\n{\n	private String wordOne\, w
- ordTwo\;\n   private int compare\;\n\n	public WordsCompare()\n	{\n\n\n	}\n
- \n	public WordsCompare(String one\, String two)\n	{\n\n\n\n	}\n\n	public v
- oid setWords(String one\, String two)\n	{\n\n\n	}\n\n	public void compare(
- )\n	{\n\n\n	}\n\n	public String toString()\n	{\n		if(compare&lt\;0)\n		{\n
- 			return wordOne + " should be placed before " + wordTwo + "\n"\;\n		}\n	
- 	else\n		{\n			return wordOne + " should be placed after " + wordTwo + "\n
- "\;\n		}\n	}\n}\n</pre>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220207T021200Z
 UID:event-assignment-2720575
 DTSTART;VALUE=DATE:20220120T232900
@@ -2986,7 +2654,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T060000Z
+DTSTAMP:20220219T060000Z
 UID:event-assignment-2744238
 DTSTART;VALUE=DATE:20220218T232900
 DTEND;VALUE=DATE:20220218T235900
@@ -5005,7 +4673,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:85110105116325132701111149910111532383267105114991171089711432771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220303
 DTEND;TZID=America/Chicago:20220304
@@ -5013,7 +4681,7 @@ SUMMARY:Unit 3 Forces & Circular Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:8311297991019911497102116328011411110610199116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220225
 DTEND;TZID=America/Chicago:20220226
@@ -5021,7 +4689,7 @@ SUMMARY:Spacecraft Project [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:6511010310810110032679711411632769798329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220223
 DTEND;TZID=America/Chicago:20220224
@@ -5029,7 +4697,7 @@ SUMMARY:Angled Cart Lab [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:79102102105991013265112112108105999711610511111032861051001011113291838485677993
 DTSTART;TZID=America/Chicago:20220225
 DTEND;TZID=America/Chicago:20220226
@@ -5037,7 +4705,7 @@ SUMMARY:Office Application Video [STUCO]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:787283328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -5045,7 +4713,7 @@ SUMMARY:NHS Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -5053,7 +4721,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T095100
 DTEND;TZID=America/Chicago:20220311T102100
@@ -5061,7 +4729,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T082000
 DTEND;TZID=America/Chicago:20220312T085000
@@ -5069,7 +4737,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T102500
 DTEND;TZID=America/Chicago:20220312T105500
@@ -5077,7 +4745,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:8083658432841019710932809711410111011647831161171001011101163277101101116105110103
 DTSTART;TZID=America/Chicago:20220228T183000
 DTEND;TZID=America/Chicago:20220228T190000
@@ -5085,7 +4753,7 @@ SUMMARY:PSAT Team Parent/Student Meeting
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:8097114107326710810197110117112
 DTSTART;TZID=America/Chicago:20220221T120000
 DTEND;TZID=America/Chicago:20220221T123000
@@ -5093,7 +4761,7 @@ SUMMARY:Park Cleanup
 DESCRIPTION:Leonard L. Woods Park
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:651151151051151163211910511610432821111181011143282117110
 DTSTART;TZID=America/Chicago:20220226T070000
 DTEND;TZID=America/Chicago:20220226T073000
@@ -5104,7 +4772,7 @@ McKinnish Dog Park
 Legends Trail
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T170508Z
+DTSTAMP:20220219T073008Z
 UID:6810198971161013277101101116105110103
 DTSTART;TZID=America/Chicago:20220222T154500
 DTEND;TZID=America/Chicago:20220222T161500
