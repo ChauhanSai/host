@@ -6,106 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220215T185400Z
-UID:event-assignment-2534510
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:
-SUMMARY:if Statements AP Review [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534510
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220122T020000Z
-UID:event-assignment-2499227
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/21: Boys Basketball Game vs Flower Mound [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499227
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220121T230000Z
-UID:event-assignment-2499115
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/21: Girls Basketball Game vs Flower Mound [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499115
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220131T160500Z
-UID:event-assignment-2706918
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:[Project - Business Technology Needs (1)-1.pdf] (https://lisdtx
- .instructure.com/courses/190905/files/20494429?wrap=1)
-SUMMARY:Business Technology Needs - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2706918
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Business Technology Needs (
- 1)-1.pdf" href="https://lisdtx.instructure.com/courses/190905/files/204944
- 29?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoi
- nt="https://lisdtx.instructure.com/api/v1/courses/190905/files/20494429" d
- ata-api-returntype="File">Project - Business Technology Needs (1)-1.pdf</a
- ></p>\n<p><span style="width: 43rem\; height: 1rem\; vertical-align: middl
- e\;" aria-label="Loading" data-placeholder-for="Project%20-%20Business%20T
- echnology%20Needs%20(1).pdf"> </span></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220203T015800Z
-UID:event-assignment-2534540
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:
-SUMMARY:Equals/toString Method Quiz [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534540
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T192800Z
-UID:event-assignment-2706916
-DTSTART;VALUE=DATE:20220121T232900
-DTEND;VALUE=DATE:20220121T235900
-DESCRIPTION:
-SUMMARY:Workplace Technology Test [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=01&year=2022#assignment_2706916
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220117T190100Z
-UID:event-calendar-event-520525
-DTSTART;VALUE=DATE:20220125
-DTEND;VALUE=DATE:20220126
-DESCRIPTION:[2.3-2.5 Graphing Absolute Value Blank Notes.pdf] (https://lisd
- tx.instructure.com/courses/172585/files/19814604/preview)\n\nHW:Â  [PAP To
- pic 2 Absolute Value\, graphing\, transformations HW.pdf] (https://lisdtx.
- instructure.com/courses/172585/files/19814588/preview)\n\nÂ 
-SUMMARY:2.3 - 2.5 Absolute Value and Graphine [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#calendar_event_520525
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="2.3-2.5 Graphing Absolute Value Blank Notes.pdf" href
- ="https://lisdtx.instructure.com/courses/172585/files/19814604/preview" ta
- rget="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cou
- rses/172585/files/19814604" data-api-returntype="File">2.3-2.5 Graphing Ab
- solute Value Blank Notes.pdf</a></p>\n<p>HW:&nbsp\; <a class="instructure_
- file_link instructure_scribd_file" title="PAP Topic 2 Absolute Value\, gra
- phing\, transformations HW.pdf" href="https://lisdtx.instructure.com/cours
- es/172585/files/19814588/preview" target="_blank" data-api-endpoint="https
- ://lisdtx.instructure.com/api/v1/courses/172585/files/19814588" data-api-r
- eturntype="File">PAP Topic 2 Absolute Value\, graphing\, transformations H
- W.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220212T162300Z
 UID:event-assignment-2537941
 DTSTART;VALUE=DATE:20220125T232900
@@ -788,7 +688,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
  aphing Vectors</a> in class as well\, but we will finish it in class.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T170400Z
+DTSTAMP:20220223T171300Z
 UID:event-assignment-2720034
 DTSTART;VALUE=DATE:20220201T232900
 DTEND;VALUE=DATE:20220201T235900
@@ -1421,7 +1321,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T183900Z
+DTSTAMP:20220223T162900Z
 UID:event-assignment-2733066
 DTSTART;VALUE=DATE:20220208T232900
 DTEND;VALUE=DATE:20220208T235900
@@ -1930,7 +1830,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220214T172900Z
+DTSTAMP:20220223T164500Z
 UID:event-assignment-2733064
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -1955,7 +1855,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  o convert it to a powerpoint before you submit!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T222100Z
+DTSTAMP:20220223T200100Z
 UID:event-assignment-2740442
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -2115,7 +2015,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T183900Z
+DTSTAMP:20220223T162900Z
 UID:event-assignment-2733062
 DTSTART;VALUE=DATE:20220215T232900
 DTEND;VALUE=DATE:20220215T235900
@@ -2149,7 +2049,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your outfit here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T164300Z
+DTSTAMP:20220223T162900Z
 UID:event-assignment-2733065
 DTSTART;VALUE=DATE:20220215T232900
 DTEND;VALUE=DATE:20220215T235900
@@ -2228,7 +2128,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  </p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220216T200700Z
+DTSTAMP:20220221T022000Z
 UID:event-assignment-2600493
 DTSTART;VALUE=DATE:20220216T232900
 DTEND;VALUE=DATE:20220216T235900
@@ -2250,7 +2150,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220216T200800Z
+DTSTAMP:20220221T022000Z
 UID:event-assignment-2600664
 DTSTART;VALUE=DATE:20220216T232900
 DTEND;VALUE=DATE:20220216T235900
@@ -2286,7 +2186,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your outfit here!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
+DTSTAMP:20220222T183100Z
 UID:event-assignment-2537954
 DTSTART;VALUE=DATE:20220217T232900
 DTEND;VALUE=DATE:20220217T235900
@@ -2297,7 +2197,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220217T183900Z
+DTSTAMP:20220223T162900Z
 UID:event-assignment-2733060
 DTSTART;VALUE=DATE:20220217T232900
 DTEND;VALUE=DATE:20220217T235900
@@ -2361,7 +2261,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  s Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220218T214900Z
+DTSTAMP:20220223T200100Z
 UID:event-assignment-2534726
 DTSTART:20220218T214000Z
 DTEND:20220218T214000Z
@@ -2665,6 +2565,17 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=02&year=2022#calendar_event_520821
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220223T200100Z
+UID:event-assignment-2759218
+DTSTART;VALUE=DATE:20220222T232900
+DTEND;VALUE=DATE:20220222T235900
+DESCRIPTION:
+SUMMARY:Guessing Game FRQ [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=02&year=2022#assignment_2759218
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
 UID:event-calendar-event-520531
 DTSTART;VALUE=DATE:20220223
@@ -2687,6 +2598,17 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
  /172585/files/19814621" data-api-returntype="File">5.7-5.8 Completing Squa
  re\, Quad Formula Practice.pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T142700Z
+UID:event-assignment-2757856
+DTSTART:20220223T202000Z
+DTEND:20220223T202000Z
+DESCRIPTION:
+SUMMARY:Forces on an Incline [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2757856
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -2717,6 +2639,58 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220223T170600Z
+UID:event-assignment-2755660
+DTSTART;VALUE=DATE:20220223T232900
+DTEND;VALUE=DATE:20220223T235900
+DESCRIPTION:[Project - Customizing WindowsÂ®.pdf] (https://lisdtx.instructu
+ re.com/courses/190905/files/21348752?wrap=1)Â \n\nFollow the instructions 
+ on the PDF.Â  If you get to a task and it won't let you truly change the b
+ ackground etc... just take a screen shot of where it will be and briefly s
+ tate how you would do it.Â  To take a screen shot\, you will need to open 
+ a blank word document.Â  Control + Print Screen will take a screenshot of 
+ what you are wanting to screenshot.Â  Then\, paste it\, control + V\, to t
+ he blank word document and attach it with whatever you need to attach.Â 
+SUMMARY:Customizing Windows - Project [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=02&year=2022#assignment_2755660
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Customizing WindowsÂ®.pdf" 
+ href="https://lisdtx.instructure.com/courses/190905/files/21348752?wrap=1"
+  target="_blank" data-canvas-previewable="false" data-api-endpoint="https:
+ //lisdtx.instructure.com/api/v1/courses/190905/files/21348752" data-api-re
+ turntype="File">Project - Customizing WindowsÂ®.pdf</a>&nbsp\;</p>\n<p>Fol
+ low the instructions on the PDF.&nbsp\; If you get to a task and it won't 
+ let you truly change the background etc... just take a screen shot of wher
+ e it will be and briefly state how you would do it.&nbsp\; To take a scree
+ n shot\, you will need to open a blank word document.&nbsp\; Control + Pri
+ nt Screen will take a screenshot of what you are wanting to screenshot.&nb
+ sp\; Then\, paste it\, control + V\, to the blank word document and attach
+  it with whatever you need to attach.&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T203800Z
+UID:event-assignment-2760876
+DTSTART;VALUE=DATE:20220223T232900
+DTEND;VALUE=DATE:20220223T235900
+DESCRIPTION:
+SUMMARY:Force Inquiry Lab [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2760876
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T211100Z
+UID:event-assignment-2760839
+DTSTART;VALUE=DATE:20220223T232900
+DTEND;VALUE=DATE:20220223T235900
+DESCRIPTION:
+SUMMARY:Force Quiz [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=02&year=2022#assignment_2760839
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
 UID:event-calendar-event-520503
 DTSTART;VALUE=DATE:20220224
@@ -2743,6 +2717,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  oad?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
  es/172585/files/19814621" data-api-returntype="File">5.7-5.8 Completing Sq
  uare\, Quad Formula Practice.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T191500Z
+UID:event-assignment-2759001
+DTSTART;VALUE=DATE:20220224T232900
+DTEND;VALUE=DATE:20220224T235900
+DESCRIPTION:Blast the rangers to the past - Throwback clothes
+SUMMARY:2/24 Frisco Lone Star rangers (BASEBALL) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=02&year=2022#assignment_2759001
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Blast the rangers to the past - Throw
+ back clothes</span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220207T030900Z
@@ -3000,6 +2986,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Graphing Quadratics Practice PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T191400Z
+UID:event-assignment-2759002
+DTSTART;VALUE=DATE:20220303T232900
+DTEND;VALUE=DATE:20220303T235900
+DESCRIPTION:Outshine the Cowboys - Wear Neon
+SUMMARY:3/3 Coppell Cowboys (SOCCER) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2759002
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Outshine the Cowboys - Wear Neon</spa
+ n></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220207T031100Z
 UID:event-calendar-event-520494
 DTSTART;VALUE=DATE:20220304
@@ -3122,6 +3120,15 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=03&year=2022#calendar_event_538203
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220223T185500Z
+UID:event-assignment-2758834
+DTSTART;VALUE=DATE:20220308T232900
+DTEND;VALUE=DATE:20220308T235900
+SUMMARY:Chipotle Night  [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2758834
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T193700Z
 UID:event-calendar-event-520466
 DTSTART;VALUE=DATE:20220309
@@ -3171,6 +3178,18 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T191600Z
+UID:event-assignment-2759006
+DTSTART;VALUE=DATE:20220310T232900
+DTEND;VALUE=DATE:20220310T235900
+DESCRIPTION:Work out the wolves - wear workout attire
+SUMMARY:3/10 Plano West wolves [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2759006
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Work out the wolves - wear workout at
+ tire</span></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T193700Z
 UID:event-calendar-event-520374
 DTSTART;VALUE=DATE:20220311
@@ -3191,6 +3210,90 @@ SUMMARY:Midterm Exams [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=03&year=2022#calendar_event_520373
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T191000Z
+UID:event-assignment-2760544
+DTSTART;VALUE=DATE:20220311T232900
+DTEND;VALUE=DATE:20220311T235900
+DESCRIPTION:If you volunteered for the Lemon Club Lemonade Stand\, print ou
+ t this pdf and get it filled out. Turn in a picture of the filled out form
+ .\n\n[Lemon Club Hour Sign In.pdf] (https://lisdtx.instructure.com/courses
+ /155649/files/21446099?wrap=1)Â 
+SUMMARY:1/11: Lemon Club Lemonade Stand [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2760544
+X-ALT-DESC;FMTTYPE=text/html:<p>If you volunteered for the Lemon Club Lemon
+ ade Stand\, print out this pdf and get it filled out. Turn in a picture of
+  the filled out form.</p>\n<p><a class="instructure_file_link instructure_
+ scribd_file inline_disabled" title="Lemon Club Hour Sign In.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/155649/files/21446099?wrap=1" target="
+ _blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/155649/files/21446099" data-api-returntype=
+ "File">Lemon Club Hour Sign In.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T191000Z
+UID:event-assignment-2760545
+DTSTART;VALUE=DATE:20220311T232900
+DTEND;VALUE=DATE:20220311T235900
+DESCRIPTION:If you volunteered for the Lemon Club Lemonade Stand\, print ou
+ t this pdf and get it filled out. Turn in a picture of the filled out form
+ .\n\n[Lemon Club Hour Sign In.pdf] (https://lisdtx.instructure.com/courses
+ /155649/files/21446099?wrap=1)Â 
+SUMMARY:1/14: Lemon Club Lemonade Stand [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2760545
+X-ALT-DESC;FMTTYPE=text/html:<p>If you volunteered for the Lemon Club Lemon
+ ade Stand\, print out this pdf and get it filled out. Turn in a picture of
+  the filled out form.</p>\n<p><a class="instructure_file_link instructure_
+ scribd_file inline_disabled" title="Lemon Club Hour Sign In.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/155649/files/21446099?wrap=1" target="
+ _blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/155649/files/21446099" data-api-returntype=
+ "File">Lemon Club Hour Sign In.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T191000Z
+UID:event-assignment-2760523
+DTSTART;VALUE=DATE:20220311T232900
+DTEND;VALUE=DATE:20220311T235900
+DESCRIPTION:If you volunteered for the Lemon Club Lemonade Stand\, print ou
+ t this pdf and get it filled out. Turn in a picture of the filled out form
+ .\n\n[Lemon Club Hour Sign In.pdf] (https://lisdtx.instructure.com/courses
+ /155649/files/21446099?wrap=1)Â 
+SUMMARY:11/29: Lemon Club Lemonade Stand [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2760523
+X-ALT-DESC;FMTTYPE=text/html:<p>If you volunteered for the Lemon Club Lemon
+ ade Stand\, print out this pdf and get it filled out. Turn in a picture of
+  the filled out form.</p>\n<p><a class="instructure_file_link instructure_
+ scribd_file inline_disabled" title="Lemon Club Hour Sign In.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/155649/files/21446099?wrap=1" target="
+ _blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/155649/files/21446099" data-api-returntype=
+ "File">Lemon Club Hour Sign In.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220223T191000Z
+UID:event-assignment-2760537
+DTSTART;VALUE=DATE:20220311T232900
+DTEND;VALUE=DATE:20220311T235900
+DESCRIPTION:If you volunteered for the Lemon Club Lemonade Stand\, print ou
+ t this pdf and get it filled out. Turn in a picture of the filled out form
+ .\n\n[Lemon Club Hour Sign In.pdf] (https://lisdtx.instructure.com/courses
+ /155649/files/21446099?wrap=1)Â 
+SUMMARY:12/17: Lemon Club Lemonade Stand [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2760537
+X-ALT-DESC;FMTTYPE=text/html:<p>If you volunteered for the Lemon Club Lemon
+ ade Stand\, print out this pdf and get it filled out. Turn in a picture of
+  the filled out form.</p>\n<p><a class="instructure_file_link instructure_
+ scribd_file inline_disabled" title="Lemon Club Hour Sign In.pdf" href="htt
+ ps://lisdtx.instructure.com/courses/155649/files/21446099?wrap=1" target="
+ _blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.
+ instructure.com/api/v1/courses/155649/files/21446099" data-api-returntype=
+ "File">Lemon Club Hour Sign In.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T194300Z
@@ -3495,6 +3598,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9.4 Binomial Expression\, Rational Exponents.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T192000Z
+UID:event-assignment-2759018
+DTSTART;VALUE=DATE:20220324T232900
+DTEND;VALUE=DATE:20220324T235900
+DESCRIPTION:Team up against the Jaguars - Wear jerseys
+SUMMARY:3/24 Flower Mound jaguars (BASEBALL) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2759018
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Team up against the Jaguars - Wear je
+ rseys</span></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211101T180600Z
 UID:event-assignment-2466303
 DTSTART;VALUE=DATE:20220324T232900
@@ -3634,6 +3749,18 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T192100Z
+UID:event-assignment-2759019
+DTSTART;VALUE=DATE:20220331T232900
+DTEND;VALUE=DATE:20220331T235900
+DESCRIPTION:Wash away the cowboys - wear beach attire
+SUMMARY:3/31 Coppell Cowboys (SOCCER) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2759019
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Wash away the cowboys - wear beach at
+ tire</span></p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520514
 DTSTART;VALUE=DATE:20220401
@@ -3766,6 +3893,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  amp\; 8.4 Factor and Solve Polynomials PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T192600Z
+UID:event-assignment-2759059
+DTSTART;VALUE=DATE:20220406T232900
+DTEND;VALUE=DATE:20220406T235900
+SUMMARY:4/6 Water Bottle Wednesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759059
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T195100Z
 UID:event-calendar-event-520828
 DTSTART;VALUE=DATE:20220407
@@ -3773,6 +3909,18 @@ DTEND;VALUE=DATE:20220408
 SUMMARY:Eng. II STAAR EOC [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#calendar_event_520828
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T192200Z
+UID:event-assignment-2759021
+DTSTART;VALUE=DATE:20220407T232900
+DTEND;VALUE=DATE:20220407T235900
+DESCRIPTION:Hats off to Baseball - Hat Day
+SUMMARY:4/7 Coppell Cowboys (BASEBALL) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759021
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Hats off to Baseball - Hat Day</span>
+ </p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205300Z
@@ -3908,6 +4056,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T192700Z
+UID:event-assignment-2759063
+DTSTART;VALUE=DATE:20220413T232900
+DTEND;VALUE=DATE:20220413T235900
+SUMMARY:4/13 Water Bottle Wednesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759063
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205200Z
 UID:event-assignment-2537948
 DTSTART;VALUE=DATE:20220414T232900
@@ -3926,6 +4083,18 @@ DTEND;VALUE=DATE:20220414T235900
 SUMMARY:4/13 - 4/14: UIL [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=04&year=2022#assignment_2466315
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T192200Z
+UID:event-assignment-2759022
+DTSTART;VALUE=DATE:20220414T232900
+DTEND;VALUE=DATE:20220414T235900
+DESCRIPTION:Put the farmers to sleep - Wear PJs
+SUMMARY:4/14 Lewisville Farmers (SOCCER) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759022
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Put the farmers to sleep - Wear PJs</
+ span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T203400Z
@@ -3986,6 +4155,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220222T192800Z
+UID:event-assignment-2759066
+DTSTART;VALUE=DATE:20220420T232900
+DTEND;VALUE=DATE:20220420T235900
+SUMMARY:4/20 Water Bottle Wednesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759066
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520469
 DTSTART;VALUE=DATE:20220421
@@ -4023,6 +4201,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1
  9814692" data-api-returntype="File">Prac 7.1-7.2 with word probs PAP.pdf</
  a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T192500Z
+UID:event-assignment-2759058
+DTSTART;VALUE=DATE:20220421T232900
+DTEND;VALUE=DATE:20220421T235900
+DESCRIPTION:Go Hawks! Wear blue/hebron gear
+SUMMARY:4/21 Lewisville farmers (SOFTBALL) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759058
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Go Hawks! Wear blue/hebron gear</span
+ ></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205200Z
@@ -4155,6 +4345,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  pi-returntype="File">Practice 7.7-7.10.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220223T185400Z
+UID:event-assignment-2759069
+DTSTART;VALUE=DATE:20220427T232900
+DTEND;VALUE=DATE:20220427T235900
+SUMMARY:4/27 Water Bottle Wednesday [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759069
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205200Z
 UID:event-calendar-event-520473
 DTSTART;VALUE=DATE:20220428
@@ -4169,6 +4368,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
  dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
  0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220222T192700Z
+UID:event-assignment-2759060
+DTSTART;VALUE=DATE:20220428T232900
+DTEND;VALUE=DATE:20220428T235900
+DESCRIPTION:Black out for baseball - Wear black
+SUMMARY:4/28 Lewisville farmers (BASEBALL) [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2759060
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Black out for baseball - Wear black</
+ span></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205300Z
@@ -4611,15 +4822,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
-UID:6511010310810110032679711411632769798329180104121115105991153272111110457469787573788393
-DTSTART;TZID=America/Chicago:20220223
-DTEND;TZID=America/Chicago:20220224
-SUMMARY:Angled Cart Lab [Physics Hon-JENKINS]
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
+DTSTAMP:20220224T140409Z
 UID:8311297991019911497102116328011411110610199116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220225
 DTEND;TZID=America/Chicago:20220226
@@ -4627,7 +4830,7 @@ SUMMARY:Spacecraft Project [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
+DTSTAMP:20220224T140409Z
 UID:85110105116325132701111149910111532383267105114991171089711432771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220303
 DTEND;TZID=America/Chicago:20220304
@@ -4635,31 +4838,23 @@ SUMMARY:Unit 3 Forces & Circular Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
-UID:7111710111511510511010371971091013270828132916580326711110911232839910532453283505093
-DTSTART;TZID=America/Chicago:20220222T154500
-DTEND;TZID=America/Chicago:20220222T161500
-SUMMARY:GuessingGame FRQ [AP Comp Sci - S22]
+DTSTAMP:20220224T140409Z
+UID:8711497112112101114326710897115115328111710512210111532916580326711110911232839910532453283505093
+DTSTART;TZID=America/Chicago:20220227
+DTEND;TZID=America/Chicago:20220228
+SUMMARY:Wrapper Class Quizes [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
+DTSTAMP:20220224T140409Z
 UID:79102102105991013265112112108105999711610511111032861051001011113291838485677993
-DTSTART;TZID=America/Chicago:20220225
-DTEND;TZID=America/Chicago:20220226
+DTSTART;TZID=America/Chicago:20220304
+DTEND;TZID=America/Chicago:20220305
 SUMMARY:Office Application Video [STUCO]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073008Z
-UID:6810198971161013277101101116105110103
-DTSTART;TZID=America/Chicago:20220222T154500
-DTEND;TZID=America/Chicago:20220222T161500
-SUMMARY:Debate Meeting
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
+DTSTAMP:20220224T140409Z
 UID:787283328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4667,39 +4862,7 @@ SUMMARY:NHS Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
-UID:8083658432841019710932809711410111011647831161171001011101163277101101116105110103
-DTSTART;TZID=America/Chicago:20220228T183000
-DTEND;TZID=America/Chicago:20220228T190000
-SUMMARY:PSAT Team Parent/Student Meeting
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
-UID:8311297991019911497102116328011411110610199116328711111410710097121
-DTSTART;TZID=America/Chicago:20220220T150000
-DTEND;TZID=America/Chicago:20220220T153000
-SUMMARY:Spacecraft Project Workday
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
-UID:8097114107326710810197110117112
-DTSTART;TZID=America/Chicago:20220221T120000
-DTEND;TZID=America/Chicago:20220221T123000
-SUMMARY:Park Cleanup
-DESCRIPTION:Leonard L. Woods Park
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
-UID:651151151051151163211910511610432821111181011143282117110
-DTSTART;TZID=America/Chicago:20220226T070000
-DTEND;TZID=America/Chicago:20220226T073000
-SUMMARY:Assist with Rover Run
-DESCRIPTION:7am-11am      McKinnish Dog Park
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
+DTSTAMP:20220224T140409Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4707,7 +4870,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
+DTSTAMP:20220224T140409Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T095100
 DTEND;TZID=America/Chicago:20220311T102100
@@ -4715,7 +4878,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
+DTSTAMP:20220224T140409Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T082000
 DTEND;TZID=America/Chicago:20220312T085000
@@ -4723,11 +4886,27 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220220T073009Z
+DTSTAMP:20220224T140409Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T102500
 DTEND;TZID=America/Chicago:20220312T105500
 SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220224T140409Z
+UID:6879708432681019897116101
+DTSTART;TZID=America/Chicago:20220301T160000
+DTEND;TZID=America/Chicago:20220301T163000
+SUMMARY:DOFT Debate
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220224T140409Z
+UID:1645732170466-60236@ical.marudot.com
+DTSTART;TZID=America/Chicago:20220308T160000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220524T210000Z
+DTEND;TZID=America/Chicago:20220308T170000
+SUMMARY:Debate Meeting
 END:VEVENT
 END:VCALENDAR
