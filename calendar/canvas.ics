@@ -6,523 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220212T162300Z
-UID:event-assignment-2537941
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:[2.1-2.2 Topic 2 Solving Absolute Value.pdf] (https://lisdtx.in
- structure.com/courses/172585/files/19814476/preview)
-SUMMARY:HW DUE: 2.1 - 2.2 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=01&year=2022#assignment_2537941
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="2.1-2.2 Topic 2 Solving Absolute Value.pdf" href="htt
- ps://lisdtx.instructure.com/courses/172585/files/19814476/preview" target=
- "_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
- 172585/files/19814476" data-api-returntype="File">2.1-2.2 Topic 2 Solving 
- Absolute Value.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220126T013000Z
-UID:event-assignment-2499231
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/25: Boys Basketball Game vs Plano [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499231
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220125T230000Z
-UID:event-assignment-2499116
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:Submit your picture here!
-SUMMARY:1/25: Girls Basketball Game vs Plano/Clark [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=01&year=2022#assignment_2499116
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit your picture here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T012100Z
-UID:event-assignment-2534675
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:**********\nDirections\n**********\n\nA basketball coach has as
- ked you to write a program that he can use to calculate player stats after
-  a game. Given the following information: free throws made\, free throws a
- ttempted\, 2 point field goals made\, 2 point field goals attempted\, 3 po
- int field goals made\, and 3 point field goals attempted\, he wants the pr
- ogram to generate the following information: percentage of free throws mad
- e\, percentage of 2 point field goals made\, percentage of 3 point field g
- oals made\, and total points scored.\n\nYou decide the problem can be deco
- mposed into the following two classes: Player and Team. The Player class s
- tores the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attempte
- d\, 3FG made\, and 3FG attempted. The class also calculates the percentage
-  of FT made\, percentage of 2FG made\, percentage of 3FG made\, and total 
- points scored.\n\nThe Team class is a client of the Player class. It uses 
- an array to store up to 20 players.\n\n************\nPlayer class\n*******
- *****\n\nCreate a file named Player.java and add the following code.\n\npu
- blic class Player\n{\n// instance variables\n\n// constructors\n\n// acces
- sor methods\n	\n// other methods\n\n}\n\nInstance Variables\n-------------
- -----\n\n* Declare a variable of type String named playerName.\n\n* Declar
- e a variable of type int named ftm (free throws made).\n\n* Declare a vari
- able of type int named fta (free throws attempted).\n\n* Declare a variabl
- e of type int named fg2m (2 point field goals made).\n\n* Declare a variab
- le of type int named fg2a (2 point field goals attempted).\n\n* Declare a 
- variable of type int named fg3m (3 point field goals made).\n\n* Declare a
-  variable of type int named fg3a (3 point field goals attempted).\n\nConst
- ructors\n------------\n\n* Add the following constructor\n\npublic Player(
- String playerName\, int ftm\, int fta\,\nint fgm2\, int fga2\, int fgm3\, 
- int fga3)\n{\nthis.playerName = playerName\;\nthis.ftm = ftm\;\nthis.fta =
-  fta\;\nthis.fgm2 = fgm2\;\nthis.fga2 = fga2\;\nthis.fgm3 = fgm3\;\nthis.f
- ga3 = fga3\;\n}\n\nNotice the use of the keyword "this" in the body of the
-  constructor. "this" is used to allow an object to refer to itself. I am u
- sing it here because I did not want to come up with different variable nam
- e for each of the 7 parameters. Look at the following code from above.\n\n
- this.ftm = ftm\;\n\nThe "this" in the code is used to reference the variab
- le ftm declared in the instance variable section of the class. The ftm var
- iable that does not use "this" refers to the parameter ftm which is a temp
- orary local variable used to assign a value to the instance variable.\n\nA
- ccessor Methods\n----------------\n\n* Implement an accessor method for ea
- ch instance variable.\n\nOther Methods\n-------------\n\n* Implement a met
- hod named getFTPercentage. This method calculates and returns the free thr
- ow percentage using the following formula:\n\nFREE_THROW_PERCENTAGE =\n((d
- ouble)FREE_THROWS_MADE / FREE_THROWS_ATTEMPTED) * 100\n\n* Implement a met
- hod named getFG2Percentage. This method calculates and returns the 2 point
-  field goal percentage using the following formula:\n\n2POINT_FIELDGOAL_PE
- RCENTAGE =\n((double)2POINT_FIELDGOAL_MADE / 2POINT_FIELDGOAL_ATTEMPTED) *
-  100\n\n* Implement a method named getFG3Percentage. This method calculate
- s and returns the 3 point field goal percentage using the following formul
- a:\n\n3POINT_FIELDGOAL_PERCENTAGE =\n((double)3POINT_FIELDGOAL_MADE / 3POI
- NT_FIELDGOAL_ATTEMPTED) * 100\n\n* Implement a method named getPointsScore
- d. This method calculates and returns the total points scored using the fo
- llowing formula:\n\nPOINTS_SCORED =\nFREE_THROWS_MADE + 2POINT_FIELDGOAL_M
- ADE * 2 + 3POINT_FIELDGOAL_MADE * 3\n\nÂ \n\n**********\nTeam class\n*****
- *****\n\nCreate a file named Team.java and add the following code.\n\nimpo
- rt java.util.*\;\n\npublic class Team\n{\n// instance variables\n\n// cons
- tructor\n\n/* This method allows a user to input up to 20 basketball playe
- rs and\n* stores them in an array.\n*/\npublic void addPlayers()\n{\nScann
- er keyboard = new Scanner(System.in)\;\n\n}\n\n/* This method displays eac
- h Player in the array\n*/\npublic void printPlayers()\n{\n\n}\n\npublic st
- atic void main(String[] args)\n{\nTeam app = new Team()\;\napp.addPlayers(
- )\;\napp.printPlayers()\;\n}\n}\n\nInstance Variables\n------------------\
- n\n* Add any necessary instance variables.\n\nConstructors\n------------\n
- \n* Implement any necessary constructors.\n\naddPlayers Method\n----------
- -------\n\n* Implement the method addPlayers. This method allows a user to
-  input up to 20 basketball players and stores them in an array.\n\nprintPl
- ayers Method\n-------------------\n\n* Implement the method printPlayers. 
- This method displays each Player in the array. The information displayed i
- ncludes the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attemp
- ted\, 3FG made\, 3FG attempted\, percentage of FT made\, percentage of 2FG
-  made\, percentage of 3FG made\, and total points scored.\n\n***********\n
- Source File\n***********\n\nPlayer.java\n\nTeam.java\n\n**********\nSample
-  Run\n**********\n\n************************\n* addPlayers *\n************
- ************\n\nEnter player name-->Michael Jordan\nEnter free throws made
-  -->5\nEnter free throws attempted -->6\nEnter 2 pt field goals made -->12
- \nEnter 2 pt field goals attempted -->24\nEnter 3 pt fields goals made --3
- \nEnter 3 pt field goals attempted -->4\n\nEnter another player [y/n]:y\n\
- nEnter player name-->Magic Johnson\nEnter free throws made -->1\nEnter fre
- e throws attempted -->3\nEnter 2 pt field goals made -->8\nEnter 2 pt fiel
- d goals attempted -->10\nEnter 3 pt fields goals made --1\nEnter 3 pt fiel
- d goals attempted -->1\n\nEnter another player [y/n]:y\n\nEnter player nam
- e-->Dirk Nowitzki\nEnter free throws made -->10\nEnter free throws attempt
- ed -->10\nEnter 2 pt field goals made -->15\nEnter 2 pt field goals attemp
- ted -->28\nEnter 3 pt fields goals made --4\nEnter 3 pt field goals attemp
- ted -->5\n\nEnter another player [y/n]:n\n\n************************\n* pr
- intPlayers *\n************************\nName = Michael Jordan\nFree Throws
-  % = 83.33333333333334\n2 pt Field Goal % = 50.0\n3 pt Field Goal % = 75.0
- \nTotal Points Scored = 38\n\nName = Magic Johnson\nFree Throws % = 33.333
- 33333333333\n2 pt Field Goal % = 80.0\n3 pt Field Goal % = 100.0\nTotal Po
- ints Scored = 20\n\nName = Dirk Nowitzki\nFree Throws % = 100.0\n2 pt Fiel
- d Goal % = 53.57142857142857\n3 pt Field Goal % = 80.0\nTotal Points Score
- d = 52\n\nÂ 
-SUMMARY:Basketball [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534675
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>A basketball coach has
-  asked you to write a program that he can use to calculate player stats af
- ter a game. Given the following information: free throws made\, free throw
- s attempted\, 2 point field goals made\, 2 point field goals attempted\, 3
-  point field goals made\, and 3 point field goals attempted\, he wants the
-  program to generate the following information: percentage of free throws 
- made\, percentage of 2 point field goals made\, percentage of 3 point fiel
- d goals made\, and total points scored.</p>\n<p>You decide the problem can
-  be decomposed into the following two classes: <strong>Player</strong> and
-  <strong>Team</strong>. The Player class stores the player's name\, FT mad
- e\, FT attempted\, 2FG made\, 2FG attempted\, 3FG made\, and 3FG attempted
- . The class also calculates the percentage of FT made\, percentage of 2FG 
- made\, percentage of 3FG made\, and total points scored.</p>\n<p>The Team 
- class is a client of the Player class. It uses an array to store up to 20 
- players.</p>\n<h1>Player class</h1>\n<p>Create a file named <strong>Player
- .java</strong> and add the following code.</p>\n<div id="csCode">\n<pre>pu
- blic class Player\n{\n    // instance variables\n\n    // constructors\n\n
-     // accessor methods\n	\n    // other methods\n\n}\n</pre>\n</div>\n<h3
- >Instance Variables</h3>\n<div id="csList">\n<ol>\n<li>Declare a variable 
- of type String named <strong>playerName</strong>.</li>\n<li>Declare a vari
- able of type int named <strong>ftm</strong> (free throws made).</li>\n<li>
- Declare a variable of type int named <strong>fta</strong> (free throws att
- empted).</li>\n<li>Declare a variable of type int named <strong>fg2m</stro
- ng> (2 point field goals made).</li>\n<li>Declare a variable of type int n
- amed <strong>fg2a</strong> (2 point field goals attempted).</li>\n<li>Decl
- are a variable of type int named <strong>fg3m</strong> (3 point field goal
- s made).</li>\n<li>Declare a variable of type int named <strong>fg3a</stro
- ng> (3 point field goals attempted).</li>\n</ol>\n</div>\n<h3>Constructors
- </h3>\n<div id="csList">\n<ol start="8">\n<li>Add the following constructo
- r<br>\n<div id="csCode" style="width: 600px\;">\n<pre>public Player(String
-  playerName\, int ftm\, int fta\,\n              int fgm2\, int fga2\, int
-  fgm3\, int fga3)\n   {\n       this.playerName = playerName\;\n       thi
- s.ftm = ftm\;\n       this.fta = fta\;\n       this.fgm2 = fgm2\;\n       
- this.fga2 = fga2\;\n       this.fgm3 = fgm3\;\n       this.fga3 = fga3\;\n
-    }</pre>\n</div>\n<p>Notice the use of the keyword <strong>"this"</stron
- g> in the body of the constructor. "this" is used to allow an object to re
- fer to itself. I am using it here because I did not want to come up with d
- ifferent variable name for each of the 7 parameters. Look at the following
-  code from above.</p>\n<div id="csCode" style="width: 130px\;">\n<pre>this
- .ftm = ftm\;</pre>\n</div>\n<p>The "this" in the code is used to reference
-  the variable ftm declared in the instance variable section of the class. 
- The ftm variable that does not use "this" refers to the parameter ftm whic
- h is a temporary local variable used to assign a value to the instance var
- iable.</p>\n</li>\n</ol>\n</div>\n<h3>Accessor Methods</h3>\n<div id="csLi
- st">\n<ol start="9">\n<li>Implement an <strong>accessor</strong> method fo
- r each instance variable.</li>\n</ol>\n</div>\n<h3>Other Methods</h3>\n<di
- v id="csList">\n<ol start="10">\n<li>Implement a method named <strong>getF
- TPercentage</strong>. This method calculates and returns the free throw pe
- rcentage using the following formula:<br><br>\n<div id="csOutput" style="w
- idth: 580px\; font-size: 1.0em\;">\n<pre>FREE_THROW_PERCENTAGE =<br> ((dou
- ble)FREE_THROWS_MADE / FREE_THROWS_ATTEMPTED) * 100\n</pre>\n</div>\n</li>
- \n<li>Implement a method named <strong>getFG2Percentage</strong>. This met
- hod calculates and returns the 2 point field goal percentage using the fol
- lowing formula:<br><br>\n<div id="csOutput" style="width: 580px\; font-siz
- e: 1.0em\;">\n<pre>2POINT_FIELDGOAL_PERCENTAGE =<br> ((double)2POINT_FIELD
- GOAL_MADE / 2POINT_FIELDGOAL_ATTEMPTED) * 100\n</pre>\n</div>\n</li>\n<li>
- Implement a method named <strong>getFG3Percentage</strong>. This method ca
- lculates and returns the 3 point field goal percentage using the following
-  formula:<br><br>\n<div id="csOutput" style="width: 580px\; font-size: 1.0
- em\;">\n<pre>3POINT_FIELDGOAL_PERCENTAGE =<br> ((double)3POINT_FIELDGOAL_M
- ADE / 3POINT_FIELDGOAL_ATTEMPTED) * 100\n</pre>\n</div>\n</li>\n<li>Implem
- ent a method named <strong>getPointsScored</strong>. This method calculate
- s and returns the total points scored using the following formula:<br><br>
- \n<div id="csOutput" style="width: 580px\; font-size: 1.0em\;">\n<pre>POIN
- TS_SCORED = <br>FREE_THROWS_MADE + 2POINT_FIELDGOAL_MADE * 2 + 3POINT_FIEL
- DGOAL_MADE * 3\n</pre>\n</div>\n</li>\n</ol>\n</div>\n<p>&nbsp\;</p>\n<h1>
- Team class</h1>\n<p>Create a file named <strong>Team.java</strong> and add
-  the following code.</p>\n<div id="csCode">\n<pre>import java.util.*\;\n\n
- public class Team\n{\n    // instance variables\n\n    // constructor\n\n\
- n    /* This method allows a user to input up to 20 basketball players and
-  \n     *  stores them in an array.\n     */\n    public void addPlayers()
- \n    {\n        Scanner keyboard = new Scanner(System.in)\;\n\n\n    }\n\
- n    /* This method displays each Player in the array \n     */\n    publi
- c void printPlayers()\n    {\n\n    }\n\n    public static void main(Strin
- g[] args)\n    {\n        Team app = new Team()\;\n        app.addPlayers(
- )\;\n        app.printPlayers()\;\n    }\n}\n</pre>\n</div>\n<h3>Instance 
- Variables</h3>\n<div id="csList">\n<ol start="14">\n<li>Add any necessary 
- instance variables.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div id="c
- sList">\n<ol start="15">\n<li>Implement any necessary constructors.</li>\n
- </ol>\n</div>\n<h3>addPlayers Method</h3>\n<div id="csList">\n<ol start="1
- 6">\n<li>Implement the method <strong>addPlayers</strong>. This method all
- ows a user to input up to 20 basketball players and stores them in an arra
- y.</li>\n</ol>\n</div>\n<h3>printPlayers Method</h3>\n<div id="csList">\n<
- ol start="17">\n<li>Implement the method <strong>printPlayers</strong>. Th
- is method displays each Player in the array. The information displayed inc
- ludes the player's name\, FT made\, FT attempted\, 2FG made\, 2FG attempte
- d\, 3FG made\, 3FG attempted\, percentage of FT made\, percentage of 2FG m
- ade\, percentage of 3FG made\, and total points scored.</li>\n</ol>\n</div
- >\n<h1>Source File</h1>\n<p>Player.java</p>\n<p>Team.java</p>\n<h1>Sample 
- Run</h1>\n<div id="csSampleRun">\n<pre>************************\n*      ad
- dPlayers      *\n************************\n\nEnter player name--&gt\;Micha
- el Jordan\nEnter free throws made --&gt\;5\nEnter free throws attempted --
- &gt\;6\nEnter 2 pt field goals made --&gt\;12\nEnter 2 pt field goals atte
- mpted --&gt\;24\nEnter 3 pt fields goals made --3\nEnter 3 pt field goals 
- attempted --&gt\;4\n\nEnter another player [y/n]:y\n\nEnter player name--&
- gt\;Magic Johnson\nEnter free throws made --&gt\;1\nEnter free throws atte
- mpted --&gt\;3\nEnter 2 pt field goals made --&gt\;8\nEnter 2 pt field goa
- ls attempted --&gt\;10\nEnter 3 pt fields goals made --1\nEnter 3 pt field
-  goals attempted --&gt\;1\n\nEnter another player [y/n]:y\n\nEnter player 
- name--&gt\;Dirk Nowitzki\nEnter free throws made --&gt\;10\nEnter free thr
- ows attempted --&gt\;10\nEnter 2 pt field goals made --&gt\;15\nEnter 2 pt
-  field goals attempted --&gt\;28\nEnter 3 pt fields goals made --4\nEnter 
- 3 pt field goals attempted --&gt\;5\n\nEnter another player [y/n]:n\n\n***
- *********************\n*     printPlayers     *\n************************\
- nName = Michael Jordan\nFree Throws % = 83.33333333333334\n2 pt Field Goal
-  % = 50.0\n3 pt Field Goal % = 75.0\nTotal Points Scored = 38\n\nName = Ma
- gic Johnson\nFree Throws % = 33.33333333333333\n2 pt Field Goal % = 80.0\n
- 3 pt Field Goal % = 100.0\nTotal Points Scored = 20\n\nName = Dirk Nowitzk
- i\nFree Throws % = 100.0\n2 pt Field Goal % = 53.57142857142857\n3 pt Fiel
- d Goal % = 80.0\nTotal Points Scored = 52\n</pre>\n</div>\n<p><br><br></p>
- \n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T012100Z
-UID:event-assignment-2534676
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that stor
- es birthday information about your friends and family. This information sh
- ould include the person's name and birthday. The program should allow you 
- to enter info for at least 50 people and then display this information on 
- the console window.\n\nThe program should be decomposed into the following
-  two classes: Birthday and BirthdayManager. The Birthday class stores a pe
- rson's name and birthday. The BirthdayManager class is a client of the Bir
- thday class. It maintains a list of up to 50 people.\n\nIn writing these t
- wo classes include any necessary instance variables\, constructors\, and m
- ethods.\n\nÂ \n\n**********\nSample Run\n**********\n\n*******************
- *****\n* addBirthdays *\n************************\nEnter name --> John Way
- ne\nEnter Bday --> March 25\n\nEnter Another[y/n] : y\n\nEnter name --> Ji
- mmy Stewart\nEnter Bday --> November 14\n\nEnter Another[y/n] : y\n\nEnter
-  name --> Clark Gable\nEnter Bday --> August 2\n\nEnter Another[y/n] : n\n
- \n************************\n* printBirthdays *\n************************\n
- \nEnter name = John Wayne\nEnter Bday = March 25\n\nEnter name = Jimmy Ste
- wart\nEnter Bday = November 14\n\nEnter name = Clark Gable\nEnter Bday = A
- ugust 2\n\nÂ 
-SUMMARY:Birthday List [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534676
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that s
- tores birthday information about your friends and family. This information
-  should include the person's name and birthday. The program should allow y
- ou to enter info for at least 50 people and then display this information 
- on the console window.</p>\n<p>The program should be decomposed into the f
- ollowing two classes: <strong>Birthday</strong> and <strong>BirthdayManage
- r</strong>. The Birthday class stores a person's name and birthday. The Bi
- rthdayManager class is a client of the Birthday class. It maintains a list
-  of up to 50 people.</p>\n<p>In writing these two classes include any nece
- ssary instance variables\, constructors\, and methods.</p>\n<p>&nbsp\;</p>
- \n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre>**********************
- **\n*     addBirthdays     *\n************************\nEnter name --&gt\;
-  John Wayne\nEnter Bday --&gt\; March 25\n\nEnter Another[y/n] : y\n\nEnte
- r name --&gt\; Jimmy Stewart\nEnter Bday --&gt\; November 14\n\nEnter Anot
- her[y/n] : y\n\nEnter name --&gt\; Clark Gable\nEnter Bday --&gt\; August 
- 2\n\nEnter Another[y/n] : n\n\n************************\n*    printBirthda
- ys    *\n************************\n\nEnter name = John Wayne\nEnter Bday =
-  March 25\n\nEnter name = Jimmy Stewart\nEnter Bday = November 14\n\nEnter
-  name = Clark Gable\nEnter Bday = August 2\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T012100Z
-UID:event-assignment-2534674
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:**********\nDirections\n**********\n\nAn English class in a sma
- ll rural school is reading Hamlet. The teacher assigns a book to each stud
- ent in the class. She has asked you to write a program that can help her k
- eep track of books assigned to each student. You decide the problem can be
-  decomposed into the following two classes: Book and Inventory. The Book c
- lass stores the name of a student and the assigned book number. The Invent
- ory class is a client of the Book class. It uses an array to store up to 2
- 0 books.\n\n**********\nBook class\n**********\n\nCreate a file named Book
- .java and add the following code.\n\npublic class Book\n{\n// instance var
- iables\n\n// constructors\n\n// accessor methods\n\n// toString method\n	\
- n}\n\nInstance Variables\n------------------\n\n* Declare a variable of ty
- pe String named studentName.\n\n* Declare a variable of type String named 
- bookNumber.\n\nConstructors\n------------\n\n* Implement a constructor whi
- ch allows a client to assign initial values to studentName and bookNumber.
- \n\nAccessor Methods\n----------------\n\n* Implement an accessor method f
- or each instance variable.\n\ntoString Method\n---------------\n\n* Implem
- ent a toString method.\n\nÂ \n\n***************\nInventory class\n********
- *******\n\nCreate a file named Inventory.java and add the following code.\
- n\nimport java.util.*\;\n\npublic class Inventory\n{\n// instance variable
- s\nprivate Book[] books\; // declare array variable\nprivate int numBooks\
- ; // logical size of array\n\n// constructor\npublic Inventory()\n{\nbooks
-  = new Book[20]\; // instantiate array with length 20\nnumBooks = 0\; // n
- o books added yet\n}\n\n/* This method allows a user to input up to 20 boo
- ks and stores them\nin the array books.\n*/\npublic void addBooks()\n{\nSc
- anner keyboard = new Scanner(System.in)\;\n\n}\n\n/* This method displays 
- the student name and book number for each\n* Book in the array.\n*/\npubli
- c void printBooks()\n{\n\n}\n\npublic static void main(String[] args)\n{\n
- Inventory app = new Inventory()\;\napp.addBooks()\;\napp.printBooks()\;\n}
- \n}\n\naddBooks Method\n---------------\n\n* Implement the method addBooks
- . This method allows a user to enter up to 20 books and stores them in the
-  array books.\n\nHere is the pseudocode for the method.\n\nloop while ANSW
- ER = "y"\noutput "Student Name -->"\ninput NAME\noutput "Book Number -->"\
- ninput NUMBER\n\nBOOKS[NUMBOOKS] = new Book(NAME\, NUMBER)\;\nNUMBOOKS = N
- UMBOOKS + 1\;\n\noutput "Enter another book[y/n]:"\ninput ANSWER\nend loop
- \n\nprintBooks Method\n-----------------\n\n* Implement the method printBo
- oks. This method displays the student name and book number for each Book i
- n the array.\n\n***********\nSource File\n***********\n\nBook.java\n\nInve
- ntory.java\n\n**********\nSample Run\n**********\n\n**********************
- **\n* addBooks *\n************************\nStudent Name -->John Wayne\nBo
- ok Number -->5\n\nEnter another book[y/n]: y\n\nStudent Name -->Jimmy Stew
- art\nBook Number -->19\n\nEnter another book[y/n]: y\n\nStudent Name -->Na
- talie Wood\nBook Number -->2\n\nEnter another book[y/n]: y\n\nStudent Name
-  -->Clint Eastwood\nBook Number -->15\n\nEnter another book[y/n]: n\n\n***
- *********************\n* printBooks *\n************************\nStudent N
- ame = John Wayne\nBook Number = 5\n\nStudent Name = Jimmy Stewart\nBook Nu
- mber = 19\n\nStudent Name = Natalie Wood\nBook Number = 2\n\nStudent Name 
- = Clint Eastwood\nBook Number = 15
-SUMMARY:Book Inventory [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534674
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>An English class in a 
- small rural school is reading Hamlet. The teacher assigns a book to each s
- tudent in the class. She has asked you to write a program that can help he
- r keep track of books assigned to each student. You decide the problem can
-  be decomposed into the following two classes: <strong>Book</strong> and <
- strong>Inventory</strong>. The Book class stores the name of a student and
-  the assigned book number. The Inventory class is a client of the Book cla
- ss. It uses an array to store up to 20 books.</p>\n<h1>Book class</h1>\n<p
- >Create a file named <strong>Book.java</strong> and add the following code
- .</p>\n<div id="csCode">\n<pre>public class Book\n{\n    // instance varia
- bles\n\n    // constructors\n\n    // accessor methods\n\n    // toString 
- method\n	\n}\n</pre>\n</div>\n<h3>Instance Variables</h3>\n<div id="csList
- ">\n<ol>\n<li>Declare a variable of type String named <strong>studentName<
- /strong>.</li>\n<li>Declare a variable of type String named <strong>bookNu
- mber</strong>.</li>\n</ol>\n</div>\n<h3>Constructors</h3>\n<div id="csList
- ">\n<ol start="3">\n<li>Implement a <strong>constructor</strong> which all
- ows a client to assign initial values to studentName and bookNumber.</li>\
- n</ol>\n</div>\n<h3>Accessor Methods</h3>\n<div id="csList">\n<ol start="4
- ">\n<li>Implement an <strong>accessor</strong> method for each instance va
- riable.</li>\n</ol>\n</div>\n<h3>toString Method</h3>\n<div id="csList">\n
- <ol start="5">\n<li>Implement a <strong>toString</strong> method.</li>\n</
- ol>\n</div>\n<p>&nbsp\;</p>\n<h1>Inventory class</h1>\n<p>Create a file na
- med <strong>Inventory.java</strong> and add the following code.</p>\n<div 
- id="csCode">\n<pre>import java.util.*\;\n\npublic class Inventory\n{\n    
- // instance variables\n    private Book[] books\;     // declare array var
- iable\n    private int numBooks\;     // logical size of array\n\n    // c
- onstructor\n    public Inventory()\n    {\n        books = new Book[20]\; 
-  // instantiate array with length 20\n        numBooks = 0\;          // n
- o books added yet\n    }\n\n    /* This method allows a user to input up t
- o 20 books and stores them\n       in the array books.\n     */\n    publi
- c void addBooks()\n    {\n        Scanner keyboard = new Scanner(System.in
- )\;\n\n\n    }\n\n    /* This method displays the student name and book nu
- mber for each \n     * Book in the array.\n     */\n    public void printB
- ooks()\n    {\n\n    }\n\n    public static void main(String[] args)\n    
- {\n        Inventory app = new Inventory()\;\n        app.addBooks()\;\n  
-       app.printBooks()\;\n    }\n}\n</pre>\n</div>\n<h3>addBooks Method</h
- 3>\n<div id="csList">\n<ol start="6">\n<li>Implement the method <strong>ad
- dBooks</strong>. This method allows a user to enter up to 20 books and sto
- res them in the array books.<br><br>Here is the pseudocode for the method.
- <br>\n<div id="csOutput">\n<pre>loop while ANSWER = "y"\n   output "Studen
- t Name --&gt\;"\n   input NAME\n   output "Book Number --&gt\;"\n   input 
- NUMBER\n\n   BOOKS[NUMBOOKS] = new Book(NAME\, NUMBER)\;\n   NUMBOOKS = NU
- MBOOKS + 1\;\n   \n   output "Enter another book[y/n]:"\n   input ANSWER\n
- end loop</pre>\n</div>\n</li>\n</ol>\n</div>\n<h3>printBooks Method</h3>\n
- <div id="csList">\n<ol start="7">\n<li>Implement the method <strong>printB
- ooks</strong>. This method displays the student name and book number for e
- ach Book in the array.</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>Book.
- java</p>\n<p>Inventory.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun
- ">\n<pre>************************\n*       addBooks       *\n*************
- ***********\nStudent Name --&gt\;John Wayne\nBook Number --&gt\;5\n\nEnter
-  another book[y/n]: y\n\nStudent Name --&gt\;Jimmy Stewart\nBook Number --
- &gt\;19\n\nEnter another book[y/n]: y\n\nStudent Name --&gt\;Natalie Wood\
- nBook Number --&gt\;2\n\nEnter another book[y/n]: y\n\nStudent Name --&gt\
- ;Clint Eastwood\nBook Number --&gt\;15\n\nEnter another book[y/n]: n\n\n**
- **********************\n*      printBooks      *\n************************
- \nStudent Name = John Wayne\nBook Number = 5\n\nStudent Name = Jimmy Stewa
- rt\nBook Number = 19\n\nStudent Name = Natalie Wood\nBook Number = 2\n\nSt
- udent Name = Clint Eastwood\nBook Number = 15\n</pre>\n</div>\n<p><br><br>
- <br></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220217T021500Z
-UID:event-assignment-2534672
-DTSTART;VALUE=DATE:20220125T232900
-DTEND;VALUE=DATE:20220125T235900
-DESCRIPTION:**********\nDirections\n**********\n\nIn this assignment you ar
- e going to implement two classes: Dog and Kennel. The Dog class stores inf
- ormation about a dog including the dog's name and breed. The Kennel class 
- is a client of the Dog class. It can store up to 5 Dog objects in an array
- .\n\n*********\nDog class\n*********\n\nCreate a file named Dog.java and a
- dd the following code.\n\npublic class Dog\n{\n// instance variables\n\n//
-  constructors\n\n// accessor methods\n\n// mutator methods\n	\n}\n\nInstan
- ce Variables\n------------------\n\n* Declare a variable of type String na
- med name.\n\n* Declare a variable of type String named breed.\n\nConstruct
- ors\n------------\n\n* Implement a default constructor.\n\n* Implement a s
- econd constructor which allows a client to assign initial values to name a
- nd breed.\n\nAccessor Methods\n----------------\n\n* Implement an accessor
-  method for each instance variable.\n\nMutator Methods\n---------------\n\
- n* Implement a mutator method for each instance variable.\n\nÂ \n\n*******
- *****\nKennel class\n************\n\nCreate a file named Kennel.java and a
- dd the following code.\n\nimport java.util.*\;\n\npublic class Kennel\n{\n
- // instance variable\nprivate Dog[] dogs\; // declare array variable\n\n//
-  constructor\npublic Kennel()\n{\ndogs = new Dog[5]\; // instantiate array
-  with length 5\n}\n\n/* This method allows a user input information about 
- 5 dogs and\n* stores this information in the array dogs.\n*/\npublic void 
- addDogs()\n{\nScanner keyboard = new Scanner(System.in)\;\n\n}\n\n/* This 
- method displays the name and breed for each Dog in the array.\n*/\npublic 
- void printDogs()\n{\n\n}\n\npublic static void main(String[] args)\n{\nKen
- nel app = new Kennel()\;\napp.addDogs()\;\napp.printDogs()\;\n}\n}\n\naddD
- ogs Method\n--------------\n\n* Implement the method addDogs. This method 
- allows a user to enter information for 5 dogs and store this information i
- n the array dogs.\n\nHere is the pseudocode for the method.\n\nloop I from
-  0 to 4\noutput "Enter dog name -->"\ninput NAME\noutput "Enter dog breed 
- -->"\ninput BREED\n\nDOGS[I] = new Dog(NAME\, BREED)\;\nend loop\n\nprintD
- ogs Method\n----------------\n\n* Implement the method printDogs. This met
- hod displays the name and breed for each dog in the array.\n\nHere is the 
- pseudocode for the method.\n\nloop I from 0 to 4\noutput DOGS[I].getName()
- \;\noutput DOGS[I].getBreed()\;\nend loop\n\n***********\nSource File\n***
- ********\n\nDog.java\n\nKennel.java\n\n**********\nSample Run\n**********\
- n\n************************\n* addDogs *\n************************\nEnter 
- dog name -->Maddie\nEnter dog breed -->Golden Retriever\n\nEnter dog name 
- -->Sam\nEnter dog breed -->Black Lab\n\nEnter dog name -->Mitzy\nEnter dog
-  breed -->Beagle\n\nEnter dog name -->Rex\nEnter dog breed -->German Shepe
- rd\n\nEnter dog name -->Sally\nEnter dog breed -->mix\n\n*****************
- *******\n* printDogs *\n************************\nDog name = Maddie\nDog b
- reed = Golden Retriever\n\nDog name = Sam\nDog breed = Black Lab\n\nDog na
- me = Mitzy\nDog breed = Beagle\n\nDog name = Rex\nDog breed = German Shepe
- rd\n\nDog name = Sally\nDog breed = mix\n\nÂ 
-SUMMARY:Kennel [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=01&year=2022#assignment_2534672
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>In this assignment you
-  are going to implement two classes: <strong>Dog</strong> and <strong>Kenn
- el</strong>. The Dog class stores information about a dog including the do
- g's name and breed. The Kennel class is a client of the Dog class. It can 
- store up to 5 Dog objects in an array.</p>\n<h1>Dog class</h1>\n<p>Create 
- a file named <strong>Dog.java</strong> and add the following code.</p>\n<d
- iv id="csCode">\n<pre>public class Dog\n{\n    // instance variables\n\n  
-   // constructors\n\n    // accessor methods\n\n    // mutator methods\n	\
- n}\n</pre>\n</div>\n<h3>Instance Variables</h3>\n<div id="csList">\n<ol>\n
- <li>Declare a variable of type String named <strong>name</strong>.</li>\n<
- li>Declare a variable of type String named <strong>breed</strong>.</li>\n<
- /ol>\n</div>\n<h3>Constructors</h3>\n<div id="csList">\n<ol start="3">\n<l
- i>Implement a <strong>default constructor</strong>.</li>\n<li>Implement a 
- <strong>second constructor</strong> which allows a client to assign initia
- l values to name and breed.</li>\n</ol>\n</div>\n<h3>Accessor Methods</h3>
- \n<div id="csList">\n<ol start="5">\n<li>Implement an <strong>accessor met
- hod</strong> for each instance variable.</li>\n</ol>\n</div>\n<h3>Mutator 
- Methods</h3>\n<div id="csList">\n<ol start="6">\n<li>Implement a <strong>m
- utator method</strong> for each instance variable.</li>\n</ol>\n</div>\n<p
- >&nbsp\;</p>\n<h1>Kennel class</h1>\n<p>Create a file named <strong>Kennel
- .java</strong> and add the following code.</p>\n<div id="csCode">\n<pre>im
- port java.util.*\;\n\npublic class Kennel\n{\n    // instance variable\n  
-   private Dog[] dogs\;     // declare array variable\n\n    // constructor
- \n    public Kennel()\n    {\n        dogs = new Dog[5]\;  // instantiate 
- array with length 5\n    }\n\n    /* This method allows a user input infor
- mation about 5 dogs and\n     * stores this information in the array dogs.
- \n     */\n    public void addDogs()\n    {\n        Scanner keyboard = ne
- w Scanner(System.in)\;\n\n\n    }\n\n    /* This method displays the name 
- and breed for each Dog in the array.\n     */\n    public void printDogs()
- \n    {\n\n    }\n\n    public static void main(String[] args)\n    {\n   
-      Kennel app = new Kennel()\;\n        app.addDogs()\;\n        app.pri
- ntDogs()\;\n    }\n}\n</pre>\n</div>\n<h3>addDogs Method</h3>\n<div id="cs
- List">\n<ol start="7">\n<li>Implement the method <strong>addDogs</strong>.
-  This method allows a user to enter information for 5 dogs and store this 
- information in the array dogs.<br><br>Here is the pseudocode for the metho
- d.<br>\n<div id="csOutput">\n<pre>loop I from 0 to 4\n   output "Enter dog
-  name --&gt\;"\n   input NAME\n   output "Enter dog breed --&gt\;"\n   inp
- ut BREED\n\n   DOGS[I] = new Dog(NAME\, BREED)\;\nend loop</pre>\n</div>\n
- </li>\n</ol>\n</div>\n<h3>printDogs Method</h3>\n<div id="csList">\n<ol st
- art="8">\n<li>Implement the method <strong>printDogs</strong>. This method
-  displays the name and breed for each dog in the array.<br><br>Here is the
-  pseudocode for the method.<br>\n<div id="csOutput">\n<pre>loop I from 0 t
- o 4\n   output DOGS[I].getName()\;\n   output DOGS[I].getBreed()\;\nend lo
- op</pre>\n</div>\n</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>Dog.java<
- /p>\n<p>Kennel.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre
- >************************\n*       addDogs        *\n*********************
- ***\nEnter dog name --&gt\;Maddie\nEnter dog breed --&gt\;Golden Retriever
- \n\nEnter dog name --&gt\;Sam\nEnter dog breed --&gt\;Black Lab\n\nEnter d
- og name --&gt\;Mitzy\nEnter dog breed --&gt\;Beagle\n\nEnter dog name --&g
- t\;Rex\nEnter dog breed --&gt\;German Sheperd\n\nEnter dog name --&gt\;Sal
- ly\nEnter dog breed --&gt\;mix\n\n************************\n*      printDo
- gs       *\n************************\nDog name = Maddie\nDog breed = Golde
- n Retriever\n\nDog name = Sam\nDog breed = Black Lab\n\nDog name = Mitzy\n
- Dog breed = Beagle\n\nDog name = Rex\nDog breed = German Sheperd\n\nDog na
- me = Sally\nDog breed = mix\n</pre>\n</div>\n<p><br><br></p>\n<p>&nbsp\;</
- p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220202T182800Z
 UID:event-assignment-2716122
 DTSTART;VALUE=DATE:20220126T232900
@@ -4822,7 +4305,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:8311297991019911497102116328011411110610199116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220225
 DTEND;TZID=America/Chicago:20220226
@@ -4830,7 +4313,7 @@ SUMMARY:Spacecraft Project [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:85110105116325132701111149910111532383267105114991171089711432771111161051111103284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220303
 DTEND;TZID=America/Chicago:20220304
@@ -4838,7 +4321,7 @@ SUMMARY:Unit 3 Forces & Circular Motion Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:8711497112112101114326710897115115328111710512210111532916580326711110911232839910532453283505093
 DTSTART;TZID=America/Chicago:20220227
 DTEND;TZID=America/Chicago:20220228
@@ -4846,7 +4329,7 @@ SUMMARY:Wrapper Class Quizes [AP Comp Sci - S22]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:79102102105991013265112112108105999711610511111032861051001011113291838485677993
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4854,7 +4337,7 @@ SUMMARY:Office Application Video [STUCO]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:787283328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4862,7 +4345,7 @@ SUMMARY:NHS Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4870,7 +4353,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T095100
 DTEND;TZID=America/Chicago:20220311T102100
@@ -4878,7 +4361,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T082000
 DTEND;TZID=America/Chicago:20220312T085000
@@ -4886,7 +4369,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220312T102500
 DTEND;TZID=America/Chicago:20220312T105500
@@ -4894,7 +4377,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:6879708432681019897116101
 DTSTART;TZID=America/Chicago:20220301T160000
 DTEND;TZID=America/Chicago:20220301T163000
@@ -4902,7 +4385,7 @@ SUMMARY:DOFT Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220224T141506Z
+DTSTAMP:20220225T073010Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220308T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
