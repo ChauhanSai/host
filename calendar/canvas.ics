@@ -6,343 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220301T211200Z
-UID:event-assignment-2537951
-DTSTART;VALUE=DATE:20220202T232900
-DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:
-SUMMARY:Topic 2 Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537951
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220120T185600Z
-UID:event-assignment-2716264
-DTSTART;VALUE=DATE:20220202T232900
-DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:
-SUMMARY:2/2 - Water Bottle Wednesday  [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2716264
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220227T152800Z
-UID:event-assignment-override-241611
-DTSTART;VALUE=DATE:20220202T232900
-DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:*******\nGrading\n*******\n\nScores are determined by the numbe
- r of methods completed according to the table below. Methods can be comple
- ted in any order. Credit for each method will be earned if the method work
- s correctly and if the student can adequately explain how the method works
- . Students who complete less than two methods must come in for corrections
- .\n\nMethods Complete\n\nScore\n\n2\n\n70\n\n3\n\n80\n\n4\n\n90\n\n5\n\n10
- 0\n\n**********\nDirections\n**********\n\nOne of the drawbacks of an arra
- y is that you are required to give it a size when you instantiate it. To a
- lleviate this problem we are going to write a class named MyArray that wor
- ks like an array in every way but clients do not have to give it a size.\n
- \nThis is accomplished by defining an array within the class with an initi
- al size. When the array becomes full the data from the array is copied int
- o a new array that is larger than the original array. The original array i
- s then removed by having the array variable reference the new array.\n\n[]
-  (https://lisdtx.instructure.com/courses/202975/files/19785509/preview)\n\
- nTo simplify the coding\, MyArray will be limited to integer data.\n\nÂ \n
- \nCopy the following code into a file named MyArray.java\n\npublic class M
- yArray{\n// constants\nprivate final int INITIAL_LENGTH = 5\; // initial l
- ength of array\n\n// instance variables\nprivate int[] array\;\nprivate in
- t numElements\; // logical size of array\n\n// constructor\npublic MyArray
- (){\narray = new int[INITIAL_LENGTH]\; // instaniate array\nnumElements = 
- 0\;\n}\n\n/** postcondition: value has been appended to the end of\n* arra
- y. numElements has been incremented by one.\n* @param value the value to b
- e added to array\n*/\npublic void add(int value){\n\n}\n\n/** postconditio
- n: value has been inserted into array at position\n* index. numElements ha
- s been incremented by one.\n* by one.\n* @param index position to insert v
- alue\n* @param value the value to be inserted\n*/\npublic void add(int ind
- ex\, int value){\n\n}\n\n/** postcondition: the value at index has been re
- moved from\n* array. numElements has been decremented\n* by one.\n* @param
-  index position of element to be removed\n*/\npublic int remove(int index)
- {\n\n}\n\n/** @return the value at index\n* @param index position of eleme
- nt to be returned\n*/\npublic int get(int index){\n\n}\n\n/** postconditio
- n: array's size has been increased by one\n*/\npublic void resize(){\n\n}\
- n	\n/** @return logical size of array(numElements)\n*/\npublic int size(){
- \nreturn numElements\;\n}\n\n/** @return a string representation of array\
- n*/\npublic String toString(){\nString str=""\;\n\nfor(int i=0\; i < numEl
- ements\; i++)\n{\nstr+="["+i+"\,"+array[i]+"]\n"\;\n}\nreturn str\;\n}\n}\
- n\nCopy the following code into a file named MyArrayTester.java\n\npublic 
- class MyArrayTester{\n\npublic static void main(String[] args){\n// instan
- tiate MyArray object\nMyArray list = new MyArray()\;\n\nprintTitle("Test a
- dd method (append)")\;\nlist.add(10)\;\nlist.add(20)\;\nlist.add(30)\;\nSy
- stem.out.println(list)\;\n\nprintTitle("Test add method (insert)")\;\nlist
- .add(0\, 40)\;\nlist.add(2\, 50)\;\nlist.add(4\, 60)\;\nSystem.out.println
- (list)\;\n\nprintTitle("Test remove method")\;\nlist.remove(0)\;\nSystem.o
- ut.println(list)\;\nprintTitle("Test remove method")\;\nlist.remove(4)\;\n
- System.out.println(list)\;\n\nprintTitle("Test resize method")\;\nfor(int 
- i=1\; i <= 10\; i++){\nlist.add(i* 100)\;\n}\nSystem.out.println(list)\;\n
- \nprintTitle("Test size and get methods")\;\nfor(int i=0\; i < list.size()
- \; i++){\nSystem.out.println(list.get(i))\;\n}\n}\n\npublic static void pr
- intTitle(String message){\nint len = 30 - message.length()\;\nint h = len/
- 2\;\nString sp = ""\;\nfor(int i=0\; i < h\; i++){\nsp += " "\;\n}\nSystem
- .out.println("******************************")\;\nSystem.out.println(sp + 
- message)\;\nSystem.out.println("******************************")\;\n}\n}\n
- \n*************\nModifications\n*************\n\n* Complete the first add(
- append) method. This method appends a value to the end of the array. If th
- e array is full it calls resize to increase the size of the array by one. 
- Here is the pseudocode for the method.\n\narray[NUMELEMENTS] = VALUE\nNUME
- LEMENTS = NUMELEMENTS + 1\nif NUMELEMENTS = ARRAY.LENGTH then\nresize()\ne
- nd if\n\n* Complete the second add(insert) method. An insert into the arra
- y is accomplished by moving every element below the insert point down one 
- and then inserting the new value into the array at the vacant position. If
-  the array is full it calls resize to increase the size of the array by on
- e. For example\, the diagram below shows the process used to insert a valu
- e of 100 into an array at index 3.\n\n[] (https://lisdtx.instructure.com/c
- ourses/202975/files/19785514/preview)\n\nHere is the pseudocode for the me
- thod.\n\nif INDEX >=0 AND INDEX < NUMELEMENTS then\nloop I down from NUMEL
- EMENTS - 1 to INDEX\nARRAY[I + 1] = ARRAY[I]\nend loop\nARRAY[INDEX] = VAL
- UE\nNUMELEMENTS = NUMELEMENTS + 1\nif NUMELEMENTS = ARRAY.LENGTH then\nres
- ize()\nend if\nelse if INDEX < ARRAY.LENGTH then\nadd(VALUE)\nelse\nthrow 
- new java.lang.ArrayIndexOutOfBoundsException(INDEX)\nend if\n\nThe line of
-  code throw new java.lang.ArrayIndexOutOfBoundsException generates a run-t
- ime error message that indicates that the variable index was outside the b
- ounds of the array.\n\nNote: the use of two add methods is an example of p
- olymorphism.\n\n* Complete method remove. The removal of an item from an a
- rray is accomplished by moving each element below the removal point up one
- . For example\, the diagram below shows the process used to remove a value
-  from an array at index 3.\n\n[MyArray3.png] (https://lisdtx.instructure.c
- om/courses/202975/files/19785521/preview)\n\nHere is the pseudocode for th
- e method.\n\nITEM = 0\nif INDEX >= 0 AND INDEX < NUMELEMENTS then\nITEM = 
- ARRAY[INDEX]\nloop I from INDEX TO NUMELEMENTS - 1\nARRAY[I] = ARRAY[I+1]\
- nend loop\nNUMELEMENTS = NUMELEMENTS - 1\nreturn ITEM\nelse\nthrow new jav
- a.lang.ArrayIndexOutOfBoundsException(INDEX)\;\nend if\n\n* Complete metho
- d get. This method retrieves the element at index. A check is made to veri
- fy that index is in the bounds of the array. Here is the pseudocode for th
- e method.\n\nif INDEX >= 0 AND INDEX < ARRAY.LENGTH then\nreturn ARRAY[IND
- EX]\nelse\nthrow new java.lang.ArrayIndexOutOfBoundsException(INDEX)\;\nen
- d if\n\n* Complete method resize. This method creates a new array one size
-  larger than array. It then copies all of the data from array into the new
-  array and assigns the new array to the array variable causing the origina
- l array to be removed. Here is the pseudocode for the method.\n\nint[] NEW
- ARRAY = new int[ARRAY.LENGTH + 1]\nloop I from 0 to ARRAY.LENGTH - 1\nNEWA
- RRAY[I] = ARRAY[I]\;\nend loop\nARRAY = NEWARRAY\n\nNote: resizing the arr
- ay by one is not very efficient. Each time resize is called all of the dat
- a from the original array is copied into the new array which can be an exp
- ensive operation in terms of time if the array is large. A better approach
-  would by to resize the array by a larger value so that the new array is n
- ot created as often. It was resized by one in our class to make testing ea
- sier.\n\n***********\nSource File\n***********\n\nMyArray.java\n\nMyArrayT
- ester.java\n\n**********\nSample Run\n**********\n\n**********************
- ********\nTest add method (append)\n******************************\n[0\,10
- ]\n[1\,20]\n[2\,30]\n\n******************************\nTest add method (in
- sert)\n******************************\n[0\,40]\n[1\,10]\n[2\,50]\n[3\,20]\
- n[4\,60]\n[5\,30]\n\n******************************\nTest remove method\n*
- *****************************\n[0\,10]\n[1\,50]\n[2\,20]\n[3\,60]\n[4\,30]
- \n\n******************************\nTest remove method\n******************
- ************\n[0\,10]\n[1\,50]\n[2\,20]\n[3\,60]\n\n**********************
- ********\nTest resize method\n******************************\n[0\,10]\n[1\
- ,50]\n[2\,20]\n[3\,60]\n[4\,100]\n[5\,200]\n[6\,300]\n[7\,400]\n[8\,500]\n
- [9\,600]\n[10\,700]\n[11\,800]\n[12\,900]\n[13\,1000]\n\n*****************
- *************\nTest size and get methods\n******************************\n
- 10\n50\n20\n60\n100\n200\n300\n400\n500\n600\n700\n800\n900\n1000\n\nÂ 
-SUMMARY:MyArray - Major Lab (04-) [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534686
-X-ALT-DESC;FMTTYPE=text/html:<h1>Grading</h1>\n<p style="text-align: left\;
- ">Scores are determined by the number of methods completed according to th
- e table below. Methods can be completed in any order. Credit for each meth
- od will be earned if the method works correctly and if the student can ade
- quately explain how the method works. Students who complete less than two 
- methods must come in for corrections.</p>\n<table style="border-collapse: 
- collapse\; width: 27.5684%\; height: 140px\;" border="1">\n<tbody>\n<tr st
- yle="height: 28px\;">\n<td style="width: 73.9459%\; height: 28px\; text-al
- ign: center\;"><strong>Methods Complete</strong></td>\n<td style="width: 2
- 5.9969%\; text-align: center\; height: 28px\;"><strong>Score</strong></td>
- \n</tr>\n<tr style="height: 28px\;">\n<td style="width: 73.9459%\; height:
-  28px\; text-align: center\;">2</td>\n<td style="width: 25.9969%\; text-al
- ign: center\; height: 28px\;">70</td>\n</tr>\n<tr style="height: 28px\;">\
- n<td style="width: 73.9459%\; height: 28px\; text-align: center\;">3</td>\
- n<td style="width: 25.9969%\; text-align: center\; height: 28px\;">80</td>
- \n</tr>\n<tr style="height: 28px\;">\n<td style="width: 73.9459%\; height:
-  28px\; text-align: center\;">4</td>\n<td style="width: 25.9969%\; text-al
- ign: center\; height: 28px\;">90</td>\n</tr>\n<tr style="height: 28px\;">\
- n<td style="width: 73.9459%\; height: 28px\; text-align: center\;">5</td>\
- n<td style="width: 25.9969%\; text-align: center\; height: 28px\;">100</td
- >\n</tr>\n</tbody>\n</table>\n<h1>Directions</h1>\n<p>One of the drawbacks
-  of an array is that you are required to give it a size when you instantia
- te it. To alleviate this problem we are going to write a class named <stro
- ng>MyArray</strong> that works like an array in every way but clients do n
- ot have to give it a size.</p>\n<p>This is accomplished by defining an arr
- ay within the class with an initial size. When the array becomes full the 
- data from the array is copied into a new array that is larger than the ori
- ginal array. The original array is then removed by having the array variab
- le reference the new array.</p>\n<div><img style="display: block\; margin-
- left: auto\; margin-right: auto\;" role="presentation" src="https://lisdtx
- .instructure.com/courses/202975/files/19785509/preview" alt="" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/202975/files/1978550
- 9" data-api-returntype="File"></div>\n<p>To simplify the coding\, MyArray 
- will be limited to integer data.</p>\n<p>&nbsp\;</p>\n<p>Copy the followin
- g code into a file named <strong>MyArray.java</strong></p>\n<div id="csCod
- e">\n<pre>public class MyArray{\n    // constants\n    private final int I
- NITIAL_LENGTH = 5\;  // initial length of array\n\n    // instance variabl
- es\n    private int[] array\;\n    private int numElements\;  // logical s
- ize of array\n\n    // constructor\n    public MyArray(){\n        array =
-  new int[INITIAL_LENGTH]\;  // instaniate array\n        numElements = 0\;
- \n    }\n\n    /** postcondition: value has been appended to the end of\n 
-     *    array. numElements has been incremented by one.\n     *  @param v
- alue the value to be added to array\n     */\n    public void add(int valu
- e){\n\n    }\n\n    /** postcondition: value has been inserted into array 
- at position\n     *    index. numElements has been incremented by one.\n  
-    *    by one.\n     *  @param index position to insert value\n     *  @p
- aram value the value to be inserted\n     */\n    public void add(int inde
- x\, int value){\n\n\n    }\n\n    /** postcondition: the value at index ha
- s been removed from\n     *    array. numElements has been decremented\n  
-    *    by one.\n     *  @param index position of element to be removed\n 
-     */\n    public int remove(int index){\n\n    }\n\n    /** @return the 
- value at index\n     *  @param index position of element to be returned\n 
-     */\n    public int get(int index){\n\n    }\n\n    /** postcondition: 
- array's size has been increased by one\n     */\n    public void resize(){
- \n\n    }\n	\n    /** @return logical size of array(numElements)\n     */\
- n    public int size(){\n        return numElements\;\n    }\n\n    /** @r
- eturn a string representation of array\n     */\n    public String toStrin
- g(){\n        String str=""\;\n\n        for(int i=0\; i &lt\; numElements
- \; i++)\n        {\n            str+="["+i+"\,"+array[i]+"]\n"\;\n        
- }\n        return str\;\n    }\n}  \n  </pre>\n</div>\n<p>Copy the followi
- ng code into a file named MyArrayTester.java</p>\n<div id="csCode">\n<pre>
- public class MyArrayTester{\n    \n    public static void main(String[] ar
- gs){\n        // instantiate MyArray object\n        MyArray list = new My
- Array()\;\n\n        printTitle("Test add method (append)")\;\n        lis
- t.add(10)\;\n        list.add(20)\;\n        list.add(30)\;\n        Syste
- m.out.println(list)\;\n\n        printTitle("Test add method (insert)")\;\
- n        list.add(0\, 40)\;\n        list.add(2\, 50)\;\n        list.add(
- 4\, 60)\;\n        System.out.println(list)\;\n\n        printTitle("Test 
- remove method")\;\n        list.remove(0)\;\n        System.out.println(li
- st)\;\n        printTitle("Test remove method")\;\n        list.remove(4)\
- ;\n        System.out.println(list)\;\n\n        printTitle("Test resize m
- ethod")\;\n        for(int i=1\; i &lt\;= 10\; i++){\n           list.add(
- i* 100)\;\n        }\n        System.out.println(list)\;\n\n        printT
- itle("Test size and get methods")\;\n        for(int i=0\; i &lt\; list.si
- ze()\; i++){\n           System.out.println(list.get(i))\;\n        }\n   
-  }\n\n    public static void printTitle(String message){\n        int len 
- = 30 - message.length()\;\n        int h = len/2\;\n        String sp = ""
- \;\n        for(int i=0\; i &lt\; h\; i++){\n            sp += " "\;\n    
-     }\n        System.out.println("******************************")\;\n   
-      System.out.println(sp + message)\;\n        System.out.println("*****
- *************************")\;\n    }\n}  \n  </pre>\n</div>\n<h1>Modificat
- ions</h1>\n<div id="csList">\n<ol>\n<li>Complete the first<strong> add</st
- rong>(append) method. This method appends a value to the end of the array.
-  If the array is full it calls resize to increase the size of the array by
-  one. Here is the pseudocode for the method.\n<div id="csOutput" style="wi
- dth: 575px\;">\n<pre>array[NUMELEMENTS] = VALUE\nNUMELEMENTS = NUMELEMENTS
-  + 1\nif NUMELEMENTS = ARRAY.LENGTH then\n   resize()\nend if\n</pre>\n</d
- iv>\n</li>\n</ol>\n</div>\n<div id="csList">\n<ol start="2">\n<li>Complete
-  the second<strong> add</strong>(insert) method. An insert into the array 
- is accomplished by moving every element below the insert point down one an
- d then inserting the new value into the array at the vacant position. If t
- he array is full it calls resize to increase the size of the array by one.
-  For example\, the diagram below shows the process used to insert a value 
- of 100 into an array at index 3.<br><br><img style="display: block\; margi
- n-left: auto\; margin-right: auto\;" role="presentation" src="https://lisd
- tx.instructure.com/courses/202975/files/19785514/preview" alt="" data-api-
- endpoint="https://lisdtx.instructure.com/api/v1/courses/202975/files/19785
- 514" data-api-returntype="File"><br><br>Here is the pseudocode for the met
- hod.\n<div id="csOutput" style="width: 575px\;">\n<pre>if INDEX &gt\;=0 AN
- D INDEX &lt\; NUMELEMENTS then\n   loop I down from NUMELEMENTS - 1 to IND
- EX\n      ARRAY[I + 1] = ARRAY[I]\n   end loop\n   ARRAY[INDEX] = VALUE\n 
-   NUMELEMENTS = NUMELEMENTS + 1\n   if NUMELEMENTS = ARRAY.LENGTH then\n  
-     resize()\n   end if\nelse if INDEX &lt\; ARRAY.LENGTH then\n   add(VAL
- UE)\nelse\n   throw new java.lang.ArrayIndexOutOfBoundsException(INDEX)\ne
- nd if\n</pre>\n</div>\n<p>The line of code <strong>throw new java.lang.Arr
- ayIndexOutOfBoundsException</strong> generates a run-time error message th
- at indicates that the variable index was outside the bounds of the array.<
- /p>\n<div id="csNote"><strong>Note:</strong> the use of two add methods is
-  an example of <strong>polymorphism.</strong></div>\n</li>\n</ol>\n</div>\
- n<div id="csList">\n<ol start="3">\n<li>Complete method<strong> remove</st
- rong>. The removal of an item from an array is accomplished by moving each
-  element below the removal point up one. For example\, the diagram below s
- hows the process used to remove a value from an array at index 3. <br><br>
- <img style="display: block\; margin-left: auto\; margin-right: auto\;" src
- ="https://lisdtx.instructure.com/courses/202975/files/19785521/preview" al
- t="MyArray3.png" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
- courses/202975/files/19785521" data-api-returntype="File"><br><br>Here is 
- the pseudocode for the method.\n<div id="csOutput" style="width: 575px\;">
- \n<pre>ITEM = 0\nif INDEX &gt\;= 0 AND INDEX &lt\; NUMELEMENTS then\n   IT
- EM = ARRAY[INDEX]\n   loop I from INDEX TO NUMELEMENTS - 1\n      ARRAY[I]
-  = ARRAY[I+1]\n   end loop\n   NUMELEMENTS = NUMELEMENTS - 1\n   return IT
- EM\nelse\n   throw new java.lang.ArrayIndexOutOfBoundsException(INDEX)\;\n
- end if\n</pre>\n</div>\n</li>\n</ol>\n</div>\n<div id="csList">\n<ol start
- ="4">\n<li>Complete method <strong> get</strong>. This method retrieves th
- e element at index. A check is made to verify that index is in the bounds 
- of the array. Here is the pseudocode for the method.\n<div id="csOutput" s
- tyle="width: 575px\;">\n<pre>if INDEX &gt\;= 0 AND INDEX &lt\; ARRAY.LENGT
- H then\n   return ARRAY[INDEX]\nelse\n   throw new java.lang.ArrayIndexOut
- OfBoundsException(INDEX)\;\nend if\n</pre>\n</div>\n</li>\n</ol>\n</div>\n
- <div id="csList">\n<ol start="5">\n<li>Complete method <strong> resize</st
- rong>. This method creates a new array one size larger than array. It then
-  copies all of the data from array into the new array and assigns the new 
- array to the array variable causing the original array to be removed. Here
-  is the pseudocode for the method.\n<div id="csOutput" style="width: 575px
- \;">\n<pre>int[] NEWARRAY = new int[ARRAY.LENGTH + 1]\nloop I from 0 to AR
- RAY.LENGTH - 1\n   NEWARRAY[I] = ARRAY[I]\;\nend loop\nARRAY = NEWARRAY\n<
- /pre>\n</div>\n<div id="csNote"><strong>Note:</strong> resizing the array 
- by one is not very efficient. Each time resize is called all of the data f
- rom the original array is copied into the new array which can be an expens
- ive operation in terms of time if the array is large. A better approach wo
- uld by to resize the array by a larger value so that the new array is not 
- created as often. It was resized by one in our class to make testing easie
- r.</div>\n</li>\n</ol>\n</div>\n<h1>Source File</h1>\n<p>MyArray.java</p>\
- n<p>MyArrayTester.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<
- pre>******************************\n   Test add method (append)\n*********
- *********************\n[0\,10]\n[1\,20]\n[2\,30]\n\n**********************
- ********\n   Test add method (insert)\n******************************\n[0\
- ,40]\n[1\,10]\n[2\,50]\n[3\,20]\n[4\,60]\n[5\,30]\n\n*********************
- *********\n      Test remove method\n******************************\n[0\,1
- 0]\n[1\,50]\n[2\,20]\n[3\,60]\n[4\,30]\n\n******************************\n
-       Test remove method\n******************************\n[0\,10]\n[1\,50]
- \n[2\,20]\n[3\,60]\n\n******************************\n      Test resize me
- thod\n******************************\n[0\,10]\n[1\,50]\n[2\,20]\n[3\,60]\n
- [4\,100]\n[5\,200]\n[6\,300]\n[7\,400]\n[8\,500]\n[9\,600]\n[10\,700]\n[11
- \,800]\n[12\,900]\n[13\,1000]\n\n******************************\n  Test si
- ze and get methods\n******************************\n10\n50\n20\n60\n100\n2
- 00\n300\n400\n500\n600\n700\n800\n900\n1000\n\n\n</pre>\n</div>\n<p>&nbsp\
- ;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220202T181900Z
-UID:event-assignment-2647396
-DTSTART;VALUE=DATE:20220202T232900
-DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:We will be conducting [this experiment] (https://lisdtx.instruc
- ture.com/courses/172858/files/20146771?wrap=1) on Wednesday February 2\, d
- uring class.Â 
-SUMMARY:Projectile Motion Lab [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2647396
-X-ALT-DESC;FMTTYPE=text/html:<p>We will be conducting <a class="instructure
- _file_link instructure_scribd_file inline_disabled" title="Projectile Moti
- on Lab.pdf" href="https://lisdtx.instructure.com/courses/172858/files/2014
- 6771?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructure
- .com/api/v1/courses/172858/files/20146771" data-api-returntype="File">this
-  experiment</a> on Wednesday February 2\, during class.&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220130T230500Z
-UID:event-assignment-2647398
-DTSTART;VALUE=DATE:20220202T232900
-DTEND;VALUE=DATE:20220202T235900
-DESCRIPTION:Here are the notes and problems for [Relative Motion] (https://
- lisdtx.instructure.com/courses/172858/files/20146781?wrap=1). We will work
-  some of this in class\, and the rest is homework (submit here).
-SUMMARY:Relative Motion [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2647398
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes and problems for <a clas
- s="instructure_file_link instructure_scribd_file inline_disabled" title="R
- elative Motion.pdf" href="https://lisdtx.instructure.com/courses/172858/fi
- les/20146781?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.ins
- tructure.com/api/v1/courses/172858/files/20146781" data-api-returntype="Fi
- le">Relative Motion</a>. We will work some of this in class\, and the rest
-  is homework (submit here).</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220130T230900Z
 UID:event-assignment-2647395
 DTSTART;VALUE=DATE:20220203T232900
@@ -4373,7 +4036,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:8710511010011111911532841011151163291661171153273110102111327710310911632734571826572657793
 DTSTART;TZID=America/Chicago:20220303
 DTEND;TZID=America/Chicago:20220304
@@ -4381,7 +4044,7 @@ SUMMARY:Windows Test [Bus Info Mgmt I-GRAHAM]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:787283328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4389,7 +4052,7 @@ SUMMARY:NHS Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:761011111153280104111116111
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4397,7 +4060,7 @@ SUMMARY:Leos Photo
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -4405,7 +4068,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -4413,7 +4076,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -4421,7 +4084,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -4429,7 +4092,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -4437,7 +4100,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -4445,7 +4108,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -4453,7 +4116,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -4461,7 +4124,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:7297119107102101115116
 DTSTART;TZID=America/Chicago:20220305T130000
 DTEND;TZID=America/Chicago:20220305T133000
@@ -4469,7 +4132,7 @@ SUMMARY:Hawkfest
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T082000
 DTEND;TZID=America/Chicago:20220310T085000
@@ -4477,7 +4140,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T095100
 DTEND;TZID=America/Chicago:20220310T102100
@@ -4485,7 +4148,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4493,7 +4156,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T102500
 DTEND;TZID=America/Chicago:20220311T105500
@@ -4501,7 +4164,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -4509,7 +4172,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T192443Z
+DTSTAMP:20220305T073007Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
