@@ -6,78 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220130T230900Z
-UID:event-assignment-2647395
-DTSTART;VALUE=DATE:20220203T232900
-DTEND;VALUE=DATE:20220203T235900
-DESCRIPTION:Here are More Practice for Projectile Motion [page 1] (https://
- lisdtx.instructure.com/courses/172858/files/20146768?wrap=1) and [page 2] 
- (https://lisdtx.instructure.com/courses/172858/files/20146772?wrap=1). We 
- will work some of them in class\, and the first 5 problems on each page ar
- e homework to be submitted here.
-SUMMARY:More Practice for Projectile Motion  [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2647395
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are More Practice for Projectile Motio
- n <a class="instructure_file_link instructure_scribd_file inline_disabled"
-  title="Horizontal Release Projectile Problems.pdf" href="https://lisdtx.i
- nstructure.com/courses/172858/files/20146768?wrap=1" target="_blank" data-
- api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172858/files/2
- 0146768" data-api-returntype="File">page 1</a> and <a class="instructure_f
- ile_link instructure_scribd_file inline_disabled" title="Angled Release Pr
- ojectile Problems.pdf" href="https://lisdtx.instructure.com/courses/172858
- /files/20146772?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.
- instructure.com/api/v1/courses/172858/files/20146772" data-api-returntype=
- "File">page 2</a>. We will work some of them in class\, and the first 5 pr
- oblems on each page are homework to be submitted here.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220217T183900Z
-UID:event-assignment-2720035
-DTSTART;VALUE=DATE:20220203T232900
-DTEND;VALUE=DATE:20220203T235900
-DESCRIPTION:[Project - Stop Cyberbullying.pdf] (https://lisdtx.instructure.
- com/courses/190905/files/20707671/download?wrap=1)\n\n7-10 Slides or more.
- Â  1st slide being the intro and members.Â \n\n3-5 Bullets per slide.Â  I 
- need as much information as possible! Use pics and graphics.Â  Be creative
- !Â \n\n[Project - Protect Your Computer.pdf] (https://lisdtx.instructure.c
- om/courses/190905/files/20910908?wrap=1)Â \n\n7-10 Slides or more.Â  1st s
- lide being the intro and members.\n\n3-5 Bullets per slide.Â  I need as mu
- ch information as possible! Use pics and graphics.Â  Be creative!\n\n[Proj
- ect - Investigating E-mail Scams.pdf] (https://lisdtx.instructure.com/cour
- ses/190905/files/20910993?wrap=1)Â \n\n7-10 Slides or more.Â  1st slide be
- ing the intro and members.\n\n3-5 Bullets per slide.Â  I need as much info
- rmation as possible! Use pics and graphics.Â  Be creative!
-SUMMARY:Stop CyberBullying [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=02&year=2022#assignment_2720035
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Project - Stop Cyberbullying.pdf" href="https://lisdt
- x.instructure.com/courses/190905/files/20707671/download?wrap=1" data-api-
- endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/20707
- 671" data-api-returntype="File">Project - Stop Cyberbullying.pdf</a></p>\n
- <p>7-10 Slides or more.&nbsp\; 1st slide being the intro and members.&nbsp
- \;</p>\n<p>3-5 Bullets per slide.&nbsp\; I need as much information as pos
- sible! Use pics and graphics.&nbsp\; Be creative!&nbsp\;</p>\n<p><a class=
- "instructure_file_link instructure_scribd_file inline_disabled" title="Pro
- ject - Protect Your Computer.pdf" href="https://lisdtx.instructure.com/cou
- rses/190905/files/20910908?wrap=1" target="_blank" data-canvas-previewable
- ="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
- 190905/files/20910908" data-api-returntype="File">Project - Protect Your C
- omputer.pdf</a>&nbsp\;</p>\n<p>7-10 Slides or more.&nbsp\; 1st slide being
-  the intro and members.</p>\n<p>3-5 Bullets per slide.&nbsp\; I need as mu
- ch information as possible! Use pics and graphics.&nbsp\; Be creative!</p>
- \n<p><a class="instructure_file_link instructure_scribd_file inline_disabl
- ed" title="Project - Investigating E-mail Scams.pdf" href="https://lisdtx.
- instructure.com/courses/190905/files/20910993?wrap=1" target="_blank" data
- -canvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.
- com/api/v1/courses/190905/files/20910993" data-api-returntype="File">Proje
- ct - Investigating E-mail Scams.pdf</a>&nbsp\;</p>\n<p>7-10 Slides or more
- .&nbsp\; 1st slide being the intro and members.</p>\n<p>3-5 Bullets per sl
- ide.&nbsp\; I need as much information as possible! Use pics and graphics.
- &nbsp\; Be creative!</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220205T013000Z
 UID:event-assignment-2499239
 DTSTART;VALUE=DATE:20220204T232900
@@ -2219,17 +2147,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  lities &amp\; Systems Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220207T031200Z
-UID:event-calendar-event-520475
-DTSTART;VALUE=DATE:20220307
-DTEND;VALUE=DATE:20220308
-DESCRIPTION:
-SUMMARY:Midterm Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520475
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220225T150900Z
 UID:event-assignment-2537924
 DTSTART;VALUE=DATE:20220307T232900
@@ -2847,6 +2764,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Please open yesterday's notes.&nbsp\; We wi
  verses.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220306T020400Z
+UID:event-assignment-2776016
+DTSTART;VALUE=DATE:20220325T232900
+DTEND;VALUE=DATE:20220325T235900
+SUMMARY:Arbor Creek Color Run [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2776016
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205500Z
 UID:event-calendar-event-520521
 DTSTART;VALUE=DATE:20220328
@@ -2973,6 +2899,23 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=03&year=2022#assignment_2759019
 X-ALT-DESC;FMTTYPE=text/html:<p><span>Wash away the cowboys - wear beach at
  tire</span></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220306T014400Z
+UID:event-assignment-2776012
+DTSTART;VALUE=DATE:20220331T232900
+DTEND;VALUE=DATE:20220331T235900
+DESCRIPTION:Submit a picture of your donations - the point amounts are in t
+ he flyer attached.\n\n[Diaper Drive Flyer] (https://lisdtx.instructure.com
+ /courses/155649/files/21723696?wrap=1)
+SUMMARY:Diaper and Wipe Drive [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2776012
+X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your donations - the po
+ int amounts are in the flyer attached.</p>\n<p><a title="Link" href="https
+ ://lisdtx.instructure.com/courses/155649/files/21723696?wrap=1" target="_b
+ lank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/155
+ 649/files/21723696" data-api-returntype="File">Diaper Drive Flyer</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
@@ -4036,7 +3979,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:8710511010011111911532841011151163291661171153273110102111327710310911632734571826572657793
 DTSTART;TZID=America/Chicago:20220303
 DTEND;TZID=America/Chicago:20220304
@@ -4044,7 +3987,7 @@ SUMMARY:Windows Test [Bus Info Mgmt I-GRAHAM]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:787283328210110310511511611497116105111110
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4052,7 +3995,7 @@ SUMMARY:NHS Registration
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:761011111153280104111116111
 DTSTART;TZID=America/Chicago:20220304
 DTEND;TZID=America/Chicago:20220305
@@ -4060,7 +4003,7 @@ SUMMARY:Leos Photo
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -4068,7 +4011,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -4076,7 +4019,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -4084,7 +4027,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -4092,7 +4035,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -4100,7 +4043,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -4108,7 +4051,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -4116,7 +4059,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -4124,7 +4067,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:7297119107102101115116
 DTSTART;TZID=America/Chicago:20220305T130000
 DTEND;TZID=America/Chicago:20220305T133000
@@ -4132,7 +4075,7 @@ SUMMARY:Hawkfest
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T082000
 DTEND;TZID=America/Chicago:20220310T085000
@@ -4140,7 +4083,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T095100
 DTEND;TZID=America/Chicago:20220310T102100
@@ -4148,7 +4091,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4156,7 +4099,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T102500
 DTEND;TZID=America/Chicago:20220311T105500
@@ -4164,7 +4107,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -4172,7 +4115,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220305T073007Z
+DTSTAMP:20220306T073007Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
