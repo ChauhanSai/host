@@ -6,48 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220207T030800Z
-UID:event-calendar-event-520526
-DTSTART;VALUE=DATE:20220207
-DTEND;VALUE=DATE:20220208
-DESCRIPTION:[3.1-3.2 Solve Systems by table\, graph and math Blank Notes.pd
- f] (https://lisdtx.instructure.com/courses/172585/files/19814608/preview)\
- n\nHW: [3.1-3.2 and Systems Apps.pdf] (https://lisdtx.instructure.com/cour
- ses/172585/files/19814612/download?wrap=1)\n\nÂ 
-SUMMARY:3.1 - 3.2 Notes: Systems [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520526
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.1-3.2 Solve Systems by table\, graph and math Blank
-  Notes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981
- 4608/preview" target="_blank" data-api-endpoint="https://lisdtx.instructur
- e.com/api/v1/courses/172585/files/19814608" data-api-returntype="File">3.1
- -3.2 Solve Systems by table\, graph and math Blank Notes.pdf</a></p>\n<p>H
- W: <a id="6668117" class="instructure_file_link instructure_scribd_file" h
- ref="https://lisdtx.instructure.com/courses/172585/files/19814612/download
- ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
- "https://lisdtx.instructure.com/api/v1/courses/172585/files/19814612" data
- -api-returntype="File">3.1-3.2 and Systems Apps.pdf</a></p>\n<p>&nbsp\;</p
- >
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T030800Z
-UID:event-calendar-event-520463
-DTSTART;VALUE=DATE:20220207
-DTEND;VALUE=DATE:20220208
-DESCRIPTION:[Topic 3 & 4 Review PAP.pdf] (https://lisdtx.instructure.com/co
- urses/172585/files/19814584/preview)
-SUMMARY:Topics 3 & 4 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520463
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Topic 3 &amp\; 4 Review PAP.pdf" href="https://lisdtx
- .instructure.com/courses/172585/files/19814584/preview" target="_blank" da
- ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
- s/19814584" data-api-returntype="File">Topic 3 &amp\; 4 Review PAP.pdf</a>
- </p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220208T020000Z
 UID:event-assignment-2499244
 DTSTART;VALUE=DATE:20220207T232900
@@ -647,7 +605,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  o convert it to a powerpoint before you submit!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220223T200100Z
+DTSTAMP:20220308T195500Z
 UID:event-assignment-2740442
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -1305,7 +1263,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=02&year=2022#calendar_event_520821
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220223T200100Z
+DTSTAMP:20220308T195500Z
 UID:event-assignment-2759218
 DTSTART;VALUE=DATE:20220222T232900
 DTEND;VALUE=DATE:20220222T235900
@@ -1508,7 +1466,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes for <a class="instructur
  ile">Forces and Newton's First Law</a>.&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T023000Z
+DTSTAMP:20220308T195500Z
 UID:event-assignment-2766521
 DTSTART;VALUE=DATE:20220225T232900
 DTEND;VALUE=DATE:20220225T235900
@@ -1621,7 +1579,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Watch the video here:&nbsp\;</p>\n<p><a hre
  2</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220228T202700Z
+DTSTAMP:20220308T194600Z
 UID:event-assignment-2767725
 DTSTART;VALUE=DATE:20220228T232900
 DTEND;VALUE=DATE:20220228T235900
@@ -1632,7 +1590,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220201T190700Z
+DTSTAMP:20220308T193200Z
 UID:event-assignment-2728778
 DTSTART;VALUE=DATE:20220228T232900
 DTEND;VALUE=DATE:20220228T235900
@@ -1725,7 +1683,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  4628" data-api-returntype="File">5.9 Complex Numbers Practice .pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220301T060000Z
+DTSTAMP:20220308T195300Z
 UID:event-assignment-2767726
 DTSTART;VALUE=DATE:20220301T232900
 DTEND;VALUE=DATE:20220301T235900
@@ -1736,7 +1694,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220215T194100Z
+DTSTAMP:20220308T195200Z
 UID:event-assignment-2746811
 DTSTART;VALUE=DATE:20220301T232900
 DTEND;VALUE=DATE:20220301T235900
@@ -1766,7 +1724,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: var(--ic-brand-font-col
  p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T160000Z
+DTSTAMP:20220308T175200Z
 UID:event-assignment-2755675
 DTSTART;VALUE=DATE:20220301T232900
 DTEND;VALUE=DATE:20220301T235900
@@ -1844,7 +1802,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  "File">Forces Re-Test FRQ S22.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T213400Z
+DTSTAMP:20220308T152300Z
 UID:event-assignment-2771547
 DTSTART;VALUE=DATE:20220302T232900
 DTEND;VALUE=DATE:20220302T235900
@@ -1908,7 +1866,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  /p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220222T191400Z
+DTSTAMP:20220308T195700Z
 UID:event-assignment-2759002
 DTSTART;VALUE=DATE:20220303T232900
 DTEND;VALUE=DATE:20220303T235900
@@ -1931,7 +1889,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T151100Z
+DTSTAMP:20220308T195500Z
 UID:event-assignment-2776282
 DTSTART;VALUE=DATE:20220303T232900
 DTEND;VALUE=DATE:20220303T235900
@@ -1968,7 +1926,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  >&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T204900Z
+DTSTAMP:20220308T183900Z
 UID:event-assignment-2537922
 DTSTART;VALUE=DATE:20220304T232900
 DTEND;VALUE=DATE:20220304T235900
@@ -1985,7 +1943,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  Graphing Quadratics Practice PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T160000Z
+DTSTAMP:20220308T175200Z
 UID:event-assignment-2755677
 DTSTART;VALUE=DATE:20220304T232900
 DTEND;VALUE=DATE:20220304T235900
@@ -2112,7 +2070,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  lities &amp\; Systems Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T204900Z
+DTSTAMP:20220308T151700Z
 UID:event-assignment-2537924
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -2130,7 +2088,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220307T173900Z
+DTSTAMP:20220308T175200Z
 UID:event-assignment-2774863
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -2180,7 +2138,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Here is the homework key for 5.10-5.11.&nbs
  "File">5.1-5.4\, 5.10-5.11 Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220225T150900Z
+DTSTAMP:20220308T183900Z
 UID:event-assignment-2537923
 DTSTART;VALUE=DATE:20220308T232900
 DTEND;VALUE=DATE:20220308T235900
@@ -2197,7 +2155,33 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ratic Inequalities &amp\; Systems Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T060000Z
+DTSTAMP:20220308T162500Z
+UID:event-assignment-2774862
+DTSTART;VALUE=DATE:20220308T232900
+DTEND;VALUE=DATE:20220308T235900
+DESCRIPTION:[Project - Business Partnership Plan Outline.pdf] (https://lisd
+ tx.instructure.com/courses/190905/files/21690050?wrap=1)Â \n\n[Project - B
+ usiness Partnership Plan Outline Student File (3).docx] (https://lisdtx.in
+ structure.com/courses/190905/files/21690046?wrap=1)Â 
+SUMMARY:Business Partnership Plan - Project [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=03&year=2022#assignment_2774862
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Business Partnership Plan O
+ utline.pdf" href="https://lisdtx.instructure.com/courses/190905/files/2169
+ 0050?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/190905/files/21690050"
+  data-api-returntype="File">Project - Business Partnership Plan Outline.pd
+ f</a>&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_fi
+ le inline_disabled" title="Project - Business Partnership Plan Outline Stu
+ dent File (3).docx" href="https://lisdtx.instructure.com/courses/190905/fi
+ les/21690046?wrap=1" target="_blank" data-canvas-previewable="false" data-
+ api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2
+ 1690046" data-api-returntype="File">Project - Business Partnership Plan Ou
+ tline Student File (3).docx</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220309T002400Z
 UID:event-assignment-2758834
 DTSTART;VALUE=DATE:20220308T232900
 DTEND;VALUE=DATE:20220308T235900
@@ -2206,6 +2190,27 @@ SUMMARY:Chipotle Night  [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=03&year=2022#assignment_2758834
 X-ALT-DESC;FMTTYPE=text/html:<p>Submit a photo of your receipt!&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220308T175200Z
+UID:event-assignment-2774864
+DTSTART;VALUE=DATE:20220308T232900
+DTEND;VALUE=DATE:20220308T235900
+DESCRIPTION:[Activity - Ribbon Analysis.pdf] (https://lisdtx.instructure.co
+ m/courses/190905/files/21690053?wrap=1)Â \n\nOn a blank word document or t
+ he text box here on canvas\, look at ribbonâ€™s tabs and list five command
+ s you think you will need to use most often.Â 
+SUMMARY:Ribbon Analysis - Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=03&year=2022#assignment_2774864
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Activity - Ribbon Analysis.pdf" href=
+ "https://lisdtx.instructure.com/courses/190905/files/21690053?wrap=1" targ
+ et="_blank" data-canvas-previewable="false" data-api-endpoint="https://lis
+ dtx.instructure.com/api/v1/courses/190905/files/21690053" data-api-returnt
+ ype="File">Activity - Ribbon Analysis.pdf</a>&nbsp\;</p>\n<p>On a blank wo
+ rd document or the text box here on canvas\, look at ribbonâ€™s tabs and l
+ ist five commands you think you will need to use most often.&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220307T194500Z
@@ -3976,7 +3981,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -3984,7 +3989,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3992,7 +3997,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -4000,7 +4005,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -4008,7 +4013,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -4016,7 +4021,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -4024,7 +4029,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -4032,7 +4037,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -4040,7 +4045,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T082000
 DTEND;TZID=America/Chicago:20220310T085000
@@ -4048,7 +4053,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T095100
 DTEND;TZID=America/Chicago:20220310T102100
@@ -4056,7 +4061,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4064,7 +4069,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T102500
 DTEND;TZID=America/Chicago:20220311T105500
@@ -4072,7 +4077,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -4080,7 +4085,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -4088,7 +4093,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220308T073010Z
+DTSTAMP:20220309T073011Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
