@@ -6,446 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220210T150900Z
-UID:event-assignment-2739507
-DTSTART:20220209T200000Z
-DTEND:20220209T200000Z
-DESCRIPTION:
-SUMMARY:Unit 2 Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2739507
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220301T211200Z
-UID:event-assignment-2537918
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:[3.3-3.4 Systems of Inequalities and Linear Programming.pdf] (h
- ttps://lisdtx.instructure.com/courses/172585/files/19814474/download?wrap=
- 1)
-SUMMARY:HW DUE 3.3-3.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537918
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.3-3.4 Systems of Inequalities and Linear Programmin
- g.pdf" href="https://lisdtx.instructure.com/courses/172585/files/19814474/
- download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
- courses/172585/files/19814474" data-api-returntype="File">3.3-3.4 Systems 
- of Inequalities and Linear Programming.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220120T190200Z
-UID:event-assignment-2716271
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:
-SUMMARY:2/9 Water Bottle Wednesday  [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2716271
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220310T214700Z
-UID:event-assignment-2534715
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:**************\nStarter Files:\n**************\n\n[ChartManager
- .java] (https://lisdtx.instructure.com/courses/202975/files/19786586?wrap=
- 1)\n\n[SeatingChart.java] (https://lisdtx.instructure.com/courses/202975/f
- iles/19786589?wrap=1)\n\n[] (https://lisdtx.instructure.com/courses/202975
- /files/19786589?wrap=1)[Student.java] (https://lisdtx.instructure.com/cour
- ses/202975/files/19786595?wrap=1) Â Â \n\n**********\nDirections\n********
- **\n\nWrite a program that allows a teacher to create and store students i
- n a seating chart. A student is represented by the following class:\n\npub
- lic class Student\n{\n// instance variables\nprivate String name\;\nprivat
- e String id\;\n\n// default constructor\npublic Student()\n{\nname = "vaca
- nt"\;\nid = ""\;\n}\n\n// another constructor\npublic Student(String n\, S
- tring i)\n{\nname = n\;\nid = i\;\n}\n\n// mutator methods\npublic void se
- tName(String n)\n{\nname = n\;\n}\n\npublic void setID(String i)\n{\nid = 
- i\;\n}\n\n// accessor methods\npublic String getName()\n{\nreturn name\;\n
- }\n\npublic String getID()\n{\nreturn id\;\n}\n\n// toString method\npubli
- c String toString()\n{\nreturn String.format("%-10s"\, name)\;\n}\n}\n\nTh
- e seating chart is represented in the class SeatingChart as a 2D array of 
- Student objects:\n\nprivate Student[][] chart\;\n\nYou will be writing met
- hods in the SeatingChart class.\n\nMethod addStudent\n-----------------\n\
- nWrite method addStudent. Given a Student object and a seat location addSt
- udent adds the Student to the seating chart at a specified location. If th
- e specified location is a valid location the Student is added to the chart
-  and the method returns true\; otherwise the Student is not added to the c
- hart and the method returns false.\n\nMethod swapSeats\n----------------\n
- \nWrite method swapSeats. Given two seat locations swapSeats swaps seats o
- f two students in the seating chart. If both seat locations are valid the 
- Students are swapped and the method returns true\; otherwise the Students 
- are not swapped and the method returns false.\n\nMethod scrambleChart\n---
- -----------------\n\nWrite method scrambleChart. scrambleChart creates a n
- ew 2D array of Student objects by taking all the students from the seating
-  chart and placing them in a new chart at random locations. Any seats not 
- assigned to a student should be assigned a default Student object which\, 
- when displayed\, will print the word "vacant". A seat is empty in the new 
- chart if the array cell contains the keyword null.\n\n**********\nSample R
- un\n**********\n\n---------------------------\nOriginal Seating Chart\n---
- ------------------------\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\,3) vacan
- t (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1\,4) J
- ill\n(2\,0) Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) John\n(3\,0)
-  Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) vacant\n-------------
- --------------\nTest addStudent\n---------------------------\nRex placed i
- n seat (3\,4)\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\,3) vacant (0\,4) Al
- an\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1\,4) Jill\n(2\,0)
-  Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) John\n(3\,0) Suzy (3\,1
- ) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n---------------------------
- \nTest addStudent\n---------------------------\nError: Olivia not added to
-  seating chart at Location (5\,2)\n(0\,0) John (0\,1) Amy (0\,2) Josey (0\
- ,3) vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant
-  (1\,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) Max (2\,3) Alex (2\,4) Joh
- n\n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n-------
- --------------------\nTest swapSeats\n---------------------------\nJohn(0\
- ,0) and Max(2\,2) swapped seats\n(0\,0) Max (0\,1) Amy (0\,2) Josey (0\,3)
-  vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vacant (1
- \,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) John (2\,3) Alex (2\,4) John\
- n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n---------
- ------------------\nTest swapSeats\n---------------------------\nError: Ka
- ren(2\,0) and Suzy(4\,0) not swapped\n(0\,0) Max (0\,1) Amy (0\,2) Josey (
- 0\,3) vacant (0\,4) Alan\n(1\,0) vacant (1\,1) Fred (1\,2) Sam (1\,3) vaca
- nt (1\,4) Jill\n(2\,0) Karen (2\,1) vacant (2\,2) John (2\,3) Alex (2\,4) 
- John\n(3\,0) Suzy (3\,1) Callie (3\,2) Mary (3\,3) vacant (3\,4) Rex\n----
- -----------------------\nTest scrambleChart\n---------------------------\n
- (0\,0) vacant (0\,1) Suzy (0\,2) vacant (0\,3) Jill (0\,4) Sam\n(1\,0) Ala
- n (1\,1) vacant (1\,2) Josey (1\,3) John (1\,4) Alex\n(2\,0) Karen (2\,1) 
- Mary (2\,2) Callie (2\,3) vacant (2\,4) John\n(3\,0) Max (3\,1) vacant (3\
- ,2) Fred (3\,3) Rex (3\,4) Amy\n\nÂ 
-SUMMARY:Seating Chart [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534715
-X-ALT-DESC;FMTTYPE=text/html:<h1>Starter Files:</h1>\n<p><a class="instruct
- ure_file_link instructure_scribd_file inline_disabled" title="ChartManager
- .java" href="https://lisdtx.instructure.com/courses/202975/files/19786586?
- wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint=
- "https://lisdtx.instructure.com/api/v1/courses/202975/files/19786586" data
- -api-returntype="File">ChartManager.java</a></p>\n<p><a class="instructure
- _file_link instructure_scribd_file inline_disabled" title="SeatingChart.ja
- va" href="https://lisdtx.instructure.com/courses/202975/files/19786589?wra
- p=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="ht
- tps://lisdtx.instructure.com/api/v1/courses/202975/files/19786589" data-ap
- i-returntype="File">SeatingChart.java</a></p>\n<p><a class="instructure_fi
- le_link instructure_scribd_file inline_disabled" title="SeatingChart.java"
-  href="https://lisdtx.instructure.com/courses/202975/files/19786589?wrap=1
- " target="_blank" data-canvas-previewable="false" data-api-endpoint="https
- ://lisdtx.instructure.com/api/v1/courses/202975/files/19786589" data-api-r
- eturntype="File"></a><a class="instructure_file_link instructure_scribd_fi
- le inline_disabled" title="Student.java" href="https://lisdtx.instructure.
- com/courses/202975/files/19786595?wrap=1" target="_blank" data-canvas-prev
- iewable="false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/c
- ourses/202975/files/19786595" data-api-returntype="File">Student.java</a> 
- &nbsp\;&nbsp\;</p>\n<h1>Directions</h1>\n<p>Write a program that allows a 
- teacher to create and store students in a seating chart. A student is repr
- esented by the following class:</p>\n<div id="csCode">\n<pre>public class 
- Student\n{\n    // instance variables\n    private String name\;\n    priv
- ate String id\;\n\n    // default constructor\n    public Student()\n    {
- \n        name = "vacant"\;\n        id = ""\;\n    }\n\n    // another co
- nstructor\n    public Student(String n\, String i)\n    {\n        name = 
- n\;\n        id = i\;\n    }\n\n    // mutator methods\n    public void se
- tName(String n)\n    {\n        name = n\;\n    }\n\n    public void setID
- (String i)\n    {\n        id = i\;\n    }\n\n    // accessor methods\n   
-  public String getName()\n    {\n        return name\;\n    }\n\n    publi
- c String getID()\n    {\n        return id\;\n    }\n\n    // toString met
- hod\n    public String toString()\n    {\n        return String.format("%-
- 10s"\, name)\;\n    }\n}\n</pre>\n</div>\n<p>The seating chart is represen
- ted in the class SeatingChart as a 2D array of Student objects:</p>\n<div 
- id="csCode">\n<pre>private Student[][] chart\;</pre>\n</div>\n<p>You will 
- be writing methods in the <strong>SeatingChart</strong> class.</p>\n<h3>Me
- thod addStudent</h3>\n<p>Write method addStudent. Given a Student object a
- nd a seat location <strong>addStudent</strong> adds the Student to the sea
- ting chart at a specified location. If the specified location is a valid l
- ocation the Student is added to the chart and the method returns true\; ot
- herwise the Student is not added to the chart and the method returns false
- .</p>\n<h3>Method swapSeats</h3>\n<p>Write method swapSeats. Given two sea
- t locations <strong>swapSeats</strong> swaps seats of two students in the 
- seating chart. If both seat locations are valid the Students are swapped a
- nd the method returns true\; otherwise the Students are not swapped and th
- e method returns false.</p>\n<h3>Method scrambleChart</h3>\n<p>Write metho
- d scrambleChart. <strong>scrambleChart</strong> creates a new 2D array of 
- Student objects by taking all the students from the seating chart and plac
- ing them in a new chart at random locations. Any seats not assigned to a s
- tudent should be assigned a default Student object which\, when displayed\
- , will print the word "vacant". A seat is empty in the new chart if the ar
- ray cell contains the keyword <strong>null</strong>.</p>\n<h1>Sample Run</
- h1>\n<div id="csSampleRun">\n<pre>---------------------------\n   Original
-  Seating Chart\n---------------------------\n(0\,0) John      (0\,1) Amy  
-      (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,1
- ) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen   
-   (2\,1) vacant    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\,0) S
- uzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) vacant\
- n---------------------------\n   Test addStudent\n------------------------
- ---\nRex placed in seat (3\,4)\n(0\,0) John      (0\,1) Amy       (0\,2) J
- osey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,1) Fred      (
- 1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen     (2\,1) vaca
- nt    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\,0) Suzy      (3\,
- 1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex\n---------------
- ------------\n   Test addStudent\n---------------------------\nError: Oliv
- ia not added to seating chart at Location (5\,2)\n(0\,0) John      (0\,1) 
- Amy       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    
- (1\,1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Kar
- en     (2\,1) vacant    (2\,2) Max       (2\,3) Alex      (2\,4) John\n(3\
- ,0) Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Re
- x\n---------------------------\n   Test swapSeats\n-----------------------
- ----\nJohn(0\,0) and Max(2\,2) swapped seats\n(0\,0) Max       (0\,1) Amy 
-       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (1\,
- 1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Karen  
-    (2\,1) vacant    (2\,2) John      (2\,3) Alex      (2\,4) John\n(3\,0) 
- Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex\n-
- --------------------------\n   Test swapSeats\n---------------------------
- \nError: Karen(2\,0) and Suzy(4\,0) not swapped\n(0\,0) Max       (0\,1) A
- my       (0\,2) Josey     (0\,3) vacant    (0\,4) Alan\n(1\,0) vacant    (
- 1\,1) Fred      (1\,2) Sam       (1\,3) vacant    (1\,4) Jill\n(2\,0) Kare
- n     (2\,1) vacant    (2\,2) John      (2\,3) Alex      (2\,4) John\n(3\,
- 0) Suzy      (3\,1) Callie    (3\,2) Mary      (3\,3) vacant    (3\,4) Rex
- \n---------------------------\n   Test scrambleChart\n--------------------
- -------\n(0\,0) vacant    (0\,1) Suzy      (0\,2) vacant    (0\,3) Jill   
-    (0\,4) Sam\n(1\,0) Alan      (1\,1) vacant    (1\,2) Josey     (1\,3) J
- ohn      (1\,4) Alex\n(2\,0) Karen     (2\,1) Mary      (2\,2) Callie    (
- 2\,3) vacant    (2\,4) John\n(3\,0) Max       (3\,1) vacant    (3\,2) Fred
-       (3\,3) Rex       (3\,4) Amy\n\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220227T151800Z
-UID:event-assignment-2742090
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:***********\nDirections:\n***********\n\nClassrooms often inclu
- de students who can't help but distract others around them. Students with 
- this quality are known asÂ DISTRACTORS! A distractor will distract other s
- tudents who are adjacently seated\, when a student sits next to more than 
- one distractor that student becomes even more distracted.Â \n\nWrite a pro
- gram that will determine:\n\n* The level to which each student has been di
- stracted.\n\n* The student who has been distracted the most.Â \n\nExample:
- Â \n\n---------------------------\nOriginal Seating Chart\n---------------
- ------------\n(0\,0) Ben (0\,1) Adam (0\,2) Jen (0\,3) Anne (0\,4) Sarah\n
- (1\,0) Zav (1\,1) Stan (1\,2) Grant (1\,3) Steph (1\,4) chad\n(2\,0) Kyle 
- (2\,1) Spottem (2\,2) Gottem (2\,3) swag (2\,4) Casey\n(3\,0) Shen x (3\,1
- ) Zoe (3\,2) Kari x (3\,3) Claire (3\,4) Randy\n--------------------------
- -\nTest mostDistracted\n---------------------------\n0 0 0 0 0\n0 0 0 0 0\
- n1 2 1 1 0\n1 2 1 1 0\n\nMost distracted: Spottem\n\nIn the example above\
- , eachÂ  distractor has been labeled with an x. The table of numbers indic
- ate the level of distraction for each student. When a student is seated ne
- xt to a distractor\, their distraction level is increased by one. Each oth
- er adjacent distractor increments this value by 1.\n\n**************\nStar
- ter Files:\n**************\n\nÂ \n\nAdd this method to your already existi
- ng SeatingChart class.\n\n/** This method will return the student who is m
- ost distracted. You might also consider printing the chart of distraction 
- levels.\n* Consider writing other methods to help implement different smal
- ler tasks.\n* @return\n*/\npublic Student getMostDistractedStudent(){\nStu
- dent mostDistracted = chart[0][0]\;\n\nreturn mostDistracted\;\n\n}\n\nCha
- rtManager2\n\npublic class ChartManager2\n{\npublic static void main(Strin
- g[] args)\n{\nStudent[][] chart = {{new Student("Ben"\,"1")\, new Student(
- "Adam"\,"2")\, new Student("Jen"\,"3")\, new Student("Anne"\,"")\, new Stu
- dent("Sarah"\,"4")}\,\n{new Student("Zav"\,"")\, new Student("Stan"\,"5")\
- , new Student("Grant"\,"6")\, new Student("Steph"\,"")\, new Student("chad
- "\,"7")}\,\n{new Student("Kyle"\,"8")\, new Student("Spottem"\,"")\, new S
- tudent("Gottem"\,"9")\, new Student("swag"\,"10")\, new Student("Casey"\,"
- 11")}\,\n{new Student("Shen"\,"12")\, new Student("Zoe"\,"13")\, new Stude
- nt("Kari"\,"14")\, new Student("Claire"\,"")\, new Student("Randy"\,"")}\,
- \n}\;\n\n//randomly setting 20% to problem students\nfor(int r = 0\; r < c
- hart.length\; r++){\nfor(int c = 0\; c < chart[0].length\; c++){\nif(Math.
- random() < .20){\nchart[r][c].setDistractor(true)\;\n}\n}\n}\n\nSeatingCha
- rt seatingChart = new SeatingChart(chart)\;\nSystem.out.println("---------
- ------------------")\;\nSystem.out.println(" Original Seating Chart")\;\nS
- ystem.out.println("---------------------------")\;\nseatingChart.displayCh
- art()\;\n\nSystem.out.println("---------------------------")\;\nSystem.out
- .println(" Test mostDistracted")\;\nSystem.out.println("------------------
- ---------")\;\nSystem.out.println("Most distracted: " + seatingChart.getMo
- stDistractedStudent())\;\n\n}\n}\n\nStudent.java\n\nThis class has been up
- dated to include an boolean instance variableÂ distractor with accessor me
- thod getDistractor.Â Students are considered distractors if distractor is 
- set to true. You can replace the already existing student class with this 
- code.\n\npublic class Student\n{\n// instance variables\nprivate String na
- me\;\nprivate String id\;\nprivate boolean distractor\;\n\n// default cons
- tructor\npublic Student()\n{\nname = "vacant"\;\nid = ""\;\n}\n\n// anothe
- r constructor\npublic Student(String n\, String i)\n{\nname = n\;\nid = i\
- ;\n}\n\n// mutator methods\npublic void setName(String n)\n{\nname = n\;\n
- }\n\npublic void setID(String i)\n{\nid = i\;\n}\n\npublic void setDistrac
- tor(boolean d){\ndistractor = d\;\n}\n\n// accessor methods\npublic String
-  getName()\n{\nreturn name\;\n}\n\npublic String getID()\n{\nreturn id\;\n
- }\n\npublic boolean getDistractor(){\nreturn distractor\;\n}\n\n// toStrin
- g method\npublic String toString()\n{\nreturn String.format("%-10s"\, name
-  + " " + (distractor ? "x": "" )) \;\n}\n}\n\nÂ \n\nÂ 
-SUMMARY:Seating Chart 2: *Distractions Intensify* [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2742090
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions:</h1>\n<p>Classrooms often incl
- ude students who can't help but distract others around them. Students with
-  this quality are known as&nbsp\;<strong>DISTRACTORS</strong>! A distracto
- r will distract other students who are adjacently seated\, when a student 
- sits next to more than one distractor that student becomes even more distr
- acted.&nbsp\;</p>\n<p>Write a program that will determine:</p>\n<ul>\n<li>
- The level to which each student has been distracted.</li>\n<li>The student
-  who has been distracted the most.&nbsp\;</li>\n</ul>\n<p>Example:&nbsp\;<
- /p>\n<pre>---------------------------\n   Original Seating Chart\n--------
- -------------------\n(0\,0) Ben       (0\,1) Adam      (0\,2) Jen       (0
- \,3) Anne      (0\,4) Sarah     \n(1\,0) Zav       (1\,1) Stan      (1\,2)
-  Grant     (1\,3) Steph     (1\,4) chad      \n(2\,0) Kyle      (2\,1) Spo
- ttem   (2\,2) Gottem    (2\,3) swag      (2\,4) Casey     \n(3\,0) Shen x 
-    (3\,1) Zoe       (3\,2) Kari x    (3\,3) Claire    (3\,4) Randy     \n-
- --------------------------\n   Test mostDistracted\n----------------------
- -----\n0 0 0 0 0 \n0 0 0 0 0 \n1 2 1 1 0 \n1 2 1 1 0 <br>\nMost distracted
- : Spottem  \n</pre>\n<p>In the example above\, each&nbsp\; distractor has 
- been labeled with an x. The table of numbers indicate the level of distrac
- tion for each student. When a student is seated next to a distractor\, the
- ir distraction level is increased by one. Each other adjacent distractor i
- ncrements this value by 1.</p>\n<h1>Starter Files:</h1>\n<p>&nbsp\;</p>\n<
- p><strong>Add this method to your already existing SeatingChart class.</st
- rong></p>\n<pre> /** This method will return the student who is most distr
- acted. You might also consider printing the chart of distraction levels. \
- n     *  Consider writing other methods to help implement different smalle
- r tasks.\n     * @return\n     */\n    public Student getMostDistractedStu
- dent(){\n        Student mostDistracted = chart[0][0]\;\n       \n        
- return mostDistracted\;\n\n    }\n</pre>\n<p><strong>ChartManager2</strong
- ></p>\n<pre>public class ChartManager2\n{\n    public static void main(Str
- ing[] args)\n    {\n        Student[][] chart = {{new Student("Ben"\,"1")\
- , new Student("Adam"\,"2")\, new Student("Jen"\,"3")\, new Student("Anne"\
- ,"")\, new Student("Sarah"\,"4")}\,\n                {new Student("Zav"\,"
- ")\, new Student("Stan"\,"5")\, new Student("Grant"\,"6")\, new Student("S
- teph"\,"")\, new Student("chad"\,"7")}\,\n                {new Student("Ky
- le"\,"8")\, new Student("Spottem"\,"")\, new Student("Gottem"\,"9")\, new 
- Student("swag"\,"10")\, new Student("Casey"\,"11")}\,\n                {ne
- w Student("Shen"\,"12")\, new Student("Zoe"\,"13")\, new Student("Kari"\,"
- 14")\, new Student("Claire"\,"")\, new Student("Randy"\,"")}\,\n        }\
- ;\n\n\n        //randomly setting 20% to problem students\n        for(int
-  r = 0\; r &lt\; chart.length\; r++){\n            for(int c = 0\; c &lt\;
-  chart[0].length\; c++){\n                if(Math.random() &lt\; .20){\n  
-                   chart[r][c].setDistractor(true)\;\n                }\n  
-           }\n        }\n\n        SeatingChart seatingChart = new SeatingC
- hart(chart)\;\n        System.out.println("---------------------------")\;
- \n        System.out.println("   Original Seating Chart")\;\n        Syste
- m.out.println("---------------------------")\;\n        seatingChart.displ
- ayChart()\;\n\n\n        System.out.println("---------------------------")
- \;\n        System.out.println("   Test mostDistracted")\;\n        System
- .out.println("---------------------------")\;\n        System.out.println(
- "Most distracted: " + seatingChart.getMostDistractedStudent())\;\n\n\n    
- }\n}\n</pre>\n<p><strong>Student.java</strong></p>\n<p>This class has been
-  updated to include an boolean instance variable&nbsp\;<strong>distractor<
- /strong> with accessor method <strong>getDistractor.&nbsp\;</strong>Studen
- ts are considered distractors if distractor is set to true. You can replac
- e the already existing student class with this code.</p>\n<pre>public clas
- s Student\n{\n    // instance variables\n    private String name\;\n    pr
- ivate String id\;\n    private boolean distractor\;\n\n    // default cons
- tructor\n    public Student()\n    {\n        name = "vacant"\;\n        i
- d = ""\;\n    }\n\n    // another constructor\n    public Student(String n
- \, String i)\n    {\n        name = n\;\n        id = i\;\n    }\n\n    //
-  mutator methods\n    public void setName(String n)\n    {\n        name =
-  n\;\n    }\n\n    public void setID(String i)\n    {\n        id = i\;\n 
-    }\n\n    public void setDistractor(boolean d){\n        distractor = d\
- ;\n    }\n\n    // accessor methods\n    public String getName()\n    {\n 
-        return name\;\n    }\n\n    public String getID()\n    {\n        r
- eturn id\;\n    }\n\n    public boolean getDistractor(){\n        return d
- istractor\;\n    }\n\n    // toString method\n    public String toString()
- \n    {\n        return String.format("%-10s"\, name + " " + (distractor ?
-  "x": "" )) \;\n    }\n}\n</pre>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220215T190900Z
-UID:event-assignment-2534712
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that crea
- tes two two-dimensional arrays of size 4x4 and fills them with random valu
- es in the range of 0 to 9. The program should then compare the correspondi
- ng elements of these matrices and place the larger of the two numbers in t
- he corresponding position of a third matrix.\n\nÂ \n\n***********\nSource 
- File\n***********\n\nStoreLargest.java\n\n**********\nSample Run\n********
- **\n\nMatrix 1\n2 7 6 4\n6 1 2 4\n9 7 2 6\n8 3 2 1\n\nMatrix 2\n4 1 3 7\n6
-  2 3 8\n7 2 2 4\n4 2 3 1\n\nLargest Elements\n4 7 6 7\n6 2 3 8\n9 7 2 6\n8
-  3 3 1\n\nÂ 
-SUMMARY:Store Largest [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534712
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that c
- reates <strong>two</strong> two-dimensional arrays of size 4x4 and fills t
- hem with random values in the range of 0 to 9. The program should then com
- pare the corresponding elements of these matrices and place the larger of 
- the two numbers in the corresponding position of a third matrix.</p>\n<p>&
- nbsp\;</p>\n<h1>Source File</h1>\n<p>StoreLargest.java</p>\n<h1>Sample Run
- </h1>\n<div id="csSampleRun">\n<pre>Matrix 1\n2 7 6 4\n6 1 2 4\n9 7 2 6 \n
- 8 3 2 1 \n\nMatrix 2\n4 1 3 7\n6 2 3 8 \n7 2 2 4\n4 2 3 1\n\nLargest Eleme
- nts\n4 7 6 7\n6 2 3 8\n9 7 2 6\n8 3 3 1\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220310T214700Z
-UID:event-assignment-2534714
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:**********\nDirections\n**********\n\nWrite a program that prom
- pts the user for the dimensions of a two-dimensional array. It then create
- s an array with the specified size and fills each cell with random integer
- s in the range of 0 to 9. The program should then print the two-dimensiona
- l array and the sum of each row and column as shown in the sample output b
- elow.\n\nTo do this assignment you will need three sets of nested for loop
- s. One set to create the matrix\, another set to sum the rows and print th
- e matrix and the row sums\, and a third set to sum the columns and print t
- he column sums below the matrix.\n\nGAMER MODE: This can be solved using a
-  single nested loop structure to print array and find totals. You can use 
- an enhanced loop to print col totals after the nested loop.\n\n***********
- \nSource File\n***********\n\nSumMatrix.java\n\n**********\nSample Run\n**
- ********\n\nEnter the number of rows --> 3\nEnter the number of columns --
- >4\n\n4 3 8 9 24\n2 1 4 7 14\n5 2 3 8 18\n\n11 6 15 24\n\nÂ 
-SUMMARY:Sum Matrix [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534714
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Write a program that p
- rompts the user for the dimensions of a two-dimensional array. It then cre
- ates an array with the specified size and fills each cell with random inte
- gers in the range of 0 to 9. The program should then print the two-dimensi
- onal array and the sum of each row and column as shown in the sample outpu
- t below.</p>\n<p>To do this assignment you will need three sets of nested 
- for loops. One set to create the matrix\, another set to sum the rows and 
- print the matrix and the row sums\, and a third set to sum the columns and
-  print the column sums below the matrix.</p>\n<p><strong>GAMER MODE: This 
- can be solved using a single nested loop structure to print array and find
-  totals. You can use an enhanced loop to print col totals after the nested
-  loop.</strong></p>\n<h1>Source File</h1>\n<p>SumMatrix.java</p>\n<h1>Samp
- le Run</h1>\n<div id="csSampleRun">\n<pre>Enter the number of rows --&gt\;
-  3\nEnter the number of columns --&gt\;4 \n\n4 3 8 9     24\n2 1 4 7     1
- 4\n5 2 3 8     18\n\n11 6 15 24\n\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220227T152800Z
-UID:event-assignment-2534710
-DTSTART;VALUE=DATE:20220209T232900
-DTEND;VALUE=DATE:20220209T235900
-DESCRIPTION:**********\nDirections\n**********\n\nAllow a user to create a 
- matrix of any size filled with random numbers in the range of -100 to 100.
-  Print the original matrix and its transpose with appropriate labels as sh
- own.\n\nThe transpose of a two-dimensional array (matrix) is obtained by i
- nterchanging rows and columns. Thus\, Row 0 of the original becomes Column
-  0 of the transpose\, Row 1 of the original becomes Column 1 of the transp
- ose\, and so on.\n\n***********\nSource File\n***********\n\nTranspose.jav
- a\n\n************\nSample Run 1\n************\n\nEnter number of rows-->5\
- nEnter number of columns-->5\n\nOriginal Matrix\n45 67 89 12 -3\n-3 -6 -7 
- -4 -9\n96 81 -8 52 12\n14 -7 72 29 -1\n19 43 28 63 87\n\nTranspose\n45 -3 
- 96 14 19\n67 -6 81 -7 43\n89 -7 -8 72 28\n12 -4 52 29 63\n-3 -9 12 -1 87\n
- \n************\nSample Run 2\n************\n\nEnter number of rows-->2\nEn
- ter number of columns-->3\n\nOriginal Matrix\n45 67 89\n-3 -6 -7\n\nTransp
- ose\n45 -3\n67 -6\n89 -7\n\nÂ 
-SUMMARY:Transpose [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534710
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Allow a user to create
-  a matrix of any size filled with random numbers in the range of -100 to 1
- 00. Print the original matrix and its transpose with appropriate labels as
-  shown.</p>\n<p>The transpose of a two-dimensional array (matrix) is obtai
- ned by interchanging rows and columns. Thus\, Row 0 of the original become
- s Column 0 of the transpose\, Row 1 of the original becomes Column 1 of th
- e transpose\, and so on.</p>\n<h1>Source File</h1>\n<p>Transpose.java</p>\
- n<h1>Sample Run 1</h1>\n<div id="csSampleRun">\n<pre>Enter number of rows-
- -&gt\;5\nEnter number of columns--&gt\;5\n\nOriginal Matrix\n45 67 89 12 -
- 3\n-3 -6 -7 -4 -9\n96 81 -8 52 12\n14 -7 72 29 -1\n19 43 28 63 87\n\nTrans
- pose\n45 -3 96 14 19\n67 -6 81 -7 43\n89 -7 -8 72 28\n12 -4 52 29 63\n-3 -
- 9 12 -1 87\n</pre>\n</div>\n<h1>Sample Run 2</h1>\n<div id="csSampleRun">\
- n<pre>Enter number of rows--&gt\;2\nEnter number of columns--&gt\;3\n\nOri
- ginal Matrix\n45 67 89 \n-3 -6 -7\n\n\nTranspose\n45 -3\n67 -6\n89 -7\n\n<
- /pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220301T211200Z
 UID:event-assignment-2537919
 DTSTART;VALUE=DATE:20220210T232900
@@ -487,7 +47,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  o convert it to a powerpoint before you submit!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T215000Z
+DTSTAMP:20220311T141300Z
 UID:event-assignment-2740442
 DTSTART;VALUE=DATE:20220210T232900
 DTEND;VALUE=DATE:20220210T235900
@@ -893,7 +453,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  s Review.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T214700Z
+DTSTAMP:20220311T141300Z
 UID:event-assignment-2534726
 DTSTART:20220218T214000Z
 DTEND:20220218T214000Z
@@ -1771,7 +1331,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T214700Z
+DTSTAMP:20220311T142500Z
 UID:event-assignment-2776282
 DTSTART;VALUE=DATE:20220303T232900
 DTEND;VALUE=DATE:20220303T235900
@@ -1970,7 +1530,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T215000Z
+DTSTAMP:20220311T141300Z
 UID:event-assignment-2770396
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -2114,7 +1674,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  eturntype="File">Activity - Label the Word Window.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220310T215000Z
+DTSTAMP:20220311T141300Z
 UID:event-assignment-2768270
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -2563,13 +2123,15 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T143600Z
+DTSTAMP:20220311T142000Z
 UID:event-assignment-2600558
 DTSTART:20220311T183000Z
 DTEND:20220311T183000Z
+DESCRIPTION:
 SUMMARY:Midterm [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=03&year=2022#assignment_2600558
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220223T191000Z
@@ -4232,7 +3794,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -4240,7 +3802,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -4248,7 +3810,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -4256,7 +3818,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -4264,7 +3826,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -4272,7 +3834,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -4280,7 +3842,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -4288,7 +3850,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -4296,7 +3858,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T082000
 DTEND;TZID=America/Chicago:20220310T085000
@@ -4304,7 +3866,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T095100
 DTEND;TZID=America/Chicago:20220310T102100
@@ -4312,7 +3874,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -4320,7 +3882,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T102500
 DTEND;TZID=America/Chicago:20220311T105500
@@ -4328,7 +3890,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -4336,7 +3898,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -4344,7 +3906,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T073011Z
+DTSTAMP:20220312T073224Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
