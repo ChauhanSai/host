@@ -6,94 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220301T211200Z
-UID:event-assignment-2537919
-DTSTART;VALUE=DATE:20220210T232900
-DTEND;VALUE=DATE:20220210T235900
-DESCRIPTION:[3.5 Systems in 3 Variables.pdf] (https://lisdtx.instructure.co
- m/courses/172585/files/19814502/download?wrap=1)
-SUMMARY:HW DUE 3.5 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537919
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.5 Systems in 3 Variables.pdf" href="https://lisdtx.
- instructure.com/courses/172585/files/19814502/download?wrap=1" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981450
- 2" data-api-returntype="File">3.5 Systems in 3 Variables.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220223T164500Z
-UID:event-assignment-2733064
-DTSTART;VALUE=DATE:20220210T232900
-DTEND;VALUE=DATE:20220210T235900
-DESCRIPTION:[Activity - Information System Management Tools.pdf] (https://l
- isdtx.instructure.com/courses/190905/files/20964190/download?wrap=1)\n\nTh
- is is an individual project or group project. You must do all 3 types.Â  C
- reate a 10 slide PowerPoint. Must be complete on PowerPoint and if you use
-  Google Sheets\, make sure to convert it to a powerpoint before you submit
- !
-SUMMARY:Information System Management Tools Activity [Bus Info Mgmt I-GRAHA
- M]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=02&year=2022#assignment_2733064
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Activity - Information System Management Tools.pdf" h
- ref="https://lisdtx.instructure.com/courses/190905/files/20964190/download
- ?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/
- 190905/files/20964190" data-api-returntype="File">Activity - Information S
- ystem Management Tools.pdf</a></p>\n<p>This is an individual project or gr
- oup project. You must do all 3 types.&nbsp\; Create a 10 slide PowerPoint.
-  Must be complete on PowerPoint and if you use Google Sheets\, make sure t
- o convert it to a powerpoint before you submit!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220311T141300Z
-UID:event-assignment-2740442
-DTSTART;VALUE=DATE:20220210T232900
-DTEND;VALUE=DATE:20220210T235900
-DESCRIPTION:
-SUMMARY:NumberCube FRQ [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2740442
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220212T162300Z
-UID:event-assignment-2740399
-DTSTART;VALUE=DATE:20220210T232900
-DTEND;VALUE=DATE:20220210T235900
-DESCRIPTION:
-SUMMARY:Quiz 3.1-3.5 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2740399
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
-UID:event-calendar-event-520528
-DTSTART;VALUE=DATE:20220211
-DTEND;VALUE=DATE:20220212
-DESCRIPTION:[3.6\, 4.1-4.2 Matrices add subtract multiply Blank Notes.pdf] 
- (https://lisdtx.instructure.com/courses/172585/files/19814571/preview)\n\n
- HW: [3.6\, 4.1-4.2 Matrices\, add\, subtract\, multiply.pdf] (https://lisd
- tx.instructure.com/courses/172585/files/19814605/preview)\n\nÂ 
-SUMMARY:3.6\, 4.1\, 4.2 Matrix Operations [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520528
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="3.6\, 4.1-4.2 Matrices add subtract multiply Blank No
- tes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981457
- 1/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.c
- om/api/v1/courses/172585/files/19814571" data-api-returntype="File">3.6\, 
- 4.1-4.2 Matrices add subtract multiply Blank Notes.pdf</a></p>\n<p>HW: <a 
- class="instructure_file_link instructure_scribd_file" title="3.6\, 4.1-4.2
-  Matrices\, add\, subtract\, multiply.pdf" href="https://lisdtx.instructur
- e.com/courses/172585/files/19814605/preview" target="_blank" data-api-endp
- oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814605"
-  data-api-returntype="File">3.6\, 4.1-4.2 Matrices\, add\, subtract\, mult
- iply.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220212T003000Z
 UID:event-assignment-2499248
 DTSTART;VALUE=DATE:20220211T232900
@@ -3794,7 +3706,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -3802,7 +3714,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3810,7 +3722,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3818,7 +3730,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3826,7 +3738,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3834,7 +3746,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3842,7 +3754,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3850,7 +3762,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3858,7 +3770,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:653277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T082000
 DTEND;TZID=America/Chicago:20220310T085000
@@ -3866,7 +3778,7 @@ SUMMARY:A Midterm
 DESCRIPTION:Algebra 2 Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:663277105100116101114109
 DTSTART;TZID=America/Chicago:20220310T095100
 DTEND;TZID=America/Chicago:20220310T102100
@@ -3874,7 +3786,7 @@ SUMMARY:B Midterm
 DESCRIPTION:BIM Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:803277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T082000
 DTEND;TZID=America/Chicago:20220311T085000
@@ -3882,7 +3794,7 @@ SUMMARY:P Midterm
 DESCRIPTION:Physics Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:673277105100116101114109
 DTSTART;TZID=America/Chicago:20220311T102500
 DTEND;TZID=America/Chicago:20220311T105500
@@ -3890,7 +3802,7 @@ SUMMARY:C Midterm
 DESCRIPTION:AP Comp Sci Midterm
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3898,7 +3810,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -3906,7 +3818,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220312T073224Z
+DTSTAMP:20220313T073013Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
