@@ -6,81 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220309T190000Z
-UID:event-assignment-2537954
-DTSTART;VALUE=DATE:20220217T232900
-DTEND;VALUE=DATE:20220217T235900
-DESCRIPTION:Â \n\nÂ 
-SUMMARY:Topics 3/4 Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537954
-X-ALT-DESC;FMTTYPE=text/html:<p>&nbsp\;</p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220301T180700Z
-UID:event-assignment-2733060
-DTSTART;VALUE=DATE:20220217T232900
-DTEND;VALUE=DATE:20220217T235900
-DESCRIPTION:
-SUMMARY:Operating Systems & Networking TEST [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=02&year=2022#assignment_2733060
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220218T184000Z
-UID:event-assignment-2744237
-DTSTART;VALUE=DATE:20220217T232900
-DTEND;VALUE=DATE:20220217T235900
-DESCRIPTION:Submit a picture of your socks here!
-SUMMARY:Thursday: Be You - Crazy Sock Day [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2744237
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your socks here!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
-UID:event-calendar-event-520530
-DTSTART;VALUE=DATE:20220218
-DTEND;VALUE=DATE:20220219
-DESCRIPTION:[5.5\, 5.6 Factoring & Solving Quadratic Blank Notes.pdf] (http
- s://lisdtx.instructure.com/courses/172585/files/19814620/preview)\n\nHW: [
- Practice 5.5-5.6 Factor & Solve Quads.pdf] (https://lisdtx.instructure.com
- /courses/172585/files/19814505/preview)\n\nÂ 
-SUMMARY:5.5 - 5.6 Factor & Solve Quadratics [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520530
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.5\, 5.6 Factoring &amp\; Solving Quadratic Blank No
- tes.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1981462
- 0/preview" target="_blank" data-api-endpoint="https://lisdtx.instructure.c
- om/api/v1/courses/172585/files/19814620" data-api-returntype="File">5.5\, 
- 5.6 Factoring &amp\; Solving Quadratic Blank Notes.pdf</a></p>\n<p>HW: <a 
- class="instructure_file_link instructure_scribd_file" title="Practice 5.5-
- 5.6 Factor &amp\; Solve Quads.pdf" href="https://lisdtx.instructure.com/co
- urses/172585/files/19814505/preview" target="_blank" data-api-endpoint="ht
- tps://lisdtx.instructure.com/api/v1/courses/172585/files/19814505" data-ap
- i-returntype="File">Practice 5.5-5.6 Factor &amp\; Solve Quads.pdf</a></p>
- \n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220207T030900Z
-UID:event-calendar-event-520392
-DTSTART;VALUE=DATE:20220218
-DTEND;VALUE=DATE:20220219
-DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
- ucture.com/courses/172585/files/19814630/preview)
-SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#calendar_event_520392
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.5 - 5.9 Solving Quadratics Review.pdf" href="https:
- //lisdtx.instructure.com/courses/172585/files/19814630/preview" target="_b
- lank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172
- 585/files/19814630" data-api-returntype="File">5.5 - 5.9 Solving Quadratic
- s Review.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220311T141300Z
 UID:event-assignment-2534726
 DTSTART:20220218T214000Z
@@ -3422,7 +3347,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -3430,7 +3355,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3438,7 +3363,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3446,7 +3371,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3454,7 +3379,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3462,7 +3387,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3470,7 +3395,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3478,7 +3403,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3486,7 +3411,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3494,7 +3419,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -3502,7 +3427,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220319T073009Z
+DTSTAMP:20220320T073723Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
