@@ -6,249 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220311T141300Z
-UID:event-assignment-2534726
-DTSTART:20220218T214000Z
-DTEND:20220218T214000Z
-DESCRIPTION:* [Overview] (#fragment-1)\n\n* [70pts] (#fragment-2)\n\n* [80p
- ts] (#fragment-3)\n\n* [90pts] (#fragment-4)\n\n* [100pts] (#fragment-5)\n
- \n--------------\nInstructions:Â \n--------------\n\nIn this lab you will 
- implement a variant version of the game Minesweeper. In minesweeper\, mine
- s are randomly placed within a grid or matrix. Each cell in the grid eithe
- r contains a mine or contains a number indicating the number of adjacent c
- ells containing mines. Your solution will involve placing mines randomly i
- n the grid\, determining the number of adjacent mines for each cell\, and\
- , finally\, allowing a user to remove a mine from the grid.\n\nStarter cod
- e has been provided with several method headers. You can expect to complet
- e each of the methods in the starter at a minimum. You are encouraged to w
- rite additional methods not included in the starter as you see fit. Writin
- g methods can help break your solution down into smaller sub-problems and 
- is highly recommended on the 90 and 100 point versions.\n\nNO NEW CLASSES 
- OR PROJECTS MUST BE MADE FOR EACH NEW VERSION. If you want to make sure a 
- previous version is submitted in working order before you move to the next
-  version submit the code on canvas. You can do a submit for each version.
- Â \n\nÂ \n\n**************\nStarter Files:\n**************\n\n[Minesweeper
- .java] (https://lisdtx.instructure.com/courses/202975/files/21169424?wrap=
- 1)Â \n\npublic class Minesweeper {\nprivate boolean[][] mineGrid\;\nprivat
- e int[][] numberGrid\;\n\n/** This constructor instantiates mineGrid and r
- andomly assigns true to 10%\n* of cells.\n* @param rows\n* @param cols\n*/
- \npublic Minesweeper(int rows\, int cols){\n\n}\n\n/** This method prints 
- the mineGrid with a 1 for each cell containing a mine.\n* Empty cells shou
- ld display 0.\n*/\npublic void printBooleanGrid(){\n\n}\n\n/** This method
-  will determine the grid values indicating the number of mines and adjacen
- t mines\n* for each cell.\n*\n* If the cell contains a mine\, that cell sh
- ould be set to 9.\n* Cells not containing a mine should display the number
-  of adjacent mines.\n*\n*/\npublic void setNumberGrid(){\n\n}\n\n/** This 
- method returns the total number of mines in the grid.\n*/\npublic int getM
- ineCount(){\nreturn 0\;\n}\n\n/** This method will return true when [row][
- col] is a valid location on the matrix.\n* @param row\n* @param col\n*/\np
- rivate boolean inBounds(int row\, int col){\nreturn false\;\n}\n\npublic S
- tring toString(){\nString output = ""\;\nreturn output\;\n}\n\n}\n\nclass 
- MinesweeperTester {\npublic static void main(String[] args) {\n//Write cod
- e to test your program here.\n\n}\n}\n\n-----\n70pts\n-----\n\nYour progra
- m will create a boolean matrixÂ  with true/false indicating cells containi
- ng mines. Randomly assign true to 10% of elements. See how this was accomp
- lished in ParkingLot and the runner in Seating Chart 2. In this version\, 
- you should expect to complete at a minimum these methods:\n\n* Constructor
- \n\n* printBooleanGrid( )\n\n* getMineCount( )\n\nYour grid should have 10
-  rows and 10 columns.\n\nSample Run\n\nBoolean Grid:\n0 1 0 0 0 0 0 0 0 0\
- n0 0 0 0 0 0 0 0 0 0\n0 0 0 1 0 0 0 0 1 0\n0 0 0 0 0 0 0 0 0 1\n0 0 0 1 1 
- 0 0 1 1 0\n0 0 0 0 0 0 0 0 0 0\n0 0 1 0 1 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\n
- 0 0 0 0 0 0 0 0 1 0\n0 0 0 0 0 0 0 0 0 0\nNumber of mines: 11\n\nÂ \n\n---
- --\n80pts\n-----\n\nImplement the int[][] numberGrid. This matrix will con
- tain int values indicating where each mine is located. If a cell contains 
- a mine in the boolean grid\, the corresponding cell in numberGrid should c
- ontain a 9. Methods you will need to complete include:Â \n\n* setNumberGri
- d( )\n\nSample Run\n\nBoolean Grid:\n1 0 0 0 0 0 0 0 0 0\n1 0 0 0 0 0 0 1 
- 0 0\n0 1 0 0 0 0 0 1 0 0\n0 0 0 1 0 0 0 0 0 1\n0 0 1 0 0 0 0 0 0 0\n0 0 0 
- 0 0 0 1 0 0 0\n0 0 0 0 0 0 0 1 0 1\n0 0 0 1 0 0 0 0 0 0\n0 0 1 1 0 0 0 0 0
-  0\n0 0 1 0 1 0 0 0 0 1\n\nNumber Grid:\n9 0 0 0 0 0 0 0 0 0\n9 0 0 0 0 0 
- 0 9 0 0\n0 9 0 0 0 0 0 9 0 0\n0 0 0 9 0 0 0 0 0 9\n0 0 9 0 0 0 0 0 0 0\n0 
- 0 0 0 0 0 9 0 0 0\n0 0 0 0 0 0 0 9 0 9\n0 0 0 9 0 0 0 0 0 0\n0 0 9 9 0 0 0
-  0 0 0\n0 0 9 0 9 0 0 0 0 9\n\nNumber of Mines: 17\n\n-----\n90pts\n-----\
- n\nIn this version\, numberGrid will include values indicating the number 
- of adjacent mines. You should make changes to your already existing setNum
- berGrid() and implement inBounds(). It might be valuable to write addition
- al methods for this version.Â \n\nThere are a few ways to approach this pr
- oblem.Â \n\n1. Finding countsÂ  - For each cell in the grid\, you could fi
- nd the count of all adjacent mines.\n\n2. Incrementing - For each mine in 
- the grid\, increment adjacent non-mine cells by 1.\n\nOne of these approac
- hes is better than the other but the problem can be solved both ways. Pick
-  whichever you feel most comfortable implementing.\n\nSample Run\n\nBoolea
- n Grid:\n1 0 0 0 0 0 0 0 0 0\n0 0 1 0 0 0 0 1 0 0\n0 0 0 0 0 0 0 0 0 1\n0 
- 0 0 1 0 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\n0 0 0 0 1 1 0 0 0 1\n0 1 0 0 0 0 0
-  0 0 0\n0 0 0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\n\nN
- umber Grid:\n9 2 1 1 0 0 1 1 1 0\n1 2 9 1 0 0 1 9 2 1\n0 1 2 2 1 0 1 1 2 9
- \n0 0 1 9 1 0 0 0 1 1\n0 0 1 2 3 2 1 0 1 1\n1 1 1 1 9 9 1 0 1 9\n1 9 1 1 2
-  2 1 0 1 1\n1 1 1 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\n0 0 0 0 0 0 0 0 0 0\
- n\nNumber of Mines: 9\n\n------\n100pts\n------\n\nIn this version you wil
- l use the scanner to ask the user to remove a mine from the grid. When the
-  mine is removed adjacent values should update to reflect the new state of
-  the grid. When the user provides an invalid location no mines are removed
- . The program should run until all mines have been removed.\n\nNumber Grid
- :\n0 0 1 9 9 1 1 1 1 0\n0 0 1 3 3 3 2 9 1 0\n0 0 0 1 9 2 9 2 1 0\n0 0 0 1 
- 2 3 2 1 0 0\n0 1 2 2 2 9 2 1 0 0\n1 3 9 9 2 2 9 1 0 0\n9 3 9 3 1 1 1 1 0 0
- \n1 2 1 1 0 1 1 1 0 0\n0 0 0 0 0 2 9 2 0 0\n0 0 0 0 0 2 9 2 0 0\n\nNumber 
- of Mines: 13\nRemove mine:\nEnter row: 0\nEnter col: 3\nRemoved mine at lo
- cation [0][3]\n\nNumber Grid:\n0 0 0 1 9 1 1 1 1 0\n0 0 0 2 2 3 2 9 1 0\n0
-  0 0 1 9 2 9 2 1 0\n0 0 0 1 2 3 2 1 0 0\n0 1 2 2 2 9 2 1 0 0\n1 3 9 9 2 2 
- 9 1 0 0\n9 3 9 3 1 1 1 1 0 0\n1 2 1 1 0 1 1 1 0 0\n0 0 0 0 0 2 9 2 0 0\n0 
- 0 0 0 0 2 9 2 0 0\n\nNumber of Mines: 12\nRemove mine:\nEnter row: 0\nEnte
- r col: 4\nRemoved mine at location [0][4]\n\nNumber Grid:\n0 0 0 0 0 0 1 1
-  1 0\n0 0 0 1 1 2 2 9 1 0\n0 0 0 1 9 2 9 2 1 0\n0 0 0 1 2 3 2 1 0 0\n0 1 2
-  2 2 9 2 1 0 0\n1 3 9 9 2 2 9 1 0 0\n9 3 9 3 1 1 1 1 0 0\n1 2 1 1 0 1 1 1 
- 0 0\n0 0 0 0 0 2 9 2 0 0\n0 0 0 0 0 2 9 2 0 0\n\nNumber of Mines: 11\nRemo
- ve mine:\nEnter row: 0\nEnter col: 0\nInvalid\, no mine at location [0][0]
- \n\nNumber Grid:\n0 0 0 0 0 0 1 1 1 0\n0 0 0 1 1 2 2 9 1 0\n0 0 0 1 9 2 9 
- 2 1 0\n0 0 0 1 2 3 2 1 0 0\n0 1 2 2 2 9 2 1 0 0\n1 3 9 9 2 2 9 1 0 0\n9 3 
- 9 3 1 1 1 1 0 0\n1 2 1 1 0 1 1 1 0 0\n0 0 0 0 0 2 9 2 0 0\n0 0 0 0 0 2 9 2
-  0 0\n\nNumber of Mines: 11\nRemove mine:\nEnter row:\n\nÂ 
-SUMMARY:Minesweeper [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2534726
-X-ALT-DESC;FMTTYPE=text/html:<div class="enhanceable_content tabs">\n<ul>\n
- <li><a href="#fragment-1">Overview</a></li>\n<li><a href="#fragment-2">70p
- ts</a></li>\n<li><a href="#fragment-3">80pts</a></li>\n<li><a href="#fragm
- ent-4">90pts</a></li>\n<li><a href="#fragment-5">100pts</a></li>\n</ul>\n<
- div id="fragment-1">\n<h2>Instructions:&nbsp\;</h2>\n<p><span style="font-
- size: 14pt\;">In this lab you will implement a variant version of the game
-  Minesweeper. In minesweeper\, mines are randomly placed within a grid or 
- matrix. Each cell in the grid either contains a mine or contains a number 
- indicating the number of adjacent cells containing mines. Your solution wi
- ll involve placing mines randomly in the grid\, determining the number of 
- adjacent mines for each cell\, and\, finally\, allowing a user to remove a
-  mine from the grid.</span></p>\n<p><span style="font-size: 14pt\;">Starte
- r code has been provided with several method headers. You can expect to co
- mplete each of the methods in the starter at a minimum. You are encouraged
-  to write additional methods not included in the starter as you see fit. W
- riting methods can help break your solution down into smaller sub-problems
-  and is highly recommended on the 90 and 100 point versions.</span></p>\n<
- p><span style="font-size: 14pt\;"><strong>NO NEW CLASSES OR PROJECTS MUST 
- BE MADE FOR EACH NEW VERSION. If you want to make sure a previous version 
- is submitted in working order before you move to the next version submit t
- he code on canvas. You can do a submit for each version.&nbsp\;</strong></
- span></p>\n<p>&nbsp\;</p>\n<h1>Starter Files:</h1>\n<p><a class="instructu
- re_file_link instructure_scribd_file inline_disabled" title="Minesweeper.j
- ava" href="https://lisdtx.instructure.com/courses/202975/files/21169424?wr
- ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
- ttps://lisdtx.instructure.com/api/v1/courses/202975/files/21169424" data-a
- pi-returntype="File">Minesweeper.java</a>&nbsp\;</p>\n<pre>public class Mi
- nesweeper {\n    private boolean[][] mineGrid\;\n    private int[][] numbe
- rGrid\;\n\n    /** This constructor instantiates mineGrid and randomly ass
- igns true to 10%\n     * of cells.\n     * @param rows\n     * @param cols
- \n     */\n    public Minesweeper(int rows\, int cols){\n\n    }\n\n    /*
- * This method prints the mineGrid with a 1 for each cell containing a mine
- .\n     * Empty cells should display 0.\n     */\n    public void printBoo
- leanGrid(){\n\n    }\n\n    /** This method will determine the grid values
-  indicating the number of mines and adjacent mines\n     *  for each cell.
- \n     *\n     *  If the cell contains a mine\, that cell should be set to
-  9.\n     *  Cells not containing a mine should display the number of adja
- cent mines.\n     * \n     */\n    public void setNumberGrid(){\n        \
- n    }\n\n    /** This method returns the total number of mines in the gri
- d.\n     */\n    public int getMineCount(){\n        return 0\;\n    }\n\n
-     /** This method will return true when [row][col] is a valid location o
- n the matrix.\n     * @param row\n     * @param col\n     */\n    private 
- boolean inBounds(int row\, int col){\n        return false\;\n    }\n\n\n 
-    public String toString(){\n        String output = ""\;\n        return
-  output\;\n    }\n\n}\n\nclass MinesweeperTester {\n    public static void
-  main(String[] args) {\n        //Write code to test your program here.\n 
-        \n        \n    }\n}\n</pre>\n</div>\n<div id="fragment-2">\n<h2>70
- pts</h2>\n<p><span style="font-size: 14pt\;">Your program will create a bo
- olean matrix&nbsp\; with true/false indicating cells containing mines. Ran
- domly assign true to 10% of elements. See how this was accomplished in Par
- kingLot and the runner in Seating Chart 2. In this version\, you should ex
- pect to complete at a minimum these methods:</span></p>\n<ul>\n<li><span s
- tyle="font-size: 14pt\;">Constructor</span></li>\n<li><span style="font-si
- ze: 14pt\;">printBooleanGrid( )</span></li>\n<li><span style="font-size: 1
- 4pt\;">getMineCount( )</span></li>\n</ul>\n<p><strong><span style="font-si
- ze: 14pt\;">Your grid should have 10 rows and 10 columns.</span></strong><
- /p>\n<p><strong>Sample Run</strong></p>\n<pre>Boolean Grid: \n0 1 0 0 0 0 
- 0 0 0 0 \n0 0 0 0 0 0 0 0 0 0 \n0 0 0 1 0 0 0 0 1 0 \n0 0 0 0 0 0 0 0 0 1 
- \n0 0 0 1 1 0 0 1 1 0 \n0 0 0 0 0 0 0 0 0 0 \n0 0 1 0 1 0 0 0 0 0 \n0 0 0 
- 0 0 0 0 0 0 0 \n0 0 0 0 0 0 0 0 1 0 \n0 0 0 0 0 0 0 0 0 0 \nNumber of mine
- s: 11\n</pre>\n<p>&nbsp\;</p>\n</div>\n<div id="fragment-3">\n<h2>80pts</h
- 2>\n<p><span style="font-size: 14pt\;">Implement the int[][] numberGrid. T
- his matrix will contain int values indicating where each mine is located. 
- If a cell contains a mine in the boolean grid\, the corresponding cell in 
- numberGrid should contain a 9. Methods you will need to complete include:&
- nbsp\;</span></p>\n<ul>\n<li><span style="font-size: 14pt\;">setNumberGrid
- ( )</span></li>\n</ul>\n<p><strong>Sample Run</strong></p>\n<pre>Boolean G
- rid: \n1 0 0 0 0 0 0 0 0 0 \n1 0 0 0 0 0 0 1 0 0 \n0 1 0 0 0 0 0 1 0 0 \n0
-  0 0 1 0 0 0 0 0 1 \n0 0 1 0 0 0 0 0 0 0 \n0 0 0 0 0 0 1 0 0 0 \n0 0 0 0 0
-  0 0 1 0 1 \n0 0 0 1 0 0 0 0 0 0 \n0 0 1 1 0 0 0 0 0 0 \n0 0 1 0 1 0 0 0 0
-  1 \n\nNumber Grid: \n9 0 0 0 0 0 0 0 0 0 \n9 0 0 0 0 0 0 9 0 0 \n0 9 0 0 
- 0 0 0 9 0 0 \n0 0 0 9 0 0 0 0 0 9 \n0 0 9 0 0 0 0 0 0 0 \n0 0 0 0 0 0 9 0 
- 0 0 \n0 0 0 0 0 0 0 9 0 9 \n0 0 0 9 0 0 0 0 0 0 \n0 0 9 9 0 0 0 0 0 0 \n0 
- 0 9 0 9 0 0 0 0 9 \n\nNumber of Mines: 17\n</pre>\n</div>\n<div id="fragme
- nt-4">\n<h2><strong>90pts</strong></h2>\n<p><span style="font-size: 14pt\;
- ">In this version\, numberGrid will include values indicating the number o
- f adjacent mines. You should make changes to your already existing setNumb
- erGrid() and implement inBounds(). It might be valuable to write additiona
- l methods for this version.&nbsp\;</span></p>\n<p><span style="font-size: 
- 14pt\;">There are a few ways to approach this problem.&nbsp\;</span></p>\n
- <p><span style="font-size: 14pt\;">1. Finding counts&nbsp\; - For each cel
- l in the grid\, you could find the count of all adjacent mines.</span></p>
- \n<p><span style="font-size: 14pt\;">2. Incrementing - For each mine in th
- e grid\, increment adjacent non-mine cells by 1.</span></p>\n<p><span styl
- e="font-size: 14pt\;">One of these approaches is better than the other but
-  the problem can be solved both ways. Pick whichever you feel most comfort
- able implementing.</span></p>\n<p><strong>Sample Run</strong></p>\n<pre>Bo
- olean Grid: \n1 0 0 0 0 0 0 0 0 0 \n0 0 1 0 0 0 0 1 0 0 \n0 0 0 0 0 0 0 0 
- 0 1 \n0 0 0 1 0 0 0 0 0 0 \n0 0 0 0 0 0 0 0 0 0 \n0 0 0 0 1 1 0 0 0 1 \n0 
- 1 0 0 0 0 0 0 0 0 \n0 0 0 0 0 0 0 0 0 0 \n0 0 0 0 0 0 0 0 0 0 \n0 0 0 0 0 
- 0 0 0 0 0 \n\nNumber Grid: \n9 2 1 1 0 0 1 1 1 0 \n1 2 9 1 0 0 1 9 2 1 \n0
-  1 2 2 1 0 1 1 2 9 \n0 0 1 9 1 0 0 0 1 1 \n0 0 1 2 3 2 1 0 1 1 \n1 1 1 1 9
-  9 1 0 1 9 \n1 9 1 1 2 2 1 0 1 1 \n1 1 1 0 0 0 0 0 0 0 \n0 0 0 0 0 0 0 0 0
-  0 \n0 0 0 0 0 0 0 0 0 0 \n\nNumber of Mines: 9\n</pre>\n</div>\n<div id="
- fragment-5">\n<h2><strong>100pts</strong></h2>\n<p><span style="font-size:
-  14pt\;">In this version you will use the scanner to ask the user to remov
- e a mine from the grid. When the mine is removed adjacent values should up
- date to reflect the new state of the grid. When the user provides an inval
- id location no mines are removed. The program should run until all mines h
- ave been removed.</span></p>\n<pre>Number Grid: \n0 0 1 9 9 1 1 1 1 0 \n0 
- 0 1 3 3 3 2 9 1 0 \n0 0 0 1 9 2 9 2 1 0 \n0 0 0 1 2 3 2 1 0 0 \n0 1 2 2 2 
- 9 2 1 0 0 \n1 3 9 9 2 2 9 1 0 0 \n9 3 9 3 1 1 1 1 0 0 \n1 2 1 1 0 1 1 1 0 
- 0 \n0 0 0 0 0 2 9 2 0 0 \n0 0 0 0 0 2 9 2 0 0 \n\nNumber of Mines: 13\nRem
- ove mine: \nEnter row: 0\nEnter col: 3\nRemoved mine at location [0][3]\n\
- nNumber Grid: \n0 0 0 1 9 1 1 1 1 0 \n0 0 0 2 2 3 2 9 1 0 \n0 0 0 1 9 2 9 
- 2 1 0 \n0 0 0 1 2 3 2 1 0 0 \n0 1 2 2 2 9 2 1 0 0 \n1 3 9 9 2 2 9 1 0 0 \n
- 9 3 9 3 1 1 1 1 0 0 \n1 2 1 1 0 1 1 1 0 0 \n0 0 0 0 0 2 9 2 0 0 \n0 0 0 0 
- 0 2 9 2 0 0 \n\nNumber of Mines: 12\nRemove mine: \nEnter row: 0\nEnter co
- l: 4\nRemoved mine at location [0][4]\n\nNumber Grid: \n0 0 0 0 0 0 1 1 1 
- 0 \n0 0 0 1 1 2 2 9 1 0 \n0 0 0 1 9 2 9 2 1 0 \n0 0 0 1 2 3 2 1 0 0 \n0 1 
- 2 2 2 9 2 1 0 0 \n1 3 9 9 2 2 9 1 0 0 \n9 3 9 3 1 1 1 1 0 0 \n1 2 1 1 0 1 
- 1 1 0 0 \n0 0 0 0 0 2 9 2 0 0 \n0 0 0 0 0 2 9 2 0 0 \n\nNumber of Mines: 1
- 1\nRemove mine: \nEnter row: 0\nEnter col: 0\nInvalid\, no mine at locatio
- n [0][0]\n\nNumber Grid: \n0 0 0 0 0 0 1 1 1 0 \n0 0 0 1 1 2 2 9 1 0 \n0 0
-  0 1 9 2 9 2 1 0 \n0 0 0 1 2 3 2 1 0 0 \n0 1 2 2 2 9 2 1 0 0 \n1 3 9 9 2 2
-  9 1 0 0 \n9 3 9 3 1 1 1 1 0 0 \n1 2 1 1 0 1 1 1 0 0 \n0 0 0 0 0 2 9 2 0 0
-  \n0 0 0 0 0 2 9 2 0 0 \n\nNumber of Mines: 11\nRemove mine: \nEnter row: 
- \n</pre>\n<p>&nbsp\;</p>\n</div>\n</div>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220302T123700Z
-UID:event-assignment-2600396
-DTSTART:20220219T055800Z
-DTEND:20220219T055800Z
-DESCRIPTION:
-SUMMARY:One Dimensional Retest MC [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2600396
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220219T060000Z
-UID:event-assignment-2744238
-DTSTART;VALUE=DATE:20220218T232900
-DTEND;VALUE=DATE:20220218T235900
-DESCRIPTION:Submit a picture of your outfit here!
-SUMMARY:Friday: Nothing Beats Kindness - Wear Your Hebron Gear [StuCo 21-22
- ]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2744238
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your outfit here!</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20211216T210700Z
 UID:event-calendar-event-520821
 DTSTART;VALUE=DATE:20220221
@@ -2132,6 +1889,15 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Please open yesterday's notes.&nbsp\; We wi
  verses.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220321T005900Z
+UID:event-assignment-2534521
+DTSTART;VALUE=DATE:20220325T232900
+DTEND;VALUE=DATE:20220325T235900
+SUMMARY:2D Arrays AP Review (Redux) [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=03&year=2022#assignment_2534521
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220306T020400Z
 UID:event-assignment-2776016
 DTSTART;VALUE=DATE:20220325T232900
@@ -3347,7 +3113,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220331
 DTEND;TZID=America/Chicago:20220401
@@ -3355,7 +3121,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3363,7 +3129,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3371,7 +3137,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3379,7 +3145,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3387,7 +3153,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3395,7 +3161,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3403,7 +3169,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3411,7 +3177,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3419,7 +3185,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:687970843268101989711610132409911111011641
 DTSTART;TZID=America/Chicago:20220322T160000
 DTEND;TZID=America/Chicago:20220322T163000
@@ -3427,7 +3193,7 @@ SUMMARY:DOFT Debate (cont)
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220320T073723Z
+DTSTAMP:20220321T073014Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220329T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
