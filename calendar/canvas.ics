@@ -6,123 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220302T123700Z
-UID:event-assignment-2600669
-DTSTART:20220225T220000Z
-DTEND:20220225T220000Z
-DESCRIPTION:[Physics_Space_Station.doc] (https://lisdtx.instructure.com/cou
- rses/172858/files/20028542/download?wrap=1)\n\nÂ \n\n[Calculations for Spa
- ce Ship Project.docx] (https://lisdtx.instructure.com/courses/172858/files
- /20028592/download?wrap=1)\n\nÂ \n\n[space_station_problems.doc] (https://
- lisdtx.instructure.com/courses/172858/files/20028590/download?wrap=1)
-SUMMARY:Space Station Project [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2600669
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Physics_Space_Station.doc" href="https://lisdtx.instr
- ucture.com/courses/172858/files/20028542/download?wrap=1" target="_blank" 
- data-canvas-previewable="false" data-api-endpoint="https://lisdtx.instruct
- ure.com/api/v1/courses/172858/files/20028542" data-api-returntype="File">P
- hysics_Space_Station.doc</a></p>\n<p>&nbsp\;</p>\n<p><a class="instructure
- _file_link instructure_scribd_file" title="Calculations for Space Ship Pro
- ject.docx" href="https://lisdtx.instructure.com/courses/172858/files/20028
- 592/download?wrap=1" target="_blank" data-canvas-previewable="false" data-
- api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172858/files/2
- 0028592" data-api-returntype="File">Calculations for Space Ship Project.do
- cx</a></p>\n<p>&nbsp\;</p>\n<p><a class="instructure_file_link instructure
- _scribd_file" title="space_station_problems.doc" href="https://lisdtx.inst
- ructure.com/courses/172858/files/20028590/download?wrap=1" target="_blank"
-  data-canvas-previewable="false" data-api-endpoint="https://lisdtx.instruc
- ture.com/api/v1/courses/172858/files/20028590" data-api-returntype="File">
- space_station_problems.doc</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220325T130900Z
-UID:event-assignment-2537926
-DTSTART;VALUE=DATE:20220225T232900
-DTEND;VALUE=DATE:20220225T235900
-DESCRIPTION:[5.7-5.8 Completing Square\, Quad Formula Practice.pdf] (https:
- //lisdtx.instructure.com/courses/172585/files/19814621/download?wrap=1)
-SUMMARY:HW DUE 5.7-5.8 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2537926
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.7-5.8 Completing Square\, Quad Formula Practice.pdf
- " href="https://lisdtx.instructure.com/courses/172585/files/19814621/downl
- oad?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v1/cours
- es/172585/files/19814621" data-api-returntype="File">5.7-5.8 Completing Sq
- uare\, Quad Formula Practice.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220215T154000Z
-UID:event-assignment-2746062
-DTSTART;VALUE=DATE:20220225T232900
-DTEND;VALUE=DATE:20220225T235900
-DESCRIPTION:Here are the notes for [Forces and Newton's First Law] (https:/
- /lisdtx.instructure.com/courses/172858/files/21223410?wrap=1).Â 
-SUMMARY:Forces and Newton's First Law [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2746062
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the notes for <a class="instructur
- e_file_link instructure_scribd_file inline_disabled" title="Forces and New
- ton's First Law.pdf" href="https://lisdtx.instructure.com/courses/172858/f
- iles/21223410?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/172858/files/21223410" data-api-returntype="F
- ile">Forces and Newton's First Law</a>.&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T195500Z
-UID:event-assignment-2766521
-DTSTART;VALUE=DATE:20220225T232900
-DTEND;VALUE=DATE:20220225T235900
-DESCRIPTION:
-SUMMARY:FRQ Packet - ScrambleWord and Grayscale [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2766521
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220215T154100Z
-UID:event-assignment-2746052
-DTSTART;VALUE=DATE:20220225T232900
-DTEND;VALUE=DATE:20220225T235900
-DESCRIPTION:Here are the materials for :\n\n[Types of Forces] (https://lisd
- tx.instructure.com/courses/172858/files/21223150?wrap=1)\n\n[Newton's 2nd 
- Law] (https://lisdtx.instructure.com/courses/172858/files/21223151?wrap=1)
-  (notes only)\n\n[Normal Forces] (https://lisdtx.instructure.com/courses/1
- 72858/files/21223148?wrap=1)\n\nÂ 
-SUMMARY:Types of Forces\, Newton's 2nd Law\, Normal Forces [Physics Hon-JEN
- KINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=02&year=2022#assignment_2746052
-X-ALT-DESC;FMTTYPE=text/html:<p>Here are the materials for :</p>\n<p><a cla
- ss="instructure_file_link instructure_scribd_file inline_disabled" title="
- Types of Forces.pdf" href="https://lisdtx.instructure.com/courses/172858/f
- iles/21223150?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/172858/files/21223150" data-api-returntype="F
- ile">Types of Forces</a></p>\n<p><a class="instructure_file_link instructu
- re_scribd_file inline_disabled" title="Newton's Second Law.pdf" href="http
- s://lisdtx.instructure.com/courses/172858/files/21223151?wrap=1" target="_
- blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
- 2858/files/21223151" data-api-returntype="File">Newton's 2nd Law</a> (note
- s only)</p>\n<p><a class="instructure_file_link instructure_scribd_file in
- line_disabled" title="Normal Force.pdf" href="https://lisdtx.instructure.c
- om/courses/172858/files/21223148?wrap=1" target="_blank" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/172858/files/21223148" dat
- a-api-returntype="File">Normal Forces</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220325T130900Z
-UID:event-assignment-2765268
-DTSTART;VALUE=DATE:20220225T232900
-DTEND;VALUE=DATE:20220225T235900
-DESCRIPTION:
-SUMMARY:Quiz 5.5-5.8 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=02&year=2022#assignment_2765268
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220225T150900Z
 UID:event-calendar-event-520532
 DTSTART;VALUE=DATE:20220228
@@ -370,7 +253,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220304T140900Z
+DTSTAMP:20220328T115000Z
 UID:event-assignment-2772544
 DTSTART;VALUE=DATE:20220302T232900
 DTEND;VALUE=DATE:20220302T235900
@@ -1238,7 +1121,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T165300Z
+DTSTAMP:20220328T115100Z
 UID:event-assignment-2600558
 DTSTART:20220311T183000Z
 DTEND:20220311T183000Z
@@ -1640,7 +1523,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  rstanding.pdf</a> &nbsp\;&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T204300Z
+DTSTAMP:20220328T115800Z
 UID:event-assignment-2815617
 DTSTART;VALUE=DATE:20220322T232900
 DTEND;VALUE=DATE:20220322T235900
@@ -1810,7 +1693,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture here of you at the Pre-UIL
   Concert!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T194300Z
+DTSTAMP:20220328T115800Z
 UID:event-assignment-2817871
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1854,7 +1737,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:<p>Complete in Sam Cengage!</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220324T155600Z
+DTSTAMP:20220328T115800Z
 UID:event-assignment-2819255
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1990,6 +1873,17 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9814660/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com
  /api/v1/courses/172585/files/19814660" data-api-returntype="File">Practice
   6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220328T120000Z
+UID:event-assignment-2822369
+DTSTART;VALUE=DATE:20220328T232900
+DTEND;VALUE=DATE:20220328T235900
+DESCRIPTION:
+SUMMARY:Momentum Pre-Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=03&year=2022#assignment_2822369
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
@@ -3155,7 +3049,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3163,7 +3057,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3171,7 +3065,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3179,7 +3073,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3187,7 +3081,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3195,7 +3089,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3203,7 +3097,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3211,7 +3105,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3219,7 +3113,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3227,7 +3121,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3235,7 +3129,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3243,7 +3137,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3251,7 +3145,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220327T133044Z
+DTSTAMP:20220328T073032Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
