@@ -6,101 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220317T145300Z
-UID:event-assignment-2760987
-DTSTART:20220228T142000Z
-DTEND:20220228T142000Z
-DESCRIPTION:--------\nPart 1:Â \n--------\n\nÂ \n\nÂ \n\n--------\nPart 2:
- Â \n--------
-SUMMARY:Autoboxing / Unboxing Quiz [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2760987
-X-ALT-DESC;FMTTYPE=text/html:<h2>Part 1:&nbsp\;</h2>\n<p><iframe title="You
- Tube video player" src="https://www.youtube.com/embed/rztTYlYlN64" width="
- 560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer\;
-  autoplay\; clipboard-write\; encrypted-media\; gyroscope\; picture-in-pic
- ture"></iframe></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<h2>Part 2:&nbsp\;</h
- 2>\n<p><iframe title="YouTube video player" src="https://www.youtube.com/e
- mbed/wf8BJru3Fhg" width="560" height="315" allowfullscreen="allowfullscree
- n" allow="accelerometer\; autoplay\; clipboard-write\; encrypted-media\; g
- yroscope\; picture-in-picture"></iframe></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220317T145300Z
-UID:event-assignment-2760986
-DTSTART:20220228T142000Z
-DTEND:20220228T142000Z
-DESCRIPTION:Watch the video here:Â \n\nhttps://www.youtube.com/watch?v=F7Zb
- fpD1V7w&list=PLEH2kL-crMGHcFQNuDt2YkrUZNI7-5asF&index=2Â 
-SUMMARY:Integer Wrapper Class Quiz [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=02&year=2022#assignment_2760986
-X-ALT-DESC;FMTTYPE=text/html:<p>Watch the video here:&nbsp\;</p>\n<p><a hre
- f="https://www.youtube.com/watch?v=F7ZbfpD1V7w&amp\;list=PLEH2kL-crMGHcFQN
- uDt2YkrUZNI7-5asF&amp\;index=2" target="_blank">https://www.youtube.com/wa
- tch?v=F7ZbfpD1V7w&amp\;list=PLEH2kL-crMGHcFQNuDt2YkrUZNI7-5asF&amp\;index=
- 2</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T194600Z
-UID:event-assignment-2767725
-DTSTART;VALUE=DATE:20220228T232900
-DTEND;VALUE=DATE:20220228T235900
-DESCRIPTION:
-SUMMARY:2/28: Hawkfest Flag Colors Grade Competition [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2767725
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T193200Z
-UID:event-assignment-2728778
-DTSTART;VALUE=DATE:20220228T232900
-DTEND;VALUE=DATE:20220228T235900
-DESCRIPTION:Submit a picture of your receipt here :)Â \n\n1 DOLLAR = 1 POIN
- T\n\nMAX 5 POINTS
-SUMMARY:American Heart Association Fundraiser  [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=02&year=2022#assignment_2728778
-X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your receipt here :)&nb
- sp\;</p>\n<p>1 DOLLAR = 1 POINT</p>\n<p>MAX 5 POINTS</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220304T160000Z
-UID:event-assignment-2755670
-DTSTART;VALUE=DATE:20220228T232900
-DTEND;VALUE=DATE:20220228T235900
-SUMMARY:Customizing the Desktop & Task Menu [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=02&year=2022#assignment_2755670
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220310T162900Z
-UID:event-assignment-2755671
-DTSTART;VALUE=DATE:20220228T232900
-DTEND;VALUE=DATE:20220228T235900
-SUMMARY:Customizing the Start Menu - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=02&year=2022#assignment_2755671
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220225T150900Z
-UID:event-calendar-event-520371
-DTSTART;VALUE=DATE:20220301
-DTEND;VALUE=DATE:20220302
-DESCRIPTION:[5.5 - 5.9 Solving Quadratics Review.pdf] (https://lisdtx.instr
- ucture.com/courses/172585/files/19814630/preview)
-SUMMARY:Topic 5A Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520371
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.5 - 5.9 Solving Quadratics Review.pdf" href="https:
- //lisdtx.instructure.com/courses/172585/files/19814630/preview" target="_b
- lank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172
- 585/files/19814630" data-api-returntype="File">5.5 - 5.9 Solving Quadratic
- s Review.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220325T130900Z
 UID:event-assignment-2537927
 DTSTART;VALUE=DATE:20220301T232900
@@ -1498,7 +1403,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  rstanding.pdf</a> &nbsp\;&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T115800Z
+DTSTAMP:20220330T134200Z
 UID:event-assignment-2815617
 DTSTART;VALUE=DATE:20220322T232900
 DTEND;VALUE=DATE:20220322T235900
@@ -1679,6 +1584,18 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220330T130800Z
+UID:event-assignment-2825846
+DTSTART;VALUE=DATE:20220324T232900
+DTEND;VALUE=DATE:20220324T235900
+DESCRIPTION:Turn in corrections on this assignment page.
+SUMMARY:FRQ - Hotel\, Meal\, SeatingChart [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=03&year=2022#assignment_2825846
+X-ALT-DESC;FMTTYPE=text/html:<p>Turn in corrections on this assignment page
+ .</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220323T153000Z
 UID:event-assignment-2817257
 DTSTART;VALUE=DATE:20220324T232900
@@ -1710,15 +1627,6 @@ SUMMARY:Sam Unit 1 Training [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
  month=03&year=2022#assignment_2817255
 X-ALT-DESC;FMTTYPE=text/html:<p>Complete in Sam Cengage!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220329T183900Z
-UID:event-assignment-2825846
-DTSTART;VALUE=DATE:20220324T232900
-DTEND;VALUE=DATE:20220324T235900
-SUMMARY:FRQ - Hotel\, Meal\, SeatingChart [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=03&year=2022#assignment_2825846
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220328T115800Z
@@ -1902,7 +1810,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  on Student File Unit 5.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T120000Z
+DTSTAMP:20220330T134600Z
 UID:event-assignment-2822369
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -2020,6 +1928,39 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
  eatre's Varsity UIL One Act Play Performance &amp\; JV Spring Show for 4 p
  oints!</p>\n<p>&nbsp\;</p>\n<p>Where? HHS Auditorium</p>\n<p>When? 7pm on 
  March 1st and 30th</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T173800Z
+UID:event-assignment-2827439
+DTSTART;VALUE=DATE:20220330T232900
+DTEND;VALUE=DATE:20220330T235900
+DESCRIPTION:
+SUMMARY:Momentum FRQ Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=03&year=2022#assignment_2827439
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T173800Z
+UID:event-assignment-2827438
+DTSTART;VALUE=DATE:20220330T232900
+DTEND;VALUE=DATE:20220330T235900
+DESCRIPTION:
+SUMMARY:Momentum MC Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=03&year=2022#assignment_2827438
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220330T160200Z
+UID:event-assignment-2827056
+DTSTART;VALUE=DATE:20220330T232900
+DTEND;VALUE=DATE:20220330T235900
+DESCRIPTION:
+SUMMARY:WATER BOTTLE WEDNESDAY!!! [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=03&year=2022#assignment_2827056
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
@@ -3134,7 +3075,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3142,7 +3083,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3150,7 +3091,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3158,7 +3099,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3166,7 +3107,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3174,7 +3115,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3182,7 +3123,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3190,7 +3131,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3198,7 +3139,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3206,7 +3147,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3214,7 +3155,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3222,7 +3163,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3230,7 +3171,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T073016Z
+DTSTAMP:20220331T073127Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
