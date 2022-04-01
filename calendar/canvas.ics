@@ -6,82 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220325T130900Z
-UID:event-assignment-2537927
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
-DESCRIPTION:[5.9 Complex Numbers Practice .pdf] (https://lisdtx.instructure
- .com/courses/172585/files/19814628/download?wrap=1)
-SUMMARY:HW DUE 5.9 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#assignment_2537927
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.9 Complex Numbers Practice .pdf" href="https://lisd
- tx.instructure.com/courses/172585/files/19814628/download?wrap=1" data-api
- -endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981
- 4628" data-api-returntype="File">5.9 Complex Numbers Practice .pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T195300Z
-UID:event-assignment-2767726
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
-DESCRIPTION:
-SUMMARY:3/1: Hawkfest Dress like an International Celebrity  [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2767726
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T195200Z
-UID:event-assignment-2746811
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
-DESCRIPTION:Raise awareness and fund the fight against heart disease and st
- roke by helping us raise money for the AHA! The fundraiser ends February 2
- 8th and every dollar donated is equivalent to a point with a max of 5 poin
- ts! You can donate by using this [linkÂ (Links to an external site.)] (htt
- ps://www.heart.org/en/get-involved/ways-to-give?form=FUNQCSERKQD&fundraise
- r=NNAGQFMH).\n\nUpload a screenshot of your donation!
-SUMMARY:American Heart Association Fundraiser [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2746811
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="color: var(--ic-brand-font-col
- or-dark)\; font-family: inherit\; font-size: 1rem\; ">Raise awareness and 
- fund the fight against heart disease and stroke by helping us raise money 
- for the AHA! The fundraiser ends February 28th and every dollar donated is
-  equivalent to a point with a max of 5 points! You can donate by using thi
- s </span><a class="inline_disabled external" style="font-family: inherit\;
-  font-size: 1rem\; " href="https://www.heart.org/en/get-involved/ways-to-g
- ive?form=FUNQCSERKQD&amp\;fundraiser=NNAGQFMH" target="_blank" data-uw-rm-
- brl="false" aria-label="link (Links to an external site.) - opens in new t
- ab" data-uw-rm-ext-link="">link<span class="screenreader-only">&nbsp\;(Lin
- ks to an external site.)</span></a><span style="color: var(--ic-brand-font
- -color-dark)\; font-family: inherit\; font-size: 1rem\; ">.<br></span></p>
- \n<p><span style="color: var(--ic-brand-font-color-dark)\; font-family: in
- herit\; font-size: 1rem\; ">Upload a screenshot of your donation!</span></
- p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T170200Z
-UID:event-assignment-2755675
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
-SUMMARY:Unit 3 Files & Folders - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=03&year=2022#assignment_2755675
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220304T160000Z
-UID:event-assignment-2755676
-DTSTART;VALUE=DATE:20220301T232900
-DTEND;VALUE=DATE:20220301T235900
-SUMMARY:Unit 4 Utilizing Windows 10 Features - Project [Bus Info Mgmt I-GRA
- HAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=03&year=2022#assignment_2755676
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220120T191400Z
 UID:event-assignment-2716291
 DTSTART;VALUE=DATE:20220302T232900
@@ -1885,7 +1809,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   (1).docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T201600Z
+DTSTAMP:20220331T153100Z
 UID:event-assignment-2825936
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -1952,7 +1876,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T160200Z
+DTSTAMP:20220331T181100Z
 UID:event-assignment-2827056
 DTSTART;VALUE=DATE:20220330T232900
 DTEND;VALUE=DATE:20220330T235900
@@ -3075,7 +2999,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3083,7 +3007,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3091,7 +3015,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3099,7 +3023,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3107,7 +3031,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3115,7 +3039,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3123,7 +3047,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3131,7 +3055,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3139,7 +3063,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3147,7 +3071,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3155,7 +3079,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3163,7 +3087,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3171,7 +3095,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220331T073127Z
+DTSTAMP:20220401T073012Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
