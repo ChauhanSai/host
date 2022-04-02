@@ -6,110 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220120T191400Z
-UID:event-assignment-2716291
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:
-SUMMARY:3/2 Water Bottle Wednesday  [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2716291
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220310T185200Z
-UID:event-assignment-2767729
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:
-SUMMARY:3/2: Hawkfest Represent the Flag of your Birth/Origin Country [StuC
- o 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=03&year=2022#assignment_2767729
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220304T230400Z
-UID:event-assignment-2774473
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:[Forces Re-Test FRQ S22.pdf] (https://lisdtx.instructure.com/co
- urses/172858/files/21717793?wrap=1)Â 
-SUMMARY:Forces FRQ S22 [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=03&year=2022#assignment_2774473
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Forces Re-Test FRQ S22.pdf" href="htt
- ps://lisdtx.instructure.com/courses/172858/files/21717793?wrap=1" target="
- _blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.
- instructure.com/api/v1/courses/172858/files/21717793" data-api-returntype=
- "File">Forces Re-Test FRQ S22.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220325T131000Z
-UID:event-assignment-2771547
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:
-SUMMARY:5A Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#assignment_2771547
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220328T115000Z
-UID:event-assignment-2772544
-DTSTART;VALUE=DATE:20220302T232900
-DTEND;VALUE=DATE:20220302T235900
-DESCRIPTION:
-SUMMARY:Force MC S22 [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=03&year=2022#assignment_2772544
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220225T150900Z
-UID:event-calendar-event-520462
-DTSTART;VALUE=DATE:20220303
-DTEND;VALUE=DATE:20220304
-DESCRIPTION:[5.1 & 5.2 Graphing Quadratics Blank Notes.pdf] (https://lisdtx
- .instructure.com/courses/172585/files/19814575/preview)\n\nHW: [Practice 5
- .1 - 5.2 Graphing Quadratics Practice PAP.pdf] (https://lisdtx.instructure
- .com/courses/172585/files/19814634/preview)\n\nÂ 
-SUMMARY:5.1 - 5.2 Quadratic Graphing Basics [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520462
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.1 &amp\; 5.2 Graphing Quadratics Blank Notes.pdf" h
- ref="https://lisdtx.instructure.com/courses/172585/files/19814575/preview"
-  target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
- courses/172585/files/19814575" data-api-returntype="File">5.1 &amp\; 5.2 G
- raphing Quadratics Blank Notes.pdf</a></p>\n<p>HW: <a class="instructure_f
- ile_link instructure_scribd_file" title="Practice 5.1 - 5.2 Graphing Quadr
- atics Practice PAP.pdf" href="https://lisdtx.instructure.com/courses/17258
- 5/files/19814634/preview" target="_blank" data-api-endpoint="https://lisdt
- x.instructure.com/api/v1/courses/172585/files/19814634" data-api-returntyp
- e="File">Practice 5.1 - 5.2 Graphing Quadratics Practice PAP.pdf</a></p>\n
- <p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220225T150900Z
-UID:event-calendar-event-520369
-DTSTART;VALUE=DATE:20220303
-DTEND;VALUE=DATE:20220304
-DESCRIPTION:[5.1-5.4\, 5.10-5.11 Review.pdf] (https://lisdtx.instructure.co
- m/courses/172585/files/19814576/preview)
-SUMMARY:Topic 5B Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520369
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="5.1-5.4\, 5.10-5.11  Review.pdf" href="https://lisdtx
- .instructure.com/courses/172585/files/19814576/preview" target="_blank" da
- ta-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/file
- s/19814576" data-api-returntype="File">5.1-5.4\, 5.10-5.11 Review.pdf</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220308T195700Z
 UID:event-assignment-2759002
 DTSTART;VALUE=DATE:20220303T232900
@@ -1065,7 +961,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=03&year=2022#calendar_event_520826
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T201600Z
+DTSTAMP:20220401T140700Z
 UID:event-assignment-2537907
 DTSTART;VALUE=DATE:20220321T232900
 DTEND;VALUE=DATE:20220321T235900
@@ -1172,7 +1068,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="text-align: center\;"><strong><span
  i>\n</ul>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T150600Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2774867
 DTSTART;VALUE=DATE:20220321T232900
 DTEND;VALUE=DATE:20220321T235900
@@ -1198,7 +1094,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  x</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T152100Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2774868
 DTSTART;VALUE=DATE:20220321T232900
 DTEND;VALUE=DATE:20220321T235900
@@ -1257,7 +1153,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220322T152400Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2774869
 DTSTART;VALUE=DATE:20220322T232900
 DTEND;VALUE=DATE:20220322T235900
@@ -1284,7 +1180,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ormatting Text Business Partnership Plan.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T154600Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2813209
 DTSTART;VALUE=DATE:20220322T232900
 DTEND;VALUE=DATE:20220322T235900
@@ -1520,7 +1416,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Turn in corrections on this assignment page
  .</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T153000Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2817257
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1531,7 +1427,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T153000Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2817258
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1542,7 +1438,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T152900Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2817255
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1664,7 +1560,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T201600Z
+DTSTAMP:20220401T161800Z
 UID:event-assignment-2537928
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -1682,7 +1578,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T145900Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2819932
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -1707,7 +1603,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  roject - Business Letter Student File Unit 4.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T150000Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2819933
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -1734,7 +1630,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  on Student File Unit 5.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T134600Z
+DTSTAMP:20220401T130600Z
 UID:event-assignment-2822369
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -1745,7 +1641,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T201600Z
+DTSTAMP:20220401T161800Z
 UID:event-assignment-2537929
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -1762,7 +1658,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  10.4 Solving Roots and Cubes.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T151000Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2819936
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -1780,7 +1676,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   Partnership Plan.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220329T153700Z
+DTSTAMP:20220401T164000Z
 UID:event-assignment-2819937
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -1854,7 +1750,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Upload a picture of you attending Hebron Th
  March 1st and 30th</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T173800Z
+DTSTAMP:20220401T130600Z
 UID:event-assignment-2827439
 DTSTART;VALUE=DATE:20220330T232900
 DTEND;VALUE=DATE:20220330T235900
@@ -1865,7 +1761,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T173800Z
+DTSTAMP:20220401T130600Z
 UID:event-assignment-2827438
 DTSTART;VALUE=DATE:20220330T232900
 DTEND;VALUE=DATE:20220330T235900
@@ -1927,6 +1823,18 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your donations - the po
  649/files/21723696" data-api-returntype="File">Diaper Drive Flyer</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220401T125200Z
+UID:event-assignment-2829587
+DTSTART;VALUE=DATE:20220331T232900
+DTEND;VALUE=DATE:20220331T235900
+DESCRIPTION:
+SUMMARY:FRQ GameSpinner\, Hailstone\, ReviewCollector\, Theater [AP Comp Sc
+ i - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=03&year=2022#assignment_2829587
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520514
 DTSTART;VALUE=DATE:20220401
@@ -1979,6 +1887,54 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220401T152100Z
+UID:event-assignment-2830136
+DTSTART;VALUE=DATE:20220401T232900
+DTEND;VALUE=DATE:20220401T235900
+DESCRIPTION:[Project - Business Letterhead.pdf] (https://lisdtx.instructure
+ .com/courses/190905/files/22323048?wrap=1)Â \n\n[Project - Business Letter
+ head The Element Logo Student File.png] (https://lisdtx.instructure.com/co
+ urses/190905/files/22323083?wrap=1)
+SUMMARY:Unit 8 Project - Business Letterhead [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2830136
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Business Letterhead.pdf" hr
+ ef="https://lisdtx.instructure.com/courses/190905/files/22323048?wrap=1" t
+ arget="_blank" data-canvas-previewable="false" data-api-endpoint="https://
+ lisdtx.instructure.com/api/v1/courses/190905/files/22323048" data-api-retu
+ rntype="File">Project - Business Letterhead.pdf</a>&nbsp\;</p>\n<p><a titl
+ e="Link" href="https://lisdtx.instructure.com/courses/190905/files/2232308
+ 3?wrap=1" target="_blank" data-api-endpoint="https://lisdtx.instructure.co
+ m/api/v1/courses/190905/files/22323083" data-api-returntype="File">Project
+  - Business Letterhead The Element Logo Student File.png</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220401T152700Z
+UID:event-assignment-2830184
+DTSTART;VALUE=DATE:20220401T232900
+DTEND;VALUE=DATE:20220401T235900
+DESCRIPTION:[Project - Navigating Documents.pdf] (https://lisdtx.instructur
+ e.com/courses/190905/files/22325140?wrap=1)Â \n\n[Project - Navigating Doc
+ uments Student File.docx] (https://lisdtx.instructure.com/courses/190905/f
+ iles/22325167?wrap=1)Â 
+SUMMARY:Unit 9 Project - Navigating Documents [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2830184
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Navigating Documents.pdf" h
+ ref="https://lisdtx.instructure.com/courses/190905/files/22325140?wrap=1" 
+ target="_blank" data-canvas-previewable="false" data-api-endpoint="https:/
+ /lisdtx.instructure.com/api/v1/courses/190905/files/22325140" data-api-ret
+ urntype="File">Project - Navigating Documents.pdf</a>&nbsp\;</p>\n<p><a cl
+ ass="instructure_file_link instructure_scribd_file inline_disabled" title=
+ "Project - Navigating Documents Student File.docx" href="https://lisdtx.in
+ structure.com/courses/190905/files/22325167?wrap=1" target="_blank" data-c
+ anvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.co
+ m/api/v1/courses/190905/files/22325167" data-api-returntype="File">Project
+  - Navigating Documents Student File.docx</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
 UID:event-calendar-event-520520
 DTSTART;VALUE=DATE:20220404
@@ -2020,6 +1976,780 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  68/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/
  v1/courses/172585/files/19814668" data-api-returntype="File">Practice 8.1 
  &amp\; 8.2 Graph Polynomials\, +\, -\, _ PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220401T142900Z
+UID:event-assignment-2827358
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:**********\nDirections\n**********\n\nFor this major lab\, you 
+ will implement some of the features from the game Carcassonne.Â \n\nIn the
+  80 point version\, you are given an already complete board of tiles and m
+ ust write a method to determine the length of a road.\n\nFor 90 points\, y
+ ou will complete the RoadBuilder class and recursively place tiles\, where
+  each tile has at least two edges with a road.\n\nThe final version of the
+  lab will recursively place tiles with any combination of roads\, cities\,
+  and fields on each edge.\n\nEach version will make use of the starter cod
+ e below. See each tab for starter code specific to each version and more d
+ etailed instructions.\n\n* [Starter Code] (#fragment-1)\n\n* [80 - RoadCou
+ nter] (#fragment-2)\n\n* [90 - RoadBuilder] (#fragment-3)\n\n* [100 - Carc
+ assonne] (#fragment-4)\n\n*************\nStarter Files\n*************\n\nT
+ ile.java\n\n/** This class represents a single tile from the game Carcasso
+ nne.\n* A tile in Carcassonne has on each of its four edges a feature. An 
+ edge can be a field\, road\, or city.\n* The edges array stores the values
+  for each of the edges of the tile as 'F'\, 'R'\, or 'C'.\n* You can expec
+ t edges array to look something like {'R'\,'F'\,'C'\,'R'}\n* where the ord
+ er of edges is [up\, right\, down\, left]. In this example\, the down edge
+  is a city.\n*\n* This class contains accessor methods to return the value
+  of each edge.\n*\n* getTileId() will return the order in which the tile o
+ bject was created.\n*\n* toString() returns a text representation of the o
+ bject with all four edges and the tileId.\n*\n* rotateTile() will perform 
+ a clockwise rotation of the edges on the tile.\n* {'R'\,'F'\,'C'\,'R'} aft
+ er one rotation -> {'R'\,'R'\,'F'\,'C'}\n* Up Ri Dn Lf Up Ri Dn Lf\n*/\npu
+ blic class Tile {\nprivate char[] edges\;\nprivate static int numTiles = 0
+ \; //This static value is increased when any Tile object is created and as
+ signed to tileId.\nprivate int tileId\;\n\npublic Tile(char[] edges){\nthi
+ s.edges = edges\;\nnumTiles++\;\ntileId = numTiles\;\n}\n\npublic int getT
+ ileId(){\nreturn tileId\;\n}\npublic char getUpEdge(){\nreturn edges[0]\;\
+ n}\npublic char getRightEdge(){\nreturn edges[1]\;\n}\npublic char getDown
+ Edge(){\nreturn edges[2]\;\n}\npublic char getLeftEdge(){\nreturn edges[3]
+ \;\n}\n\n/** rotateTile()\n* postcondition: the tile has been rotated 90de
+ g clockwise.\n*/\npublic void rotateTile(){\nchar temp = edges[3]\;\nfor(i
+ nt i = edges.length-1\; i > 0\; i--){\nedges[i] = edges[i-1]\;\n}\nedges[0
+ ] = temp\;\n}\n\npublic String toString(){\nreturn "U:" + getUpEdge() + " 
+ Ri:" + getRightEdge() + " D:" + getDownEdge() + " L:" + getLeftEdge() + " 
+ #" +tileId\;\n}\n}\n\nGameRunner.java\n\nimport javax.swing.*\;\nimport ja
+ va.awt.*\;\nimport java.util.ArrayList\;\n\npublic class GameRunner extend
+ s JFrame {\npublic static final int WIDTH = 580\;\npublic static final int
+  HEIGHT = 600\;\n\npublic GameRunner(Tile[][] tiles){\nsuper("Carcassonne"
+ )\;\nsetSize(WIDTH\, HEIGHT)\;\ngetContentPane().add(new BoardCanvas(tiles
+ ))\;\nsetVisible(true)\;\n}\n\npublic static void main(String[] args) {\n/
+ /Uncomment the lines below as you are ready to test your code.\n\n//Carcas
+ sonne carcassonne = new Carcassonne()\;\n//GameRunner run = new GameRunner
+ (carcassonne.getTiles())\;\n\n//RoadBuilder roadBuilder = new RoadBuilder(
+ )\;\n//GameRunner run = new GameRunner(roadBuilder.getTiles())\;\n\n//Road
+ Counter roadCounter = new RoadCounter()\;\n// GameRunner run = new GameRun
+ ner(roadCounter.getTiles())\;\n\n}\n\npublic static Tile[][] testTiles(){\
+ nTile[][] tiles = new Tile[5][5]\;\ntiles[0][0] = new Tile(new char[]{'C'\
+ ,'C'\,'C'\,'C'})\;\ntiles[0][1] = new Tile(new char[]{'R'\,'F'\,'F'\,'F'})
+ \;\ntiles[0][2] = new Tile(new char[]{'F'\,'R'\,'F'\,'F'})\;\ntiles[0][3] 
+ = new Tile(new char[]{'F'\,'F'\,'R'\,'F'})\;\ntiles[0][4] = new Tile(new c
+ har[]{'F'\,'F'\,'F'\,'R'})\;\n\ntiles[1][0] = new Tile(new char[]{'R'\,'R'
+ \,'R'\,'F'})\;\ntiles[1][1] = new Tile(new char[]{'R'\,'R'\,'F'\,'F'})\;\n
+ tiles[1][2] = new Tile(new char[]{'F'\,'R'\,'R'\,'F'})\;\ntiles[1][3] = ne
+ w Tile(new char[]{'F'\,'F'\,'R'\,'R'})\;\ntiles[1][4] = new Tile(new char[
+ ]{'R'\,'F'\,'F'\,'R'})\;\n\ntiles[2][0] = new Tile(new char[]{'F'\,'R'\,'R
+ '\,'R'})\;\ntiles[2][1] = new Tile(new char[]{'R'\,'F'\,'R'\,'R'})\;\ntile
+ s[2][2] = new Tile(new char[]{'R'\,'R'\,'F'\,'R'})\;\ntiles[2][3] = new Ti
+ le(new char[]{'C'\,'F'\,'F'\,'F'})\;\ntiles[2][4] = new Tile(new char[]{'F
+ '\,'C'\,'F'\,'F'})\;\n\ntiles[3][0] = new Tile(new char[]{'F'\,'F'\,'C'\,'
+ F'})\;\ntiles[3][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'C'})\;\ntiles[3]
+ [2] = new Tile(new char[]{'C'\,'C'\,'F'\,'F'})\;\ntiles[3][3] = new Tile(n
+ ew char[]{'F'\,'C'\,'C'\,'F'})\;\ntiles[3][4] = new Tile(new char[]{'F'\,'
+ F'\,'C'\,'C'})\;\n\ntiles[4][0] = new Tile(new char[]{'C'\,'F'\,'F'\,'C'})
+ \;\ntiles[4][1] = new Tile(new char[]{'F'\,'C'\,'C'\,'C'})\;\ntiles[4][2] 
+ = new Tile(new char[]{'C'\,'F'\,'C'\,'C'})\;\ntiles[4][3] = new Tile(new c
+ har[]{'C'\,'C'\,'F'\,'C'})\;\ntiles[4][4] = new Tile(new char[]{'C'\,'C'\,
+ 'C'\,'F'})\;\nreturn tiles\;\n}\n}\n\nclass BoardCanvas extends Canvas imp
+ lements Runnable {\nprivate Tile[][] tiles\;\n\npublic BoardCanvas(Tile[][
+ ] tiles){\nthis.tiles = tiles\;\nsetBackground(Color.WHITE)\;\n}\npublic v
+ oid paint(Graphics window){\nwindow.setColor(Color.GREEN)\;\nint x = 10\;\
+ nint y = 10\;\n//tiles = testTiles()\; //tester\nfor(Tile[] row : tiles){\
+ nfor(Tile tile : row){\nif(tile == null){\nwindow.setColor(Color.black)\;\
+ nwindow.drawRect(x\,y\,100\,100)\;\n}else{\ndrawTile(window\, x\, y)\;\ndr
+ awRoads(window\, tile\, x\, y)\;\ndrawCities(window\,tile\, x\, y)\;\ndraw
+ TileId(window\, tile\,x\, y)\;\n}\nx+= 110\;\n}\nx = 10\;\ny+=110\;\n}\n}\
+ n\npublic void drawTile(Graphics window\, int x\, int y){\nwindow.setColor
+ (Color.GREEN)\;\nwindow.fillRect(x\,y\,100\,100)\;\n}\n\npublic void drawR
+ oads(Graphics window\, Tile tile\, int x\, int y){\nwindow.setColor(Color.
+ LIGHT_GRAY)\;\nArrayList list = new ArrayList<>()\;\nif(tile.getDownEdge()
+  == 'R'){\nwindow.fillRect(x+40\, y+40\, 20\, 60)\;\nlist.add(true)\;\n}\n
+ if(tile.getLeftEdge() == 'R'){\nwindow.fillRect(x\, y+40\, 60\, 20)\;\nlis
+ t.add(true)\;\n}\nif(tile.getUpEdge() == 'R'){\nwindow.fillRect(x+40\, y\,
+  20\, 60)\;\nlist.add(true)\;\n}\nif(tile.getRightEdge() == 'R'){\nwindow.
+ fillRect(x+40\, y+40\, 60\, 20)\;\nlist.add(true)\;\n}\nif(list.size() == 
+ 1){\nwindow.setColor(new Color(100\,20\,50))\;\nwindow.fillRect(x+30\, y+3
+ 0\, 40\,40)\;\n}\n}\n\npublic void drawCities(Graphics window\, Tile tile\
+ , int x\, int y){\nwindow.setColor(new Color(100\,20\,50))\;\n//All 4\nif(
+ tile.getUpEdge() == 'C' && tile.getRightEdge() == 'C' && tile.getDownEdge(
+ ) == 'C' && tile.getLeftEdge() == 'C'){\nwindow.fillRect(x\,y\,100\,100)\;
+ \n}\n\n//3's\n//bot farm\nelse if(tile.getUpEdge() == 'C' && tile.getRight
+ Edge() == 'C' && tile.getLeftEdge() == 'C'){\nwindow.fillRect(x\,y\,100\,5
+ 0)\;\nPolygon p = new Polygon()\;\np.addPoint(x\,y+100)\;\np.addPoint(x+50
+ \,y)\;\np.addPoint(x\,y)\;\nwindow.fillPolygon(p)\;\n\nPolygon p2 = new Po
+ lygon()\;\np2.addPoint(x+50\,y)\;\np2.addPoint(x+100\,y)\;\np2.addPoint(x+
+ 100\,y+100)\;\nwindow.fillPolygon(p2)\;\n}\n//left farm\nelse if(tile.getU
+ pEdge() == 'C' && tile.getRightEdge() == 'C' && tile.getDownEdge() == 'C')
+ {\nwindow.fillRect(x+50\,y\,50\,100)\;\nPolygon p = new Polygon()\;\np.add
+ Point(x+100\,y)\;\np.addPoint(x+100\,y+50)\;\np.addPoint(x\,y)\;\nwindow.f
+ illPolygon(p)\;\n\nPolygon p2 = new Polygon()\;\np2.addPoint(x\,y+100)\;\n
+ p2.addPoint(x+100\,y+50)\;\np2.addPoint(x+100\,y+100)\;\nwindow.fillPolygo
+ n(p2)\;\n}\n\n//top farm\nelse if(tile.getLeftEdge() == 'C' && tile.getRig
+ htEdge() == 'C' && tile.getDownEdge() == 'C'){\nwindow.fillRect(x\,y+50\,1
+ 00\,50)\;\nPolygon p = new Polygon()\;\np.addPoint(x\,y)\;\np.addPoint(x+5
+ 0\,y+100)\;\np.addPoint(x\,y+100)\;\nwindow.fillPolygon(p)\;\n\nPolygon p2
+  = new Polygon()\;\np2.addPoint(x+100\,y)\;\np2.addPoint(x+50\,y+100)\;\np
+ 2.addPoint(x+100\,y+100)\;\nwindow.fillPolygon(p2)\;\n}\n//right farm\nels
+ e if(tile.getLeftEdge() == 'C' && tile.getUpEdge() == 'C' && tile.getDownE
+ dge() == 'C'){\nwindow.fillRect(x\,y\,50\,100)\;\nPolygon p = new Polygon(
+ )\;\np.addPoint(x\,y)\;\np.addPoint(x+100\,y)\;\np.addPoint(x\,y+50)\;\nwi
+ ndow.fillPolygon(p)\;\n\nPolygon p2 = new Polygon()\;\np2.addPoint(x\,y+50
+ )\;\np2.addPoint(x\,y+100)\;\np2.addPoint(x+100\,y+100)\;\nwindow.fillPoly
+ gon(p2)\;\n}\n//top right\nelse if(tile.getUpEdge() == 'C' && tile.getRigh
+ tEdge() == 'C'){\nPolygon p = new Polygon()\;\np.addPoint(x\,y)\;\np.addPo
+ int(x+100\,y)\;\np.addPoint(x+100\,y+100)\;\nwindow.fillPolygon(p)\;\n}\n\
+ n//bot right\nelse if(tile.getDownEdge() == 'C' && tile.getRightEdge() == 
+ 'C'){\nPolygon p = new Polygon()\;\np.addPoint(x+100\,y)\;\np.addPoint(x\,
+ y+100)\;\np.addPoint(x+100\,y+100)\;\nwindow.fillPolygon(p)\;\n}\n\n//bot 
+ left\nelse if(tile.getDownEdge() == 'C' && tile.getLeftEdge() == 'C'){\nPo
+ lygon p = new Polygon()\;\np.addPoint(x\,y)\;\np.addPoint(x\,y+100)\;\np.a
+ ddPoint(x+100\,y+100)\;\nwindow.fillPolygon(p)\;\n}\n//top left\nelse if(t
+ ile.getUpEdge() == 'C' && tile.getLeftEdge() == 'C'){\nPolygon p = new Pol
+ ygon()\;\np.addPoint(x\,y)\;\np.addPoint(x\,y+100)\;\np.addPoint(x+100\,y)
+ \;\nwindow.fillPolygon(p)\;\n}\nelse {\nif (tile.getUpEdge() == 'C') {\nwi
+ ndow.fillArc(x\, y - 30\, 100\, 60\, 180\, 180)\;\n}\nif (tile.getRightEdg
+ e() == 'C') {\nwindow.fillArc(x + 70\, y\, 60\, 100\, 90\, 180)\;\n}\nif (
+ tile.getDownEdge() == 'C') {\nwindow.fillArc(x\, y + 70\, 100\, 60\, 0\, 1
+ 80)\;\n}\nif (tile.getLeftEdge() == 'C') {\nwindow.fillArc(x - 30\, y\, 60
+ \, 100\, 270\, 180)\;\n}\n}\n}\n\npublic void drawTileId(Graphics window\,
+  Tile tile\, int x\, int y){\nwindow.setColor(Color.BLACK)\;\nwindow.setFo
+ nt(new Font("arial"\, Font.PLAIN\, 18))\;\nwindow.drawString(""+tile.getTi
+ leId()\,x+75\, y+90 )\;\n}\n\npublic void run(){\ntry{\nThread.currentThre
+ ad().sleep(3)\;\n}catch (Exception e){\n\n}\n}\n}\n\n*******************\n
+ RoadCounter - 80pts\n*******************\n\nIn this version you will imple
+ ment the recursive method getRoadLength( ) in the class RoadCounter.\n\nge
+ tRoadLength(int r\, int c) will recursively count the total number of adja
+ cent and consecutive tiles with a road. You should intend on using Tile cl
+ ass methods like getUpEdge() in your implementation.Â \n\nExamples:\n\n[] 
+ (https://lisdtx.instructure.com/courses/202975/files/22270308/preview)Â \n
+ \nRoadCounter.java\n\npublic class RoadCounter {\nprivate Tile[][] tiles\;
+ \nprivate boolean[][] visited\;\n\npublic RoadCounter(){\nsetTiles()\;\nvi
+ sited = new boolean[5][5]\;\n\nSystem.out.println("Road length @ [1][4]: "
+  + getRoadLength(1\,4))\;\nSystem.out.println("Road length @ [0][0]: " + g
+ etRoadLength(0\,0))\;\nSystem.out.println("Road length @ [4][0]: " + getRo
+ adLength(4\,0))\;\nSystem.out.println("Road length @ [4][4]: " + getRoadLe
+ ngth(4\,4))\;\n\n}\n\npublic int getRoadLength(int r\, int c){\nreturn 0\;
+ \n}\n\npublic boolean isValid(int r\, int c){\nreturn r>=0 && r < tiles.le
+ ngth && c >= 0 && c < tiles[0].length\;\n}\n\npublic void setTiles(){\ntil
+ es = new Tile[5][5]\;\n// U R D L\ntiles[0][0] = new Tile(new char[]{'F'\,
+ 'R'\,'F'\,'F'})\;\ntiles[0][1] = new Tile(new char[]{'F'\,'R'\,'F'\,'R'})\
+ ;\ntiles[0][2] = new Tile(new char[]{'F'\,'R'\,'F'\,'R'})\;\ntiles[0][3] =
+  new Tile(new char[]{'F'\,'R'\,'F'\,'R'})\;\ntiles[0][4] = new Tile(new ch
+ ar[]{'F'\,'F'\,'F'\,'R'})\;\n\ntiles[1][0] = new Tile(new char[]{'F'\,'F'\
+ ,'F'\,'F'})\;\ntiles[1][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\nt
+ iles[1][2] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[1][3] = new
+  Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[1][4] = new Tile(new char[]
+ {'F'\,'F'\,'F'\,'F'})\;\n\ntiles[2][0] = new Tile(new char[]{'F'\,'R'\,'R'
+ \,'F'})\;\ntiles[2][1] = new Tile(new char[]{'F'\,'R'\,'F'\,'R'})\;\ntiles
+ [2][2] = new Tile(new char[]{'F'\,'F'\,'R'\,'R'})\;\ntiles[2][3] = new Til
+ e(new char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[2][4] = new Tile(new char[]{'F'
+ \,'F'\,'R'\,'F'})\;\n\ntiles[3][0] = new Tile(new char[]{'R'\,'F'\,'R'\,'F
+ '})\;\ntiles[3][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[3][
+ 2] = new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\;\ntiles[3][3] = new Tile(ne
+ w char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[3][4] = new Tile(new char[]{'R'\,'F
+ '\,'R'\,'F'})\;\n\ntiles[4][0] = new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\
+ ;\ntiles[4][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[4][2] =
+  new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\;\ntiles[4][3] = new Tile(new ch
+ ar[]{'F'\,'F'\,'F'\,'F'})\;\ntiles[4][4] = new Tile(new char[]{'R'\,'F'\,'
+ R'\,'F'})\;\n}\n\npublic Tile[][] getTiles(){\nreturn tiles\;\n}\n}\n\n***
+ ****************\nRoadBuilder - 90pts\n*******************\n\nIn this vers
+ ion you will implement the recursive method buildRoad( ) in the class Road
+ Builder.\n\nThis class contains two instance variables a 2D Array of Tile 
+ objects named tiles\, and and ArrayList of Tiles. You will recursively tak
+ e the first tile from the list and place them in the tiles matrix in the o
+ rder shown below. In this version\, you can assume that each tile has at l
+ east two edges with a road.Â \n\nYour method should work in this way:\n\n*
+  Place the first tile in the stack at location [r][c] in the matrix.Â \n\n
+ * Attempt to place the next tile at adjacent cells in this order. Top -> R
+ ight -> Bottom -> Left\n\n* As you check for a neighboring cell to place t
+ he next tile\, you will place the tile at the first edge that contains a r
+ oad.\n\n* Upon finding the first edge with a road\, rotate the next tile u
+ ntil it fits.\n\n* When the next tile will fit at the next position on the
+  board\, make a recursive call to that location.\n\nIt is possible to writ
+ e a working solution through another approach\, but following these guidel
+ ines will guarantee you match the example. Other solutions will be accepte
+ d and judged based on how well they are able to place tiles recursively.Â 
+ \n\nSee the diagram below to see how buildRoad( ) chooses where to place t
+ iles.\n\n[RoadBuilder1.PNG] (https://lisdtx.instructure.com/courses/202975
+ /files/22270678/preview)\n\nÂ \n\nSample output\n-------------\n\n[RoadBui
+ lder2.PNG] (https://lisdtx.instructure.com/courses/202975/files/22271042/p
+ review)Â \n\nRoadBuilder.java\n\nimport java.util.ArrayList\;\n\n/** RoadB
+ uilder\n* In this class you will implement the buildRoad method.\n* This m
+ ethod will take a tile from tileStack and place it in the tiles matrix.\n*
+  The road will begin from location [0][0] and recursively expand from ther
+ e.\n*\n* You may assume each tile has at least 2 edges that contain a road
+ .\n*/\npublic class RoadBuilder {\nprivate Tile[][] tiles\;\nprivate Array
+ List tileStack\; //Add generic type Tile to this list. Does not copy/paste
+  correctly on canvas.\n\npublic RoadBuilder(){\ntiles = new Tile[5][5]\;\n
+ tileStack = getTileStack()\;\nbuildRoad(0\,0)\;\n}\n\nprivate boolean isVa
+ lid(int r\, int c){\nreturn r>=0 && r < tiles.length && c >= 0 && c < tile
+ s[0].length\;\n}\n\n/** buildRoad()\n* This method will place the first ti
+ le in the list at location [r][c].\n* After placing the tile\, determine w
+ hich neighboring tile will take the next tile in the list.\n* You should f
+ ollow this order when checking neighbors - Up\, Right\, Down\, Left.\n*\n*
+  For example\, if tiles[r][c] top edge is 'R' and the above neighbor [r-1]
+ [c] isValid\, rotate the next tile in the list\n* until the that tiles dow
+ n edge is 'R'. When the next tile edge matches\, make a recursive call.\n*
+ \n* When the current tile only has invalid or already visited neighbors\, 
+ no further recursive calls are made.\n*\n* This problem can be solved thro
+ ugh other approaches but following these guidelines will more closely matc
+ h the example.\n*/\npublic void buildRoad(int r \, int c ){\n\n}\n\npublic
+  ArrayList getTileStack(){\nArrayList tileStack = new ArrayList<>()\;\ntil
+ eStack.add(new Tile(new char[]{'F'\, 'R'\, 'R'\,'F'}))\;\ntileStack.add(ne
+ w Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(new ch
+ ar[]{'F'\, 'R'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(new char[]{'R'\, 'R
+ '\, 'F'\,'F'}))\;\ntileStack.add(new Tile(new char[]{'F'\, 'F'\, 'R'\,'R'}
+ ))\;\ntileStack.add(new Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;\ntileSta
+ ck.add(new Tile(new char[]{'F'\, 'R'\, 'R'\,'F'}))\;\ntileStack.add(new Ti
+ le(new char[]{'R'\, 'R'\, 'R'\,'F'}))\;\ntileStack.add(new Tile(new char[]
+ {'F'\, 'R'\, 'R'\,'F'}))\;\ntileStack.add(new Tile(new char[]{'F'\, 'R'\, 
+ 'R'\,'F'}))\;\ntileStack.add(new Tile(new char[]{'R'\, 'R'\, 'R'\,'F'}))\;
+ \ntileStack.add(new Tile(new char[]{'R'\, 'R'\, 'F'\,'F'}))\;\ntileStack.a
+ dd(new Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(n
+ ew char[]{'F'\, 'R'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(new char[]{'R'
+ \, 'F'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(new char[]{'F'\, 'F'\, 'R'\
+ ,'R'}))\;\ntileStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\nti
+ leStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\ntileStack.add(n
+ ew Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\ntileStack.add(new Tile(new c
+ har[]{'R'\, 'F'\, 'R'\,'F'}))\;\ntileStack.add(new Tile(new char[]{'R'\, '
+ F'\, 'R'\,'F'}))\;\ntileStack.add(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'
+ }))\;\ntileStack.add(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\ntileSt
+ ack.add(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\ntileStack.add(new T
+ ile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n\nreturn tileStack\;\n}\n\npubli
+ c Tile[][] getTiles() {\nreturn tiles\;\n}\n\n}\n\n*******************\nCa
+ rcassonne- 100pts\n*******************\n\nIn this version you will impleme
+ nt two methods - the recursive method placeTiles() and a helper method can
+ PlaceTile( ) in the class Carcassonne.\n\nSimilar to the 90pt version\, yo
+ u have an ArrayList of Tile objects that must be placed into a 2D matrix n
+ amed board. In this version\, you will follow all the normal rules of plac
+ ing tiles and will see tiles that have different combinations of roads\, c
+ ities\, and farms for their edges.Â Tiles are always taken from the beginn
+ ing of the stack.\n\nÂ \n\ncanPlaceTile(Tile tile\, int r\, int c)\n------
+ -------------------------------\n\nThis method will return true if a tile 
+ can be placed in the matrix at [r][c] with its current configuration (with
+ out rotating). This method will ensure all four edges match the edges of a
+ ny neighboring tiles. An edge of any kind can be placed next to an invalid
+  location (off the edge of the board). Any edge may be placed next to a va
+ lid and null neighbor.\n\nNote: canPlaceTile method only determines if a t
+ ile may be placed at a location and does not place tiles itself.\n\nSee ex
+ amples below that demonstrate the behavior of canPlaceTile.\n\ncanPlaceTil
+ e( ) example 1\n\ncanPlaceTile( ) example 2\n\n[canPlaceTile1.PNG] (https:
+ //lisdtx.instructure.com/courses/202975/files/22271968/preview)\n\n[canPla
+ ceTile2.png] (https://lisdtx.instructure.com/courses/202975/files/22271983
+ /preview)\n\ncanPlaceTile( ) Example 3\n\n[canPlaceTile3.PNG] (https://lis
+ dtx.instructure.com/courses/202975/files/22272008/preview)\n\nplaceTiles(i
+ nt r\, int c)\n------------------------\n\nThis method will recursively ta
+ ke tiles from tileStack and place them in the board. In addition\, this me
+ thod should return the number of tiles that were placed on the board. Whil
+ e any working solution will be accepted\, you may choose to follow the app
+ roach described below. Solutions matching this approach will more closely 
+ resemble the sample output.\n\n* Each placeTiles call keeps its own sum va
+ riable that is returned at the end of the method.\n\n* With the current co
+ nfiguration of the next tile\, check if we can place the tile at any of th
+ e neighboring cells in the order of top -> right -> bottom -> left.\n\n* I
+ f the tile can be placed at a location\, remove it from the stack and plac
+ e it in the board. Make a recursive call using this location and add the r
+ esult of that call to the sum.\n\n* If we didn't place the tile\, rotate i
+ t\, and check all four potential neighbors again. Consider using a loop.\n
+ \n* If after rotating the tile enough times that all possible configuratio
+ ns have been checked and the tile still has not been placed\, we return th
+ e sum.\n\nSample Output\n-------------\n\n[Carcassonne.PNG] (https://lisdt
+ x.instructure.com/courses/202975/files/22272901/preview)\n\nCarcassonne.ja
+ va\n\nimport java.util.ArrayList\;\n\npublic class Carcassonne {\nprivate 
+ Tile[][] board\;\nprivate ArrayList tileStack\; //Add Generic Type Tile\n\
+ npublic Carcassonne(){\nboard = new Tile[5][5]\;\nthis.tileStack = testTil
+ es1()\;\n//this.tilePool = randomTilePool()\; //uncomment this line to tes
+ t for a random set of tiles.\nboard[2][2] = tileStack.remove(0)\;\nint pla
+ ced = placeTiles(2\,2)\;\nSystem.out.println("placed tiles: " + (placed+1)
+ )\;\n}\n\n/** placeTiles()\n* This method recursively places tiles on the 
+ board starting from location [r][c].\n* From location [r][c]\, check all v
+ alid neighbors to determine if the first Tile tileStack can be placed in t
+ hat location.\n* For each potential location\, consider using canPlaceTile
+  to determine if the tiles edges will match all adjacent values.\n* When a
+  tile is placed on the board\, it must be removed from the ArrayList tileP
+ ool.\n*\n* This method will return the number of tiles placed on the board
+ . Consider using a sum variable where each recursive call\n* increases tha
+ t sum. Each call should return the sum after making all recursive calls.\n
+ * @param r\n* @param c\n* @return\n*/\npublic int placeTiles(int r\, int c
+ ){\nint sum = 0\;\n\nreturn sum\;\n}\n\n/**\n* canPlaceTile() this method 
+ receives a parameter tile and the location [r][c] where it might be placed
+  in the board.\n* The method will check the four valid neighbor elements i
+ n the array to determine if the tile can be placed at location [r][c].\n* 
+ When placing a tile\n* 1. All edges of the tile must match the correspondi
+ ng edges of the valid neighbor tiles.\n* 2. Any edge may be placed next to
+  a null element.\n* 3. Edges placed next to non-null elements (other tiles
+ ) must match values.\n* E.G. A bottom edge "R" may only be placed next to 
+ a null element or a tile that has a top edge "R".\n*\n* If the tile may be
+  placed at [r][c] canPlaceTile() will return true\, otherwise false.\n* @p
+ aram tile\, the tile that might be placed at position[r][c]\n* @param r\n*
+  @param c\n* @return true if the tiles edges match the edges of all adjace
+ nt tiles.\n*/\npublic boolean canPlaceTile(Tile tile\, int r\, int c){\n\n
+ return true\;\n}\n\npublic Tile[][] getTiles(){\nreturn board\;\n}\n\npubl
+ ic boolean isValid(int r\, int c){\nreturn r >= 0 && r < board.length && c
+ >= 0 && c < board[0].length\;\n}\n\npublic void display(){\nfor(Tile[] row
+ : board){\nfor(Tile tile : row){\nSystem.out.printf("%5s"\,tile == null ? 
+ "[ ] " : "["+tile.getTileId()+"] ")\;\n}\nSystem.out.println()\;\n}\n}\n\n
+ public ArrayList randomTilePool(){\nArrayList tilePool = new ArrayList<>()
+ \;\nfor(int i = 0\; i < 25\; i++){\ntilePool.add(makeRandomTile())\;\n}\nr
+ eturn tilePool\;\n}\n\npublic Tile makeRandomTile(){\nchar[] arr = new cha
+ r[4]\;\nfor(int i = 0 \; i < arr.length\;i++) {\ndouble random = Math.rand
+ om()\;\nif(random < .20)\narr[i] = 'C'\;\nelse if(random < .50)\narr[i] = 
+ 'R'\;\nelse\narr[i] = 'F'\;\n}\n\nreturn new Tile(arr)\;\n}\npublic ArrayL
+ ist testTiles1(){\nArrayList tiles = new ArrayList<>()\;\n// U R D L\ntile
+ s.add(new Tile(new char[]{'F'\,'F'\,'R'\,'F'}))\;\ntiles.add(new Tile(new 
+ char[]{'R'\,'R'\,'R'\,'R'}))\;\ntiles.add(new Tile(new char[]{'C'\,'F'\,'R
+ '\,'C'}))\;\ntiles.add(new Tile(new char[]{'C'\,'C'\,'F'\,'R'}))\;\ntiles.
+ add(new Tile(new char[]{'F'\,'R'\,'F'\,'R'}))\;\ntiles.add(new Tile(new ch
+ ar[]{'F'\,'R'\,'R'\,'R'}))\;\ntiles.add(new Tile(new char[]{'R'\,'F'\,'R'\
+ ,'F'}))\;\ntiles.add(new Tile(new char[]{'F'\,'F'\,'F'\,'F'}))\;\ntiles.ad
+ d(new Tile(new char[]{'C'\,'C'\,'F'\,'F'}))\;\ntiles.add(new Tile(new char
+ []{'C'\,'C'\,'C'\,'C'}))\;\ntiles.add(new Tile(new char[]{'R'\,'C'\,'F'\,'
+ R'}))\;\ntiles.add(new Tile(new char[]{'F'\,'R'\,'F'\,'R'}))\;\ntiles.add(
+ new Tile(new char[]{'R'\,'R'\,'F'\,'F'}))\;\ntiles.add(new Tile(new char[]
+ {'R'\,'R'\,'R'\,'R'}))\;\ntiles.add(new Tile(new char[]{'F'\,'F'\,'R'\,'F'
+ }))\;\ntiles.add(new Tile(new char[]{'F'\,'R'\,'R'\,'F'}))\;\ntiles.add(ne
+ w Tile(new char[]{'R'\,'F'\,'R'\,'F'}))\;\ntiles.add(new Tile(new char[]{'
+ R'\,'F'\,'R'\,'F'}))\;\ntiles.add(new Tile(new char[]{'R'\,'R'\,'R'\,'F'})
+ )\;\ntiles.add(new Tile(new char[]{'R'\,'F'\,'F'\,'R'}))\;\ntiles.add(new 
+ Tile(new char[]{'R'\,'F'\,'R'\,'F'}))\;\ntiles.add(new Tile(new char[]{'R'
+ \,'F'\,'C'\,'F'}))\;\ntiles.add(new Tile(new char[]{'R'\,'R'\,'F'\,'F'}))\
+ ;\ntiles.add(new Tile(new char[]{'C'\,'C'\,'C'\,'C'}))\;\ntiles.add(new Ti
+ le(new char[]{'C'\,'C'\,'F'\,'F'}))\;\n\nreturn tiles\;\n}\n}
+SUMMARY:Carcassonne [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2827358
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>For this major lab\, y
+ ou will implement some of the features from the game Carcassonne.&nbsp\;</
+ p>\n<p>In the 80 point version\, you are given an already complete board o
+ f tiles and must write a method to determine the length of a road.</p>\n<p
+ >For 90 points\, you will complete the RoadBuilder class and recursively p
+ lace tiles\, where each tile has at least two edges with a road.</p>\n<p>T
+ he final version of the lab will recursively place tiles with any combinat
+ ion of roads\, cities\, and fields on each edge.</p>\n<p>Each version will
+  make use of the starter code below. See each tab for starter code specifi
+ c to each version and more detailed instructions.</p>\n<div class="enhance
+ able_content tabs">\n<ul>\n<li><a href="#fragment-1">Starter Code</a></li>
+ \n<li><a href="#fragment-2">80 - RoadCounter</a></li>\n<li><a href="#fragm
+ ent-3">90 - RoadBuilder</a></li>\n<li><a href="#fragment-4">100 - Carcasso
+ nne</a></li>\n</ul>\n<div id="fragment-1">\n<h1>Starter Files</h1>\n<p><st
+ rong>Tile.java</strong></p>\n<pre>/** This class represents a single tile 
+ from the game Carcassonne.\n *  A tile in Carcassonne has on each of its f
+ our edges a feature. An edge can be a field\, road\, or city.\n *  The edg
+ es array stores the values for each of the edges of the tile as 'F'\, 'R'\
+ , or 'C'.\n *  You can expect edges array to look something like {'R'\,'F'
+ \,'C'\,'R'}\n *  where the order of edges is [up\, right\, down\, left]. I
+ n this example\, the down edge is a city.\n *\n *  This class contains acc
+ essor methods to return the value of each edge.\n *\n *  getTileId() will 
+ return the order in which the tile object was created.\n *\n *  toString()
+  returns a text representation of the object with all four edges and the t
+ ileId.\n *\n *  rotateTile() will perform a clockwise rotation of the edge
+ s on the tile.\n *      {'R'\,'F'\,'C'\,'R'} after one rotation -&gt\; {'R
+ '\,'R'\,'F'\,'C'}\n *       Up   Ri  Dn  Lf                         Up   R
+ i  Dn  Lf\n */\npublic class Tile {\n    private char[] edges\;\n    priva
+ te static int numTiles = 0\; //This static value is increased when any Til
+ e object is created and assigned to tileId.\n    private int tileId\;\n\n 
+    public Tile(char[] edges){\n        this.edges = edges\;\n        numTi
+ les++\;\n        tileId = numTiles\;\n    }\n\n    public int getTileId(){
+ \n        return tileId\;\n    }\n    public char getUpEdge(){\n        re
+ turn edges[0]\;\n    }\n    public char getRightEdge(){\n        return ed
+ ges[1]\;\n    }\n    public char getDownEdge(){\n        return edges[2]\;
+ \n    }\n    public char getLeftEdge(){\n        return edges[3]\;\n    }\
+ n\n\n    /** rotateTile()\n     *  postcondition: the tile has been rotate
+ d 90deg clockwise.\n     */\n    public void rotateTile(){\n        char t
+ emp = edges[3]\;\n        for(int i = edges.length-1\; i &gt\; 0\; i--){\n
+             edges[i] = edges[i-1]\;\n        }\n        edges[0] = temp\;\
+ n    }\n\n    public String toString(){\n        return "U:" + getUpEdge()
+  + " Ri:" + getRightEdge() + " D:" + getDownEdge() + " L:" + getLeftEdge()
+  + " #" +tileId\;\n    }\n}\n\n</pre>\n<p><strong>GameRunner.java</strong>
+ </p>\n<pre>import javax.swing.*\;\nimport java.awt.*\;\nimport java.util.A
+ rrayList\;\n\npublic class GameRunner extends JFrame {\n    public static 
+ final int WIDTH = 580\;\n    public static final int HEIGHT = 600\;\n\n   
+  public GameRunner(Tile[][] tiles){\n        super("Carcassonne")\;\n     
+    setSize(WIDTH\, HEIGHT)\;\n        getContentPane().add(new BoardCanvas
+ (tiles))\;\n        setVisible(true)\;\n    }\n\n    public static void ma
+ in(String[] args) {\n        //Uncomment the lines below as you are ready 
+ to test your code.\n        \n        //Carcassonne carcassonne = new Carc
+ assonne()\;\n        //GameRunner run = new GameRunner(carcassonne.getTile
+ s())\;\n\n        //RoadBuilder roadBuilder = new RoadBuilder()\;\n       
+  //GameRunner run = new GameRunner(roadBuilder.getTiles())\;\n\n        //
+ RoadCounter roadCounter = new RoadCounter()\;\n        // GameRunner run =
+  new GameRunner(roadCounter.getTiles())\;\n\n    }\n\n\n    public static 
+ Tile[][] testTiles(){\n        Tile[][] tiles = new Tile[5][5]\;\n        
+ tiles[0][0] = new Tile(new char[]{'C'\,'C'\,'C'\,'C'})\;\n        tiles[0]
+ [1] = new Tile(new char[]{'R'\,'F'\,'F'\,'F'})\;\n        tiles[0][2] = ne
+ w Tile(new char[]{'F'\,'R'\,'F'\,'F'})\;\n        tiles[0][3] = new Tile(n
+ ew char[]{'F'\,'F'\,'R'\,'F'})\;\n        tiles[0][4] = new Tile(new char[
+ ]{'F'\,'F'\,'F'\,'R'})\;\n\n        tiles[1][0] = new Tile(new char[]{'R'\
+ ,'R'\,'R'\,'F'})\;\n        tiles[1][1] = new Tile(new char[]{'R'\,'R'\,'F
+ '\,'F'})\;\n        tiles[1][2] = new Tile(new char[]{'F'\,'R'\,'R'\,'F'})
+ \;\n        tiles[1][3] = new Tile(new char[]{'F'\,'F'\,'R'\,'R'})\;\n    
+     tiles[1][4] = new Tile(new char[]{'R'\,'F'\,'F'\,'R'})\;\n\n        ti
+ les[2][0] = new Tile(new char[]{'F'\,'R'\,'R'\,'R'})\;\n        tiles[2][1
+ ] = new Tile(new char[]{'R'\,'F'\,'R'\,'R'})\;\n        tiles[2][2] = new 
+ Tile(new char[]{'R'\,'R'\,'F'\,'R'})\;\n        tiles[2][3] = new Tile(new
+  char[]{'C'\,'F'\,'F'\,'F'})\;\n        tiles[2][4] = new Tile(new char[]{
+ 'F'\,'C'\,'F'\,'F'})\;\n\n        tiles[3][0] = new Tile(new char[]{'F'\,'
+ F'\,'C'\,'F'})\;\n        tiles[3][1] = new Tile(new char[]{'F'\,'F'\,'F'\
+ ,'C'})\;\n        tiles[3][2] = new Tile(new char[]{'C'\,'C'\,'F'\,'F'})\;
+ \n        tiles[3][3] = new Tile(new char[]{'F'\,'C'\,'C'\,'F'})\;\n      
+   tiles[3][4] = new Tile(new char[]{'F'\,'F'\,'C'\,'C'})\;\n\n        tile
+ s[4][0] = new Tile(new char[]{'C'\,'F'\,'F'\,'C'})\;\n        tiles[4][1] 
+ = new Tile(new char[]{'F'\,'C'\,'C'\,'C'})\;\n        tiles[4][2] = new Ti
+ le(new char[]{'C'\,'F'\,'C'\,'C'})\;\n        tiles[4][3] = new Tile(new c
+ har[]{'C'\,'C'\,'F'\,'C'})\;\n        tiles[4][4] = new Tile(new char[]{'C
+ '\,'C'\,'C'\,'F'})\;\n        return tiles\;\n    }\n}\n\nclass BoardCanva
+ s extends Canvas implements Runnable {\n    private Tile[][] tiles\;\n\n  
+   public BoardCanvas(Tile[][] tiles){\n        this.tiles = tiles\;\n     
+    setBackground(Color.WHITE)\;\n    }\n    public void paint(Graphics win
+ dow){\n        window.setColor(Color.GREEN)\;\n        int x = 10\;\n     
+    int y = 10\;\n        //tiles = testTiles()\; //tester\n        for(Til
+ e[] row : tiles){\n            for(Tile tile : row){\n                if(t
+ ile == null){\n                    window.setColor(Color.black)\;\n       
+              window.drawRect(x\,y\,100\,100)\;\n                }else{\n  
+                   drawTile(window\,  x\, y)\;\n                    drawRoa
+ ds(window\, tile\, x\, y)\;\n                    drawCities(window\,tile\,
+  x\, y)\;\n                    drawTileId(window\, tile\,x\, y)\;\n       
+          }\n                x+= 110\;\n            }\n            x = 10\;
+ \n            y+=110\;\n        }\n    }\n\n    public void drawTile(Graph
+ ics window\, int x\, int y){\n        window.setColor(Color.GREEN)\;\n    
+     window.fillRect(x\,y\,100\,100)\;\n    }\n\n    public void drawRoads(
+ Graphics window\, Tile tile\, int x\, int y){\n        window.setColor(Col
+ or.LIGHT_GRAY)\;\n        ArrayList list = new ArrayList&lt\;&gt\;()\;\n  
+       if(tile.getDownEdge() == 'R'){\n            window.fillRect(x+40\, y
+ +40\, 20\, 60)\;\n            list.add(true)\;\n        }\n        if(tile
+ .getLeftEdge() == 'R'){\n            window.fillRect(x\, y+40\, 60\, 20)\;
+ \n            list.add(true)\;\n        }\n        if(tile.getUpEdge() == 
+ 'R'){\n            window.fillRect(x+40\, y\, 20\, 60)\;\n            list
+ .add(true)\;\n        }\n        if(tile.getRightEdge() == 'R'){\n        
+     window.fillRect(x+40\, y+40\, 60\, 20)\;\n            list.add(true)\;
+ \n        }\n        if(list.size() == 1){\n            window.setColor(ne
+ w Color(100\,20\,50))\;\n            window.fillRect(x+30\, y+30\, 40\,40)
+ \;\n        }\n    }\n\n    public void drawCities(Graphics window\, Tile 
+ tile\, int x\, int y){\n        window.setColor(new Color(100\,20\,50))\;\
+ n        //All 4\n        if(tile.getUpEdge() == 'C' &amp\;&amp\; tile.get
+ RightEdge() == 'C' &amp\;&amp\; tile.getDownEdge() == 'C'  &amp\;&amp\; ti
+ le.getLeftEdge()  == 'C'){\n            window.fillRect(x\,y\,100\,100)\;\
+ n        }\n\n        //3's\n        //bot farm\n        else if(tile.getU
+ pEdge() == 'C' &amp\;&amp\; tile.getRightEdge() == 'C' &amp\;&amp\; tile.g
+ etLeftEdge() == 'C'){\n            window.fillRect(x\,y\,100\,50)\;\n     
+        Polygon p = new Polygon()\;\n            p.addPoint(x\,y+100)\;\n  
+           p.addPoint(x+50\,y)\;\n            p.addPoint(x\,y)\;\n         
+    window.fillPolygon(p)\;\n\n            Polygon p2 = new Polygon()\;\n  
+           p2.addPoint(x+50\,y)\;\n            p2.addPoint(x+100\,y)\;\n   
+          p2.addPoint(x+100\,y+100)\;\n            window.fillPolygon(p2)\;
+ \n        }\n        //left farm\n        else if(tile.getUpEdge() == 'C' 
+ &amp\;&amp\; tile.getRightEdge() == 'C' &amp\;&amp\; tile.getDownEdge() ==
+  'C'){\n            window.fillRect(x+50\,y\,50\,100)\;\n            Polyg
+ on p = new Polygon()\;\n            p.addPoint(x+100\,y)\;\n            p.
+ addPoint(x+100\,y+50)\;\n            p.addPoint(x\,y)\;\n            windo
+ w.fillPolygon(p)\;\n\n            Polygon p2 = new Polygon()\;\n          
+   p2.addPoint(x\,y+100)\;\n            p2.addPoint(x+100\,y+50)\;\n       
+      p2.addPoint(x+100\,y+100)\;\n            window.fillPolygon(p2)\;\n  
+       }\n\n        //top farm\n        else if(tile.getLeftEdge() == 'C' &
+ amp\;&amp\; tile.getRightEdge() == 'C' &amp\;&amp\; tile.getDownEdge() == 
+ 'C'){\n            window.fillRect(x\,y+50\,100\,50)\;\n            Polygo
+ n p = new Polygon()\;\n            p.addPoint(x\,y)\;\n            p.addPo
+ int(x+50\,y+100)\;\n            p.addPoint(x\,y+100)\;\n            window
+ .fillPolygon(p)\;\n\n            Polygon p2 = new Polygon()\;\n           
+  p2.addPoint(x+100\,y)\;\n            p2.addPoint(x+50\,y+100)\;\n        
+     p2.addPoint(x+100\,y+100)\;\n            window.fillPolygon(p2)\;\n   
+      }\n        //right farm\n        else if(tile.getLeftEdge() == 'C' &a
+ mp\;&amp\; tile.getUpEdge() == 'C' &amp\;&amp\; tile.getDownEdge() == 'C')
+ {\n            window.fillRect(x\,y\,50\,100)\;\n            Polygon p = n
+ ew Polygon()\;\n            p.addPoint(x\,y)\;\n            p.addPoint(x+1
+ 00\,y)\;\n            p.addPoint(x\,y+50)\;\n            window.fillPolygo
+ n(p)\;\n\n            Polygon p2 = new Polygon()\;\n            p2.addPoin
+ t(x\,y+50)\;\n            p2.addPoint(x\,y+100)\;\n            p2.addPoint
+ (x+100\,y+100)\;\n            window.fillPolygon(p2)\;\n        }\n       
+  //top right\n        else if(tile.getUpEdge() == 'C' &amp\;&amp\; tile.ge
+ tRightEdge() == 'C'){\n            Polygon p = new Polygon()\;\n          
+   p.addPoint(x\,y)\;\n            p.addPoint(x+100\,y)\;\n            p.ad
+ dPoint(x+100\,y+100)\;\n            window.fillPolygon(p)\;\n        }\n\n
+         //bot right\n        else if(tile.getDownEdge() == 'C' &amp\;&amp\
+ ; tile.getRightEdge() == 'C'){\n            Polygon p = new Polygon()\;\n 
+            p.addPoint(x+100\,y)\;\n            p.addPoint(x\,y+100)\;\n   
+          p.addPoint(x+100\,y+100)\;\n            window.fillPolygon(p)\;\n
+         }\n\n        //bot left\n        else if(tile.getDownEdge() == 'C'
+  &amp\;&amp\; tile.getLeftEdge() == 'C'){\n            Polygon p = new Pol
+ ygon()\;\n            p.addPoint(x\,y)\;\n            p.addPoint(x\,y+100)
+ \;\n            p.addPoint(x+100\,y+100)\;\n            window.fillPolygon
+ (p)\;\n        }\n        //top left\n        else if(tile.getUpEdge() == 
+ 'C' &amp\;&amp\; tile.getLeftEdge() == 'C'){\n            Polygon p = new 
+ Polygon()\;\n            p.addPoint(x\,y)\;\n            p.addPoint(x\,y+1
+ 00)\;\n            p.addPoint(x+100\,y)\;\n            window.fillPolygon(
+ p)\;\n        }\n        else {\n            if (tile.getUpEdge() == 'C') 
+ {\n                window.fillArc(x\, y - 30\, 100\, 60\, 180\, 180)\;\n  
+           }\n            if (tile.getRightEdge() == 'C') {\n              
+   window.fillArc(x + 70\, y\, 60\, 100\, 90\, 180)\;\n            }\n     
+        if (tile.getDownEdge() == 'C') {\n                window.fillArc(x\
+ , y + 70\, 100\, 60\, 0\, 180)\;\n            }\n            if (tile.getL
+ eftEdge() == 'C') {\n                window.fillArc(x - 30\, y\, 60\, 100\
+ , 270\, 180)\;\n            }\n        }\n    }\n\n    public void drawTil
+ eId(Graphics window\, Tile tile\, int x\, int y){\n        window.setColor
+ (Color.BLACK)\;\n        window.setFont(new Font("arial"\, Font.PLAIN\, 18
+ ))\;\n        window.drawString(""+tile.getTileId()\,x+75\, y+90 )\;\n    
+ }\n\n\n    public void run(){\n        try{\n            Thread.currentThr
+ ead().sleep(3)\;\n        }catch (Exception e){\n\n        }\n    }\n}\n\n
+ \n\n</pre>\n</div>\n<div id="fragment-2">\n<h1>RoadCounter - 80pts</h1>\n<
+ p>In this version you will implement the recursive method <strong>getRoadL
+ ength( )</strong> in the class RoadCounter.</p>\n<p>getRoadLength(int r\, 
+ int c) will recursively count the total number of adjacent and consecutive
+  tiles with a road. You should intend on using Tile class methods like get
+ UpEdge() in your implementation.&nbsp\;</p>\n<p>Examples:</p>\n<p><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" role="prese
+ ntation" src="https://lisdtx.instructure.com/courses/202975/files/22270308
+ /preview" alt="" width="912" height="478" data-api-endpoint="https://lisdt
+ x.instructure.com/api/v1/courses/202975/files/22270308" data-api-returntyp
+ e="File">&nbsp\;</p>\n<p>RoadCounter.java</p>\n<pre>public class RoadCount
+ er {\n    private Tile[][] tiles\;\n    private boolean[][] visited\;\n\n 
+    public RoadCounter(){\n        setTiles()\;\n        visited = new bool
+ ean[5][5]\;\n\n        System.out.println("Road length @ [1][4]: " + getRo
+ adLength(1\,4))\;\n        System.out.println("Road length @ [0][0]: " + g
+ etRoadLength(0\,0))\;\n        System.out.println("Road length @ [4][0]: "
+  + getRoadLength(4\,0))\;\n        System.out.println("Road length @ [4][4
+ ]: " + getRoadLength(4\,4))\;\n\n    }\n\n    public int getRoadLength(int
+  r\, int c){\n        return 0\;\n    }\n\n    public boolean isValid(int 
+ r\, int c){\n        return r&gt\;=0 &amp\;&amp\; r &lt\; tiles.length &am
+ p\;&amp\; c &gt\;= 0 &amp\;&amp\; c &lt\; tiles[0].length\;\n    }\n\n    
+ public void setTiles(){\n        tiles = new Tile[5][5]\;\n               
+                      //     U   R   D   L\n        tiles[0][0] = new Tile(
+ new char[]{'F'\,'R'\,'F'\,'F'})\;\n        tiles[0][1] = new Tile(new char
+ []{'F'\,'R'\,'F'\,'R'})\;\n        tiles[0][2] = new Tile(new char[]{'F'\,
+ 'R'\,'F'\,'R'})\;\n        tiles[0][3] = new Tile(new char[]{'F'\,'R'\,'F'
+ \,'R'})\;\n        tiles[0][4] = new Tile(new char[]{'F'\,'F'\,'F'\,'R'})\
+ ;\n\n        tiles[1][0] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n   
+      tiles[1][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n        til
+ es[1][2] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n        tiles[1][3]
+  = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n        tiles[1][4] = new T
+ ile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n\n        tiles[2][0] = new Tile(ne
+ w char[]{'F'\,'R'\,'R'\,'F'})\;\n        tiles[2][1] = new Tile(new char[]
+ {'F'\,'R'\,'F'\,'R'})\;\n        tiles[2][2] = new Tile(new char[]{'F'\,'F
+ '\,'R'\,'R'})\;\n        tiles[2][3] = new Tile(new char[]{'F'\,'F'\,'F'\,
+ 'F'})\;\n        tiles[2][4] = new Tile(new char[]{'F'\,'F'\,'R'\,'F'})\;\
+ n\n        tiles[3][0] = new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\;\n     
+    tiles[3][1] = new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n        tiles
+ [3][2] = new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\;\n        tiles[3][3] =
+  new Tile(new char[]{'F'\,'F'\,'F'\,'F'})\;\n        tiles[3][4] = new Til
+ e(new char[]{'R'\,'F'\,'R'\,'F'})\;\n\n        tiles[4][0] = new Tile(new 
+ char[]{'R'\,'F'\,'R'\,'F'})\;\n        tiles[4][1] = new Tile(new char[]{'
+ F'\,'F'\,'F'\,'F'})\;\n        tiles[4][2] = new Tile(new char[]{'R'\,'F'\
+ ,'R'\,'F'})\;\n        tiles[4][3] = new Tile(new char[]{'F'\,'F'\,'F'\,'F
+ '})\;\n        tiles[4][4] = new Tile(new char[]{'R'\,'F'\,'R'\,'F'})\;\n 
+    }\n\n\n\n    public Tile[][] getTiles(){\n        return tiles\;\n    }
+ \n}\n</pre>\n</div>\n<div id="fragment-3">\n<h1>RoadBuilder - 90pts</h1>\n
+ <p>In this version you will implement the recursive method <strong>buildRo
+ ad( )</strong> in the class RoadBuilder.</p>\n<p>This class contains two i
+ nstance variables a 2D Array of Tile objects named tiles\, and and ArrayLi
+ st of Tiles. You will recursively <strong>take the first tile from the lis
+ t </strong>and place them in the tiles matrix in the order shown below. In
+  this version\, you can assume that each tile has at least two edges with 
+ a road.&nbsp\;</p>\n<p>Your method should work in this way:</p>\n<ul>\n<li
+ >Place the first tile in the stack at location [r][c] in the matrix.&nbsp\
+ ;</li>\n<li>Attempt to place the next tile at adjacent cells in this order
+ . Top -&gt\; Right -&gt\; Bottom -&gt\; Left</li>\n<li>As you check for a 
+ neighboring cell to place the next tile\, you will place the tile at the f
+ irst edge that contains a road.</li>\n<li>Upon finding the first edge with
+  a road\, rotate the next tile until it fits.</li>\n<li>When the next tile
+  will fit at the next position on the board\, make a recursive call to tha
+ t location.</li>\n</ul>\n<p>It is possible to write a working solution thr
+ ough another approach\, but following these guidelines will guarantee you 
+ match the example. Other solutions will be accepted and judged based on ho
+ w well they are able to place tiles recursively.&nbsp\;</p>\n<p>See the di
+ agram below to see how buildRoad( ) chooses where to place tiles.</p>\n<p>
+ <img style="display: block\; margin-left: auto\; margin-right: auto\;" src
+ ="https://lisdtx.instructure.com/courses/202975/files/22270678/preview" al
+ t="RoadBuilder1.PNG" width="762" height="436" data-api-endpoint="https://l
+ isdtx.instructure.com/api/v1/courses/202975/files/22270678" data-api-retur
+ ntype="File"></p>\n<p>&nbsp\;</p>\n<h4>Sample output</h4>\n<p><img src="ht
+ tps://lisdtx.instructure.com/courses/202975/files/22271042/preview" alt="R
+ oadBuilder2.PNG" width="453" height="475" data-api-endpoint="https://lisdt
+ x.instructure.com/api/v1/courses/202975/files/22271042" data-api-returntyp
+ e="File">&nbsp\;</p>\n<p>RoadBuilder.java</p>\n<pre>import java.util.Array
+ List\;\n\n/** RoadBuilder\n *  In this class you will implement the buildR
+ oad method.\n *  This method will take a tile from tileStack and place it 
+ in the tiles matrix.\n *  The road will begin from location [0][0] and rec
+ ursively expand from there.\n *\n *  You may assume each tile has at least
+  2 edges that contain a road.\n */\npublic class RoadBuilder {\n    privat
+ e Tile[][] tiles\;\n    private ArrayList tileStack\; //Add generic type T
+ ile to this list. Does not copy/paste correctly on canvas.\n\n    public R
+ oadBuilder(){\n        tiles = new Tile[5][5]\;\n        tileStack = getTi
+ leStack()\;\n        buildRoad(0\,0)\;\n    }\n\n    private boolean isVal
+ id(int r\, int c){\n        return r&gt\;=0 &amp\;&amp\; r &lt\; tiles.len
+ gth &amp\;&amp\; c &gt\;= 0 &amp\;&amp\; c &lt\; tiles[0].length\;\n    }\
+ n\n    /** buildRoad()\n     *  This method will place the first tile in t
+ he list at location [r][c].\n     *  After placing the tile\, determine wh
+ ich neighboring tile will take the next tile in the list.\n     *  You sho
+ uld follow this order when checking neighbors - Up\, Right\, Down\, Left.\
+ n     *\n     *  For example\, if tiles[r][c] top edge is 'R' and the abov
+ e neighbor [r-1][c] isValid\, rotate the next tile in the list\n     *  un
+ til the that tiles down edge is 'R'. When the next tile edge matches\, mak
+ e a recursive call.\n     *\n     *  When the current tile only has invali
+ d or already visited neighbors\, no further recursive calls are made.\n   
+   *\n     *  This problem can be solved through other approaches but follo
+ wing these guidelines will more closely match the example.\n     */\n    p
+ ublic void buildRoad(int r \, int c ){\n\n        \n    }\n\n\n    public 
+ ArrayList getTileStack(){\n        ArrayList tileStack = new ArrayList&lt\
+ ;&gt\;()\;\n        tileStack.add(new Tile(new char[]{'F'\, 'R'\, 'R'\,'F'
+ }))\;\n        tileStack.add(new Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;
+ \n        tileStack.add(new Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;\n   
+      tileStack.add(new Tile(new char[]{'R'\, 'R'\, 'F'\,'F'}))\;\n        
+ tileStack.add(new Tile(new char[]{'F'\, 'F'\, 'R'\,'R'}))\;\n        tileS
+ tack.add(new Tile(new char[]{'F'\, 'R'\, 'F'\,'R'}))\;\n        tileStack.
+ add(new Tile(new char[]{'F'\, 'R'\, 'R'\,'F'}))\;\n        tileStack.add(n
+ ew Tile(new char[]{'R'\, 'R'\, 'R'\,'F'}))\;\n        tileStack.add(new Ti
+ le(new char[]{'F'\, 'R'\, 'R'\,'F'}))\;\n        tileStack.add(new Tile(ne
+ w char[]{'F'\, 'R'\, 'R'\,'F'}))\;\n        tileStack.add(new Tile(new cha
+ r[]{'R'\, 'R'\, 'R'\,'F'}))\;\n        tileStack.add(new Tile(new char[]{'
+ R'\, 'R'\, 'F'\,'F'}))\;\n        tileStack.add(new Tile(new char[]{'F'\, 
+ 'R'\, 'F'\,'R'}))\;\n        tileStack.add(new Tile(new char[]{'F'\, 'R'\,
+  'F'\,'R'}))\;\n        tileStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\
+ ,'R'}))\;\n        tileStack.add(new Tile(new char[]{'F'\, 'F'\, 'R'\,'R'}
+ ))\;\n        tileStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\
+ n        tileStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\n    
+     tileStack.add(new Tile(new char[]{'R'\, 'F'\, 'F'\,'R'}))\;\n        t
+ ileStack.add(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n        tileSt
+ ack.add(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n        tileStack.a
+ dd(new Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n        tileStack.add(ne
+ w Tile(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n        tileStack.add(new Til
+ e(new char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n        tileStack.add(new Tile(new
+  char[]{'R'\, 'F'\, 'R'\,'F'}))\;\n\n\n        return tileStack\;\n    }\n
+ \n    public Tile[][] getTiles() {\n        return tiles\;\n    }\n\n}\n\n
+ </pre>\n</div>\n<div id="fragment-4">\n<h1>Carcassonne- 100pts</h1>\n<p>In
+  this version you will implement two methods - the recursive method <stron
+ g>placeTiles() </strong> and a helper method <strong>canPlaceTile( ) </str
+ ong>in the class Carcassonne.</p>\n<p>Similar to the 90pt version\, you ha
+ ve an ArrayList of Tile objects that must be placed into a 2D matrix named
+  board. In this version\, you will follow all the normal rules of placing 
+ tiles and will see tiles that have different combinations of roads\, citie
+ s\, and farms for their edges.&nbsp\;<strong>Tiles are always taken from t
+ he beginning of the stack.</strong></p>\n<p>&nbsp\;</p>\n<h3><strong>canPl
+ aceTile(Tile tile\, int r\, int c)</strong></h3>\n<p>This method will retu
+ rn true if a tile can be placed in the matrix at [r][c] with its current c
+ onfiguration (without rotating). This method will ensure all four edges ma
+ tch the edges of any neighboring tiles. An edge of any kind can be placed 
+ next to an invalid location (off the edge of the board). Any edge may be p
+ laced next to a valid and null neighbor.</p>\n<p>Note: canPlaceTile method
+  only determines if a tile may be placed at a location and does not place 
+ tiles itself.</p>\n<p>See examples below that demonstrate the behavior of 
+ canPlaceTile.</p>\n<table style="border-collapse: collapse\; width: 100%\;
+  height: 447px\; border-style: none\;" border="0">\n<tbody>\n<tr style="he
+ ight: 29px\; width: 100%\;">\n<td style="width: 46.7644%\; height: 29px\; 
+ text-align: center\;"><strong>canPlaceTile( ) example 1</strong></td>\n<td
+  style="width: 53.1258%\; height: 29px\; text-align: center\;"><strong>can
+ PlaceTile( ) example 2</strong></td>\n</tr>\n<tr style="height: 418px\; wi
+ dth: 100%\;">\n<td style="width: 46.7644%\; height: 418px\;"><img style="d
+ isplay: block\; margin-left: auto\; margin-right: auto\;" src="https://lis
+ dtx.instructure.com/courses/202975/files/22271968/preview" alt="canPlaceTi
+ le1.PNG" width="371" height="390" data-api-endpoint="https://lisdtx.instru
+ cture.com/api/v1/courses/202975/files/22271968" data-api-returntype="File"
+ ></td>\n<td style="width: 53.1258%\; text-align: center\; height: 418px\;"
+ ><img src="https://lisdtx.instructure.com/courses/202975/files/22271983/pr
+ eview" alt="canPlaceTile2.png" width="375" height="390" data-api-endpoint=
+ "https://lisdtx.instructure.com/api/v1/courses/202975/files/22271983" data
+ -api-returntype="File"></td>\n</tr>\n</tbody>\n</table>\n<p style="text-al
+ ign: center\;"><strong>canPlaceTile( ) Example 3</strong></p>\n<p><img sty
+ le="display: block\; margin-left: auto\; margin-right: auto\;" src="https:
+ //lisdtx.instructure.com/courses/202975/files/22272008/preview" alt="canPl
+ aceTile3.PNG" width="658" height="350" data-api-endpoint="https://lisdtx.i
+ nstructure.com/api/v1/courses/202975/files/22272008" data-api-returntype="
+ File"></p>\n<h3>placeTiles(int r\, int c)</h3>\n<p>This method will recurs
+ ively take tiles from tileStack and place them in the board. In addition\,
+  this method should return the number of tiles that were placed on the boa
+ rd. While any working solution will be accepted\, you may choose to follow
+  the approach described below. Solutions matching this approach will more 
+ closely resemble the sample output.</p>\n<ul>\n<li>Each placeTiles call ke
+ eps its own sum variable that is returned at the end of the method.</li>\n
+ <li>With the current configuration of the next tile\, check if we can plac
+ e the tile at any of the neighboring cells in the order of top -&gt\; righ
+ t -&gt\; bottom -&gt\; left.</li>\n<li>If the tile can be placed at a loca
+ tion\, remove it from the stack and place it in the board. Make a recursiv
+ e call using this location and add the result of that call to the sum.</li
+ >\n<li>If we didn't place the tile\, rotate it\, and check all four potent
+ ial neighbors again. Consider using a loop.</li>\n<li>If after rotating th
+ e tile enough times that all possible configurations have been checked and
+  the tile still has not been placed\, we return the sum.</li>\n</ul>\n<p><
+ iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRM24McMLA_k2m
+ ao6tgA8MaWy09isjx9KPB_YFMtcUmdjDV2KAbPdWNKEjWJyBDbJe8o9ubnSXxRgzJ/embed?st
+ art=false&amp\;loop=false&amp\;delayms=3000" width="960" height="569" allo
+ wfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen
+ " mozallowfullscreen="mozallowfullscreen"></iframe></p>\n<h3>Sample Output
+ </h3>\n<p><img style="border: 1px solid #000000\; padding: 2px\;" src="htt
+ ps://lisdtx.instructure.com/courses/202975/files/22272901/preview" alt="Ca
+ rcassonne.PNG" data-api-endpoint="https://lisdtx.instructure.com/api/v1/co
+ urses/202975/files/22272901" data-api-returntype="File"></p>\n<p>Carcasson
+ ne.java</p>\n<pre>import java.util.ArrayList\;\n\npublic class Carcassonne
+  {\n    private Tile[][] board\;\n    private ArrayList tileStack\; //Add 
+ Generic Type Tile\n\n    public Carcassonne(){\n        board = new Tile[5
+ ][5]\;\n        this.tileStack = testTiles1()\;\n        //this.tilePool =
+  randomTilePool()\; //uncomment this line to test for a random set of tile
+ s.\n        board[2][2] = tileStack.remove(0)\;\n        int placed  = pla
+ ceTiles(2\,2)\;\n        System.out.println("placed tiles: " + (placed+1))
+ \;\n    }\n\n    /** placeTiles()\n     * This method recursively places t
+ iles on the board starting from location [r][c].\n     * From location [r]
+ [c]\, check all valid neighbors to determine if the first Tile tileStack c
+ an be placed in that location.\n     * For each potential location\, consi
+ der using canPlaceTile to determine if the tiles edges will match all adja
+ cent values.\n     * When a tile is placed on the board\, it must be remov
+ ed from the ArrayList tilePool.\n     *\n     * This method will return th
+ e number of tiles placed on the board. Consider using a sum variable where
+  each recursive call\n     * increases that sum. Each call should return t
+ he sum after making all recursive calls.\n     * @param r\n     * @param c
+ \n     * @return\n     */\n    public int placeTiles(int r\, int c){\n    
+     int sum = 0\;\n       \n\n        return sum\;\n    }\n\n    /**\n    
+  * canPlaceTile() this method receives a parameter tile and the location [
+ r][c] where it might be placed in the board.\n     * The method will check
+  the four valid neighbor elements in the array to determine if the tile ca
+ n be placed at location [r][c].\n     * When placing a tile\n     *  1. Al
+ l edges of the tile must match the corresponding edges of the valid neighb
+ or tiles.\n     *  2. Any edge may be placed next to a null element.\n    
+  *  3. Edges placed next to non-null elements (other tiles) must match val
+ ues.\n     *  E.G. A bottom edge "R" may only be placed next to a null ele
+ ment or a tile that has a top edge "R".\n     *\n     *  If the tile may b
+ e placed at [r][c] canPlaceTile() will return true\, otherwise false.\n   
+   * @param tile\, the tile that might be placed at position[r][c]\n     * 
+ @param r\n     * @param c\n     * @return true if the tiles edges match th
+ e edges of all adjacent tiles.\n     */\n    public boolean canPlaceTile(T
+ ile tile\, int r\, int c){\n        \n        return true\;\n    }\n\n    
+ public Tile[][] getTiles(){\n        return board\;\n    }\n\n    public b
+ oolean isValid(int r\, int c){\n        return r &gt\;= 0 &amp\;&amp\; r &
+ lt\; board.length &amp\;&amp\; c&gt\;= 0 &amp\;&amp\; c &lt\; board[0].len
+ gth\;\n    }\n\n    public void display(){\n        for(Tile[] row: board)
+ {\n            for(Tile tile : row){\n                System.out.printf("%
+ 5s"\,tile == null ? "[ ] " : "["+tile.getTileId()+"] ")\;\n            }\n
+             System.out.println()\;\n        }\n    }\n\n    public ArrayLi
+ st randomTilePool(){\n        ArrayList tilePool = new ArrayList&lt\;&gt\;
+ ()\;\n        for(int i = 0\; i &lt\; 25\; i++){\n            tilePool.add
+ (makeRandomTile())\;\n        }\n        return tilePool\;\n    }\n\n    p
+ ublic Tile makeRandomTile(){\n        char[] arr = new char[4]\;\n        
+ for(int i = 0 \; i &lt\; arr.length\;i++) {\n            double random = M
+ ath.random()\;\n            if(random &lt\; .20)\n                arr[i] =
+  'C'\;\n            else if(random &lt\; .50)\n                arr[i] = 'R
+ '\;\n            else\n                arr[i] = 'F'\;\n        }\n\n      
+   return new Tile(arr)\;\n    }\n    public ArrayList testTiles1(){\n     
+    ArrayList tiles = new ArrayList&lt\;&gt\;()\;\n                        
+         //     U   R   D   L\n        tiles.add(new Tile(new char[]{'F'\,'
+ F'\,'R'\,'F'}))\;\n        tiles.add(new Tile(new char[]{'R'\,'R'\,'R'\,'R
+ '}))\;\n        tiles.add(new Tile(new char[]{'C'\,'F'\,'R'\,'C'}))\;\n   
+      tiles.add(new Tile(new char[]{'C'\,'C'\,'F'\,'R'}))\;\n        tiles.
+ add(new Tile(new char[]{'F'\,'R'\,'F'\,'R'}))\;\n        tiles.add(new Til
+ e(new char[]{'F'\,'R'\,'R'\,'R'}))\;\n        tiles.add(new Tile(new char[
+ ]{'R'\,'F'\,'R'\,'F'}))\;\n        tiles.add(new Tile(new char[]{'F'\,'F'\
+ ,'F'\,'F'}))\;\n        tiles.add(new Tile(new char[]{'C'\,'C'\,'F'\,'F'})
+ )\;\n        tiles.add(new Tile(new char[]{'C'\,'C'\,'C'\,'C'}))\;\n      
+   tiles.add(new Tile(new char[]{'R'\,'C'\,'F'\,'R'}))\;\n        tiles.add
+ (new Tile(new char[]{'F'\,'R'\,'F'\,'R'}))\;\n        tiles.add(new Tile(n
+ ew char[]{'R'\,'R'\,'F'\,'F'}))\;\n        tiles.add(new Tile(new char[]{'
+ R'\,'R'\,'R'\,'R'}))\;\n        tiles.add(new Tile(new char[]{'F'\,'F'\,'R
+ '\,'F'}))\;\n        tiles.add(new Tile(new char[]{'F'\,'R'\,'R'\,'F'}))\;
+ \n        tiles.add(new Tile(new char[]{'R'\,'F'\,'R'\,'F'}))\;\n        t
+ iles.add(new Tile(new char[]{'R'\,'F'\,'R'\,'F'}))\;\n        tiles.add(ne
+ w Tile(new char[]{'R'\,'R'\,'R'\,'F'}))\;\n        tiles.add(new Tile(new 
+ char[]{'R'\,'F'\,'F'\,'R'}))\;\n        tiles.add(new Tile(new char[]{'R'\
+ ,'F'\,'R'\,'F'}))\;\n        tiles.add(new Tile(new char[]{'R'\,'F'\,'C'\,
+ 'F'}))\;\n        tiles.add(new Tile(new char[]{'R'\,'R'\,'F'\,'F'}))\;\n 
+        tiles.add(new Tile(new char[]{'C'\,'C'\,'C'\,'C'}))\;\n        tile
+ s.add(new Tile(new char[]{'C'\,'C'\,'F'\,'F'}))\;\n\n\n\n        return ti
+ les\;\n    }\n}\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T195000Z
@@ -2999,7 +3729,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3007,7 +3737,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3015,7 +3745,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3023,7 +3753,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3031,7 +3761,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3039,7 +3769,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3047,7 +3777,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3055,7 +3785,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3063,7 +3793,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3071,7 +3801,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3079,7 +3809,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3087,7 +3817,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3095,7 +3825,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T073012Z
+DTSTAMP:20220402T073011Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
