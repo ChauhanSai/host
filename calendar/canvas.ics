@@ -118,7 +118,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T141300Z
+DTSTAMP:20220404T202200Z
 UID:event-assignment-2770396
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -262,7 +262,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  eturntype="File">Activity - Label the Word Window.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220311T141300Z
+DTSTAMP:20220404T202200Z
 UID:event-assignment-2768270
 DTSTART;VALUE=DATE:20220307T232900
 DTEND;VALUE=DATE:20220307T235900
@@ -1294,7 +1294,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220330T130800Z
+DTSTAMP:20220404T202500Z
 UID:event-assignment-2825846
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1317,7 +1317,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T164000Z
+DTSTAMP:20220404T175300Z
 UID:event-assignment-2817258
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -1382,7 +1382,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Please open yesterday's notes.&nbsp\; We wi
  verses.pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220321T130000Z
+DTSTAMP:20220404T202500Z
 UID:event-assignment-2534521
 DTSTART;VALUE=DATE:20220325T232900
 DTEND;VALUE=DATE:20220325T235900
@@ -1406,7 +1406,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>If you volunteered\, submit a picture of yo
  u at the event. Must be able to tell you were at the event for points.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220323T144500Z
+DTSTAMP:20220404T190300Z
 UID:event-assignment-2814815
 DTSTART;VALUE=DATE:20220325T232900
 DTEND;VALUE=DATE:20220325T235900
@@ -1468,7 +1468,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T164000Z
+DTSTAMP:20220404T154400Z
 UID:event-assignment-2819932
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -1566,7 +1566,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   Partnership Plan.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T164000Z
+DTSTAMP:20220404T150000Z
 UID:event-assignment-2819937
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -1673,7 +1673,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T205400Z
+DTSTAMP:20220405T020600Z
 UID:event-assignment-2537946
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1684,7 +1684,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220222T192100Z
+DTSTAMP:20220404T163600Z
 UID:event-assignment-2759019
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1696,7 +1696,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><span>Wash away the cowboys - wear beach at
  tire</span></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220306T014400Z
+DTSTAMP:20220404T163700Z
 UID:event-assignment-2776012
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1713,7 +1713,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your donations - the po
  649/files/21723696" data-api-returntype="File">Diaper Drive Flyer</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T125200Z
+DTSTAMP:20220404T202500Z
 UID:event-assignment-2829587
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1766,7 +1766,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220328T124800Z
+DTSTAMP:20220404T202500Z
 UID:event-assignment-2534514
 DTSTART;VALUE=DATE:20220401T232900
 DTEND;VALUE=DATE:20220401T235900
@@ -2642,6 +2642,258 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>For this major lab\, y
  les\;\n    }\n}\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220404T202500Z
+UID:event-assignment-2539351
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:**********\nDirections\n**********\n\n[recursion_AtCounter.pdf]
+  (https://lisdtx.instructure.com/courses/202975/files/19823957?wrap=1)Â \n
+ \n[recursion_slides_java_aplus.pdf] (https://lisdtx.instructure.com/course
+ s/202975/files/19823958?wrap=1)Â \n\n*************\nStarter Files\n*******
+ ******\n\npublic class CellCounter\n{\nprivate char[][] matrix\;\n\npublic
+  CellCounter()\n{\nmatrix = new char[][]{ {'@'\,'-'\,'@'\,'-'\,'-'\,'@'\,'
+ -'\,'@'\,'@'\,'@'}\,\n{'@'\,'@'\,'@'\,'-'\,'@'\,'@'\,'-'\,'@'\,'-'\,'@'}\,
+ \n{'-'\,'-'\,'-'\,'-'\,'-'\,'-'\,'-'\,'@'\,'@'\,'@'}\,\n{'-'\,'@'\,'@'\,'@
+ '\,'@'\,'@'\,'-'\,'@'\,'-'\,'@'}\,\n{'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'-'\,'@
+ '\,'-'\,'@'}\,\n{'@'\,'@'\,'@'\,'@'\,'@'\,'@'\,'-'\,'@'\,'@'\,'@'}\,\n{'-'
+ \,'@'\,'-'\,'@'\,'-'\,'@'\,'-'\,'-'\,'-'\,'@'}\,\n{'-'\,'@'\,'@'\,'@'\,'-'
+ \,'@'\,'-'\,'-'\,'-'\,'-'}\,\n{'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'@'
+ \,'@'}\,\n{'-'\,'@'\,'@'\,'@'\,'@'\,'@'\,'-'\,'@'\,'@'\,'@'}}\;\n}\n\npubl
+ ic int countCells(int r\, int c)\n{\nreturn 0\;\n}\n\n/*\n*this method wil
+ l return all values in the matrix\n*this method should return a view of th
+ e matrix\n*that looks like a matrix\n*/\npublic String toString()\n{\nStri
+ ng output = ""\;\nfor(int r = 0\; r < matrix.length\; r++){\nfor(int c = 0
+ \; c < matrix.length\; c++){\noutput+= matrix[r][c] + " "\;\n}\noutput+= "
+ \n"\;\n}\nreturn output\;\n}\n}\n\nclass CellCounterRunner\n{\npublic stat
+ ic void main(String args[])\n{\n//instantiate an AtCounter\nCellCounter c 
+ = new CellCounter()\;\nSystem.out.println(c)\;\n//test the code\nSystem.ou
+ t.println("0 0 has " + c.countCells(0\,0) + " @s connected.")\;\nSystem.ou
+ t.println("0 8 has " + c.countCells(0\,8) + " @s connected.")\;\n\n//add m
+ ore test cases\n}\n}
+SUMMARY:Cell Counter [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539351
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><a class="instructure_
+ file_link instructure_scribd_file inline_disabled" title="recursion_AtCoun
+ ter.pdf" href="https://lisdtx.instructure.com/courses/202975/files/1982395
+ 7?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoin
+ t="https://lisdtx.instructure.com/api/v1/courses/202975/files/19823957" da
+ ta-api-returntype="File">recursion_AtCounter.pdf</a>&nbsp\;</p>\n<p><a cla
+ ss="instructure_file_link instructure_scribd_file inline_disabled" title="
+ recursion_slides_java_aplus.pdf" href="https://lisdtx.instructure.com/cour
+ ses/202975/files/19823958?wrap=1" target="_blank" data-canvas-previewable=
+ "false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/2
+ 02975/files/19823958" data-api-returntype="File">recursion_slides_java_apl
+ us.pdf</a>&nbsp\;</p>\n<h1 style="font-family: 'Lato Extended'\, Lato\, 'H
+ elvetica Neue'\, Helvetica\, Arial\, sans-serif\;">Starter Files</h1>\n<pr
+ e>public class CellCounter\n{\n    private char[][] matrix\;\n\n    public
+  CellCounter()\n    {\n        matrix = new char[][]{   {'@'\,'-'\,'@'\,'-
+ '\,'-'\,'@'\,'-'\,'@'\,'@'\,'@'}\,\n                                {'@'\,
+ '@'\,'@'\,'-'\,'@'\,'@'\,'-'\,'@'\,'-'\,'@'}\,\n                          
+       {'-'\,'-'\,'-'\,'-'\,'-'\,'-'\,'-'\,'@'\,'@'\,'@'}\,\n              
+                   {'-'\,'@'\,'@'\,'@'\,'@'\,'@'\,'-'\,'@'\,'-'\,'@'}\,\n  
+                               {'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'-'
+ \,'@'}\,\n                                {'@'\,'@'\,'@'\,'@'\,'@'\,'@'\,'
+ -'\,'@'\,'@'\,'@'}\,\n                                {'-'\,'@'\,'-'\,'@'\
+ ,'-'\,'@'\,'-'\,'-'\,'-'\,'@'}\,\n                                {'-'\,'@
+ '\,'@'\,'@'\,'-'\,'@'\,'-'\,'-'\,'-'\,'-'}\,\n                            
+     {'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'-'\,'@'\,'@'\,'@'}\,\n                
+                 {'-'\,'@'\,'@'\,'@'\,'@'\,'@'\,'-'\,'@'\,'@'\,'@'}}\;\n   
+  }\n\n    public int countCells(int r\, int c)\n    {\n       return 0\;\n
+     }\n\n\n\n    /*\n     *this method will return all values in the matri
+ x\n     *this method should return a view of the matrix\n     *that looks 
+ like a matrix\n     */\n    public String toString()\n    {\n        Strin
+ g output = ""\;\n        for(int r = 0\; r &lt\; matrix.length\; r++){\n  
+           for(int c = 0\; c &lt\; matrix.length\; c++){\n                o
+ utput+= matrix[r][c] + " "\;\n            }\n            output+= "\n"\;\n
+         }\n        return output\;\n    }\n}\n\nclass CellCounterRunner\n{
+ \n    public static void main(String args[])\n    {\n        //instantiate
+  an AtCounter\n        CellCounter c = new CellCounter()\;\n        System
+ .out.println(c)\;\n        //test the code\n        System.out.println("0 
+ 0 has " + c.countCells(0\,0) + " @s connected.")\;\n        System.out.pri
+ ntln("0 8 has " + c.countCells(0\,8) + " @s connected.")\;\n\n        //ad
+ d more test cases\n    }\n}</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220404T202500Z
+UID:event-assignment-2539338
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:**********\nDirections\n**********\n\nCopy the following code i
+ nto a file named CountDownApp.java\n\nimport java.util.*\;\n\npublic class
+  CountDownApp\n{\npublic static void main(String[] args)\n{\nCountDownTest
+ er cd = new CountDownTester()\;\nScanner keyboard = new Scanner(System.in)
+ \;\n\nSystem.out.print("Enter starting value --> ")\;\nint s = keyboard.ne
+ xtInt()\;\n\ncd.countDown(s)\;\n}\n}\n\nclass CountDownTester\n{\npublic v
+ oid countDown(int n)\n{\n\n}\n}\n\nImplement the countDown method declared
+  above using recursion. This method\, given an initial number\, should pri
+ nt a series of numbers starting at the given number down to 1. You will ne
+ ed to include a System.out.println statement within the countDown method.\
+ n\n***********\nSource File\n***********\n\n.java\n\n**********\nSample Ru
+ n\n**********\n\nEnter starting value --> 15\n15\n14\n13\n12\n11\n10\n9\n8
+ \n7\n6\n5\n4\n3\n2\n1\n\nÂ 
+SUMMARY:Countdown [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539338
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Copy the following cod
+ e into a file named <strong>CountDownApp.java</strong></p>\n<div id="csCod
+ e">\n<pre>import java.util.*\;\n\npublic class CountDownApp\n{\n    public
+  static void main(String[] args)\n    {\n        CountDownTester cd = new 
+ CountDownTester()\;\n        Scanner keyboard = new Scanner(System.in)\;\n
+             \n        System.out.print("Enter starting value --&gt\; ")\;\
+ n        int s = keyboard.nextInt()\;\n            \n        cd.countDown(
+ s)\;\n    }\n}\n\nclass CountDownTester\n{\n    public void countDown(int 
+ n)\n    {\n\n    }\n}\n</pre>\n</div>\n<p>Implement the countDown method d
+ eclared above using recursion. This method\, given an initial number\, sho
+ uld print a series of numbers starting at the given number down to 1. You 
+ will need to include a System.out.println statement within the countDown m
+ ethod.</p>\n<h1>Source File</h1>\n<p>.java</p>\n<h1>Sample Run</h1>\n<div 
+ id="csSampleRun">\n<pre>Enter starting value --&gt\; 15\n15\n14\n13\n12\n1
+ 1\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220404T202500Z
+UID:event-assignment-2539341
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:**********\nDirections\n**********\n\nImplement the recursive m
+ ethod reverseString so that it returns a given string with the characters 
+ in reverse order. For example\, the string "Texas" would be displayed as "
+ saxeT".\n\nHint: return an empty string "" when the base case is reached.\
+ n\nTo extract the individual characters from the string use the String cla
+ ss's substring method.\n\nHardmode: do not use the index parameter as part
+  of your implementation.\n\nExample:\n\nString s = "Texas"\;\nString ch = 
+ s.substring(2\, 3)\;\n\nThe code above would extract the letter "x" from t
+ he string and place it in the variable ch . The 2 represents the starting 
+ index of the substring and the 3 represents one position beyond the desire
+ d substring.\n\nCopy the following code into a file named ReverseStringApp
+ .java.\n\nimport java.util.*\;\n\npublic class ReverseStringApp\n{\npublic
+  static void main(String[] args)\n{\nReverseStringTester cd = new ReverseS
+ tringTester()\;\nScanner keyboard = new Scanner(System.in)\;\n\nSystem.out
+ .print("Enter a string --> ")\;\nString s = keyboard.nextLine()\;\n\nSyste
+ m.out.println(cd.reverseString(s\, s.length()-1))\;\n}\n}\n\nclass Reverse
+ StringTester\n{\n/**\n* @param s the string to be reversed\n* @param index
+  is equal to s.length() - 1\n* @return String s in reverse order\n*/\npubl
+ ic String reverseString(String s\, int index)\n{\n\n}\n}\n\n***********\nS
+ ource File\n***********\n\nReverseStringApp.java\n\n**********\nSample Run
+ \n**********\n\nEnter a string --> Mississippi\nippississiM\n\nÂ 
+SUMMARY:Reverse String [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539341
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>Implement the recursiv
+ e method <strong>reverseString</strong> so that it returns a given string 
+ with the characters in reverse order. For example\, the string "Texas" wou
+ ld be displayed as "saxeT".</p>\n<p><strong>Hint:</strong> return an empty
+  string "" when the base case is reached.</p>\n<p>To extract the individua
+ l characters from the string use the String class's <strong>substring</str
+ ong> method.</p>\n<p><strong>Hardmode: do not use the index parameter as p
+ art of your implementation.</strong></p>\n<p><strong>Example:</strong></p>
+ \n<div id="csCode" style="width: 400px\;">\n<pre>String s = "Texas"\;\nStr
+ ing ch = s.substring(2\, 3)\;\n</pre>\n</div>\n<p>The code above would ext
+ ract the letter "x" from the string and place it in the variable ch . The 
+ 2 represents the starting index of the substring and the 3 represents one 
+ position beyond the desired substring.</p>\n<p>Copy the following code int
+ o a file named <strong>ReverseStringApp.java</strong>.</p>\n<div id="csCod
+ e">\n<pre>import java.util.*\;\n\npublic class ReverseStringApp\n{\n    pu
+ blic static void main(String[] args)\n    {\n        ReverseStringTester c
+ d = new ReverseStringTester()\;\n        Scanner keyboard = new Scanner(Sy
+ stem.in)\;\n        \n        System.out.print("Enter a string --&gt\; ")\
+ ;\n        String s = keyboard.nextLine()\;\n        \n        System.out.
+ println(cd.reverseString(s\, s.length()-1))\;\n    }\n}\n\nclass ReverseSt
+ ringTester\n{\n   /**\n    * @param s the string to be reversed\n    * @pa
+ ram index is equal to s.length() - 1\n    * @return String s in reverse or
+ der\n    */\n    public String reverseString(String s\, int index)\n    {\
+ n \n    }\n}\n</pre>\n</div>\n<h1>Source File</h1>\n<p>ReverseStringApp.ja
+ va</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\n<pre>Enter a string -
+ -&gt\; Mississippi\nippississiM\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220404T202500Z
+UID:event-assignment-2539339
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:**********\nDirections\n**********\n\nThe recursive methods we 
+ have looked at so far have all been non-void methods with a return value:\
+ n\npublic int factorial(int n)\npublic int countDown(int n)\n\nHowever\, t
+ his is not a requirement when implementing a recursive method. A recursive
+  method can be a void. Look at the code segment below.\n\npublic void song
+ (int b)\n{\nif( // base case has been reached )\nreturn\;\nelse\nsong(b-1)
+ \; // recursive case\n}\n\nOne approach used to exit a void method is to u
+ se a return statement with nothing after it. Notice that the call to recur
+ sive case is made on a line that does not contain a return.\n\nWhen I was 
+ growing up\, if we were on a long trip somewhere we would occasionally sin
+ g the song "Bottles of Beer on the Wall". This old song is a perfect examp
+ le of a recursive process. In this assignment you are going to implement a
+  recursive method that writes out the words to this song. Since you are al
+ l under the drinking age\, we will modify the song a little bit by making 
+ the bottles "root beer" instead of "beer". If you don't know the song refe
+ r to the Sample Run below.\n\nÂ \n\n^^Please note: Mr. Dipprey did not wri
+ te this. I don't sing songs on road trips. I especially don't sing this so
+ ng. Seriously who does this?\n\nCopy the following code into a file named 
+ SongApp.java\n\nimport java.util.*\;\n\npublic class SongApp\n{\npublic st
+ atic void main(String[] args)\n{\nSongTester s = new SongTester()\;\nScann
+ er keyboard = new Scanner(System.in)\;\n\nSystem.out.print("Enter number o
+ f bottles -->")\;\nint b = keyboard.nextInt()\;\ns.song(b)\; // call to vo
+ id method\nSystem.out.println()\;\nSystem.out.println()\;\n}\n}\n\nclass S
+ ongTester\n{\npublic void song(int b)\n{\n\n}\n}\n\nImplement the song met
+ hod declared above using recursion.\n\n***********\nSource File\n*********
+ **\n\nSongApp.java\n\n**********\nSample Run\n**********\n\nEnter number o
+ f bottles -->5\n\n5 bottles of root beer on the wall.\n5 bottles of root b
+ eer.\nTake one down\, pass it around\n4 bottles of root beer on the wall.\
+ n\n4 bottles of root beer on the wall.\n4 bottles of root beer.\nTake one 
+ down\, pass it around\n3 bottles of root beer on the wall.\n\n3 bottles of
+  root beer on the wall.\n3 bottles of root beer.\nTake one down\, pass it 
+ around\n2 bottles of root beer on the wall.\n\n2 bottles of root beer on t
+ he wall.\n2 bottles of root beer.\nTake one down\, pass it around\n1 bottl
+ es of root beer on the wall.\n\n1 bottles of root beer on the wall.\n1 bot
+ tles of root beer.\nTake one down\, pass it around\n0 bottles of root beer
+  on the wall.\n\nÂ 
+SUMMARY:Song [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539339
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The recursive methods 
+ we have looked at so far have all been non-void methods with a return valu
+ e:</p>\n<div id="csList">public <strong>int </strong>factorial(int n)<br>p
+ ublic <strong>int</strong> countDown(int n)</div>\n<p>However\, this is no
+ t a requirement when implementing a recursive method. A recursive method c
+ an be a void. Look at the code segment below.</p>\n<div id="csCode">\n<pre
+ >public void song(int b)\n{\n   if( // base case has been reached )\n     
+  return\;\n   else\n      song(b-1)\;   // recursive case\n}\n</pre>\n</di
+ v>\n<p>One approach used to exit a void method is to use a <strong>return<
+ /strong> statement with nothing after it. Notice that the call to recursiv
+ e case is made on a line that does not contain a return.</p>\n<p>When I wa
+ s growing up\, if we were on a long trip somewhere we would occasionally s
+ ing the song "Bottles of Beer on the Wall". This old song is a perfect exa
+ mple of a recursive process. In this assignment you are going to implement
+  a recursive method that writes out the words to this song. Since you are 
+ all under the drinking age\, we will modify the song a little bit by makin
+ g the bottles "root beer" instead of "beer". If you don't know the song re
+ fer to the Sample Run below.</p>\n<p>&nbsp\;</p>\n<p><strong>^^Please note
+ : Mr. Dipprey did not write this. I don't sing songs on road trips. I <em>
+ especially </em>don't sing this song. Seriously who does this?</strong></p
+ >\n<p>Copy the following code into a file named SongApp.java</p>\n<div id=
+ "csCode">\n<pre>import java.util.*\;\n\npublic class SongApp\n{\n    publi
+ c static void main(String[] args)\n    {\n        SongTester s = new SongT
+ ester()\;\n        Scanner keyboard = new Scanner(System.in)\;\n          
+   \n        System.out.print("Enter number of bottles --&gt\;")\;\n       
+  int b = keyboard.nextInt()\;\n        s.song(b)\;    // call to void meth
+ od\n        System.out.println()\;\n        System.out.println()\;\n    }\
+ n}\n\nclass SongTester\n{\n    public void song(int b)\n    {\n\n    }\n}\
+ n</pre>\n</div>\n<p>Implement the song method declared above using recursi
+ on.</p>\n<h1>Source File</h1>\n<p>SongApp.java</p>\n<h1>Sample Run</h1>\n<
+ div id="csSampleRun">\n<pre>Enter number of bottles --&gt\;5\n\n5 bottles 
+ of root beer on the wall.\n5 bottles of root beer.\nTake one down\, pass i
+ t around\n4 bottles of root beer on the wall.\n\n4 bottles of root beer on
+  the wall.\n4 bottles of root beer.\nTake one down\, pass it around\n3 bot
+ tles of root beer on the wall.\n\n3 bottles of root beer on the wall.\n3 b
+ ottles of root beer.\nTake one down\, pass it around\n2 bottles of root be
+ er on the wall.\n\n2 bottles of root beer on the wall.\n2 bottles of root 
+ beer.\nTake one down\, pass it around\n1 bottles of root beer on the wall.
+ \n\n1 bottles of root beer on the wall.\n1 bottles of root beer.\nTake one
+  down\, pass it around\n0 bottles of root beer on the wall.\n</pre>\n</div
+ >\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T195000Z
 UID:event-calendar-event-520827
 DTSTART;VALUE=DATE:20220405
@@ -2754,6 +3006,17 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220404T130600Z
+UID:event-assignment-2534511
+DTSTART;VALUE=DATE:20220408T232900
+DTEND;VALUE=DATE:20220408T235900
+DESCRIPTION:
+SUMMARY:ArrayList AP Review [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2534511
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220125T205300Z
 UID:event-assignment-2537936
 DTSTART;VALUE=DATE:20220408T232900
@@ -2862,7 +3125,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=04&year=2022#assignment_2759063
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T205200Z
+DTSTAMP:20220405T020400Z
 UID:event-assignment-2537948
 DTSTART;VALUE=DATE:20220414T232900
 DTEND;VALUE=DATE:20220414T235900
@@ -2871,15 +3134,6 @@ SUMMARY:Test Topic 8 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#assignment_2537948
 X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211101T180600Z
-UID:event-assignment-2466315
-DTSTART;VALUE=DATE:20220414T232900
-DTEND;VALUE=DATE:20220414T235900
-SUMMARY:4/13 - 4/14: UIL [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=04&year=2022#assignment_2466315
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220222T192200Z
@@ -2941,6 +3195,22 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
  dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
  0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220404T180300Z
+UID:event-assignment-2834146
+DTSTART;VALUE=DATE:20220418T232900
+DTEND;VALUE=DATE:20220418T235900
+DESCRIPTION:Please donate the following items:\n\n* Dry or wet cat & dog fo
+ od\n\n* Reusable bags\n\n* Cat litter\n\n* Towels\n\n* Blankets\n\nÂ \n\n2
+  points per item\; 10 points max
+SUMMARY:Operation Kindness - The Pet Drive [StuCo 21-22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
+ month=04&year=2022#assignment_2834146
+X-ALT-DESC;FMTTYPE=text/html:<p>Please donate the following items:</p>\n<ul
+ >\n<li>Dry or wet cat &amp\; dog food</li>\n<li>Reusable bags</li>\n<li>Ca
+ t litter</li>\n<li>Towels</li>\n<li>Blankets</li>\n</ul>\n<p>&nbsp\;</p>\n
+ <p>2 points per item\; 10 points max</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200700Z
@@ -3473,33 +3743,6 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211007T020500Z
-UID:event-assignment-2391478
-DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
-SUMMARY:5/12: Spring Concert [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=05&year=2022#assignment_2391478
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211021T181100Z
-UID:event-assignment-2433352
-DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
-SUMMARY:5/13: Freshman One Act Play [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=05&year=2022#assignment_2433352
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211101T180600Z
-UID:event-assignment-2466322
-DTSTART;VALUE=DATE:20220514T232900
-DTEND;VALUE=DATE:20220514T235900
-SUMMARY:5/13 - 5/14: Choir Spring Show [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=05&year=2022#assignment_2466322
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220309T201200Z
 UID:event-calendar-event-537415
 DTSTART;VALUE=DATE:20220516
@@ -3619,7 +3862,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3627,7 +3870,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3635,7 +3878,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3643,7 +3886,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3651,7 +3894,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3659,7 +3902,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3667,7 +3910,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3675,7 +3918,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3683,7 +3926,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3691,7 +3934,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3699,7 +3942,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3707,7 +3950,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3715,7 +3958,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T073010Z
+DTSTAMP:20220405T073006Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
