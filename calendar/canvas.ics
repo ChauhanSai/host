@@ -7,452 +7,6 @@ X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
 DTSTAMP:20220325T130900Z
-UID:event-assignment-2537924
-DTSTART;VALUE=DATE:20220307T232900
-DTEND;VALUE=DATE:20220307T235900
-DESCRIPTION:[Practice 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practic
- e.pdf] (https://lisdtx.instructure.com/courses/172585/files/19814639/downl
- oad?wrap=1)
-SUMMARY:HW DUE 5.3-5.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#assignment_2537924
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 5.3 - 5.4 Quad Regression\, Focus\, Directri
- x Practice.pdf" href="https://lisdtx.instructure.com/courses/172585/files/
- 19814639/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.co
- m/api/v1/courses/172585/files/19814639" data-api-returntype="File">Practic
- e 5.3 - 5.4 Quad Regression\, Focus\, Directrix Practice.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220404T202200Z
-UID:event-assignment-2770396
-DTSTART;VALUE=DATE:20220307T232900
-DTEND;VALUE=DATE:20220307T235900
-DESCRIPTION:----------\nDirections\n----------\n\nIn this assignment you wi
- ll create three classes Employee\, HourlyEmployee\, and SalariedEmployee. 
- HourlyEmployee and SalariedEmployee with inherit from the superclass emplo
- yee. After writing these classes you will create a runner that will allow 
- a user to enter a list of employees and their wages.Â  The user should be 
- able to decide what kind of employee they will add to the list.\n\nEmploye
- e.java\n-------------\n\nclass Employee {\nprivate String name\;\nprivate 
- int employeeId\;\n\n}\n\nÂ \n\nIn Employee:\n\n1. Write a default construc
- tor and a constructor to initialize both instance variables.\n\n2. Write (
- or generate\, thanks IntelliJ!) accessor and mutator methods.\n\n3. Overri
- de toString. The Employee toString should only return the name and "ID-"+ 
- employeeId.Â See how this looks in the output below after an employee is p
- ut in the list.\n\n4. Implement the void method printEarnings().Â This met
- hod will print the string "Earnings for " + name when called. We need to i
- mplement this method in the superclass Employee so that all Employee objec
- ts\, including Hourly and Salaried Employees may call this method when sto
- red in an list of Employees.\n\nÂ \n\nHourlyEmployee.java\n\nclass HourlyE
- mployee extends Employee {\nprivate int hourlyWage\;\nprivate int hoursWor
- ked\;\n\n}\n\nÂ \n\nIn HourlyEmployee:\n\n1. Write a default constructor a
- nd a constructor that initializes all instance variables in this class and
-  the superclass.\n\n2. Write accessor and mutator methods.\n\n3. Do a part
- ial override on toString(). This toString should add the hourly wage to th
- e returned string in addition to the String returned from the super toStri
- ng().\n\n4. Do a partial override on printEarnings(). This method should p
- rint the hours worked\, hourly wage and total earnings. See output for exa
- mple.\n\nÂ \n\nSalariedEmployee.java\n\nclass SalariedEmployee extends Emp
- loyee {\nprivate int salary\;\n\n}\n\nIn SalariedEmployee:\n\n1. Write a d
- efault constructor and a constructor that initializes all instance variabl
- es in this class and the superclass.\n\n2. Write accessor and mutator meth
- ods.\n\n3. Do a partial override on toString(). This toString should add t
- he salary to the returned string in addition to the String returned from t
- he super toString().\n\n4. Do a partial override on printEarnings(). This 
- method should print the salary. See output for example.\n\nÂ \n\nEmployeeL
- ist.java\n\nimport java.util.ArrayList\;\nimport java.util.Scanner\;\n\npu
- blic class EmployeeList {\npublic static void main(String[] args) {\nScann
- er key = new Scanner(System.in)\;\n\nArrayList<Employee> employees = new A
- rrayList<>()\;\n\nSystem.out.println("Add employees to database.")\;\nStri
- ng input = ""\;\n\nwhile(!input.equalsIgnoreCase("N")){\n\nSystem.out.prin
- t("\nEnter another employee? (y/n) ")\;\ninput = key.nextLine()\;\n}\n\nSy
- stem.out.println("\nEmployee Earnings: " )\;\n//Print all employee earning
- s from list.\n}\n\n}\n\nIn EmployeeList:\n\n1. In the while loop ask the u
- ser for the type of employee to be created. Allow user to enter appropriat
- e values for each object type. Instantiate the employee into the list and 
- call the toString as confirmation.\n\n2. When the while loop terminates\, 
- iterate though the list of students can display the earnings for each empl
- oyee.\n\nÂ \n\n-------------\nSample output\n-------------\n\nAdd employee
- s to database.\nSelect employee type:\n1. Hourly\n2. Salary\nEnter selecti
- on -> 1\n\nEnter Employee Name: Carl\nEnter Employee ID: 123\nEnter hourly
-  wage: 50\nEnter hours worked: 2000\n\nAdded Carl ID-123\, Wage: 50\n\nEnt
- er another employee? (y/n) y\nSelect employee type:\n1. Hourly\n2. Salary\
- nEnter selection -> 2\n\nEnter Employee Name: Marjory\nEnter Employee ID: 
- 098\nEnter salary: 150000\n\nAdded Marjory ID-98\, Salary: 150000\n\nEnter
-  another employee? (y/n) n\n\nEmployee Earnings:\nEarnings for Carl\n2000 
- hours @ $50.00 = 100000\n\nEarnings for Marjory\nSalary: 150000\n\nÂ 
-SUMMARY:Employee List [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=03&year=2022#assignment_2770396
-X-ALT-DESC;FMTTYPE=text/html:<h2>Directions</h2>\n<p>In this assignment you
-  will create three classes <strong>Employee</strong>\, <strong>HourlyEmplo
- yee</strong>\, and <strong>SalariedEmployee</strong>. HourlyEmployee and S
- alariedEmployee with inherit from the superclass employee. After writing t
- hese classes you will create a runner that will allow a user to enter a li
- st of employees and their wages.&nbsp\; The user should be able to decide 
- what kind of employee they will add to the list.</p>\n<h4>Employee.java</h
- 4>\n<pre>class Employee {\n    private String name\;\n    private int empl
- oyeeId\;\n\n    \n    \n}\n</pre>\n<p>&nbsp\;</p>\n<p><strong>In Employee:
- </strong></p>\n<p>1. Write a default constructor and a constructor to init
- ialize both instance variables.</p>\n<p>2. Write (or generate\, thanks Int
- elliJ!) accessor and mutator methods.</p>\n<p>3. Override toString. The Em
- ployee toString should only return the <strong>name </strong>and <strong>"
- ID-"+ employeeId.&nbsp\;</strong>See how this looks in the output below af
- ter an employee is put in the list.</p>\n<p>4. Implement the void method <
- strong>printEarnings().&nbsp\;</strong>This method will print the string <
- strong>"Earnings for " + name</strong> when called. We need to implement t
- his method in the superclass Employee so that all Employee objects\, inclu
- ding Hourly and Salaried Employees may call this method when stored in an 
- list of Employees.</p>\n<p>&nbsp\;</p>\n<p><strong>HourlyEmployee.java</st
- rong></p>\n<pre>class HourlyEmployee extends Employee {\n    private int h
- ourlyWage\;\n    private int hoursWorked\;\n\n    \n}</pre>\n<p>&nbsp\;</p
- >\n<p><strong>In HourlyEmployee:</strong></p>\n<p>1. Write a default const
- ructor and a constructor that initializes all instance variables in this c
- lass and the superclass.</p>\n<p>2. Write accessor and mutator methods.</p
- >\n<p>3. Do a <strong>partial override</strong> on toString(). This toStri
- ng should add the hourly wage to the returned string in addition to the St
- ring returned from the super toString().</p>\n<p>4. Do a <strong>partial o
- verride</strong> on printEarnings(). This method should print the hours wo
- rked\, hourly wage and total earnings. See output for example.</p>\n<p>&nb
- sp\;</p>\n<p><strong>SalariedEmployee.java</strong></p>\n<pre>class Salari
- edEmployee extends Employee {\n    private int salary\;\n\n   \n}</pre>\n<
- p><strong>In SalariedEmployee:</strong></p>\n<p>1. Write a default constru
- ctor and a constructor that initializes all instance variables in this cla
- ss and the superclass.</p>\n<p>2. Write accessor and mutator methods.</p>\
- n<p>3. Do a <strong>partial override</strong> on toString(). This toString
-  should add the salary to the returned string in addition to the String re
- turned from the super toString().</p>\n<p>4. Do a <strong>partial override
- </strong> on printEarnings(). This method should print the salary. See out
- put for example.</p>\n<p>&nbsp\;</p>\n<p><strong>EmployeeList.java</strong
- ></p>\n<pre>import java.util.ArrayList\;\nimport java.util.Scanner\;\n\npu
- blic class EmployeeList {\n    public static void main(String[] args) {\n 
-        Scanner key = new Scanner(System.in)\;\n\n        ArrayList<strong>
- &lt\;Employee&gt\;</strong> employees = new ArrayList&lt\;&gt\;()\;\n\n   
-      System.out.println("Add employees to database.")\;\n        String in
- put = ""\;\n\n        while(!input.equalsIgnoreCase("N")){\n           \n\
- n            System.out.print("\nEnter another employee? (y/n) ")\;\n     
-        input = key.nextLine()\;\n        }\n\n        System.out.println("
- \nEmployee Earnings: " )\;\n        //Print all employee earnings from lis
- t.\n    }\n\n}\n</pre>\n<p>In EmployeeList:</p>\n<p>1. In the while loop a
- sk the user for the type of employee to be created. Allow user to enter ap
- propriate values for each object type. Instantiate the employee into the l
- ist and call the toString as confirmation.</p>\n<p>2. When the while loop 
- terminates\, iterate though the list of students can display the earnings 
- for each employee.</p>\n<p>&nbsp\;</p>\n<h2>Sample output</h2>\n<pre>Add e
- mployees to database.\nSelect employee type: \n1. Hourly\n2. Salary\nEnter
-  selection -&gt\; 1\n\nEnter Employee Name: Carl\nEnter Employee ID: 123\n
- Enter hourly wage: 50\nEnter hours worked: 2000\n\nAdded Carl ID-123\, Wag
- e: 50\n\nEnter another employee? (y/n) y\nSelect employee type: \n1. Hourl
- y\n2. Salary\nEnter selection -&gt\; 2\n\nEnter Employee Name: Marjory\nEn
- ter Employee ID: 098\nEnter salary: 150000\n\nAdded Marjory ID-98\, Salary
- : 150000\n\nEnter another employee? (y/n) n\n\nEmployee Earnings: \nEarnin
- gs for Carl\n2000 hours @ $50.00 = 100000\n\nEarnings for Marjory\nSalary:
-  150000\n</pre>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220308T175200Z
-UID:event-assignment-2774863
-DTSTART;VALUE=DATE:20220307T232900
-DTEND;VALUE=DATE:20220307T235900
-DESCRIPTION:[Activity - Label the Word Window.pdf] (https://lisdtx.instruct
- ure.com/courses/190905/files/21690055?wrap=1)Â 
-SUMMARY:Label the Word Window [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=03&year=2022#assignment_2774863
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Activity - Label the Word Window.pdf"
-  href="https://lisdtx.instructure.com/courses/190905/files/21690055?wrap=1
- " target="_blank" data-canvas-previewable="false" data-api-endpoint="https
- ://lisdtx.instructure.com/api/v1/courses/190905/files/21690055" data-api-r
- eturntype="File">Activity - Label the Word Window.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220404T202200Z
-UID:event-assignment-2768270
-DTSTART;VALUE=DATE:20220307T232900
-DTEND;VALUE=DATE:20220307T235900
-DESCRIPTION:Photographer\n\n**********\nDirections\n**********\n\nA sports 
- photographer takes pictures of youth sports teams. Coaches and parents can
-  buy pictures by purchasing one of five different picture packets. The pac
- kets offered include the StarterPacket\, MemoryPacket\, AllStarPacket\, Ch
- ampionPacket\, and CollectorPacket. Each packet offers a different combina
- tion of photograph sizes and quantities. The number and type of photograph
- s offered in each packet are listed below.\n\n8x10\n\n5x7\n\nwallets\n\nma
- gazine cover\n\ntrading cards\n\nStarter\n\n1\n\nMemory\n\n1\n\n2\n\n8\n\n
- AllStar\n\n1\n\n1\n\n16\n\nChampion\n\n1\n\n2\n\n1\n\n16\n\nCollector\n\n1
- \n\n2\n\n8\n\n1\n\n16\n\nThe StarterPacket class is defined with the follo
- wing attributes and behaviors. Copy the following code into a source file 
- namedÂ StarterPacket.java.\n\npublic class StarterPacket\n{\n// instance v
- ariables\nprivate int photo8x10\;\n\n// constructor\npublic StarterPacket(
- )\n{\nphoto8x10 = 1\;\n}\n\npublic String getPacketName()\n{\nreturn "Star
- terPacket"\;\n}\n\npublic String toString()\n{\nreturn getPacketName() + "
- \n" +\n"8 x 10 = " + photo8x10\;\n}\n}\n\nDefine two classes namedÂ Memory
- PacketÂ andÂ AllStarPacketÂ that both inherit the StarterPacket class. Def
- ine a class namedÂ ChampionPacketÂ that inherits from the AllStarPacket. D
- efine a class nameÂ CollectorsPacketÂ that inherits from the ChampionPacke
- t. The inheritance relationship is illustrated by the diagram below.\n\n[p
- hotographer.png] (https://lisdtx.instructure.com/courses/202975/files/2155
- 6754/preview)\n\nCopy the following code into a source file namedÂ MemoryP
- acket.java\n\npublic class MemoryPacket extends StarterPacket\n{\n	\n}\n\n
- Copy the following code into a source file namedÂ AllStarPacket.java\n\npu
- blic class AllStarPacket extends StarterPacket\n{\n	\n}\n\nCopy the follow
- ing code into a source file namedÂ ChampionPacket.java\n\npublic class Cha
- mpionPacket extends AllStarPacket\n{\n	\n}\n\nCopy the following code into
-  a source file namedÂ CollectorPacket.java\n\npublic class CollectorPacket
-  extends ChampionPacket\n{\n	\n}\n\n*************\nModifications\n********
- *****\n\nMake the following additions and modifications to theÂ MemoryPack
- etÂ class:\n--------------------------------------------------------------
- -----------\n\n*\n\nRule :Â A subclass can add new private instance variab
- les.\n- Add an instance variable of type int namedÂ photo5x7.\n- Add an in
- stance variable of type intÂ photoWallets.\n\n*\n\nRule :Â A subclass can 
- add new public or private methods.\n- none\n\n*\n\nRule :Â A subclass can 
- override (redefine) inherited methods.\n- Override theÂ getPacketNameÂ met
- hod so that it returns the packet name "Memory Packet".\n- Override theÂ t
- oStringÂ method so that it includes the instance variables photo5x7 and ph
- otoWallets.\n\n*\n\nRule :Â A subclass must define its own constructors.\n
- - Add aÂ default constructorÂ that initializes photo5x7 to a value of 2 an
- d photoWallets to a value of 8.\n\nMake the following additions and modifi
- cations to theÂ AllStarPacketÂ class:\n-----------------------------------
- ---------------------------------------\n\n*\n\nRule :Â A subclass can add
-  new private instance variables.\n- Add an instance variable of type int n
- amedÂ photoMagazineCover.\n- Add an instance variable of type int namedÂ p
- hotoTradingCards.\n\n*\n\nRule :Â A subclass can add new public or private
-  methods.\n- none\n\n*\n\nRule :Â A subclass can override (redefine) inher
- ited methods.\n- Override theÂ getPacketNameÂ method so that it returns th
- e packet name "AllStar Packet".\n- Override theÂ toStringÂ method so that 
- it includes the instance variables photoMagazine and photoTradingCards.\n\
- n*\n\nRule :Â A subclass must define its own constructors.\n- Add aÂ defau
- lt constructorÂ that initializes photoMagazineCover to a value of 1 and ph
- otoTradingCards to a value of 16.\n\nMake the following additions and modi
- fications to theÂ ChampionPacketÂ class:\n--------------------------------
- -------------------------------------------\n\n*\n\nRule :Â A subclass can
-  add new private instance variables.\n- Add an instance variable of type i
- nt namedÂ photo5x7.\n\n*\n\nRule :Â A subclass can add new public or priva
- te methods.\n- none\n\n*\n\nRule :Â A subclass can override (redefine) inh
- erited methods.\n- Override theÂ getPacketNameÂ method so that it returns 
- the packet name "Champion Packet".\n- Override theÂ toStringÂ method so th
- at it includes the instance variable photo5x7.\n\n*\n\nRule :Â A subclass 
- must define its own constructors.\n- Add aÂ default constructorÂ that init
- ializes photo5x7 to a value of 2.\n\nMake the following additions and modi
- fications to theÂ CollectorPacketÂ class:\n-------------------------------
- ---------------------------------------------\n\n*\n\nRule :Â A subclass c
- an add new private instance variables.\n- Add an instance variable of type
-  int namedÂ photoWallets.\n\n*\n\nRule :Â A subclass can add new public or
-  private methods.\n- none\n\n*\n\nRule :Â A subclass can override (redefin
- e) inherited methods.\n- Override theÂ getPacketNameÂ method so that it re
- turns the packet name "Collector Packet".\n- Override theÂ toStringÂ metho
- d so that it includes the instance variable photoWallets.\n\n*\n\nRule :Â 
- A subclass must define its own constructors.\n- Add aÂ default constructor
- Â that initializes photoWallets to a value of 8.\n\n**********\nTest Class
- \n**********\n\nTo test the functionality of your classes copy the followi
- ng code into a source file namedÂ SportsPhotography.java.\n\nimport java.u
- til.*\;\n\npublic class SportsPhotography\n{\nprivate StarterPacket photoP
- acket\;\n\npublic SportsPhotography()\n{\nScanner keyboard = new Scanner(S
- ystem.in)\;\nint packet=0\;\n\ndo\n{\nSystem.out.println("Sports Photograp
- hy")\;\nSystem.out.println("------------------")\;\nSystem.out.println("1.
-  Starter Packet")\;\nSystem.out.println("2. Memory Packet")\;\nSystem.out.
- println("3. All Star Packet")\;\nSystem.out.println("4. Champion Packet ")
- \;\nSystem.out.println("5. Collector Packet")\;\nSystem.out.println("")\;\
- nSystem.out.print("Select packet -->")\;\npacket = keyboard.nextInt()\;\ni
- f(packet == 1)\n{\nphotoPacket = new StarterPacket()\;\n}\nif(packet == 2)
- \n{\nphotoPacket = new MemoryPacket()\;\n}\nif(packet == 3)\n{\nphotoPacke
- t = new AllStarPacket()\;\n}\nif(packet == 4)\n{\nphotoPacket = new Champi
- onPacket()\;\n}\nif(packet == 5)\n{\nphotoPacket = new CollectorPacket()\;
- \n}\n\nSystem.out.println()\;\nSystem.out.println("Picture Packet")\;\nSys
- tem.out.println("============")\;\nSystem.out.println(photoPacket)\;\nSyst
- em.out.println()\;\nSystem.out.println()\;\n}\nwhile(true)\;\n}\n\npublic 
- static void main(String[] args)\n{\nSportsPhotography app = new SportsPhot
- ography()\;\n}\n}\n\n***********\nSource File\n***********\n\nStarterPacke
- t.java\n\nMemoryPacket.java\n\nAllStarPacket.java\n\nChampionPacket.java\n
- \nCollectorPacket.java\n\nSportsPhotogarphy.java\n\n**********\nSample Run
- \n**********\n\nSports Photography\n------------------\n1. Starter Plan\n2
- . Memory Plan\n3. All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSe
- lect plan -->1\n\nPicture Plan\n============\nStarterPlan\n8 x 10 = 1\n\nS
- ports Photography\n------------------\n1. Starter Plan\n2. Memory Plan\n3.
-  All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan -->2\n\
- nPicture Plan\n============\nMemoryPlan\n8 x 10 = 1\n5 x 7 = 2\nWallets = 
- 8\n\nSports Photography\n------------------\n1. Starter Plan\n2. Memory Pl
- an\n3. All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan -
- ->3\n\nPicture Plan\n============\nAllStarPlan\n8 x 10 = 1\nMagazine Cover
-  = 1\nTrading Cards = 16\n\nSports Photography\n------------------\n1. Sta
- rter Plan\n2. Memory Plan\n3. All Star Plan\n4. Champion Plan\n5. Collecto
- r Plan\n\nSelect plan -->4\n\nPicture Plan\n============\nChampionPlan\n8 
- x 10 = 1\nMagazine Cover = 1\nTrading Cards = 16\n5 x 7 = 2\n\nSports Phot
- ography\n------------------\n1. Starter Plan\n2. Memory Plan\n3. All Star 
- Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan -->5\n\nPicture P
- lan\n============\nCollectorPlan\n8 x 10 = 1\nMagazine Cover = 1\nTrading 
- Cards = 16\n5 x 7 = 2\nWallets = 8
-SUMMARY:Photographer [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=03&year=2022#assignment_2768270
-X-ALT-DESC;FMTTYPE=text/html:<div id="csAssignmentTitle">Photographer</div>
- \n<div id="csContent">\n<h1>Directions</h1>\n<p>A sports photographer take
- s pictures of youth sports teams. Coaches and parents can buy pictures by 
- purchasing one of five different picture packets. The packets offered incl
- ude the StarterPacket\, MemoryPacket\, AllStarPacket\, ChampionPacket\, an
- d CollectorPacket. Each packet offers a different combination of photograp
- h sizes and quantities. The number and type of photographs offered in each
-  packet are listed below.</p>\n<table id="csTable" border="1" width="50%">
- \n<tbody>\n<tr>\n<th width="40%"></th>\n<th width="12%">8x10</th>\n<th wid
- th="12%">5x7</th>\n<th width="12%">wallets</th>\n<th width="12%">magazine 
- cover</th>\n<th width="12%">trading cards</th>\n</tr>\n<tr>\n<td>Starter</
- td>\n<td>\n<div>1</div>\n</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>
- \n</tr>\n<tr>\n<td>Memory</td>\n<td>\n<div>1</div>\n</td>\n<td>\n<div>2</d
- iv>\n</td>\n<td>\n<div>8</div>\n</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n
- <td>AllStar</td>\n<td>\n<div>1</div>\n</td>\n<td></td>\n<td></td>\n<td>\n<
- div>1</div>\n</td>\n<td>\n<div>16</div>\n</td>\n</tr>\n<tr>\n<td>Champion<
- /td>\n<td>\n<div>1</div>\n</td>\n<td>\n<div>2</div>\n</td>\n<td></td>\n<td
- >\n<div>1</div>\n</td>\n<td>\n<div>16</div>\n</td>\n</tr>\n<tr>\n<td>Colle
- ctor</td>\n<td>\n<div>1</div>\n</td>\n<td>\n<div>2</div>\n</td>\n<td>\n<di
- v>8</div>\n</td>\n<td>\n<div>1</div>\n</td>\n<td>\n<div>16</div>\n</td>\n<
- /tr>\n</tbody>\n</table>\n<p>The StarterPacket class is defined with the f
- ollowing attributes and behaviors. Copy the following code into a source f
- ile named<span>&nbsp\;</span><strong>StarterPacket.java</strong>.</p>\n<di
- v id="csCode">\n<pre>public class StarterPacket\n{\n   // instance variabl
- es\n   private int photo8x10\;\n   \n   // constructor\n   public StarterP
- acket()\n   {\n      photo8x10 = 1\;\n   }\n   \n   public String getPacke
- tName()\n   {\n      return "StarterPacket"\;\n   }\n   \n   public String
-  toString()\n   {\n      return getPacketName() + "\n" +\n             "8 
- x 10 = " + photo8x10\;\n   }    \n}\n</pre>\n</div>\n<p>Define two classes
-  named<span>&nbsp\;</span><strong>MemoryPacket</strong><span>&nbsp\;</span
- >and<span>&nbsp\;</span><strong>AllStarPacket</strong><span>&nbsp\;</span>
- that both inherit the StarterPacket class. Define a class named<span>&nbsp
- \;</span><strong>ChampionPacket</strong><span>&nbsp\;</span>that inherits 
- from the AllStarPacket. Define a class name<span>&nbsp\;</span><strong>Col
- lectorsPacket</strong><span>&nbsp\;</span>that inherits from the ChampionP
- acket. The inheritance relationship is illustrated by the diagram below.</
- p>\n<div><img src="https://lisdtx.instructure.com/courses/202975/files/215
- 56754/preview" alt="photographer.png" data-api-endpoint="https://lisdtx.in
- structure.com/api/v1/courses/202975/files/21556754" data-api-returntype="F
- ile"></div>\n<p>Copy the following code into a source file named<span>&nbs
- p\;</span><strong>MemoryPacket.java</strong></p>\n<div id="csCode">\n<pre>
- public class MemoryPacket extends StarterPacket\n{\n	\n}\n</pre>\n</div>\n
- <p>Copy the following code into a source file named<span>&nbsp\;</span><st
- rong>AllStarPacket.java</strong></p>\n<div id="csCode">\n<pre>public class
-  AllStarPacket extends StarterPacket\n{\n   	\n}\n</pre>\n</div>\n<p>Copy 
- the following code into a source file named<span>&nbsp\;</span><strong>Cha
- mpionPacket.java</strong></p>\n<div id="csCode">\n<pre>public class Champi
- onPacket extends AllStarPacket\n{\n	\n}\n</pre>\n</div>\n<p>Copy the follo
- wing code into a source file named<span>&nbsp\;</span><strong>CollectorPac
- ket.java</strong></p>\n<div id="csCode">\n<pre>public class CollectorPacke
- t extends ChampionPacket\n{\n	\n}\n</pre>\n</div>\n<h1>Modifications</h1>\
- n<div id="csList">\n<h4><strong>Make the following additions and modificat
- ions to the&nbsp\;MemoryPacket&nbsp\;class:</strong></h4>\n<ol>\n<ol>\n<li
- >\n<p><strong>Rule :</strong><span>&nbsp\;</span>A subclass can add new pr
- ivate instance variables.<br>- Add an instance variable of type int named<
- span>&nbsp\;</span><strong>photo5x7</strong>.<br>- Add an instance variabl
- e of type int<span>&nbsp\;</span><strong>photoWallets</strong>.</p>\n</li>
- \n<li>\n<p><strong>Rule :</strong><span>&nbsp\;</span>A subclass can add n
- ew public or private methods.<br>- none</p>\n</li>\n<li>\n<p><strong>Rule 
- :</strong><span>&nbsp\;</span>A subclass can override (redefine) inherited
-  methods.<br>- Override the<span>&nbsp\;</span><strong>getPacketName</stro
- ng><span>&nbsp\;</span>method so that it returns the packet name "Memory P
- acket".<br>- Override the<span>&nbsp\;</span><strong>toString</strong><spa
- n>&nbsp\;</span>method so that it includes the instance variables photo5x7
-  and photoWallets.</p>\n</li>\n<li>\n<p><strong>Rule :</strong><span>&nbsp
- \;</span>A subclass must define its own constructors.<br>- Add a<span>&nbs
- p\;</span><strong>default constructor</strong><span>&nbsp\;</span>that ini
- tializes photo5x7 to a value of 2 and photoWallets to a value of 8.</p>\n<
- /li>\n</ol>\n</ol>\n<h4><strong>Make the following additions and modificat
- ions to the&nbsp\;AllStarPacket&nbsp\;class:</strong></h4>\n<ol>\n<ol>\n<l
- i>\n<p><strong>Rule :</strong><span>&nbsp\;</span>A subclass can add new p
- rivate instance variables.<br>- Add an instance variable of type int named
- <span>&nbsp\;</span><strong>photoMagazineCover</strong>.<br>- Add an insta
- nce variable of type int named<span>&nbsp\;</span><strong>photoTradingCard
- s</strong>.</p>\n</li>\n<li>\n<p><strong>Rule :</strong><span>&nbsp\;</spa
- n>A subclass can add new public or private methods.<br>- none</p>\n</li>\n
- <li>\n<p><strong>Rule :</strong><span>&nbsp\;</span>A subclass can overrid
- e (redefine) inherited methods.<br>- Override the<span>&nbsp\;</span><stro
- ng>getPacketName</strong><span>&nbsp\;</span>method so that it returns the
-  packet name "AllStar Packet".<br>- Override the<span>&nbsp\;</span><stron
- g>toString</strong><span>&nbsp\;</span>method so that it includes the inst
- ance variables photoMagazine and photoTradingCards.</p>\n</li>\n<li>\n<p><
- strong>Rule :</strong><span>&nbsp\;</span>A subclass must define its own c
- onstructors.<br>- Add a<span>&nbsp\;</span><strong>default constructor</st
- rong><span>&nbsp\;</span>that initializes photoMagazineCover to a value of
-  1 and photoTradingCards to a value of 16.</p>\n</li>\n</ol>\n</ol>\n<h4><
- strong>Make the following additions and modifications to the&nbsp\;Champio
- nPacket&nbsp\;class:</strong></h4>\n<ol>\n<ol>\n<li>\n<p><strong>Rule :</s
- trong><span>&nbsp\;</span>A subclass can add new private instance variable
- s.<br>- Add an instance variable of type int named<span>&nbsp\;</span><str
- ong>photo5x7</strong>.</p>\n</li>\n<li>\n<p><strong>Rule :</strong><span>&
- nbsp\;</span>A subclass can add new public or private methods.<br>- none</
- p>\n</li>\n<li>\n<p><strong>Rule :</strong><span>&nbsp\;</span>A subclass 
- can override (redefine) inherited methods.<br>- Override the<span>&nbsp\;<
- /span><strong>getPacketName</strong><span>&nbsp\;</span>method so that it 
- returns the packet name "Champion Packet".<br>- Override the<span>&nbsp\;<
- /span><strong>toString</strong><span>&nbsp\;</span>method so that it inclu
- des the instance variable photo5x7.</p>\n</li>\n<li>\n<p><strong>Rule :</s
- trong><span>&nbsp\;</span>A subclass must define its own constructors.<br>
- - Add a<span>&nbsp\;</span><strong>default constructor</strong><span>&nbsp
- \;</span>that initializes photo5x7 to a value of 2.</p>\n</li>\n</ol>\n</o
- l>\n<h4><strong>Make the following additions and modifications to the&nbsp
- \;CollectorPacket&nbsp\;class:</strong></h4>\n<ol>\n<li>\n<p><strong>Rule 
- :</strong><span>&nbsp\;</span>A subclass can add new private instance vari
- ables.<br>- Add an instance variable of type int named<span>&nbsp\;</span>
- <strong>photoWallets</strong>.</p>\n</li>\n<li>\n<p><strong>Rule :</strong
- ><span>&nbsp\;</span>A subclass can add new public or private methods.<br>
- - none</p>\n</li>\n<li>\n<p><strong>Rule :</strong><span>&nbsp\;</span>A s
- ubclass can override (redefine) inherited methods.<br>- Override the<span>
- &nbsp\;</span><strong>getPacketName</strong><span>&nbsp\;</span>method so 
- that it returns the packet name "Collector Packet".<br>- Override the<span
- >&nbsp\;</span><strong>toString</strong><span>&nbsp\;</span>method so that
-  it includes the instance variable photoWallets.</p>\n</li>\n<li>\n<p><str
- ong>Rule :</strong><span>&nbsp\;</span>A subclass must define its own cons
- tructors.<br>- Add a<span>&nbsp\;</span><strong>default constructor</stron
- g><span>&nbsp\;</span>that initializes photoWallets to a value of 8.</p>\n
- </li>\n</ol>\n</div>\n<h1>Test Class</h1>\n<p>To test the functionality of
-  your classes copy the following code into a source file named<span>&nbsp\
- ;</span><strong>SportsPhotography.java</strong>.</p>\n<div id="csCode">\n<
- pre>import java.util.*\;\n\npublic class SportsPhotography\n{\n    private
-  StarterPacket photoPacket\;\n    \n    public SportsPhotography()\n    {\
- n       Scanner keyboard = new Scanner(System.in)\;\n       int packet=0\;
- \n       \n       do\n       {\n           System.out.println("Sports Phot
- ography")\;\n           System.out.println("------------------")\;\n      
-      System.out.println("1. Starter Packet")\;\n           System.out.prin
- tln("2. Memory Packet")\;\n           System.out.println("3. All Star Pack
- et")\;    \n           System.out.println("4. Champion Packet ")\;\n      
-      System.out.println("5. Collector Packet")\;\n           System.out.pr
- intln("")\;\n           System.out.print("Select packet --&gt\;")\;\n     
-       packet = keyboard.nextInt()\;\n           if(packet == 1)\n         
-   {\n              photoPacket = new StarterPacket()\;\n           }\n    
-        if(packet == 2)\n           {\n              photoPacket = new Memo
- ryPacket()\;\n           }\n           if(packet == 3)\n           {\n    
-           photoPacket = new AllStarPacket()\;\n           }\n           if
- (packet == 4)\n           {\n              photoPacket = new ChampionPacke
- t()\;\n           }\n           if(packet == 5)\n           {\n           
-    photoPacket = new CollectorPacket()\;\n           }\n           \n     
-       System.out.println()\;\n           System.out.println("Picture Packe
- t")\;\n           System.out.println("============")\;\n           System.
- out.println(photoPacket)\;\n           System.out.println()\;\n           
- System.out.println()\;     \n       }\n       while(true)\;\n    }\n    \n
-     public static void main(String[] args)\n    {\n        SportsPhotograp
- hy app = new SportsPhotography()\;\n    }\n}\n</pre>\n</div>\n<h1>Source F
- ile</h1>\n<p>StarterPacket.java</p>\n<p>MemoryPacket.java</p>\n<p>AllStarP
- acket.java</p>\n<p>ChampionPacket.java</p>\n<p>CollectorPacket.java</p>\n<
- p>SportsPhotogarphy.java</p>\n<h1>Sample Run</h1>\n<div id="csSampleRun">\
- n<pre>Sports Photography\n------------------\n1. Starter Plan\n2. Memory P
- lan\n3. All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan 
- --&gt\;1\n\nPicture Plan\n============\nStarterPlan\n8 x 10 = 1\n\n\nSport
- s Photography\n------------------\n1. Starter Plan\n2. Memory Plan\n3. All
-  Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan --&gt\;2\n\
- nPicture Plan\n============\nMemoryPlan\n8 x 10 = 1\n5 x 7 = 2\nWallets = 
- 8\n\n\nSports Photography\n------------------\n1. Starter Plan\n2. Memory 
- Plan\n3. All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan
-  --&gt\;3\n\nPicture Plan\n============\nAllStarPlan\n8 x 10 = 1\nMagazine
-  Cover = 1\nTrading Cards  = 16\n\n\nSports Photography\n-----------------
- -\n1. Starter Plan\n2. Memory Plan\n3. All Star Plan\n4. Champion Plan\n5.
-  Collector Plan\n\nSelect plan --&gt\;4\n\nPicture Plan\n============\nCha
- mpionPlan\n8 x 10 = 1\nMagazine Cover = 1\nTrading Cards  = 16\n5 x 7 = 2\
- n\n\nSports Photography\n------------------\n1. Starter Plan\n2. Memory Pl
- an\n3. All Star Plan\n4. Champion Plan\n5. Collector Plan\n\nSelect plan -
- -&gt\;5\n\nPicture Plan\n============\nCollectorPlan\n8 x 10 = 1\nMagazine
-  Cover = 1\nTrading Cards  = 16\n5 x 7 = 2\nWallets = 8</pre>\n</div>\n</d
- iv>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220325T130900Z
 UID:event-assignment-2537923
 DTSTART;VALUE=DATE:20220308T232900
 DTEND;VALUE=DATE:20220308T235900
@@ -1426,6 +980,28 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  on Student File Unit 5.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220406T154300Z
+UID:event-assignment-2836647
+DTSTART;VALUE=DATE:20220328T232900
+DTEND;VALUE=DATE:20220328T235900
+DESCRIPTION:
+SUMMARY:Word 2 - SAM 2 Project 1 [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=03&year=2022#assignment_2836647
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T154500Z
+UID:event-assignment-2836645
+DTSTART;VALUE=DATE:20220328T232900
+DTEND;VALUE=DATE:20220328T235900
+DESCRIPTION:In Sam Cengage.
+SUMMARY:Word 2 - SAM 2 Training [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=03&year=2022#assignment_2836645
+X-ALT-DESC;FMTTYPE=text/html:<p>In Sam Cengage.</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220401T130600Z
 UID:event-assignment-2822369
 DTSTART;VALUE=DATE:20220328T232900
@@ -1499,6 +1075,17 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  tructure.com/api/v1/courses/190905/files/22089487" data-api-returntype="Fi
  le">Project - Formatting Paragraphs Business Partnership Plan Student File
   (1).docx</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T154600Z
+UID:event-assignment-2836646
+DTSTART;VALUE=DATE:20220329T232900
+DTEND;VALUE=DATE:20220329T235900
+DESCRIPTION:
+SUMMARY:Word 2 - SAM 2 Exam [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=03&year=2022#assignment_2836646
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220405T161800Z
@@ -1579,7 +1166,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220405T201000Z
+DTSTAMP:20220406T165400Z
 UID:event-assignment-2537946
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1755,6 +1342,20 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  s://lisdtx.instructure.com/api/v1/courses/172585/files/19814527" data-api-
  returntype="File">Practice 8.3 &amp\; 8.4 Factor and Solve Polynomials PAP
  .pdf</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T202800Z
+UID:event-assignment-2534511
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:Quiz has been canceled for this week as it covers concepts not 
+ included on the AP exam as of 2020. Enjoy the free 100.
+SUMMARY:ArrayList AP Review [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2534511
+X-ALT-DESC;FMTTYPE=text/html:<p>Quiz has been canceled for this week as it 
+ covers concepts not included on the AP exam as of 2020. Enjoy the free 100
+ .</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205400Z
@@ -2800,6 +2401,17 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The recursive methods
  >\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220406T154400Z
+UID:event-assignment-2836649
+DTSTART;VALUE=DATE:20220404T232900
+DTEND;VALUE=DATE:20220404T235900
+DESCRIPTION:
+SUMMARY:Word 3 - SAM 3 Training [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2836649
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T195000Z
 UID:event-calendar-event-520827
 DTSTART;VALUE=DATE:20220405
@@ -2846,6 +2458,28 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  7/download?wrap=1" data-api-endpoint="https://lisdtx.instructure.com/api/v
  1/courses/172585/files/19814527" data-api-returntype="File">Practice 8.3 &
  amp\; 8.4 Factor and Solve Polynomials PAP.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T154400Z
+UID:event-assignment-2836651
+DTSTART;VALUE=DATE:20220406T232900
+DTEND;VALUE=DATE:20220406T235900
+DESCRIPTION:
+SUMMARY:Word 3 - SAM 3 Exam [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2836651
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220406T154500Z
+UID:event-assignment-2836652
+DTSTART;VALUE=DATE:20220406T232900
+DTEND;VALUE=DATE:20220406T235900
+DESCRIPTION:
+SUMMARY:Word 3 - SAM 3 Project 1 [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2836652
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220406T050000Z
@@ -2911,17 +2545,6 @@ DESCRIPTION:
 SUMMARY:Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#calendar_event_520505
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220404T130600Z
-UID:event-assignment-2534511
-DTSTART;VALUE=DATE:20220408T232900
-DTEND;VALUE=DATE:20220408T235900
-DESCRIPTION:
-SUMMARY:ArrayList AP Review [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2534511
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
@@ -3770,7 +3393,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:7910210210599101114326511211210810599971161051111103286105100101111
 DTSTART;TZID=America/Chicago:20220328
 DTEND;TZID=America/Chicago:20220329
@@ -3778,7 +3401,7 @@ SUMMARY:Officer Application Video
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:791021021059910111432651121121081059997116105111110
 DTSTART;TZID=America/Chicago:20220329
 DTEND;TZID=America/Chicago:20220330
@@ -3786,7 +3409,7 @@ SUMMARY:Officer Application
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3794,7 +3417,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3802,7 +3425,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3810,7 +3433,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3818,7 +3441,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3826,7 +3449,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3834,7 +3457,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3842,7 +3465,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3850,7 +3473,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3858,7 +3481,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220329T160000
 DTEND;TZID=America/Chicago:20220329T163000
@@ -3866,7 +3489,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T073006Z
+DTSTAMP:20220407T073006Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220405T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
