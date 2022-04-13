@@ -7,15 +7,6 @@ X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
 DTSTAMP:20211216T194300Z
-UID:event-calendar-event-520822
-DTSTART;VALUE=DATE:20220314
-DTEND;VALUE=DATE:20220315
-SUMMARY:SPRING BREAK [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=03&year=2022#calendar_event_520822
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T194300Z
 UID:event-calendar-event-520823
 DTSTART;VALUE=DATE:20220315
 DTEND;VALUE=DATE:20220316
@@ -270,7 +261,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ormatting Text Business Partnership Plan.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220401T164000Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2813209
 DTSTART;VALUE=DATE:20220322T232900
 DTEND;VALUE=DATE:20220322T235900
@@ -494,7 +485,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T202500Z
+DTSTAMP:20220412T141800Z
 UID:event-assignment-2825846
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -506,7 +497,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Turn in corrections on this assignment page
  .</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T150900Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2817257
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -517,7 +508,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T150900Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2817258
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -528,7 +519,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T150900Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2817255
 DTSTART;VALUE=DATE:20220324T232900
 DTEND;VALUE=DATE:20220324T235900
@@ -668,7 +659,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   6.1-6.3\, 10.1-10.3 Grpahing Roots\, Cubes\, Inverses.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T154400Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2819932
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -720,7 +711,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  on Student File Unit 5.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T151600Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836647
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -731,7 +722,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T151400Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836645
 DTSTART;VALUE=DATE:20220328T232900
 DTEND;VALUE=DATE:20220328T235900
@@ -788,7 +779,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   Partnership Plan.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220408T154600Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2819937
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -817,7 +808,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   (1).docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T151800Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836646
 DTSTART;VALUE=DATE:20220329T232900
 DTEND;VALUE=DATE:20220329T235900
@@ -946,7 +937,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Submit a picture of your donations - the po
  649/files/21723696" data-api-returntype="File">Diaper Drive Flyer</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220404T202500Z
+DTSTAMP:20220412T141800Z
 UID:event-assignment-2829587
 DTSTART;VALUE=DATE:20220331T232900
 DTEND;VALUE=DATE:20220331T235900
@@ -1010,7 +1001,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T152300Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2830136
 DTSTART;VALUE=DATE:20220401T232900
 DTEND;VALUE=DATE:20220401T235900
@@ -1033,7 +1024,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
   - Business Letterhead The Element Logo Student File.png</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T152300Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2830184
 DTSTART;VALUE=DATE:20220401T232900
 DTEND;VALUE=DATE:20220401T235900
@@ -1889,7 +1880,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>For this major lab\, y
  les\;\n    }\n}\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220409T192200Z
+DTSTAMP:20220412T141800Z
 UID:event-assignment-2539351
 DTSTART;VALUE=DATE:20220404T232900
 DTEND;VALUE=DATE:20220404T235900
@@ -2141,7 +2132,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>The recursive methods
  >\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T152000Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836649
 DTSTART;VALUE=DATE:20220404T232900
 DTEND;VALUE=DATE:20220404T235900
@@ -2200,7 +2191,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  amp\; 8.4 Factor and Solve Polynomials PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T152100Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836651
 DTSTART;VALUE=DATE:20220406T232900
 DTEND;VALUE=DATE:20220406T235900
@@ -2211,7 +2202,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220407T152300Z
+DTSTAMP:20220412T151500Z
 UID:event-assignment-2836652
 DTSTART;VALUE=DATE:20220406T232900
 DTEND;VALUE=DATE:20220406T235900
@@ -2222,7 +2213,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220406T050000Z
+DTSTAMP:20220412T175400Z
 UID:event-assignment-2759059
 DTSTART;VALUE=DATE:20220406T232900
 DTEND;VALUE=DATE:20220406T235900
@@ -2242,7 +2233,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=04&year=2022#calendar_event_520828
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220222T192200Z
+DTSTAMP:20220412T175700Z
 UID:event-assignment-2759021
 DTSTART;VALUE=DATE:20220407T232900
 DTEND;VALUE=DATE:20220407T235900
@@ -2277,7 +2268,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ="File">Factoring Practice (short).pdf</a></p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220411T011800Z
+DTSTAMP:20220412T201400Z
 UID:event-assignment-2537936
 DTSTART;VALUE=DATE:20220408T232900
 DTEND;VALUE=DATE:20220408T235900
@@ -2390,15 +2381,69 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  1" data-api-returntype="File">Factoring Practice (short).pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220125T205300Z
-UID:event-assignment-2537953
+DTSTAMP:20220412T151200Z
+UID:event-assignment-2839994
 DTSTART;VALUE=DATE:20220412T232900
 DTEND;VALUE=DATE:20220412T235900
-DESCRIPTION:
-SUMMARY:Topic 8 Polynomials Quiz [Alg 2 Hon-RIORDAN]
+DESCRIPTION:[Project - Career Cluster Intent Views Student File.pptx] (http
+ s://lisdtx.instructure.com/courses/190905/files/22530522?wrap=1)\n\n[Proje
+ ct - Career Cluster Intent Presentation.pdf] (https://lisdtx.instructure.c
+ om/courses/190905/files/22530525?wrap=1)Â \n\n[Project - Career Cluster In
+ tent Student File.pptx] (https://lisdtx.instructure.com/courses/190905/fil
+ es/22530523?wrap=1)Â 
+SUMMARY:Career Cluster Intent Presentation - Project [Bus Info Mgmt I-GRAHA
+ M]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2839994
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Career Cluster Intent Views
+  Student File.pptx" href="https://lisdtx.instructure.com/courses/190905/fi
+ les/22530522?wrap=1" target="_blank" data-canvas-previewable="false" data-
+ api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2
+ 2530522" data-api-returntype="File">Project - Career Cluster Intent Views 
+ Student File.pptx</a></p>\n<p><a class="instructure_file_link instructure_
+ scribd_file inline_disabled" title="Project - Career Cluster Intent Presen
+ tation.pdf" href="https://lisdtx.instructure.com/courses/190905/files/2253
+ 0525?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endp
+ oint="https://lisdtx.instructure.com/api/v1/courses/190905/files/22530525"
+  data-api-returntype="File">Project - Career Cluster Intent Presentation.p
+ df</a>&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_f
+ ile inline_disabled" title="Project - Career Cluster Intent Student File.p
+ ptx" href="https://lisdtx.instructure.com/courses/190905/files/22530523?wr
+ ap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="h
+ ttps://lisdtx.instructure.com/api/v1/courses/190905/files/22530523" data-a
+ pi-returntype="File">Project - Career Cluster Intent Student File.pptx</a>
+ &nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T203700Z
+UID:event-assignment-2844231
+DTSTART;VALUE=DATE:20220412T232900
+DTEND;VALUE=DATE:20220412T235900
+SUMMARY:Quiz 8.6-8.7 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537953
-X-ALT-DESC;FMTTYPE=text/html:
+ month=04&year=2022#assignment_2844231
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T151100Z
+UID:event-assignment-2839997
+DTSTART;VALUE=DATE:20220412T232900
+DTEND;VALUE=DATE:20220412T235900
+DESCRIPTION:[Activity - Ribbon Analysis-1.pdf] (https://lisdtx.instructure.
+ com/courses/190905/files/22530521?wrap=1)Â \n\nComplete using PowerPoint -
+  1 Slide should equal one tab on the ribbon! For example\, slide 1 can be 
+ the File tab and list 5 things there.
+SUMMARY:Ribbon Analysis - Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=04&year=2022#assignment_2839997
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Activity - Ribbon Analysis-1.pdf" hre
+ f="https://lisdtx.instructure.com/courses/190905/files/22530521?wrap=1" ta
+ rget="_blank" data-canvas-previewable="false" data-api-endpoint="https://l
+ isdtx.instructure.com/api/v1/courses/190905/files/22530521" data-api-retur
+ ntype="File">Activity - Ribbon Analysis-1.pdf</a>&nbsp\;</p>\n<p>Complete 
+ using PowerPoint - 1 Slide should equal one tab on the ribbon! For example
+ \, slide 1 can be the File tab and list 5 things there.</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220125T205200Z
@@ -2417,13 +2462,37 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  9" data-api-returntype="File">Topic 8 Review PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220222T192700Z
+DTSTAMP:20220412T203600Z
+UID:event-assignment-2844364
+DTSTART;VALUE=DATE:20220413T232900
+DTEND;VALUE=DATE:20220413T235900
+DESCRIPTION:
+SUMMARY:Rotational Motion FRQ Pre-Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=04&year=2022#assignment_2844364
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220412T204000Z
+UID:event-assignment-2844360
+DTSTART;VALUE=DATE:20220413T232900
+DTEND;VALUE=DATE:20220413T235900
+DESCRIPTION:
+SUMMARY:Rotational Motion MC PreTest [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=04&year=2022#assignment_2844360
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220413T050000Z
 UID:event-assignment-2759063
 DTSTART;VALUE=DATE:20220413T232900
 DTEND;VALUE=DATE:20220413T235900
+DESCRIPTION:
 SUMMARY:4/13 Water Bottle Wednesday [StuCo 21-22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
  month=04&year=2022#assignment_2759063
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220405T020400Z
@@ -3163,7 +3232,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -3171,7 +3240,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -3179,7 +3248,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -3187,7 +3256,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -3195,7 +3264,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -3203,7 +3272,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -3211,7 +3280,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -3219,7 +3288,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:761051161161081013287111109101110328010897121
 DTSTART;TZID=America/Chicago:20220330T190000
 DTEND;TZID=America/Chicago:20220330T193000
@@ -3227,7 +3296,7 @@ SUMMARY:Little Women Play
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -3235,7 +3304,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:671111099897116326811411111010111532681019897116101
 DTSTART;TZID=America/Chicago:20220412T160000
 DTEND;TZID=America/Chicago:20220412T163000
@@ -3243,7 +3312,7 @@ SUMMARY:Combat Drones Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T073011Z
+DTSTAMP:20220413T073012Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220419T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
