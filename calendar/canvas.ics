@@ -837,7 +837,7 @@ X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p>For this major lab\, y
  les\;\n    }\n}\n\n</pre>\n</div>\n</div>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220412T141800Z
+DTSTAMP:20220502T163600Z
 UID:event-assignment-2539351
 DTSTART;VALUE=DATE:20220404T232900
 DTEND;VALUE=DATE:20220404T235900
@@ -1775,7 +1775,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ata-api-returntype="File">Practice 7.3 - 7.4 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220421T131700Z
+DTSTAMP:20220502T163600Z
 UID:event-assignment-2854273
 DTSTART;VALUE=DATE:20220421T232900
 DTEND;VALUE=DATE:20220421T235900
@@ -1841,7 +1841,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220422T130000Z
+DTSTAMP:20220502T163600Z
 UID:event-assignment-2855419
 DTSTART;VALUE=DATE:20220424T232900
 DTEND;VALUE=DATE:20220424T235900
@@ -1905,6 +1905,223 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  api-returntype="File">Practice 7.5\, 7.6.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220502T163600Z
+UID:event-assignment-2539370
+DTSTART;VALUE=DATE:20220425T232900
+DTEND;VALUE=DATE:20220425T235900
+DESCRIPTION:**********\nDirections\n**********\n\nFind the number in the li
+ st that immediately follows the given number. The original list\nof number
+ s must be in natural / sorted order.\n\nFor instance\, if you are given th
+ e list :: 4 5 9 3 8 and the number :: 6. The next number after 6 would be 
+ 8.Â \n\nÂ \n\nYour program should first sort the array in increasing order
+  then attempt to find the next largest value. The key may or may not be in
+  the array.\n\n------------\nStarter Code\n------------\n\nimport java.uti
+ l.Arrays\;\n\npublic class FindNextLargest {\npublic static void main(Stri
+ ng[] args) {\nint[] nums = {1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 7\, 6\, 5\, 4\
+ , 3\, 2\, 1}\;\nsort(nums)\;\nSystem.out.println(Arrays.toString(nums))\;\
+ nSystem.out.println("Next Largest to 5: " + nextLargest(nums\, 5))\;\n\nSy
+ stem.out.println()\;\nint[] nums2 = {10\, 30\, 20\, 40\, 50\, 15 }\;\nsort
+ (nums2)\;\nSystem.out.println(Arrays.toString(nums2))\;\nSystem.out.printl
+ n("Next Largest to 12: " + nextLargest(nums2\, 12))\;\n\nSystem.out.printl
+ n()\;\nint[] nums3 = {3\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 2\, 3\, 4\, 65 }\;
+ \nsort(nums3)\;\nSystem.out.println(Arrays.toString(nums3))\;\nSystem.out.
+ println("Next Largest to 25: " + nextLargest(nums3\, 25))\;\n\nSystem.out.
+ println()\;\nint[] nums4 = {100\, 110\, 1000\, 25000\, 65535}\;\nsort(nums
+ 4)\;\nSystem.out.println(Arrays.toString(nums4))\;\nSystem.out.println("Ne
+ xt Largest to 32767: " + nextLargest(nums4\, 32767 ))\;\n\n}\n\npublic sta
+ tic void sort(int[] arr){\n\n}\n\npublic static int nextLargest(int[] arr\
+ , int key){\n\n}\n}\n\nÂ \n\n------\nOutput\n------\n\n[1\, 1\, 2\, 2\, 3\
+ , 3\, 4\, 4\, 5\, 5\, 6\, 6\, 7\, 7\, 8]\nNext Largest to 5: 6\n\n[10\, 15
+ \, 20\, 30\, 40\, 50]\nNext Largest to 12: 15\n\n[2\, 3\, 3\, 4\, 4\, 5\, 
+ 6\, 8\, 9\, 10\, 11\, 65]\nNext Largest to 25: 65\n\n[100\, 110\, 1000\, 2
+ 5000\, 65535]\nNext Largest to 32767: 65535\n\nÂ 
+SUMMARY:Number Search [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539370
+X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><span class="textLayer
+ --absolute" dir="ltr" role="presentation">Find the</span> <span class="tex
+ tLayer--absolute" dir="ltr" role="presentation">number in the list that </
+ span><span class="textLayer--absolute" dir="ltr" role="presentation">immed
+ iately follows the given number</span><span class="textLayer--absolute" di
+ r="ltr" role="presentation">.</span> <span class="textLayer--absolute" dir
+ ="ltr" role="presentation">The original list </span><br class="textLayer--
+ absolute" role="presentation"><span class="textLayer--absolute" dir="ltr" 
+ role="presentation">of numbers must be in natural </span><span class="text
+ Layer--absolute" dir="ltr" role="presentation">/ sorted </span><span class
+ ="textLayer--absolute" dir="ltr" role="presentation">order.</span> <br cla
+ ss="textLayer--absolute" role="presentation"><br class="textLayer--absolut
+ e" role="presentation"><span class="textLayer--absolute" dir="ltr" role="p
+ resentation">For instance\, if you are </span><span class="textLayer--abso
+ lute" dir="ltr" role="presentation">given the list :: 4 5 9 3 8 and the nu
+ mber :: 6. The next number after 6 would be 8.</span>&nbsp\;</p>\n<p>&nbsp
+ \;</p>\n<p>Your program should first sort the array in increasing order th
+ en attempt to find the next largest value. The key may or may not be in th
+ e array.</p>\n<h2>Starter Code</h2>\n<pre>import java.util.Arrays\;\n\npub
+ lic class FindNextLargest {\n    public static void main(String[] args) {\
+ n        int[] nums = {1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 7\, 6\, 5\, 4\, 3\,
+  2\, 1}\;\n        sort(nums)\;\n        System.out.println(Arrays.toStrin
+ g(nums))\;\n        System.out.println("Next Largest to 5: " + nextLargest
+ (nums\, 5))\;\n\n        System.out.println()\;\n        int[] nums2 = {10
+ \, 30\, 20\, 40\, 50\, 15 }\;\n        sort(nums2)\;\n        System.out.p
+ rintln(Arrays.toString(nums2))\;\n        System.out.println("Next Largest
+  to 12: " + nextLargest(nums2\, 12))\;\n\n\n        System.out.println()\;
+ \n        int[] nums3 = {3\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 2\, 3\, 4\, 65 
+ }\;\n        sort(nums3)\;\n        System.out.println(Arrays.toString(num
+ s3))\;\n        System.out.println("Next Largest to 25: " + nextLargest(nu
+ ms3\, 25))\;\n\n        System.out.println()\;\n        int[] nums4 = {100
+ \, 110\, 1000\, 25000\, 65535}\;\n        sort(nums4)\;\n        System.ou
+ t.println(Arrays.toString(nums4))\;\n        System.out.println("Next Larg
+ est to 32767: " + nextLargest(nums4\, 32767 ))\;\n\n    }\n\n    public st
+ atic void sort(int[] arr){\n        \n    }\n\n    public static int nextL
+ argest(int[] arr\, int key){\n        \n    }\n}</pre>\n<p>&nbsp\;</p>\n<h
+ 2>Output</h2>\n<pre>[1\, 1\, 2\, 2\, 3\, 3\, 4\, 4\, 5\, 5\, 6\, 6\, 7\, 7
+ \, 8]\nNext Largest to 5: 6\n\n[10\, 15\, 20\, 30\, 40\, 50]\nNext Largest
+  to 12: 15\n\n[2\, 3\, 3\, 4\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 65]\nNext Lar
+ gest to 25: 65\n\n[100\, 110\, 1000\, 25000\, 65535]\nNext Largest to 3276
+ 7: 65535</pre>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T163600Z
+UID:event-assignment-2539369
+DTSTART;VALUE=DATE:20220425T232900
+DTEND;VALUE=DATE:20220425T235900
+DESCRIPTION:-------------\nInstructions:\n-------------\n\nUse selection so
+ rt to move all values of 7 to the beginning of the array. You can use a mo
+ dified selection sort to accomplish this. Rather than looking for a minimu
+ m value to swap\, you should instead look for a 7 and keep the index where
+  you find it.\n\nÂ \n\n-------\nStarter\n-------\n\nimport java.util.Array
+ s\;\n\npublic class NumberShifter {\npublic static void main(String[] args
+ ) {\nint[] nums = {4\,5\,6\,7\,2\,3\,4\,7}\;\nSystem.out.println("Before s
+ ort: " + Arrays.toString(nums))\;\nsort(nums)\;\nSystem.out.println("After
+  sort: " + Arrays.toString(nums))\;\n\nfor(int i = 0\; i < nums.length\; i
+ ++)\nnums[i] = (int)(Math.random()*10)\;\n\nSystem.out.println("Random bef
+ ore sort: " + Arrays.toString(nums))\;\nsort(nums)\;\nSystem.out.println("
+ Random after sort: " + Arrays.toString(nums))\;\n\n}\n\npublic static void
+  sort(int[] arr){\n\n}\n\n}\n\n-------\nOutput:\n-------\n\nBefore sort: [
+ 4\, 5\, 6\, 7\, 2\, 3\, 4\, 7]\nAfter sort: [7\, 7\, 6\, 4\, 2\, 3\, 4\, 5
+ ]\nRandom before sort: [0\, 4\, 7\, 3\, 7\, 5\, 3\, 7]\nRandom after sort:
+  [7\, 7\, 7\, 3\, 4\, 5\, 3\, 0]
+SUMMARY:Number Shifter [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539369
+X-ALT-DESC;FMTTYPE=text/html:<h2>Instructions:</h2>\n<p>Use selection sort 
+ to move all values of 7 to the beginning of the array. You can use a modif
+ ied selection sort to accomplish this. Rather than looking for a minimum v
+ alue to swap\, you should instead look for a 7 and keep the index where yo
+ u find it.</p>\n<p>&nbsp\;</p>\n<h2>Starter</h2>\n<pre>import java.util.Ar
+ rays\;\n\npublic class NumberShifter {\n    public static void main(String
+ [] args) {\n        int[] nums = {4\,5\,6\,7\,2\,3\,4\,7}\;\n        Syste
+ m.out.println("Before sort: " + Arrays.toString(nums))\;\n        sort(num
+ s)\;\n        System.out.println("After sort: " + Arrays.toString(nums))\;
+ \n\n        for(int i = 0\; i &lt\; nums.length\; i++)\n            nums[i
+ ] = (int)(Math.random()*10)\;\n\n        System.out.println("Random before
+  sort: " + Arrays.toString(nums))\;\n        sort(nums)\;\n        System.
+ out.println("Random after sort: " + Arrays.toString(nums))\;\n\n    }\n\n 
+    public static void sort(int[] arr){\n       \n    }\n\n}\n\n</pre>\n<h2
+ >Output:</h2>\n<pre>Before sort: [4\, 5\, 6\, 7\, 2\, 3\, 4\, 7]\nAfter so
+ rt: [7\, 7\, 6\, 4\, 2\, 3\, 4\, 5]\nRandom before sort: [0\, 4\, 7\, 3\, 
+ 7\, 5\, 3\, 7]\nRandom after sort: [7\, 7\, 7\, 3\, 4\, 5\, 3\, 0]</pre>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T163600Z
+UID:event-assignment-2539362
+DTSTART;VALUE=DATE:20220425T232900
+DTEND;VALUE=DATE:20220425T235900
+DESCRIPTION:*************\nStarter Files\n*************\n\n[SortNames.java]
+  (https://lisdtx.instructure.com/courses/202975/files/19824181?wrap=1)\n\n
+ [nameList.txt] (https://lisdtx.instructure.com/courses/202975/files/198241
+ 82?wrap=1) Â \n\nimport java.util.*\;\nimport java.io.*\;\n\npublic class 
+ SortNames\n{\n	// instance variables\n	private ArrayList list\;\n	\n	// co
+ nstructor\n	public SortNames()\n	{\n		list = new ArrayList ()\;\n		\n		rea
+ dFile()\;\n		\n		printList()\;\n		\n		selectionSort()\;\n		\n		System.out.
+ println()\;\n		System.out.println("====================")\;\n		System.out.
+ println(" Sorted List")\;\n		System.out.println("====================")\;\
+ n		System.out.println()\;\n		\n		printList()\;\n	}\n	\n	// Sorts the Array
+ List using the selection sort algorithm\npublic void selectionSort()\n{\n\
+ n}\n	\n	public void readFile()\n	{\n		Scanner scan=null\;\n		try\n		{\n		 
+ scan = new Scanner(new File("nameList.txt"))\;\n		}\n		catch(IOException e
+ x)\n		{\n			System.out.println("File not found")\;\n		}\n		\n		while(scan.
+ hasNextLine())\n		{\n			String name = scan.nextLine()\;\n			list.add(name)
+ \;\n		}\n		\n	}\n	\n	public void printList()\n	{\n		for(String s: list)\n	
+ 	{\n			System.out.println(s)\;\n		}\n		System.out.println()\;\n	}\n	\n	pub
+ lic static void main(String [] args)\n	{\n		SortNames app = new SortNames(
+ )\;\n	}\n	\n	\n}\n\n**********\nDirections\n**********\n\nComplete the pro
+ gram\, SortNames\, that reads a list of names from a text file and puts th
+ em into alphabetically order using the selection sort algorithm.\n\nBelow 
+ is the selection sort algorithm used to sort an array of integers.\n\nvoid
+  selectionSort(int numbers[])\n{\nint i\, j\;\nint min\, temp\;\n\nfor (i 
+ = 0\; i < numbers.length-1\; i++)\n{\nmin = i\;\nfor (j = i+1\; j < number
+ s.length\; j++)\n{\nif (numbers[j] < numbers[min])\nmin = j\;\n}\n// swap\
+ ntemp = numbers[i]\;\nnumbers[i] = numbers[min]\;\nnumbers[min] = temp\;\n
+ }\n}\n\nComplete the method selectionSort. Modify the algorithm so that it
+  will sort an ArrayList of Strings. You will need to use the following Arr
+ ayList methods in your implementation:\n\n* Object get(int index)\n\n* voi
+ d set(int index\, Object element)\n\nYou will also need to use the String 
+ class's compareTo method\n\n* int compareTo(Object obj)\n\n**********\nSam
+ ple Run\n**********\n\nJohn\nSamantha\nChad\nDrew\nBill\nHenry\nSarah\nChr
+ isty\nAshley\nMary\nSteve\nMarvin\nKelly\nBrenda\nMatthew\nKade\nShelly\nT
+ amara\nDarren\nFred\nAustin\nJeremy\nTerrell\nAndrew\nKendall\nCasey\nMart
+ ha\nAmy\nSharron\nReggie\n\n====================\nSorted List\n===========
+ =========\n\nAmy\nAndrew\nAshley\nAustin\nBill\nBrenda\nCasey\nChad\nChris
+ ty\nDarren\nDrew\nFred\nHenry\nJeremy\nJohn\nKade\nKelly\nKendall\nMartha\
+ nMarvin\nMary\nMatthew\nReggie\nSamantha\nSarah\nSharron\nShelly\nSteve\nT
+ amara\nTerrell\n\nÂ 
+SUMMARY:Sort Names [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=04&year=2022#assignment_2539362
+X-ALT-DESC;FMTTYPE=text/html:<h1>Starter Files</h1>\n<p><a class="instructu
+ re_file_link instructure_scribd_file inline_disabled" title="SortNames.jav
+ a" href="https://lisdtx.instructure.com/courses/202975/files/19824181?wrap
+ =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
+ ps://lisdtx.instructure.com/api/v1/courses/202975/files/19824181" data-api
+ -returntype="File">SortNames.java</a></p>\n<p><a class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="nameList.txt" href="ht
+ tps://lisdtx.instructure.com/courses/202975/files/19824182?wrap=1" target=
+ "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
+ .instructure.com/api/v1/courses/202975/files/19824182" data-api-returntype
+ ="File">nameList.txt</a> &nbsp\;</p>\n<pre>import java.util.*\;\nimport ja
+ va.io.*\;\n\npublic class SortNames\n{\n	// instance variables\n	private A
+ rrayList  list\;\n	\n	// constructor\n	public SortNames()\n	{\n		list = ne
+ w ArrayList  ()\;\n		\n		readFile()\;\n		\n		printList()\;\n		\n		selectio
+ nSort()\;\n		\n		System.out.println()\;\n		System.out.println("===========
+ =========")\;\n		System.out.println("    Sorted List")\;\n		System.out.pri
+ ntln("====================")\;\n		System.out.println()\;\n		\n		printList(
+ )\;\n	}\n	\n	// Sorts the ArrayList using the selection sort algorithm\n  
+   public void selectionSort()\n    {\n\n\n\n    }\n	\n	public void readFil
+ e()\n	{\n		Scanner scan=null\;\n		try\n		{\n		   scan = new Scanner(new Fi
+ le("nameList.txt"))\;\n		}\n		catch(IOException ex)\n		{\n			System.out.pr
+ intln("File not found")\;\n		}\n		\n		while(scan.hasNextLine())\n		{\n			S
+ tring name = scan.nextLine()\;\n			list.add(name)\;\n		}\n		\n	}\n	\n	publ
+ ic void printList()\n	{\n		for(String s: list)\n		{\n			System.out.println
+ (s)\;\n		}\n		System.out.println()\;\n	}\n	\n	public static void main(Stri
+ ng [] args)\n	{\n		SortNames app = new SortNames()\;\n	}\n	\n	\n}</pre>\n<
+ h1>Directions</h1>\n<p>Complete the program\, <strong>SortNames</strong>\,
+  that reads a list of names from a text file and puts them into alphabetic
+ ally order using the <strong>selection sort</strong> algorithm.</p>\n<p>Be
+ low is the selection sort algorithm used to sort an array of integers.</p>
+ \n<div id="csCode">\n<pre>void selectionSort(int numbers[])\n{\n  int i\, 
+ j\;\n  int min\, temp\;\n\n  for (i = 0\; i &lt\; numbers.length-1\; i++)\
+ n  {\n    min = i\;\n    for (j = i+1\; j &lt\; numbers.length\; j++)\n   
+  {\n      if (numbers[j] &lt\; numbers[min])\n        min = j\;\n    }\n  
+   // swap\n    temp = numbers[i]\;\n    numbers[i] = numbers[min]\;\n    n
+ umbers[min] = temp\;\n  }\n}\n</pre>\n</div>\n<p>Complete the method <stro
+ ng>selectionSort</strong>. Modify the algorithm so that it will sort an Ar
+ rayList of Strings. You will need to use the following ArrayList methods i
+ n your implementation:</p>\n<div id="csList">\n<ul>\n<li>Object <strong>ge
+ t</strong>(int index)</li>\n<li>void <strong>set</strong>(int index\, Obje
+ ct element)</li>\n</ul>\n</div>\n<p>You will also need to use the String c
+ lass's compareTo method</p>\n<div id="csList">\n<ul>\n<li>int <strong>comp
+ areTo</strong>(Object obj)</li>\n</ul>\n</div>\n<h1>Sample Run</h1>\n<div 
+ id="csSampleRun">\n<pre>John\nSamantha\nChad\nDrew\nBill\nHenry\nSarah\nCh
+ risty\nAshley\nMary\nSteve\nMarvin\nKelly\nBrenda\nMatthew\nKade\nShelly\n
+ Tamara\nDarren\nFred\nAustin\nJeremy\nTerrell\nAndrew\nKendall\nCasey\nMar
+ tha\nAmy\nSharron\nReggie\n\n\n====================\n    Sorted List\n====
+ ================\n\nAmy\nAndrew\nAshley\nAustin\nBill\nBrenda\nCasey\nChad
+ \nChristy\nDarren\nDrew\nFred\nHenry\nJeremy\nJohn\nKade\nKelly\nKendall\n
+ Martha\nMarvin\nMary\nMatthew\nReggie\nSamantha\nSarah\nSharron\nShelly\nS
+ teve\nTamara\nTerrell\n</pre>\n</div>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220427T195200Z
 UID:event-assignment-2537909
 DTSTART;VALUE=DATE:20220426T232900
@@ -1949,7 +2166,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  ">Lenses Lab 09-10.docx</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220425T125300Z
+DTSTAMP:20220502T205500Z
 UID:event-assignment-2866917
 DTSTART;VALUE=DATE:20220426T232900
 DTEND;VALUE=DATE:20220426T235900
@@ -2023,7 +2240,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220427T142800Z
+DTSTAMP:20220502T205200Z
 UID:event-assignment-2871135
 DTSTART;VALUE=DATE:20220428T232900
 DTEND;VALUE=DATE:20220428T235900
@@ -2045,7 +2262,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Download and complete the attached practice
  /p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T200800Z
+DTSTAMP:20220502T210700Z
 UID:event-assignment-2537947
 DTSTART;VALUE=DATE:20220428T232900
 DTEND;VALUE=DATE:20220428T235900
@@ -2132,6 +2349,28 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  EFRACTION VARIOUS PAGES.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220502T163300Z
+UID:event-assignment-2879686
+DTSTART;VALUE=DATE:20220429T232900
+DTEND;VALUE=DATE:20220429T235900
+DESCRIPTION:
+SUMMARY:Waves FRQ Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=04&year=2022#assignment_2879686
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T140700Z
+UID:event-assignment-2878990
+DTSTART;VALUE=DATE:20220429T232900
+DTEND;VALUE=DATE:20220429T235900
+DESCRIPTION:
+SUMMARY:Waves MC Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=04&year=2022#assignment_2878990
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-calendar-event-520495
 DTSTART;VALUE=DATE:20220502
@@ -2170,6 +2409,23 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  a-api-returntype="File">Practice 11.1 - 11.2.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220502T171300Z
+UID:event-assignment-2877992
+DTSTART;VALUE=DATE:20220502T232900
+DTEND;VALUE=DATE:20220502T235900
+DESCRIPTION:[Excel 2019 Word Search.docx] (https://lisdtx.instructure.com/c
+ ourses/190905/files/23135128?wrap=1)Â 
+SUMMARY:Vocabulary Crossword Puzzle Excel [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877992
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Excel 2019 Word Search.docx" href="ht
+ tps://lisdtx.instructure.com/courses/190905/files/23135128?wrap=1" target=
+ "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
+ .instructure.com/api/v1/courses/190905/files/23135128" data-api-returntype
+ ="File">Excel 2019 Word Search.docx</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20211216T204500Z
 UID:event-calendar-event-520844
 DTSTART;VALUE=DATE:20220503
@@ -2177,6 +2433,23 @@ DTEND;VALUE=DATE:20220504
 SUMMARY:BIOLOGY STAAR EOC [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520844
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220502T171300Z
+UID:event-assignment-2877991
+DTSTART;VALUE=DATE:20220503T232900
+DTEND;VALUE=DATE:20220503T235900
+DESCRIPTION:[Activity - Label the ExcelÂ® Window.pdf] (https://lisdtx.instr
+ ucture.com/courses/190905/files/23114570?wrap=1)Â 
+SUMMARY:Label The Excel Window - Activity [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877991
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Activity - Label the ExcelÂ® Window.p
+ df" href="https://lisdtx.instructure.com/courses/190905/files/23114570?wra
+ p=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="ht
+ tps://lisdtx.instructure.com/api/v1/courses/190905/files/23114570" data-ap
+ i-returntype="File">Activity - Label the ExcelÂ® Window.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T204600Z
@@ -2504,7 +2777,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:761011111153269118101110116
 DTSTART;TZID=America/Chicago:20220422T160000
 DTEND;TZID=America/Chicago:20220422T163000
@@ -2512,7 +2785,7 @@ SUMMARY:Leos Event
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -2520,7 +2793,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -2528,7 +2801,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -2536,7 +2809,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -2544,7 +2817,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -2552,7 +2825,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -2560,7 +2833,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -2568,7 +2841,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:877265803282101118105101119
 DTSTART;TZID=America/Chicago:20220421T160000
 DTEND;TZID=America/Chicago:20220421T163000
@@ -2576,7 +2849,7 @@ SUMMARY:WHAP Review
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -2584,7 +2857,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:681019897116101
 DTSTART;TZID=America/Chicago:20220419T160000
 DTEND;TZID=America/Chicago:20220419T163000
@@ -2592,7 +2865,7 @@ SUMMARY:Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220502T073009Z
+DTSTAMP:20220503T073010Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220426T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
