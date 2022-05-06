@@ -6,28 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220125T205400Z
-UID:event-calendar-event-520467
-DTSTART;VALUE=DATE:20220406
-DTEND;VALUE=DATE:20220407
-DESCRIPTION:[8.5 Poly Division Blank Notes.pdf] (https://lisdtx.instructure
- .com/courses/172585/files/19814683/preview)\n\nHW: [Practice 8.5.pdf] (htt
- ps://lisdtx.instructure.com/courses/172585/files/19814667/preview)\n\nÂ 
-SUMMARY:8.5 Polynomial Division [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520467
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="8.5 Poly Division Blank Notes.pdf" href="https://lisd
- tx.instructure.com/courses/172585/files/19814683/preview" target="_blank" 
- data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/fi
- les/19814683" data-api-returntype="File">8.5 Poly Division Blank Notes.pdf
- </a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_file" 
- title="Practice 8.5.pdf" href="https://lisdtx.instructure.com/courses/1725
- 85/files/19814667/preview" target="_blank" data-api-endpoint="https://lisd
- tx.instructure.com/api/v1/courses/172585/files/19814667" data-api-returnty
- pe="File">Practice 8.5.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220411T011800Z
 UID:event-assignment-2537935
 DTSTART;VALUE=DATE:20220406T232900
@@ -1426,6 +1404,67 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  pi-returntype="File">Practice 11.3 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220505T154000Z
+UID:event-assignment-2877993
+DTSTART;VALUE=DATE:20220505T232900
+DTEND;VALUE=DATE:20220505T235900
+DESCRIPTION:[Project - Business Partnership Media Proposal Media Pricing Gu
+ ide Student File.pdf] (https://lisdtx.instructure.com/courses/190905/files
+ /23114578?wrap=1)Â \n\n[Project - Business Partnership Media Proposal Stud
+ ent File.xlsx] (https://lisdtx.instructure.com/courses/190905/files/231145
+ 80?wrap=1)Â \n\n[Project - Business Partnership Media Proposal.pdf] (https
+ ://lisdtx.instructure.com/courses/190905/files/23114577?wrap=1)Â 
+SUMMARY:Business Partnership Media Proposal - Project [Bus Info Mgmt I-GRAH
+ AM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877993
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Business Partnership Media 
+ Proposal Media Pricing Guide Student File.pdf" href="https://lisdtx.instru
+ cture.com/courses/190905/files/23114578?wrap=1" target="_blank" data-canva
+ s-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/ap
+ i/v1/courses/190905/files/23114578" data-api-returntype="File">Project - B
+ usiness Partnership Media Proposal Media Pricing Guide Student File.pdf</a
+ >&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file i
+ nline_disabled" title="Project - Business Partnership Media Proposal Stude
+ nt File.xlsx" href="https://lisdtx.instructure.com/courses/190905/files/23
+ 114580?wrap=1" target="_blank" data-canvas-previewable="false" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2311458
+ 0" data-api-returntype="File">Project - Business Partnership Media Proposa
+ l Student File.xlsx</a>&nbsp\;</p>\n<p><a class="instructure_file_link ins
+ tructure_scribd_file inline_disabled" title="Project - Business Partnershi
+ p Media Proposal.pdf" href="https://lisdtx.instructure.com/courses/190905/
+ files/23114577?wrap=1" target="_blank" data-canvas-previewable="false" dat
+ a-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files
+ /23114577" data-api-returntype="File">Project - Business Partnership Media
+  Proposal.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T151300Z
+UID:event-assignment-2877994
+DTSTART;VALUE=DATE:20220505T232900
+DTEND;VALUE=DATE:20220505T235900
+DESCRIPTION:[Project - Career Cluster Comparison Student File.xlsx] (https:
+ //lisdtx.instructure.com/courses/190905/files/23114581?wrap=1)\n\n[Project
+  - Career Cluster Comparison.pdf] (https://lisdtx.instructure.com/courses/
+ 190905/files/23114575?wrap=1)Â 
+SUMMARY:Career Cluster Comparison - Project [Bus Info Mgmt I-GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877994
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Career Cluster Comparison S
+ tudent File.xlsx" href="https://lisdtx.instructure.com/courses/190905/file
+ s/23114581?wrap=1" target="_blank" data-canvas-previewable="false" data-ap
+ i-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/231
+ 14581" data-api-returntype="File">Project - Career Cluster Comparison Stud
+ ent File.xlsx</a></p>\n<p><a class="instructure_file_link instructure_scri
+ bd_file inline_disabled" title="Project - Career Cluster Comparison.pdf" h
+ ref="https://lisdtx.instructure.com/courses/190905/files/23114575?wrap=1" 
+ target="_blank" data-canvas-previewable="false" data-api-endpoint="https:/
+ /lisdtx.instructure.com/api/v1/courses/190905/files/23114575" data-api-ret
+ urntype="File">Project - Career Cluster Comparison.pdf</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-assignment-2537915
 DTSTART;VALUE=DATE:20220506T232900
@@ -1451,6 +1490,35 @@ SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#assignment_2537943
 X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220505T190800Z
+UID:event-assignment-2877995
+DTSTART;VALUE=DATE:20220506T232900
+DTEND;VALUE=DATE:20220506T235900
+DESCRIPTION:[Project - Formatting the Business Partnership Media Plan.pdf] 
+ (https://lisdtx.instructure.com/courses/190905/files/23114579?wrap=1)Â \n\
+ n[Project - Formatting the Business Partnership Media Plan Student File.xl
+ sx] (https://lisdtx.instructure.com/courses/190905/files/23114576?wrap=1)
+ Â 
+SUMMARY:Formatting the Business Partnership Plan - Project [Bus Info Mgmt I
+ -GRAHAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877995
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Formatting the Business Par
+ tnership Media Plan.pdf" href="https://lisdtx.instructure.com/courses/1909
+ 05/files/23114579?wrap=1" target="_blank" data-canvas-previewable="false" 
+ data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/fi
+ les/23114579" data-api-returntype="File">Project - Formatting the Business
+  Partnership Media Plan.pdf</a>&nbsp\;</p>\n<p><a class="instructure_file_
+ link instructure_scribd_file inline_disabled" title="Project - Formatting 
+ the Business Partnership Media Plan Student File.xlsx" href="https://lisdt
+ x.instructure.com/courses/190905/files/23114576?wrap=1" target="_blank" da
+ ta-canvas-previewable="false" data-api-endpoint="https://lisdtx.instructur
+ e.com/api/v1/courses/190905/files/23114576" data-api-returntype="File">Pro
+ ject - Formatting the Business Partnership Media Plan Student File.xlsx</a
+ >&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
@@ -1703,7 +1771,7 @@ X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:761011111153269118101110116
 DTSTART;TZID=America/Chicago:20220422T160000
 DTEND;TZID=America/Chicago:20220422T163000
@@ -1711,7 +1779,7 @@ SUMMARY:Leos Event
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:808365843283101108101991161051111103270111114109
 DTSTART;TZID=America/Chicago:20220422
 DTEND;TZID=America/Chicago:20220423
@@ -1719,7 +1787,7 @@ SUMMARY:PSAT Selection Form
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:80836584328311710910910111432871011011073249
 DTSTART;TZID=America/Chicago:20220718
 DTEND;TZID=America/Chicago:20220719
@@ -1727,7 +1795,7 @@ SUMMARY:PSAT Summer Week 1
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:80836584328311710910910111432871011011073250
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1735,7 +1803,7 @@ SUMMARY:PSAT Summer Week 2
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1743,7 +1811,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1751,7 +1819,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1759,7 +1827,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1767,7 +1835,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:877265803282101118105101119
 DTSTART;TZID=America/Chicago:20220421T160000
 DTEND;TZID=America/Chicago:20220421T163000
@@ -1775,7 +1843,7 @@ SUMMARY:WHAP Review
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
@@ -1783,7 +1851,7 @@ SUMMARY:Debate Banquet
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:681019897116101
 DTSTART;TZID=America/Chicago:20220419T160000
 DTEND;TZID=America/Chicago:20220419T163000
@@ -1791,7 +1859,7 @@ SUMMARY:Debate
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220505T073006Z
+DTSTAMP:20220506T073008Z
 UID:1645732170466-60236@ical.marudot.com
 DTSTART;TZID=America/Chicago:20220426T160000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20220523T210000Z
