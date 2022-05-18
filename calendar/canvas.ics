@@ -6,46 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220309T200700Z
-UID:event-calendar-event-520512
-DTSTART;VALUE=DATE:20220418
-DTEND;VALUE=DATE:20220419
-DESCRIPTION:[7.1-7.2 Blank Notes.pdf] (https://lisdtx.instructure.com/cours
- es/172585/files/19814686/preview)\n\nHW: [Prac 7.1-7.2 with word probs PAP
- .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814692/previe
- w)\n\nÂ 
-SUMMARY:7.1 - 7.2 Attributes & Transformatons of Exponential Functions [Alg
-  2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520512
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="7.1-7.2 Blank Notes.pdf" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814686/preview" target="_blank" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198146
- 86" data-api-returntype="File">7.1-7.2 Blank Notes.pdf</a></p>\n<p>HW: <a 
- class="instructure_file_link instructure_scribd_file" title="Prac 7.1-7.2 
- with word probs PAP.pdf" href="https://lisdtx.instructure.com/courses/1725
- 85/files/19814692/preview" target="_blank" data-api-endpoint="https://lisd
- tx.instructure.com/api/v1/courses/172585/files/19814692" data-api-returnty
- pe="File">Prac 7.1-7.2 with word probs PAP.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200700Z
-UID:event-calendar-event-520459
-DTSTART;VALUE=DATE:20220418
-DTEND;VALUE=DATE:20220419
-DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814700/preview)
-SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520459
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
- 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220510T160400Z
 UID:event-assignment-2840002
 DTSTART;VALUE=DATE:20220418T232900
@@ -1108,7 +1068,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  >&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220509T115900Z
+DTSTAMP:20220518T122300Z
 UID:event-assignment-2960557
 DTSTART;VALUE=DATE:20220506T232900
 DTEND;VALUE=DATE:20220506T235900
@@ -1287,7 +1247,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T020300Z
+DTSTAMP:20220517T202200Z
 UID:event-assignment-2537950
 DTSTART;VALUE=DATE:20220513T232900
 DTEND;VALUE=DATE:20220513T235900
@@ -1307,7 +1267,18 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_537415
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T122000Z
+DTSTAMP:20220518T122300Z
+UID:event-assignment-2983570
+DTSTART;VALUE=DATE:20220516T232900
+DTEND;VALUE=DATE:20220516T235900
+DESCRIPTION:
+SUMMARY:Electricity FRQ Pre-Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=05&year=2022#assignment_2983570
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T122300Z
 UID:event-assignment-2983195
 DTSTART;VALUE=DATE:20220516T232900
 DTEND;VALUE=DATE:20220516T235900
@@ -1318,7 +1289,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T121800Z
+DTSTAMP:20220518T122200Z
 UID:event-assignment-2983194
 DTSTART;VALUE=DATE:20220516T232900
 DTEND;VALUE=DATE:20220516T235900
@@ -1344,31 +1315,65 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  rntype="File">Project - Order of Operations.pdf</a>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220309T201200Z
+DTSTAMP:20220517T133800Z
 UID:event-calendar-event-520382
 DTSTART;VALUE=DATE:20220517
 DTEND;VALUE=DATE:20220518
 DESCRIPTION:Watch these videos.Â  Take really good notes.Â  You will be abl
- e to use your notes on tomorrow's quiz.\n\n[Unit Circle Video #1] (https:/
- /www.youtube.com/watch?v=j5SoWzBSUmY&t=8s)Â \n\n[Unit Circle Video #2] (ht
- tps://www.youtube.com/watch?annotation_id=annotation_344584&feature=iv&src
- _vid=j5SoWzBSUmY&v=FaZ7frx8nd8)\n\nWhen you are done\, I recommend getting
-  started on the final exam review if you have not already done so.
+ e to use your notes on tomorrow's quiz.\n\n[Unit Circle with probs on back
+ .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814732?wrap=1
+ )\n\n[Unit Circle Video #1] (https://www.youtube.com/watch?v=j5SoWzBSUmY&t
+ =8s)Â \n\n[Unit Circle Video #2] (https://www.youtube.com/watch?annotation
+ _id=annotation_344584&feature=iv&src_vid=j5SoWzBSUmY&v=FaZ7frx8nd8)\n\nWhe
+ n you are done\, I recommend getting started on the final exam review if y
+ ou have not already done so.
 SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520382
 X-ALT-DESC;FMTTYPE=text/html:<p>Watch these videos.&nbsp\; Take really good
   notes.&nbsp\; You will be able to use your notes on tomorrow's quiz.</p>\
- n<p><a class="instructure_file_link inline_disabled" href="https://www.you
- tube.com/watch?v=j5SoWzBSUmY&amp\;t=8s" target="_blank">Unit Circle Video 
- #1</a>&nbsp\;</p>\n<p><a class="instructure_file_link inline_disabled" hre
- f="https://www.youtube.com/watch?annotation_id=annotation_344584&amp\;feat
- ure=iv&amp\;src_vid=j5SoWzBSUmY&amp\;v=FaZ7frx8nd8" target="_blank">Unit C
- ircle Video #2</a></p>\n<p>When you are done\, I recommend getting started
-  on the final exam review if you have not already done so.</p>
+ n<p><a class="instructure_file_link instructure_scribd_file inline_disable
+ d" title="Unit Circle with probs on back.pdf" href="https://lisdtx.instruc
+ ture.com/courses/172585/files/19814732?wrap=1" target="_blank" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981473
+ 2" data-api-returntype="File">Unit Circle with probs on back.pdf</a></p>\n
+ <p><a class="instructure_file_link inline_disabled" href="https://www.yout
+ ube.com/watch?v=j5SoWzBSUmY&amp\;t=8s" target="_blank">Unit Circle Video #
+ 1</a>&nbsp\;</p>\n<p><a class="instructure_file_link inline_disabled" href
+ ="https://www.youtube.com/watch?annotation_id=annotation_344584&amp\;featu
+ re=iv&amp\;src_vid=j5SoWzBSUmY&amp\;v=FaZ7frx8nd8" target="_blank">Unit Ci
+ rcle Video #2</a></p>\n<p>When you are done\, I recommend getting started 
+ on the final exam review if you have not already done so.</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220512T120900Z
+DTSTAMP:20220517T151400Z
+UID:event-assignment-2877998
+DTSTART;VALUE=DATE:20220517T232900
+DTEND;VALUE=DATE:20220517T235900
+DESCRIPTION:[Project - Partnership Media Plan Calculations.pdf] (https://li
+ sdtx.instructure.com/courses/190905/files/23114600?wrap=1)Â \n\n[Project -
+  Partnership Media Plan Calculations Student File (1).xlsx] (https://lisdt
+ x.instructure.com/courses/190905/files/23114601?wrap=1)Â 
+SUMMARY:Project - Partnership Media Plans Calculations [Bus Info Mgmt I-GRA
+ HAM]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
+ month=05&year=2022#assignment_2877998
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
+ _scribd_file inline_disabled" title="Project - Partnership Media Plan Calc
+ ulations.pdf" href="https://lisdtx.instructure.com/courses/190905/files/23
+ 114600?wrap=1" target="_blank" data-canvas-previewable="false" data-api-en
+ dpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2311460
+ 0" data-api-returntype="File">Project - Partnership Media Plan Calculation
+ s.pdf</a>&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scrib
+ d_file inline_disabled" title="Project - Partnership Media Plan Calculatio
+ ns Student File (1).xlsx" href="https://lisdtx.instructure.com/courses/190
+ 905/files/23114601?wrap=1" target="_blank" data-canvas-previewable="false"
+  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/f
+ iles/23114601" data-api-returntype="File">Project - Partnership Media Plan
+  Calculations Student File (1).xlsx</a>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T122300Z
 UID:event-assignment-2970127
 DTSTART;VALUE=DATE:20220517T232900
 DTEND;VALUE=DATE:20220517T235900
@@ -1376,6 +1381,17 @@ DESCRIPTION:
 SUMMARY:Static Electric FRQ [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=05&year=2022#assignment_2970127
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T122300Z
+UID:event-assignment-2983209
+DTSTART;VALUE=DATE:20220517T232900
+DTEND;VALUE=DATE:20220517T235900
+DESCRIPTION:
+SUMMARY:Very Complex Circuit [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=05&year=2022#assignment_2983209
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
@@ -1494,7 +1510,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This summer\, you can submit a design for t
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:69108101991161141059910511612132801141014584101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1502,7 +1518,7 @@ SUMMARY:Electricity Pre-Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:6910810199116114105991051161213284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1510,7 +1526,7 @@ SUMMARY:Electricity Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:6510810310198114973250326912097109
 DTSTART;TZID=America/Chicago:20220524T082000
 DTEND;TZID=America/Chicago:20220524T085000
@@ -1518,7 +1534,7 @@ SUMMARY:Algebra 2 Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8010412111510599115326912097109
 DTSTART;TZID=America/Chicago:20220524T114400
 DTEND;TZID=America/Chicago:20220524T121400
@@ -1526,7 +1542,7 @@ SUMMARY:Physics Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:667377326912097109
 DTSTART;TZID=America/Chicago:20220525T082000
 DTEND;TZID=America/Chicago:20220525T085000
@@ -1534,7 +1550,7 @@ SUMMARY:BIM Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8083658432831171091091011143287101101107
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1542,7 +1558,7 @@ SUMMARY:PSAT Summer Week
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1550,7 +1566,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1558,7 +1574,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1566,7 +1582,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1574,7 +1590,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T073006Z
+DTSTAMP:20220518T073006Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
