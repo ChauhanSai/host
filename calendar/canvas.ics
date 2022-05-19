@@ -6,71 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220510T160400Z
-UID:event-assignment-2840002
-DTSTART;VALUE=DATE:20220418T232900
-DTEND;VALUE=DATE:20220418T235900
-DESCRIPTION:
-SUMMARY:Unit 3 Check for Understanding [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=04&year=2022#assignment_2840002
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220510T160400Z
-UID:event-assignment-2840003
-DTSTART;VALUE=DATE:20220418T232900
-DTEND;VALUE=DATE:20220418T235900
-DESCRIPTION:[Project - Business Partnership Proposal.pdf] (https://lisdtx.i
- nstructure.com/courses/190905/files/22530583?wrap=1)Â \n\n[Project - Busin
- ess Partnership Proposal Student File.pptx] (https://lisdtx.instructure.co
- m/courses/190905/files/22530581?wrap=1)Â 
-SUMMARY:Business Partnership Proposal Plan - Project [Bus Info Mgmt I-GRAHA
- M]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=04&year=2022#assignment_2840003
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Business Partnership Propos
- al.pdf" href="https://lisdtx.instructure.com/courses/190905/files/22530583
- ?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/190905/files/22530583" dat
- a-api-returntype="File">Project - Business Partnership Proposal.pdf</a>&nb
- sp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file inlin
- e_disabled" title="Project - Business Partnership Proposal Student File.pp
- tx" href="https://lisdtx.instructure.com/courses/190905/files/22530581?wra
- p=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="ht
- tps://lisdtx.instructure.com/api/v1/courses/190905/files/22530581" data-ap
- i-returntype="File">Project - Business Partnership Proposal Student File.p
- ptx</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220404T180300Z
-UID:event-assignment-2834146
-DTSTART;VALUE=DATE:20220418T232900
-DTEND;VALUE=DATE:20220418T235900
-DESCRIPTION:Please donate the following items:\n\n* Dry or wet cat & dog fo
- od\n\n* Reusable bags\n\n* Cat litter\n\n* Towels\n\n* Blankets\n\nÂ \n\n2
-  points per item\; 10 points max
-SUMMARY:Operation Kindness - The Pet Drive [StuCo 21-22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
- month=04&year=2022#assignment_2834146
-X-ALT-DESC;FMTTYPE=text/html:<p>Please donate the following items:</p>\n<ul
- >\n<li>Dry or wet cat &amp\; dog food</li>\n<li>Reusable bags</li>\n<li>Ca
- t litter</li>\n<li>Towels</li>\n<li>Blankets</li>\n</ul>\n<p>&nbsp\;</p>\n
- <p>2 points per item\; 10 points max</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220428T204700Z
-UID:event-assignment-2850792
-DTSTART;VALUE=DATE:20220418T232900
-DTEND;VALUE=DATE:20220418T235900
-DESCRIPTION:
-SUMMARY:Video Quiz [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2850792
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220309T200700Z
 UID:event-calendar-event-520469
 DTSTART;VALUE=DATE:20220420
@@ -883,7 +818,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520845
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220503T182100Z
+DTSTAMP:20220518T195000Z
 UID:event-assignment-2884840
 DTSTART;VALUE=DATE:20220504T232900
 DTEND;VALUE=DATE:20220504T235900
@@ -1247,7 +1182,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220517T202200Z
+DTSTAMP:20220518T190400Z
 UID:event-assignment-2537950
 DTSTART;VALUE=DATE:20220513T232900
 DTEND;VALUE=DATE:20220513T235900
@@ -1255,6 +1190,28 @@ DESCRIPTION:
 SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#assignment_2537950
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T195000Z
+UID:event-assignment-3010075
+DTSTART;VALUE=DATE:20220513T232900
+DTEND;VALUE=DATE:20220513T235900
+DESCRIPTION:
+SUMMARY:FreeCodeCamp JavaScript pt. 2 [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=05&year=2022#assignment_3010075
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T195000Z
+UID:event-assignment-3010074
+DTSTART;VALUE=DATE:20220513T232900
+DTEND;VALUE=DATE:20220513T235900
+DESCRIPTION:
+SUMMARY:FreeCodeCamp JavaScript pt1. [AP Comp Sci - S22]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
+ month=05&year=2022#assignment_3010074
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
@@ -1404,13 +1361,37 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_543597
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220113T211900Z
+DTSTAMP:20220518T135300Z
+UID:event-assignment-2996164
+DTSTART;VALUE=DATE:20220518T232900
+DTEND;VALUE=DATE:20220518T235900
+DESCRIPTION:
+SUMMARY:Electricity FRQ Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=05&year=2022#assignment_2996164
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220518T135200Z
+UID:event-assignment-2995982
+DTSTART;VALUE=DATE:20220518T232900
+DTEND;VALUE=DATE:20220518T235900
+DESCRIPTION:
+SUMMARY:Electricity MC Test [Physics Hon-JENKINS]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
+ month=05&year=2022#assignment_2995982
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220519T050000Z
 UID:event-assignment-2537904
 DTSTART;VALUE=DATE:20220519T232900
 DTEND;VALUE=DATE:20220519T235900
+DESCRIPTION:
 SUMMARY:Algebra II Terms and Vocabulary [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#assignment_2537904
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
@@ -1489,7 +1470,7 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=05&year=2022#assignment_2974291
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220510T155100Z
+DTSTAMP:20220518T164500Z
 UID:event-assignment-2966543
 DTSTART;VALUE=DATE:20220901T232900
 DTEND;VALUE=DATE:20220901T235900
@@ -1497,7 +1478,8 @@ DESCRIPTION:This summer\, you can submit a design for the new SNHS shirt. T
  he only part of the shirt that changes is the back. The front always has t
  he SNHS emblem. If you could submitÂ  a design this summer and it is chose
  n for the new SNHS Shirt\, you will not pay dues.Â  Please consider being 
- a creative designer for the officers to review.Â 
+ a creative designer for the officers to review.Â  Designs are due by Septe
+ mber 1\, 2022
 SUMMARY:Shirt Design for 2022-23 [SNHS 2022-2023]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_206320&
  month=09&year=2022#assignment_2966543
@@ -1506,11 +1488,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This summer\, you can submit a design for t
  e front always has the SNHS emblem. If you could submit&nbsp\; a design th
  is summer and it is chosen for the new SNHS Shirt\, you will not pay dues.
  &nbsp\; Please consider being a creative designer for the officers to revi
- ew.&nbsp\;</p>
+ ew.&nbsp\; Designs are due by September 1\, 2022</p>
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:69108101991161141059910511612132801141014584101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1518,7 +1500,7 @@ SUMMARY:Electricity Pre-Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:6910810199116114105991051161213284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1526,7 +1508,7 @@ SUMMARY:Electricity Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:6510810310198114973250326912097109
 DTSTART;TZID=America/Chicago:20220524T082000
 DTEND;TZID=America/Chicago:20220524T085000
@@ -1534,7 +1516,7 @@ SUMMARY:Algebra 2 Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8010412111510599115326912097109
 DTSTART;TZID=America/Chicago:20220524T114400
 DTEND;TZID=America/Chicago:20220524T121400
@@ -1542,7 +1524,7 @@ SUMMARY:Physics Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:667377326912097109
 DTSTART;TZID=America/Chicago:20220525T082000
 DTEND;TZID=America/Chicago:20220525T085000
@@ -1550,7 +1532,7 @@ SUMMARY:BIM Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8083658432831171091091011143287101101107
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1558,7 +1540,7 @@ SUMMARY:PSAT Summer Week
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1566,7 +1548,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1574,7 +1556,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1582,7 +1564,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1590,7 +1572,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220518T073006Z
+DTSTAMP:20220519T073006Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
