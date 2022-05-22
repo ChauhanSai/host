@@ -6,72 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220506T202500Z
-UID:event-assignment-2537906
-DTSTART;VALUE=DATE:20220421T232900
-DTEND;VALUE=DATE:20220421T235900
-DESCRIPTION:
-SUMMARY:7.1-7.4 Quiz [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537906
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220506T202500Z
-UID:event-assignment-2537931
-DTSTART;VALUE=DATE:20220421T232900
-DTEND;VALUE=DATE:20220421T235900
-DESCRIPTION:[Practice 7.3 - 7.4 PAP.pdf] (https://lisdtx.instructure.com/co
- urses/172585/files/19814689/download?wrap=1)
-SUMMARY:HW DUE 7.3-7.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537931
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 7.3 - 7.4 PAP.pdf" href="https://lisdtx.inst
- ructure.com/courses/172585/files/19814689/download?wrap=1" data-api-endpoi
- nt="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814689" d
- ata-api-returntype="File">Practice 7.3 - 7.4 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T152400Z
-UID:event-assignment-2854273
-DTSTART;VALUE=DATE:20220421T232900
-DTEND;VALUE=DATE:20220421T235900
-DESCRIPTION:[Selection - Insertion Sort Tracing.pdf] (https://lisdtx.instru
- cture.com/courses/202975/files/22840410?wrap=1)Â 
-SUMMARY:Selection / Insertion Sort Tracing [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2854273
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Selection - Insertion Sort Tracing.pd
- f" href="https://lisdtx.instructure.com/courses/202975/files/22840410?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://lisdtx.instructure.com/api/v1/courses/202975/files/22840410" data-api
- -returntype="File">Selection - Insertion Sort Tracing.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200700Z
-UID:event-calendar-event-520517
-DTSTART;VALUE=DATE:20220422
-DTEND;VALUE=DATE:20220423
-DESCRIPTION:[7.5 - 7.6 Blank Notes.pdf] (https://lisdtx.instructure.com/cou
- rses/172585/files/19814699/preview)\n\nHW: [Practice 7.5\, 7.6.pdf] (https
- ://lisdtx.instructure.com/courses/172585/files/19814691/preview)\n\nÂ 
-SUMMARY:7.5 - 7.6 Attributes & Properties of Logarithms [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520517
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="7.5 - 7.6 Blank Notes.pdf" href="https://lisdtx.instr
- ucture.com/courses/172585/files/19814699/preview" target="_blank" data-api
- -endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981
- 4699" data-api-returntype="File">7.5 - 7.6 Blank Notes.pdf</a></p>\n<p>HW:
-  <a class="instructure_file_link instructure_scribd_file" title="Practice 
- 7.5\, 7.6.pdf" href="https://lisdtx.instructure.com/courses/172585/files/1
- 9814691/preview" target="_blank" data-api-endpoint="https://lisdtx.instruc
- ture.com/api/v1/courses/172585/files/19814691" data-api-returntype="File">
- Practice 7.5\, 7.6.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220425T175500Z
 UID:event-assignment-2846947
 DTSTART;VALUE=DATE:20220422T232900
@@ -1382,7 +1316,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This summer\, you can submit a design for t
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:69108101991161141059910511612132801141014584101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1390,7 +1324,7 @@ SUMMARY:Electricity Pre-Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:6910810199116114105991051161213284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1398,7 +1332,7 @@ SUMMARY:Electricity Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:6510810310198114973250326912097109
 DTSTART;TZID=America/Chicago:20220524T082000
 DTEND;TZID=America/Chicago:20220524T085000
@@ -1406,7 +1340,7 @@ SUMMARY:Algebra 2 Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8010412111510599115326912097109
 DTSTART;TZID=America/Chicago:20220524T114400
 DTEND;TZID=America/Chicago:20220524T121400
@@ -1414,7 +1348,7 @@ SUMMARY:Physics Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:667377326912097109
 DTSTART;TZID=America/Chicago:20220525T082000
 DTEND;TZID=America/Chicago:20220525T085000
@@ -1422,7 +1356,7 @@ SUMMARY:BIM Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8083658432831171091091011143287101101107
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1430,7 +1364,7 @@ SUMMARY:PSAT Summer Week
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1438,7 +1372,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1446,7 +1380,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1454,7 +1388,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1462,7 +1396,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220521T073010Z
+DTSTAMP:20220522T073010Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
