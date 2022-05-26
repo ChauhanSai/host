@@ -7,242 +7,8 @@ X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
 DTSTAMP:20220506T202500Z
-UID:event-assignment-2537932
-DTSTART;VALUE=DATE:20220425T232900
-DTEND;VALUE=DATE:20220425T235900
-DESCRIPTION:[Practice 7.5\, 7.6.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814691/download?wrap=1)
-SUMMARY:HW DUE 7.5-7.6 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537932
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 7.5\, 7.6.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814691/download?wrap=1" data-api-endpoint="
- https://lisdtx.instructure.com/api/v1/courses/172585/files/19814691" data-
- api-returntype="File">Practice 7.5\, 7.6.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T152400Z
-UID:event-assignment-2539370
-DTSTART;VALUE=DATE:20220425T232900
-DTEND;VALUE=DATE:20220425T235900
-DESCRIPTION:**********\nDirections\n**********\n\nFind the number in the li
- st that immediately follows the given number. The original list\nof number
- s must be in natural / sorted order.\n\nFor instance\, if you are given th
- e list :: 4 5 9 3 8 and the number :: 6. The next number after 6 would be 
- 8.Â \n\nÂ \n\nYour program should first sort the array in increasing order
-  then attempt to find the next largest value. The key may or may not be in
-  the array.\n\n------------\nStarter Code\n------------\n\nimport java.uti
- l.Arrays\;\n\npublic class FindNextLargest {\npublic static void main(Stri
- ng[] args) {\nint[] nums = {1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 7\, 6\, 5\, 4\
- , 3\, 2\, 1}\;\nsort(nums)\;\nSystem.out.println(Arrays.toString(nums))\;\
- nSystem.out.println("Next Largest to 5: " + nextLargest(nums\, 5))\;\n\nSy
- stem.out.println()\;\nint[] nums2 = {10\, 30\, 20\, 40\, 50\, 15 }\;\nsort
- (nums2)\;\nSystem.out.println(Arrays.toString(nums2))\;\nSystem.out.printl
- n("Next Largest to 12: " + nextLargest(nums2\, 12))\;\n\nSystem.out.printl
- n()\;\nint[] nums3 = {3\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 2\, 3\, 4\, 65 }\;
- \nsort(nums3)\;\nSystem.out.println(Arrays.toString(nums3))\;\nSystem.out.
- println("Next Largest to 25: " + nextLargest(nums3\, 25))\;\n\nSystem.out.
- println()\;\nint[] nums4 = {100\, 110\, 1000\, 25000\, 65535}\;\nsort(nums
- 4)\;\nSystem.out.println(Arrays.toString(nums4))\;\nSystem.out.println("Ne
- xt Largest to 32767: " + nextLargest(nums4\, 32767 ))\;\n\n}\n\npublic sta
- tic void sort(int[] arr){\n\n}\n\npublic static int nextLargest(int[] arr\
- , int key){\n\n}\n}\n\nÂ \n\n------\nOutput\n------\n\n[1\, 1\, 2\, 2\, 3\
- , 3\, 4\, 4\, 5\, 5\, 6\, 6\, 7\, 7\, 8]\nNext Largest to 5: 6\n\n[10\, 15
- \, 20\, 30\, 40\, 50]\nNext Largest to 12: 15\n\n[2\, 3\, 3\, 4\, 4\, 5\, 
- 6\, 8\, 9\, 10\, 11\, 65]\nNext Largest to 25: 65\n\n[100\, 110\, 1000\, 2
- 5000\, 65535]\nNext Largest to 32767: 65535\n\nÂ 
-SUMMARY:Number Search [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2539370
-X-ALT-DESC;FMTTYPE=text/html:<h1>Directions</h1>\n<p><span class="textLayer
- --absolute" dir="ltr" role="presentation">Find the</span> <span class="tex
- tLayer--absolute" dir="ltr" role="presentation">number in the list that </
- span><span class="textLayer--absolute" dir="ltr" role="presentation">immed
- iately follows the given number</span><span class="textLayer--absolute" di
- r="ltr" role="presentation">.</span> <span class="textLayer--absolute" dir
- ="ltr" role="presentation">The original list </span><br class="textLayer--
- absolute" role="presentation"><span class="textLayer--absolute" dir="ltr" 
- role="presentation">of numbers must be in natural </span><span class="text
- Layer--absolute" dir="ltr" role="presentation">/ sorted </span><span class
- ="textLayer--absolute" dir="ltr" role="presentation">order.</span> <br cla
- ss="textLayer--absolute" role="presentation"><br class="textLayer--absolut
- e" role="presentation"><span class="textLayer--absolute" dir="ltr" role="p
- resentation">For instance\, if you are </span><span class="textLayer--abso
- lute" dir="ltr" role="presentation">given the list :: 4 5 9 3 8 and the nu
- mber :: 6. The next number after 6 would be 8.</span>&nbsp\;</p>\n<p>&nbsp
- \;</p>\n<p>Your program should first sort the array in increasing order th
- en attempt to find the next largest value. The key may or may not be in th
- e array.</p>\n<h2>Starter Code</h2>\n<pre>import java.util.Arrays\;\n\npub
- lic class FindNextLargest {\n    public static void main(String[] args) {\
- n        int[] nums = {1\, 2\, 3\, 4\, 5\, 6\, 7\, 8\, 7\, 6\, 5\, 4\, 3\,
-  2\, 1}\;\n        sort(nums)\;\n        System.out.println(Arrays.toStrin
- g(nums))\;\n        System.out.println("Next Largest to 5: " + nextLargest
- (nums\, 5))\;\n\n        System.out.println()\;\n        int[] nums2 = {10
- \, 30\, 20\, 40\, 50\, 15 }\;\n        sort(nums2)\;\n        System.out.p
- rintln(Arrays.toString(nums2))\;\n        System.out.println("Next Largest
-  to 12: " + nextLargest(nums2\, 12))\;\n\n\n        System.out.println()\;
- \n        int[] nums3 = {3\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 2\, 3\, 4\, 65 
- }\;\n        sort(nums3)\;\n        System.out.println(Arrays.toString(num
- s3))\;\n        System.out.println("Next Largest to 25: " + nextLargest(nu
- ms3\, 25))\;\n\n        System.out.println()\;\n        int[] nums4 = {100
- \, 110\, 1000\, 25000\, 65535}\;\n        sort(nums4)\;\n        System.ou
- t.println(Arrays.toString(nums4))\;\n        System.out.println("Next Larg
- est to 32767: " + nextLargest(nums4\, 32767 ))\;\n\n    }\n\n    public st
- atic void sort(int[] arr){\n        \n    }\n\n    public static int nextL
- argest(int[] arr\, int key){\n        \n    }\n}</pre>\n<p>&nbsp\;</p>\n<h
- 2>Output</h2>\n<pre>[1\, 1\, 2\, 2\, 3\, 3\, 4\, 4\, 5\, 5\, 6\, 6\, 7\, 7
- \, 8]\nNext Largest to 5: 6\n\n[10\, 15\, 20\, 30\, 40\, 50]\nNext Largest
-  to 12: 15\n\n[2\, 3\, 3\, 4\, 4\, 5\, 6\, 8\, 9\, 10\, 11\, 65]\nNext Lar
- gest to 25: 65\n\n[100\, 110\, 1000\, 25000\, 65535]\nNext Largest to 3276
- 7: 65535</pre>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T152400Z
-UID:event-assignment-2539369
-DTSTART;VALUE=DATE:20220425T232900
-DTEND;VALUE=DATE:20220425T235900
-DESCRIPTION:-------------\nInstructions:\n-------------\n\nUse selection so
- rt to move all values of 7 to the beginning of the array. You can use a mo
- dified selection sort to accomplish this. Rather than looking for a minimu
- m value to swap\, you should instead look for a 7 and keep the index where
-  you find it.\n\nÂ \n\n-------\nStarter\n-------\n\nimport java.util.Array
- s\;\n\npublic class NumberShifter {\npublic static void main(String[] args
- ) {\nint[] nums = {4\,5\,6\,7\,2\,3\,4\,7}\;\nSystem.out.println("Before s
- ort: " + Arrays.toString(nums))\;\nsort(nums)\;\nSystem.out.println("After
-  sort: " + Arrays.toString(nums))\;\n\nfor(int i = 0\; i < nums.length\; i
- ++)\nnums[i] = (int)(Math.random()*10)\;\n\nSystem.out.println("Random bef
- ore sort: " + Arrays.toString(nums))\;\nsort(nums)\;\nSystem.out.println("
- Random after sort: " + Arrays.toString(nums))\;\n\n}\n\npublic static void
-  sort(int[] arr){\n\n}\n\n}\n\n-------\nOutput:\n-------\n\nBefore sort: [
- 4\, 5\, 6\, 7\, 2\, 3\, 4\, 7]\nAfter sort: [7\, 7\, 6\, 4\, 2\, 3\, 4\, 5
- ]\nRandom before sort: [0\, 4\, 7\, 3\, 7\, 5\, 3\, 7]\nRandom after sort:
-  [7\, 7\, 7\, 3\, 4\, 5\, 3\, 0]
-SUMMARY:Number Shifter [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2539369
-X-ALT-DESC;FMTTYPE=text/html:<h2>Instructions:</h2>\n<p>Use selection sort 
- to move all values of 7 to the beginning of the array. You can use a modif
- ied selection sort to accomplish this. Rather than looking for a minimum v
- alue to swap\, you should instead look for a 7 and keep the index where yo
- u find it.</p>\n<p>&nbsp\;</p>\n<h2>Starter</h2>\n<pre>import java.util.Ar
- rays\;\n\npublic class NumberShifter {\n    public static void main(String
- [] args) {\n        int[] nums = {4\,5\,6\,7\,2\,3\,4\,7}\;\n        Syste
- m.out.println("Before sort: " + Arrays.toString(nums))\;\n        sort(num
- s)\;\n        System.out.println("After sort: " + Arrays.toString(nums))\;
- \n\n        for(int i = 0\; i &lt\; nums.length\; i++)\n            nums[i
- ] = (int)(Math.random()*10)\;\n\n        System.out.println("Random before
-  sort: " + Arrays.toString(nums))\;\n        sort(nums)\;\n        System.
- out.println("Random after sort: " + Arrays.toString(nums))\;\n\n    }\n\n 
-    public static void sort(int[] arr){\n       \n    }\n\n}\n\n</pre>\n<h2
- >Output:</h2>\n<pre>Before sort: [4\, 5\, 6\, 7\, 2\, 3\, 4\, 7]\nAfter so
- rt: [7\, 7\, 6\, 4\, 2\, 3\, 4\, 5]\nRandom before sort: [0\, 4\, 7\, 3\, 
- 7\, 5\, 3\, 7]\nRandom after sort: [7\, 7\, 7\, 3\, 4\, 5\, 3\, 0]</pre>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T152400Z
-UID:event-assignment-2539362
-DTSTART;VALUE=DATE:20220425T232900
-DTEND;VALUE=DATE:20220425T235900
-DESCRIPTION:*************\nStarter Files\n*************\n\n[SortNames.java]
-  (https://lisdtx.instructure.com/courses/202975/files/19824181?wrap=1)\n\n
- [nameList.txt] (https://lisdtx.instructure.com/courses/202975/files/198241
- 82?wrap=1) Â \n\nimport java.util.*\;\nimport java.io.*\;\n\npublic class 
- SortNames\n{\n	// instance variables\n	private ArrayList list\;\n	\n	// co
- nstructor\n	public SortNames()\n	{\n		list = new ArrayList ()\;\n		\n		rea
- dFile()\;\n		\n		printList()\;\n		\n		selectionSort()\;\n		\n		System.out.
- println()\;\n		System.out.println("====================")\;\n		System.out.
- println(" Sorted List")\;\n		System.out.println("====================")\;\
- n		System.out.println()\;\n		\n		printList()\;\n	}\n	\n	// Sorts the Array
- List using the selection sort algorithm\npublic void selectionSort()\n{\n\
- n}\n	\n	public void readFile()\n	{\n		Scanner scan=null\;\n		try\n		{\n		 
- scan = new Scanner(new File("nameList.txt"))\;\n		}\n		catch(IOException e
- x)\n		{\n			System.out.println("File not found")\;\n		}\n		\n		while(scan.
- hasNextLine())\n		{\n			String name = scan.nextLine()\;\n			list.add(name)
- \;\n		}\n		\n	}\n	\n	public void printList()\n	{\n		for(String s: list)\n	
- 	{\n			System.out.println(s)\;\n		}\n		System.out.println()\;\n	}\n	\n	pub
- lic static void main(String [] args)\n	{\n		SortNames app = new SortNames(
- )\;\n	}\n	\n	\n}\n\n**********\nDirections\n**********\n\nComplete the pro
- gram\, SortNames\, that reads a list of names from a text file and puts th
- em into alphabetically order using the selection sort algorithm.\n\nBelow 
- is the selection sort algorithm used to sort an array of integers.\n\nvoid
-  selectionSort(int numbers[])\n{\nint i\, j\;\nint min\, temp\;\n\nfor (i 
- = 0\; i < numbers.length-1\; i++)\n{\nmin = i\;\nfor (j = i+1\; j < number
- s.length\; j++)\n{\nif (numbers[j] < numbers[min])\nmin = j\;\n}\n// swap\
- ntemp = numbers[i]\;\nnumbers[i] = numbers[min]\;\nnumbers[min] = temp\;\n
- }\n}\n\nComplete the method selectionSort. Modify the algorithm so that it
-  will sort an ArrayList of Strings. You will need to use the following Arr
- ayList methods in your implementation:\n\n* Object get(int index)\n\n* voi
- d set(int index\, Object element)\n\nYou will also need to use the String 
- class's compareTo method\n\n* int compareTo(Object obj)\n\n**********\nSam
- ple Run\n**********\n\nJohn\nSamantha\nChad\nDrew\nBill\nHenry\nSarah\nChr
- isty\nAshley\nMary\nSteve\nMarvin\nKelly\nBrenda\nMatthew\nKade\nShelly\nT
- amara\nDarren\nFred\nAustin\nJeremy\nTerrell\nAndrew\nKendall\nCasey\nMart
- ha\nAmy\nSharron\nReggie\n\n====================\nSorted List\n===========
- =========\n\nAmy\nAndrew\nAshley\nAustin\nBill\nBrenda\nCasey\nChad\nChris
- ty\nDarren\nDrew\nFred\nHenry\nJeremy\nJohn\nKade\nKelly\nKendall\nMartha\
- nMarvin\nMary\nMatthew\nReggie\nSamantha\nSarah\nSharron\nShelly\nSteve\nT
- amara\nTerrell\n\nÂ 
-SUMMARY:Sort Names [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2539362
-X-ALT-DESC;FMTTYPE=text/html:<h1>Starter Files</h1>\n<p><a class="instructu
- re_file_link instructure_scribd_file inline_disabled" title="SortNames.jav
- a" href="https://lisdtx.instructure.com/courses/202975/files/19824181?wrap
- =1" target="_blank" data-canvas-previewable="false" data-api-endpoint="htt
- ps://lisdtx.instructure.com/api/v1/courses/202975/files/19824181" data-api
- -returntype="File">SortNames.java</a></p>\n<p><a class="instructure_file_l
- ink instructure_scribd_file inline_disabled" title="nameList.txt" href="ht
- tps://lisdtx.instructure.com/courses/202975/files/19824182?wrap=1" target=
- "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
- .instructure.com/api/v1/courses/202975/files/19824182" data-api-returntype
- ="File">nameList.txt</a> &nbsp\;</p>\n<pre>import java.util.*\;\nimport ja
- va.io.*\;\n\npublic class SortNames\n{\n	// instance variables\n	private A
- rrayList  list\;\n	\n	// constructor\n	public SortNames()\n	{\n		list = ne
- w ArrayList  ()\;\n		\n		readFile()\;\n		\n		printList()\;\n		\n		selectio
- nSort()\;\n		\n		System.out.println()\;\n		System.out.println("===========
- =========")\;\n		System.out.println("    Sorted List")\;\n		System.out.pri
- ntln("====================")\;\n		System.out.println()\;\n		\n		printList(
- )\;\n	}\n	\n	// Sorts the ArrayList using the selection sort algorithm\n  
-   public void selectionSort()\n    {\n\n\n\n    }\n	\n	public void readFil
- e()\n	{\n		Scanner scan=null\;\n		try\n		{\n		   scan = new Scanner(new Fi
- le("nameList.txt"))\;\n		}\n		catch(IOException ex)\n		{\n			System.out.pr
- intln("File not found")\;\n		}\n		\n		while(scan.hasNextLine())\n		{\n			S
- tring name = scan.nextLine()\;\n			list.add(name)\;\n		}\n		\n	}\n	\n	publ
- ic void printList()\n	{\n		for(String s: list)\n		{\n			System.out.println
- (s)\;\n		}\n		System.out.println()\;\n	}\n	\n	public static void main(Stri
- ng [] args)\n	{\n		SortNames app = new SortNames()\;\n	}\n	\n	\n}</pre>\n<
- h1>Directions</h1>\n<p>Complete the program\, <strong>SortNames</strong>\,
-  that reads a list of names from a text file and puts them into alphabetic
- ally order using the <strong>selection sort</strong> algorithm.</p>\n<p>Be
- low is the selection sort algorithm used to sort an array of integers.</p>
- \n<div id="csCode">\n<pre>void selectionSort(int numbers[])\n{\n  int i\, 
- j\;\n  int min\, temp\;\n\n  for (i = 0\; i &lt\; numbers.length-1\; i++)\
- n  {\n    min = i\;\n    for (j = i+1\; j &lt\; numbers.length\; j++)\n   
-  {\n      if (numbers[j] &lt\; numbers[min])\n        min = j\;\n    }\n  
-   // swap\n    temp = numbers[i]\;\n    numbers[i] = numbers[min]\;\n    n
- umbers[min] = temp\;\n  }\n}\n</pre>\n</div>\n<p>Complete the method <stro
- ng>selectionSort</strong>. Modify the algorithm so that it will sort an Ar
- rayList of Strings. You will need to use the following ArrayList methods i
- n your implementation:</p>\n<div id="csList">\n<ul>\n<li>Object <strong>ge
- t</strong>(int index)</li>\n<li>void <strong>set</strong>(int index\, Obje
- ct element)</li>\n</ul>\n</div>\n<p>You will also need to use the String c
- lass's compareTo method</p>\n<div id="csList">\n<ul>\n<li>int <strong>comp
- areTo</strong>(Object obj)</li>\n</ul>\n</div>\n<h1>Sample Run</h1>\n<div 
- id="csSampleRun">\n<pre>John\nSamantha\nChad\nDrew\nBill\nHenry\nSarah\nCh
- risty\nAshley\nMary\nSteve\nMarvin\nKelly\nBrenda\nMatthew\nKade\nShelly\n
- Tamara\nDarren\nFred\nAustin\nJeremy\nTerrell\nAndrew\nKendall\nCasey\nMar
- tha\nAmy\nSharron\nReggie\n\n\n====================\n    Sorted List\n====
- ================\n\nAmy\nAndrew\nAshley\nAustin\nBill\nBrenda\nCasey\nChad
- \nChristy\nDarren\nDrew\nFred\nHenry\nJeremy\nJohn\nKade\nKelly\nKendall\n
- Martha\nMarvin\nMary\nMatthew\nReggie\nSamantha\nSarah\nSharron\nShelly\nS
- teve\nTamara\nTerrell\n</pre>\n</div>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220506T202500Z
 UID:event-assignment-2537909
 DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:
 SUMMARY:Exponentials/Logs Quiz [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -253,7 +19,6 @@ BEGIN:VEVENT
 DTSTAMP:20220511T140400Z
 UID:event-assignment-2537933
 DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:[Practice 7.7-7.10.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814693/download?wrap=1)
 SUMMARY:HW DUE 7.7-7.10 [Alg 2 Hon-RIORDAN]
@@ -269,7 +34,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120300Z
 UID:event-assignment-2867796
 DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:[Lenses Lab 09-10.docx] (https://lisdtx.instructure.com/courses
  /172858/files/22932879?wrap=1)Â 
 SUMMARY:Lens Lab [Physics Hon-JENKINS]
@@ -286,7 +50,6 @@ BEGIN:VEVENT
 DTSTAMP:20220502T205500Z
 UID:event-assignment-2866917
 DTSTART;VALUE=DATE:20220426T232900
-DTEND;VALUE=DATE:20220426T235900
 DESCRIPTION:Download and complete the attached practice exam. You may work 
  together.\n\nRecord your answers on the answer sheet and turn in when you 
  are done.Â \n\nSkip problems: 17\, 21\, & 25\n\n[aexam-2018-v2.pdf] (https
@@ -307,8 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200800Z
 UID:event-calendar-event-520473
-DTSTART;VALUE=DATE:20220427
-DTEND;VALUE=DATE:20220428
+DTSTART;VALUE=DATE:20220427T232900
 DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
  s/172585/files/19814700/preview)
 SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
@@ -338,7 +100,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120300Z
 UID:event-assignment-2874202
 DTSTART;VALUE=DATE:20220427T232900
-DTEND;VALUE=DATE:20220427T235900
 DESCRIPTION:
 SUMMARY:Waves FRQ Pre-Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -349,7 +110,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120300Z
 UID:event-assignment-2874201
 DTSTART;VALUE=DATE:20220427T232900
-DTEND;VALUE=DATE:20220427T235900
 DESCRIPTION:
 SUMMARY:Waves MC Pre-Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -360,7 +120,6 @@ BEGIN:VEVENT
 DTSTAMP:20220502T205200Z
 UID:event-assignment-2871135
 DTSTART;VALUE=DATE:20220428T232900
-DTEND;VALUE=DATE:20220428T235900
 DESCRIPTION:Download and complete the attached practice exam. You may work 
  together.\n\nRecord your answers on the answer sheet and turn in when you 
  are done.Â \n\n[ap21-frq-computer-science-a.pdf] (https://lisdtx.instructu
@@ -382,7 +141,6 @@ BEGIN:VEVENT
 DTSTAMP:20220506T140000Z
 UID:event-assignment-2537947
 DTSTART;VALUE=DATE:20220428T232900
-DTEND;VALUE=DATE:20220428T235900
 DESCRIPTION:
 SUMMARY:Test Topic 7 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -392,8 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201000Z
 UID:event-calendar-event-520472
-DTSTART;VALUE=DATE:20220429
-DTEND;VALUE=DATE:20220430
+DTSTART;VALUE=DATE:20220429T232900
 DESCRIPTION:[11.1 - 11.2 Blank_Notes.pdf] (https://lisdtx.instructure.com/c
  ourses/172585/files/19814581/preview)\n\nHW: [Practice 11.1 - 11.2.pdf] (h
  ttps://lisdtx.instructure.com/courses/172585/files/19814704/preview)\n\nÂ 
@@ -415,8 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201000Z
 UID:event-calendar-event-520457
-DTSTART;VALUE=DATE:20220429
-DTEND;VALUE=DATE:20220430
+DTSTART;VALUE=DATE:20220429T232900
 DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
  es/172585/files/19814703/preview)
 SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
@@ -429,10 +185,61 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
  03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220421T143200Z
+UID:event-calendar-event-547582
+DTSTART:20220429T220000Z
+DTEND:20220430T010000Z
+DESCRIPTION:Hebron Valley Elementary needs volunteers for their Family Fun 
+ Night carnival on Friday\, April 29 from 5-8 pm. Sign up here:Â https://do
+ cs.google.com/spreadsheets/d/1hj8YaCVpZGEaR7dC0Vyad7TXSlvFRl1wvcFEh1UhZk4/
+ edit?usp=sharing\n\n* Bring an hours sheet\n\n* If you sign up but cannot 
+ attend\, please remove yourself from the sign up and email Melissa Grogan 
+ at [groganm@lisd.net] (mailto:groganm@lisd.net)
+LOCATION:Hebron Valley Elementary
+SUMMARY:Hebron Valley Family Fun Night [Hebron NHS 2021-2022]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_66595&m
+ onth=04&year=2022#calendar_event_547582
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Hebron Valley Elementary needs volunt
+ eers for their Family Fun Night carnival on Friday\, April 29 from 5-8 pm.
+  Sign up here:&nbsp\;</span><a class="external" title="https://docs.google
+ .com/spreadsheets/d/1hj8YaCVpZGEaR7dC0Vyad7TXSlvFRl1wvcFEh1UhZk4/edit?usp=
+ sharing" href="https://docs.google.com/spreadsheets/d/1hj8YaCVpZGEaR7dC0Vy
+ ad7TXSlvFRl1wvcFEh1UhZk4/edit?usp=sharing" target="_blank"><span>https://d
+ ocs.google.com/spreadsheets/d/1hj8YaCVpZGEaR7dC0Vyad7TXSlvFRl1wvcFEh1UhZk4
+ /edit?usp=sharing</span></a></p>\n<ul>\n<li><strong>Bring an hours sheet</
+ strong></li>\n<li><strong>If you sign up but cannot attend\, please remove
+  yourself from the sign up and email Melissa Grogan at <a title="mailto:gr
+ oganm@lisd.net" href="mailto:groganm@lisd.net">groganm@lisd.net</a></stron
+ g></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220421T143300Z
+UID:event-calendar-event-547581
+DTSTART:20220429T220000Z
+DTEND:20220430T010000Z
+DESCRIPTION:Homestead PTA needs students volunteers to help at their auctio
+ n on Friday\, April 29. Sign up here:Â https://www.signupgenius.com/go/10c
+ 0f4fa8af2ca2fbc43-auction\n\n* Bring an hours sheet\n\n* If you have alrea
+ dy signed up but cannot make it\, please remove yourself from the sign up 
+ and contact the person listed on the sign up genius.
+LOCATION:Homestead Elementary
+SUMMARY:Homestead Auction [Hebron NHS 2021-2022]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_66595&m
+ onth=04&year=2022#calendar_event_547581
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Homestead PTA needs students voluntee
+ rs to help at their auction on Friday\, April 29. Sign up here:&nbsp\;</sp
+ an><a class="external" href="https://www.signupgenius.com/go/10c0f4fa8af2c
+ a2fbc43-auction" target="_blank"><span>https://www.signupgenius.com/go/10c
+ 0f4fa8af2ca2fbc43-auction</span></a></p>\n<ul>\n<li><span><strong>Bring an
+  hours sheet</strong></span></li>\n<li><span><strong>If you have already s
+ igned up but cannot make it\, please remove yourself from the sign up and 
+ contact the person listed on the sign up genius.</strong></span></li>\n</u
+ l>
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220504T031300Z
 UID:event-assignment-2868926
 DTSTART;VALUE=DATE:20220429T232900
-DTEND;VALUE=DATE:20220429T235900
 DESCRIPTION:ONLY AVAILABLE TO FRESHMEN\, SOPHOMORES\, AND JUNIORS\n\nWE WIL
  L NOT BE GIVING POINTS FOR 30 MINUTE SIGN UPS\, PLEASE SIGN UP FOR AT LEAS
  T AN HOUR\n\n3 POINTS PER HOUR\, 9 POINTS MAX.Â \n\nhttps://www.signupgeni
@@ -452,7 +259,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120400Z
 UID:event-assignment-2875133
 DTSTART;VALUE=DATE:20220429T232900
-DTEND;VALUE=DATE:20220429T235900
 DESCRIPTION:[PC REFRACTION VARIOUS PAGES.pdf] (https://lisdtx.instructure.c
  om/courses/172858/files/23056476?wrap=1)
 SUMMARY:PC REFRACTION VARIOUS PAGES [Physics Hon-JENKINS]
@@ -469,7 +275,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120300Z
 UID:event-assignment-2879686
 DTSTART;VALUE=DATE:20220429T232900
-DTEND;VALUE=DATE:20220429T235900
 DESCRIPTION:
 SUMMARY:Waves FRQ Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -480,7 +285,6 @@ BEGIN:VEVENT
 DTSTAMP:20220509T120300Z
 UID:event-assignment-2878990
 DTSTART;VALUE=DATE:20220429T232900
-DTEND;VALUE=DATE:20220429T235900
 DESCRIPTION:
 SUMMARY:Waves MC Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -490,8 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-calendar-event-520495
-DTSTART;VALUE=DATE:20220502
-DTEND;VALUE=DATE:20220503
+DTSTART;VALUE=DATE:20220502T232900
 DESCRIPTION:[11.3 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
  172585/files/19814710/preview)\n\nHW: [Practice 11.3 PAP.pdf] (https://lis
  dtx.instructure.com/courses/172585/files/19814707/preview)\n\nÂ 
@@ -513,7 +316,6 @@ BEGIN:VEVENT
 DTSTAMP:20220511T142000Z
 UID:event-assignment-2537913
 DTSTART;VALUE=DATE:20220502T232900
-DTEND;VALUE=DATE:20220502T235900
 DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814704/download?wrap=1)
 SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
@@ -529,7 +331,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877992
 DTSTART;VALUE=DATE:20220502T232900
-DTEND;VALUE=DATE:20220502T235900
 DESCRIPTION:[Excel 2019 Word Search.docx] (https://lisdtx.instructure.com/c
  ourses/190905/files/23135128?wrap=1)Â 
 SUMMARY:Vocabulary Crossword Puzzle Excel [Bus Info Mgmt I-GRAHAM]
@@ -545,8 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T204500Z
 UID:event-calendar-event-520844
-DTSTART;VALUE=DATE:20220503
-DTEND;VALUE=DATE:20220504
+DTSTART;VALUE=DATE:20220503T232900
 SUMMARY:BIOLOGY STAAR EOC [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520844
@@ -555,7 +355,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877991
 DTSTART;VALUE=DATE:20220503T232900
-DTEND;VALUE=DATE:20220503T235900
 DESCRIPTION:[Activity - Label the ExcelÂ® Window.pdf] (https://lisdtx.instr
  ucture.com/courses/190905/files/23114570?wrap=1)Â 
 SUMMARY:Label The Excel Window - Activity [Bus Info Mgmt I-GRAHAM]
@@ -571,8 +370,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20211216T204600Z
 UID:event-calendar-event-520845
-DTSTART;VALUE=DATE:20220504
-DTEND;VALUE=DATE:20220505
+DTSTART;VALUE=DATE:20220504T232900
 SUMMARY:US HISTORY STAAR EOC [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_520845
@@ -581,7 +379,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T131000Z
 UID:event-assignment-2884840
 DTSTART;VALUE=DATE:20220504T232900
-DTEND;VALUE=DATE:20220504T235900
 DESCRIPTION:
 SUMMARY:Practice AP Exam Final Score [AP Comp Sci - S22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
@@ -592,7 +389,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2882824
 DTSTART;VALUE=DATE:20220504T232900
-DTEND;VALUE=DATE:20220504T235900
 DESCRIPTION:[Activity - Ribbon Analysis-2.pdf] (https://lisdtx.instructure.
  com/courses/190905/files/23166389?wrap=1)Â \n\nExtra Credit!
 SUMMARY:Ribbon Analysis Excel [Bus Info Mgmt I-GRAHAM]
@@ -609,8 +405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-calendar-event-520496
-DTSTART;VALUE=DATE:20220505
-DTEND;VALUE=DATE:20220506
+DTSTART;VALUE=DATE:20220505T232900
 DESCRIPTION:[11.4 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
  172585/files/19814711/preview)\n\nHW: [Practice 11.4 .pdf] (https://lisdtx
  .instructure.com/courses/172585/files/19814708/preview)
@@ -633,7 +428,6 @@ BEGIN:VEVENT
 DTSTAMP:20220511T142000Z
 UID:event-assignment-2537914
 DTSTART;VALUE=DATE:20220505T232900
-DTEND;VALUE=DATE:20220505T235900
 DESCRIPTION:[Practice 11.3 PAP.pdf] (https://lisdtx.instructure.com/courses
  /172585/files/19814707/download?wrap=1)
 SUMMARY:HW DUE 11.3 [Alg 2 Hon-RIORDAN]
@@ -649,7 +443,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877993
 DTSTART;VALUE=DATE:20220505T232900
-DTEND;VALUE=DATE:20220505T235900
 DESCRIPTION:[Project - Business Partnership Media Proposal Media Pricing Gu
  ide Student File.pdf] (https://lisdtx.instructure.com/courses/190905/files
  /23114578?wrap=1)Â \n\n[Project - Business Partnership Media Proposal Stud
@@ -685,7 +478,6 @@ BEGIN:VEVENT
 DTSTAMP:20220510T160400Z
 UID:event-assignment-2877994
 DTSTART;VALUE=DATE:20220505T232900
-DTEND;VALUE=DATE:20220505T235900
 DESCRIPTION:[Project - Career Cluster Comparison Student File.xlsx] (https:
  //lisdtx.instructure.com/courses/190905/files/23114581?wrap=1)\n\n[Project
   - Career Cluster Comparison.pdf] (https://lisdtx.instructure.com/courses/
@@ -710,7 +502,6 @@ BEGIN:VEVENT
 DTSTAMP:20220511T142000Z
 UID:event-assignment-2537915
 DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:[Practice 11.4 .pdf] (https://lisdtx.instructure.com/courses/17
  2585/files/19814708/download?wrap=1)
 SUMMARY:HW DUE 11.4 [Alg 2 Hon-RIORDAN]
@@ -726,7 +517,6 @@ BEGIN:VEVENT
 DTSTAMP:20220511T201400Z
 UID:event-assignment-2537943
 DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:
 SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -737,7 +527,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877995
 DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:[Project - Formatting the Business Partnership Media Plan.pdf] 
  (https://lisdtx.instructure.com/courses/190905/files/23114579?wrap=1)Â \n\
  n[Project - Formatting the Business Partnership Media Plan Student File.xl
@@ -766,7 +555,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122300Z
 UID:event-assignment-2960557
 DTSTART;VALUE=DATE:20220506T232900
-DTEND;VALUE=DATE:20220506T235900
 DESCRIPTION:
 SUMMARY:Static Electric MC Quiz [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -776,8 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-calendar-event-520471
-DTSTART;VALUE=DATE:20220509
-DTEND;VALUE=DATE:20220510
+DTSTART;VALUE=DATE:20220509T232900
 DESCRIPTION:[11.5 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
  172585/files/19814582/preview)\n\n[11.6 Blank Notes.pdf] (https://lisdtx.i
  nstructure.com/courses/172585/files/19814583/preview)\n\nHW: [Practice 11.
@@ -804,8 +591,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220509T013500Z
 UID:event-calendar-event-549285
-DTSTART;VALUE=DATE:20220509
-DTEND;VALUE=DATE:20220510
+DTSTART;VALUE=DATE:20220509T232900
 DESCRIPTION:[Warm Up.pdf] (https://lisdtx.instructure.com/courses/172585/fi
  les/23388850?wrap=1)Â 
 SUMMARY:Warm Up [Alg 2 Hon-RIORDAN]
@@ -822,7 +608,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877996
 DTSTART;VALUE=DATE:20220509T232900
-DTEND;VALUE=DATE:20220509T235900
 DESCRIPTION:[Project - Media Plan Portfolio.pdf] (https://lisdtx.instructur
  e.com/courses/190905/files/23114586?wrap=1)Â \n\n[Project - Media Plan Por
  tfolio Element Logo Student File (1).xlsx] (https://lisdtx.instructure.com
@@ -852,8 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201100Z
 UID:event-calendar-event-520524
-DTSTART;VALUE=DATE:20220510
-DTEND;VALUE=DATE:20220511
+DTSTART;VALUE=DATE:20220510T232900
 DESCRIPTION:First\, check your hw.Â  If you have questions\, make sure to a
  sk.Â  Then\, turn your 11.5-11.6 hw in.\n\n[11.5-11.6 hw key again-1.pdf] 
  ($CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad689ca100495b4f40fc6a7968f?wrap
@@ -896,7 +680,6 @@ BEGIN:VEVENT
 DTSTAMP:20220519T193900Z
 UID:event-assignment-2537916
 DTSTART;VALUE=DATE:20220510T232900
-DTEND;VALUE=DATE:20220510T235900
 DESCRIPTION:[Practice 11.5 - 11.6.pdf] (https://lisdtx.instructure.com/cour
  ses/172585/files/19814713/download?wrap=1)\n\nÂ 
 SUMMARY:HW DUE 11.5-11.6 [Alg 2 Hon-RIORDAN]
@@ -913,7 +696,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2963203
 DTSTART;VALUE=DATE:20220510T232900
-DTEND;VALUE=DATE:20220510T235900
 DESCRIPTION:
 SUMMARY:Excel Sam 1 Exam [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
@@ -924,7 +706,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2963201
 DTSTART;VALUE=DATE:20220510T232900
-DTEND;VALUE=DATE:20220510T235900
 DESCRIPTION:
 SUMMARY:Excel Sam 1 Training [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
@@ -935,7 +716,6 @@ BEGIN:VEVENT
 DTSTAMP:20220519T203200Z
 UID:event-assignment-2537911
 DTSTART;VALUE=DATE:20220511T232900
-DTEND;VALUE=DATE:20220511T235900
 DESCRIPTION:[Rational Applications PAP.pdf] (https://lisdtx.instructure.com
  /courses/172585/files/19814714/download?wrap=1)
 SUMMARY:HW DUE - Rational Applications [Alg 2 Hon-RIORDAN]
@@ -951,7 +731,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2963204
 DTSTART;VALUE=DATE:20220511T232900
-DTEND;VALUE=DATE:20220511T235900
 DESCRIPTION:
 SUMMARY:Excel Sam 1 Project 1 [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
@@ -961,8 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201200Z
 UID:event-calendar-event-520522
-DTSTART;VALUE=DATE:20220512
-DTEND;VALUE=DATE:20220513
+DTSTART;VALUE=DATE:20220512T232900
 DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
  es/172585/files/19814703/preview)
 SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
@@ -978,7 +756,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T174700Z
 UID:event-assignment-2537950
 DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
 DESCRIPTION:
 SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -989,7 +766,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T131000Z
 UID:event-assignment-3010075
 DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
 DESCRIPTION:
 SUMMARY:FreeCodeCamp JavaScript pt. 2 [AP Comp Sci - S22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
@@ -1000,7 +776,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T131000Z
 UID:event-assignment-3010074
 DTSTART;VALUE=DATE:20220513T232900
-DTEND;VALUE=DATE:20220513T235900
 DESCRIPTION:
 SUMMARY:FreeCodeCamp JavaScript pt1. [AP Comp Sci - S22]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
@@ -1010,8 +785,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201200Z
 UID:event-calendar-event-537415
-DTSTART;VALUE=DATE:20220516
-DTEND;VALUE=DATE:20220517
+DTSTART;VALUE=DATE:20220516T232900
 SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_537415
@@ -1020,7 +794,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122300Z
 UID:event-assignment-2983570
 DTSTART;VALUE=DATE:20220516T232900
-DTEND;VALUE=DATE:20220516T235900
 DESCRIPTION:
 SUMMARY:Electricity FRQ Pre-Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1031,7 +804,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122300Z
 UID:event-assignment-2983195
 DTSTART;VALUE=DATE:20220516T232900
-DTEND;VALUE=DATE:20220516T235900
 DESCRIPTION:
 SUMMARY:Electricity MC Pre-Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1042,7 +814,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122200Z
 UID:event-assignment-2983194
 DTSTART;VALUE=DATE:20220516T232900
-DTEND;VALUE=DATE:20220516T235900
 SUMMARY:Electricity Pre-Test MC [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=05&year=2022#assignment_2983194
@@ -1051,7 +822,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877997
 DTSTART;VALUE=DATE:20220516T232900
-DTEND;VALUE=DATE:20220516T235900
 DESCRIPTION:[Project - Order of Operations.pdf] (https://lisdtx.instructure
  .com/courses/190905/files/23114594?wrap=1)Â 
 SUMMARY:Order of Operations - Project [Bus Info Mgmt I-GRAHAM]
@@ -1067,8 +837,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220517T133800Z
 UID:event-calendar-event-520382
-DTSTART;VALUE=DATE:20220517
-DTEND;VALUE=DATE:20220518
+DTSTART;VALUE=DATE:20220517T232900
 DESCRIPTION:Watch these videos.Â  Take really good notes.Â  You will be abl
  e to use your notes on tomorrow's quiz.\n\n[Unit Circle with probs on back
  .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814732?wrap=1
@@ -1099,7 +868,6 @@ BEGIN:VEVENT
 DTSTAMP:20220523T152100Z
 UID:event-assignment-2877998
 DTSTART;VALUE=DATE:20220517T232900
-DTEND;VALUE=DATE:20220517T235900
 DESCRIPTION:[Project - Partnership Media Plan Calculations.pdf] (https://li
  sdtx.instructure.com/courses/190905/files/23114600?wrap=1)Â \n\n[Project -
   Partnership Media Plan Calculations Student File (1).xlsx] (https://lisdt
@@ -1126,7 +894,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122300Z
 UID:event-assignment-2970127
 DTSTART;VALUE=DATE:20220517T232900
-DTEND;VALUE=DATE:20220517T235900
 DESCRIPTION:
 SUMMARY:Static Electric FRQ [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1137,7 +904,6 @@ BEGIN:VEVENT
 DTSTAMP:20220518T122300Z
 UID:event-assignment-2983209
 DTSTART;VALUE=DATE:20220517T232900
-DTEND;VALUE=DATE:20220517T235900
 DESCRIPTION:
 SUMMARY:Very Complex Circuit [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1147,8 +913,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T201200Z
 UID:event-calendar-event-543597
-DTSTART;VALUE=DATE:20220518
-DTEND;VALUE=DATE:20220519
+DTSTART;VALUE=DATE:20220518T232900
 SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
  month=05&year=2022#calendar_event_543597
@@ -1157,7 +922,6 @@ BEGIN:VEVENT
 DTSTAMP:20220519T125900Z
 UID:event-assignment-2996164
 DTSTART;VALUE=DATE:20220518T232900
-DTEND;VALUE=DATE:20220518T235900
 DESCRIPTION:
 SUMMARY:Electricity FRQ Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1168,7 +932,6 @@ BEGIN:VEVENT
 DTSTAMP:20220519T125900Z
 UID:event-assignment-2995982
 DTSTART;VALUE=DATE:20220518T232900
-DTEND;VALUE=DATE:20220518T235900
 DESCRIPTION:
 SUMMARY:Electricity MC Test [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
@@ -1176,10 +939,18 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20220505T163700Z
+UID:event-calendar-event-549168
+DTSTART;VALUE=DATE:20220519T232900
+LOCATION:1645
+SUMMARY:Junior Hours Due [Hebron NHS 2021-2022]
+URL:https://lisdtx.instructure.com/calendar?include_contexts=course_66595&m
+ onth=05&year=2022#calendar_event_549168
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
 UID:event-calendar-event-520386
-DTSTART;VALUE=DATE:20220520
-DTEND;VALUE=DATE:20220521
+DTSTART;VALUE=DATE:20220520T232900
 DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
  ture.com/courses/172585/files/19814687/preview)
 SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
@@ -1195,8 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
 UID:event-calendar-event-520461
-DTSTART;VALUE=DATE:20220523
-DTEND;VALUE=DATE:20220524
+DTSTART;VALUE=DATE:20220523T232900
 DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
  ture.com/courses/172585/files/19814687/preview)
 SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
@@ -1212,8 +982,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
 UID:event-calendar-event-520383
-DTSTART;VALUE=DATE:20220524
-DTEND;VALUE=DATE:20220525
+DTSTART;VALUE=DATE:20220524T232900
 DESCRIPTION:
 SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1224,7 +993,6 @@ BEGIN:VEVENT
 DTSTAMP:20220524T150600Z
 UID:event-assignment-3047316
 DTSTART;VALUE=DATE:20220524T232900
-DTEND;VALUE=DATE:20220524T235900
 DESCRIPTION:
 SUMMARY:2022 Spring BIM Final [Bus Info Mgmt I-GRAHAM]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
@@ -1234,8 +1002,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
 UID:event-calendar-event-520384
-DTSTART;VALUE=DATE:20220525
-DTEND;VALUE=DATE:20220526
+DTSTART;VALUE=DATE:20220525T232900
 DESCRIPTION:
 SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1245,8 +1012,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220309T200200Z
 UID:event-calendar-event-520385
-DTSTART;VALUE=DATE:20220525
-DTEND;VALUE=DATE:20220526
+DTSTART;VALUE=DATE:20220525T232900
 DESCRIPTION:
 SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
@@ -1254,19 +1020,20 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220523T195100Z
+DTSTAMP:20220525T132000Z
 UID:event-assignment-2974291
 DTSTART:20220525T173000Z
 DTEND:20220525T173000Z
+DESCRIPTION:
 SUMMARY:Honors Physics Final [Physics Hon-JENKINS]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
  month=05&year=2022#assignment_2974291
+X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220518T164500Z
 UID:event-assignment-2966543
 DTSTART;VALUE=DATE:20220901T232900
-DTEND;VALUE=DATE:20220901T235900
 DESCRIPTION:This summer\, you can submit a design for the new SNHS shirt. T
  he only part of the shirt that changes is the back. The front always has t
  he SNHS emblem. If you could submitÂ  a design this summer and it is chose
@@ -1285,7 +1052,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This summer\, you can submit a design for t
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:69108101991161141059910511612132801141014584101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1293,7 +1060,7 @@ SUMMARY:Electricity Pre-Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:6910810199116114105991051161213284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1301,7 +1068,7 @@ SUMMARY:Electricity Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:6510810310198114973250326912097109
 DTSTART;TZID=America/Chicago:20220524T082000
 DTEND;TZID=America/Chicago:20220524T085000
@@ -1309,7 +1076,7 @@ SUMMARY:Algebra 2 Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8010412111510599115326912097109
 DTSTART;TZID=America/Chicago:20220524T114400
 DTEND;TZID=America/Chicago:20220524T121400
@@ -1317,7 +1084,7 @@ SUMMARY:Physics Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:667377326912097109
 DTSTART;TZID=America/Chicago:20220525T082000
 DTEND;TZID=America/Chicago:20220525T085000
@@ -1325,7 +1092,7 @@ SUMMARY:BIM Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8083658432831171091091011143287101101107
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1333,7 +1100,7 @@ SUMMARY:PSAT Summer Week
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1341,7 +1108,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1349,7 +1116,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1357,7 +1124,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1365,7 +1132,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220525T073013Z
+DTSTAMP:20220526T073013Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
