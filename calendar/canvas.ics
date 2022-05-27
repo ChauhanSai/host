@@ -6,83 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:SAI CHAUHAN Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, SAI CHAUHAN
 BEGIN:VEVENT
-DTSTAMP:20220506T202500Z
-UID:event-assignment-2537909
-DTSTART;VALUE=DATE:20220426T232900
-DESCRIPTION:
-SUMMARY:Exponentials/Logs Quiz [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537909
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T140400Z
-UID:event-assignment-2537933
-DTSTART;VALUE=DATE:20220426T232900
-DESCRIPTION:[Practice 7.7-7.10.pdf] (https://lisdtx.instructure.com/courses
- /172585/files/19814693/download?wrap=1)
-SUMMARY:HW DUE 7.7-7.10 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537933
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 7.7-7.10.pdf" href="https://lisdtx.instructu
- re.com/courses/172585/files/19814693/download?wrap=1" data-api-endpoint="h
- ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814693" data-a
- pi-returntype="File">Practice 7.7-7.10.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T120300Z
-UID:event-assignment-2867796
-DTSTART;VALUE=DATE:20220426T232900
-DESCRIPTION:[Lenses Lab 09-10.docx] (https://lisdtx.instructure.com/courses
- /172858/files/22932879?wrap=1)Â 
-SUMMARY:Lens Lab [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2867796
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Lenses Lab 09-10.docx" href="https://
- lisdtx.instructure.com/courses/172858/files/22932879?wrap=1" target="_blan
- k" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.instr
- ucture.com/api/v1/courses/172858/files/22932879" data-api-returntype="File
- ">Lenses Lab 09-10.docx</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220502T205500Z
-UID:event-assignment-2866917
-DTSTART;VALUE=DATE:20220426T232900
-DESCRIPTION:Download and complete the attached practice exam. You may work 
- together.\n\nRecord your answers on the answer sheet and turn in when you 
- are done.Â \n\nSkip problems: 17\, 21\, & 25\n\n[aexam-2018-v2.pdf] (https
- ://lisdtx.instructure.com/courses/202975/files/22927101?wrap=1)Â 
-SUMMARY:Practice AP Exam MCQ - ML [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2866917
-X-ALT-DESC;FMTTYPE=text/html:<p>Download and complete the attached practice
-  exam. You may work together.</p>\n<p>Record your answers on the answer sh
- eet and turn in when you are done.&nbsp\;</p>\n<p><strong>Skip problems: 1
- 7\, 21\, &amp\; 25</strong></p>\n<p><a class="instructure_file_link instru
- cture_scribd_file inline_disabled" title="aexam-2018-v2.pdf" href="https:/
- /lisdtx.instructure.com/courses/202975/files/22927101?wrap=1" target="_bla
- nk" data-canvas-previewable="false" data-api-endpoint="https://lisdtx.inst
- ructure.com/api/v1/courses/202975/files/22927101" data-api-returntype="Fil
- e">aexam-2018-v2.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200800Z
-UID:event-calendar-event-520473
-DTSTART;VALUE=DATE:20220427T232900
-DESCRIPTION:[Review Topic 7 PAP.pdf] (https://lisdtx.instructure.com/course
- s/172585/files/19814700/preview)
-SUMMARY:Topic 7 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520473
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Review Topic 7 PAP.pdf" href="https://lisdtx.instruct
- ure.com/courses/172585/files/19814700/preview" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981470
- 0" data-api-returntype="File">Review Topic 7 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220427T210800Z
 UID:event-assignment-2853459
 DTSTART:20220427T210900Z
@@ -95,94 +18,6 @@ URL:https://lisdtx.instructure.com/calendar?include_contexts=course_155649&
 X-ALT-DESC;FMTTYPE=text/html:<p>DO NOT TAKE IT UNTIL TOLD TO! WE CAN SEE WH
  AT TIME YOU SUBMITTED IT!!!&nbsp\;</p>\n<p>&lt\;3 YOUR STUCO OFFICERS&nbsp
  \;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T120300Z
-UID:event-assignment-2874202
-DTSTART;VALUE=DATE:20220427T232900
-DESCRIPTION:
-SUMMARY:Waves FRQ Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2874202
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T120300Z
-UID:event-assignment-2874201
-DTSTART;VALUE=DATE:20220427T232900
-DESCRIPTION:
-SUMMARY:Waves MC Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2874201
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220502T205200Z
-UID:event-assignment-2871135
-DTSTART;VALUE=DATE:20220428T232900
-DESCRIPTION:Download and complete the attached practice exam. You may work 
- together.\n\nRecord your answers on the answer sheet and turn in when you 
- are done.Â \n\n[ap21-frq-computer-science-a.pdf] (https://lisdtx.instructu
- re.com/courses/202975/files/23006319?wrap=1)Â 
-SUMMARY:Practice AP Exam FRQ [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=04&year=2022#assignment_2871135
-X-ALT-DESC;FMTTYPE=text/html:<p>Download and complete the attached practice
-  exam. You may work together.</p>\n<p>Record your answers on the answer sh
- eet and turn in when you are done.&nbsp\;</p>\n<p><a class="instructure_fi
- le_link instructure_scribd_file inline_disabled" title="ap21-frq-computer-
- science-a.pdf" href="https://lisdtx.instructure.com/courses/202975/files/2
- 3006319?wrap=1" target="_blank" data-canvas-previewable="false" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/202975/files/230063
- 19" data-api-returntype="File">ap21-frq-computer-science-a.pdf</a>&nbsp\;<
- /p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220506T140000Z
-UID:event-assignment-2537947
-DTSTART;VALUE=DATE:20220428T232900
-DESCRIPTION:
-SUMMARY:Test Topic 7 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#assignment_2537947
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201000Z
-UID:event-calendar-event-520472
-DTSTART;VALUE=DATE:20220429T232900
-DESCRIPTION:[11.1 - 11.2 Blank_Notes.pdf] (https://lisdtx.instructure.com/c
- ourses/172585/files/19814581/preview)\n\nHW: [Practice 11.1 - 11.2.pdf] (h
- ttps://lisdtx.instructure.com/courses/172585/files/19814704/preview)\n\nÂ 
-SUMMARY:11.1 - 11.2 Inverse Variation & Transform Reciprocal Functions [Alg
-  2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520472
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="11.1 - 11.2 Blank_Notes.pdf" href="https://lisdtx.ins
- tructure.com/courses/172585/files/19814581/preview" target="_blank" data-a
- pi-endpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19
- 814581" data-api-returntype="File">11.1 - 11.2 Blank_Notes.pdf</a></p>\n<p
- >HW: <a class="instructure_file_link instructure_scribd_file" title="Pract
- ice 11.1 - 11.2.pdf" href="https://lisdtx.instructure.com/courses/172585/f
- iles/19814704/preview" target="_blank" data-api-endpoint="https://lisdtx.i
- nstructure.com/api/v1/courses/172585/files/19814704" data-api-returntype="
- File">Practice 11.1 - 11.2.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201000Z
-UID:event-calendar-event-520457
-DTSTART;VALUE=DATE:20220429T232900
-DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
- es/172585/files/19814703/preview)
-SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=04&year=2022#calendar_event_520457
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Review Topic 11 PAP.pdf" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
- 03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220421T143200Z
@@ -256,689 +91,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p>ONLY AVAILABLE TO FRESHMEN\, SOPHOMORES\, A
  n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220509T120400Z
-UID:event-assignment-2875133
-DTSTART;VALUE=DATE:20220429T232900
-DESCRIPTION:[PC REFRACTION VARIOUS PAGES.pdf] (https://lisdtx.instructure.c
- om/courses/172858/files/23056476?wrap=1)
-SUMMARY:PC REFRACTION VARIOUS PAGES [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2875133
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="PC REFRACTION VARIOUS PAGES.pdf" href="https://lisdtx
- .instructure.com/courses/172858/files/23056476?wrap=1" target="_blank" dat
- a-canvas-previewable="false" data-api-endpoint="https://lisdtx.instructure
- .com/api/v1/courses/172858/files/23056476" data-api-returntype="File">PC R
- EFRACTION VARIOUS PAGES.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T120300Z
-UID:event-assignment-2879686
-DTSTART;VALUE=DATE:20220429T232900
-DESCRIPTION:
-SUMMARY:Waves FRQ Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2879686
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T120300Z
-UID:event-assignment-2878990
-DTSTART;VALUE=DATE:20220429T232900
-DESCRIPTION:
-SUMMARY:Waves MC Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=04&year=2022#assignment_2878990
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201100Z
-UID:event-calendar-event-520495
-DTSTART;VALUE=DATE:20220502T232900
-DESCRIPTION:[11.3 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
- 172585/files/19814710/preview)\n\nHW: [Practice 11.3 PAP.pdf] (https://lis
- dtx.instructure.com/courses/172585/files/19814707/preview)\n\nÂ 
-SUMMARY:11.3 Asymptotes & Disconinuities [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520495
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="11.3 Blank Notes.pdf" href="https://lisdtx.instructur
- e.com/courses/172585/files/19814710/preview" target="_blank" data-api-endp
- oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814710"
-  data-api-returntype="File">11.3 Blank Notes.pdf</a></p>\n<p>HW: <a class=
- "instructure_file_link instructure_scribd_file" title="Practice 11.3 PAP.p
- df" href="https://lisdtx.instructure.com/courses/172585/files/19814707/pre
- view" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/ap
- i/v1/courses/172585/files/19814707" data-api-returntype="File">Practice 11
- .3 PAP.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T142000Z
-UID:event-assignment-2537913
-DTSTART;VALUE=DATE:20220502T232900
-DESCRIPTION:[Practice 11.1 - 11.2.pdf] (https://lisdtx.instructure.com/cour
- ses/172585/files/19814704/download?wrap=1)
-SUMMARY:HW DUE 11.1-11.2 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537913
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 11.1 - 11.2.pdf" href="https://lisdtx.instru
- cture.com/courses/172585/files/19814704/download?wrap=1" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814704" dat
- a-api-returntype="File">Practice 11.1 - 11.2.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877992
-DTSTART;VALUE=DATE:20220502T232900
-DESCRIPTION:[Excel 2019 Word Search.docx] (https://lisdtx.instructure.com/c
- ourses/190905/files/23135128?wrap=1)Â 
-SUMMARY:Vocabulary Crossword Puzzle Excel [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877992
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Excel 2019 Word Search.docx" href="ht
- tps://lisdtx.instructure.com/courses/190905/files/23135128?wrap=1" target=
- "_blank" data-canvas-previewable="false" data-api-endpoint="https://lisdtx
- .instructure.com/api/v1/courses/190905/files/23135128" data-api-returntype
- ="File">Excel 2019 Word Search.docx</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T204500Z
-UID:event-calendar-event-520844
-DTSTART;VALUE=DATE:20220503T232900
-SUMMARY:BIOLOGY STAAR EOC [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520844
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877991
-DTSTART;VALUE=DATE:20220503T232900
-DESCRIPTION:[Activity - Label the ExcelÂ® Window.pdf] (https://lisdtx.instr
- ucture.com/courses/190905/files/23114570?wrap=1)Â 
-SUMMARY:Label The Excel Window - Activity [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877991
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Activity - Label the ExcelÂ® Window.p
- df" href="https://lisdtx.instructure.com/courses/190905/files/23114570?wra
- p=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="ht
- tps://lisdtx.instructure.com/api/v1/courses/190905/files/23114570" data-ap
- i-returntype="File">Activity - Label the ExcelÂ® Window.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211216T204600Z
-UID:event-calendar-event-520845
-DTSTART;VALUE=DATE:20220504T232900
-SUMMARY:US HISTORY STAAR EOC [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520845
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T131000Z
-UID:event-assignment-2884840
-DTSTART;VALUE=DATE:20220504T232900
-DESCRIPTION:
-SUMMARY:Practice AP Exam Final Score [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=05&year=2022#assignment_2884840
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2882824
-DTSTART;VALUE=DATE:20220504T232900
-DESCRIPTION:[Activity - Ribbon Analysis-2.pdf] (https://lisdtx.instructure.
- com/courses/190905/files/23166389?wrap=1)Â \n\nExtra Credit!
-SUMMARY:Ribbon Analysis Excel [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2882824
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Activity - Ribbon Analysis-2.pdf" hre
- f="https://lisdtx.instructure.com/courses/190905/files/23166389?wrap=1" ta
- rget="_blank" data-canvas-previewable="false" data-api-endpoint="https://l
- isdtx.instructure.com/api/v1/courses/190905/files/23166389" data-api-retur
- ntype="File">Activity - Ribbon Analysis-2.pdf</a>&nbsp\;</p>\n<p>Extra Cre
- dit!</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201100Z
-UID:event-calendar-event-520496
-DTSTART;VALUE=DATE:20220505T232900
-DESCRIPTION:[11.4 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
- 172585/files/19814711/preview)\n\nHW: [Practice 11.4 .pdf] (https://lisdtx
- .instructure.com/courses/172585/files/19814708/preview)
-SUMMARY:11.4 Rational Expressions: Simplify\, Multiply\, Divide [Alg 2 Hon-
- RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520496
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="11.4 Blank Notes.pdf" href="https://lisdtx.instructur
- e.com/courses/172585/files/19814711/preview" target="_blank" data-api-endp
- oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814711"
-  data-api-returntype="File">11.4 Blank Notes.pdf</a></p>\n<p>HW: <a class=
- "instructure_file_link instructure_scribd_file" title="Practice 11.4 .pdf"
-  href="https://lisdtx.instructure.com/courses/172585/files/19814708/previe
- w" target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v
- 1/courses/172585/files/19814708" data-api-returntype="File">Practice 11.4 
- .pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T142000Z
-UID:event-assignment-2537914
-DTSTART;VALUE=DATE:20220505T232900
-DESCRIPTION:[Practice 11.3 PAP.pdf] (https://lisdtx.instructure.com/courses
- /172585/files/19814707/download?wrap=1)
-SUMMARY:HW DUE 11.3 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537914
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 11.3 PAP.pdf" href="https://lisdtx.instructu
- re.com/courses/172585/files/19814707/download?wrap=1" data-api-endpoint="h
- ttps://lisdtx.instructure.com/api/v1/courses/172585/files/19814707" data-a
- pi-returntype="File">Practice 11.3 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877993
-DTSTART;VALUE=DATE:20220505T232900
-DESCRIPTION:[Project - Business Partnership Media Proposal Media Pricing Gu
- ide Student File.pdf] (https://lisdtx.instructure.com/courses/190905/files
- /23114578?wrap=1)Â \n\n[Project - Business Partnership Media Proposal Stud
- ent File.xlsx] (https://lisdtx.instructure.com/courses/190905/files/231145
- 80?wrap=1)Â \n\n[Project - Business Partnership Media Proposal.pdf] (https
- ://lisdtx.instructure.com/courses/190905/files/23114577?wrap=1)Â 
-SUMMARY:Business Partnership Media Proposal - Project [Bus Info Mgmt I-GRAH
- AM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877993
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Business Partnership Media 
- Proposal Media Pricing Guide Student File.pdf" href="https://lisdtx.instru
- cture.com/courses/190905/files/23114578?wrap=1" target="_blank" data-canva
- s-previewable="false" data-api-endpoint="https://lisdtx.instructure.com/ap
- i/v1/courses/190905/files/23114578" data-api-returntype="File">Project - B
- usiness Partnership Media Proposal Media Pricing Guide Student File.pdf</a
- >&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scribd_file i
- nline_disabled" title="Project - Business Partnership Media Proposal Stude
- nt File.xlsx" href="https://lisdtx.instructure.com/courses/190905/files/23
- 114580?wrap=1" target="_blank" data-canvas-previewable="false" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2311458
- 0" data-api-returntype="File">Project - Business Partnership Media Proposa
- l Student File.xlsx</a>&nbsp\;</p>\n<p><a class="instructure_file_link ins
- tructure_scribd_file inline_disabled" title="Project - Business Partnershi
- p Media Proposal.pdf" href="https://lisdtx.instructure.com/courses/190905/
- files/23114577?wrap=1" target="_blank" data-canvas-previewable="false" dat
- a-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files
- /23114577" data-api-returntype="File">Project - Business Partnership Media
-  Proposal.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220510T160400Z
-UID:event-assignment-2877994
-DTSTART;VALUE=DATE:20220505T232900
-DESCRIPTION:[Project - Career Cluster Comparison Student File.xlsx] (https:
- //lisdtx.instructure.com/courses/190905/files/23114581?wrap=1)\n\n[Project
-  - Career Cluster Comparison.pdf] (https://lisdtx.instructure.com/courses/
- 190905/files/23114575?wrap=1)Â 
-SUMMARY:Career Cluster Comparison - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877994
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Career Cluster Comparison S
- tudent File.xlsx" href="https://lisdtx.instructure.com/courses/190905/file
- s/23114581?wrap=1" target="_blank" data-canvas-previewable="false" data-ap
- i-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/231
- 14581" data-api-returntype="File">Project - Career Cluster Comparison Stud
- ent File.xlsx</a></p>\n<p><a class="instructure_file_link instructure_scri
- bd_file inline_disabled" title="Project - Career Cluster Comparison.pdf" h
- ref="https://lisdtx.instructure.com/courses/190905/files/23114575?wrap=1" 
- target="_blank" data-canvas-previewable="false" data-api-endpoint="https:/
- /lisdtx.instructure.com/api/v1/courses/190905/files/23114575" data-api-ret
- urntype="File">Project - Career Cluster Comparison.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T142000Z
-UID:event-assignment-2537915
-DTSTART;VALUE=DATE:20220506T232900
-DESCRIPTION:[Practice 11.4 .pdf] (https://lisdtx.instructure.com/courses/17
- 2585/files/19814708/download?wrap=1)
-SUMMARY:HW DUE 11.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537915
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Practice 11.4 .pdf" href="https://lisdtx.instructure.
- com/courses/172585/files/19814708/download?wrap=1" data-api-endpoint="http
- s://lisdtx.instructure.com/api/v1/courses/172585/files/19814708" data-api-
- returntype="File">Practice 11.4 .pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220511T201400Z
-UID:event-assignment-2537943
-DTSTART;VALUE=DATE:20220506T232900
-DESCRIPTION:
-SUMMARY:Quiz 11.1-11.4 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537943
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877995
-DTSTART;VALUE=DATE:20220506T232900
-DESCRIPTION:[Project - Formatting the Business Partnership Media Plan.pdf] 
- (https://lisdtx.instructure.com/courses/190905/files/23114579?wrap=1)Â \n\
- n[Project - Formatting the Business Partnership Media Plan Student File.xl
- sx] (https://lisdtx.instructure.com/courses/190905/files/23114576?wrap=1)
- Â 
-SUMMARY:Formatting the Business Partnership Plan - Project [Bus Info Mgmt I
- -GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877995
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Formatting the Business Par
- tnership Media Plan.pdf" href="https://lisdtx.instructure.com/courses/1909
- 05/files/23114579?wrap=1" target="_blank" data-canvas-previewable="false" 
- data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/fi
- les/23114579" data-api-returntype="File">Project - Formatting the Business
-  Partnership Media Plan.pdf</a>&nbsp\;</p>\n<p><a class="instructure_file_
- link instructure_scribd_file inline_disabled" title="Project - Formatting 
- the Business Partnership Media Plan Student File.xlsx" href="https://lisdt
- x.instructure.com/courses/190905/files/23114576?wrap=1" target="_blank" da
- ta-canvas-previewable="false" data-api-endpoint="https://lisdtx.instructur
- e.com/api/v1/courses/190905/files/23114576" data-api-returntype="File">Pro
- ject - Formatting the Business Partnership Media Plan Student File.xlsx</a
- >&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122300Z
-UID:event-assignment-2960557
-DTSTART;VALUE=DATE:20220506T232900
-DESCRIPTION:
-SUMMARY:Static Electric MC Quiz [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2960557
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201100Z
-UID:event-calendar-event-520471
-DTSTART;VALUE=DATE:20220509T232900
-DESCRIPTION:[11.5 Blank Notes.pdf] (https://lisdtx.instructure.com/courses/
- 172585/files/19814582/preview)\n\n[11.6 Blank Notes.pdf] (https://lisdtx.i
- nstructure.com/courses/172585/files/19814583/preview)\n\nHW: [Practice 11.
- 5 - 11.6.pdf] (https://lisdtx.instructure.com/courses/172585/files/1981471
- 3/preview)\n\nÂ 
-SUMMARY:11.5 - 11.6 Add\, Subtract\, Solve Rationals [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520471
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="11.5 Blank Notes.pdf" href="https://lisdtx.instructur
- e.com/courses/172585/files/19814582/preview" target="_blank" data-api-endp
- oint="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814582"
-  data-api-returntype="File">11.5 Blank Notes.pdf</a></p>\n<p><a class="ins
- tructure_file_link instructure_scribd_file" title="11.6 Blank Notes.pdf" h
- ref="https://lisdtx.instructure.com/courses/172585/files/19814583/preview"
-  target="_blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/
- courses/172585/files/19814583" data-api-returntype="File">11.6 Blank Notes
- .pdf</a></p>\n<p>HW: <a class="instructure_file_link instructure_scribd_fi
- le" title="Practice 11.5 - 11.6.pdf" href="https://lisdtx.instructure.com/
- courses/172585/files/19814713/preview" target="_blank" data-api-endpoint="
- https://lisdtx.instructure.com/api/v1/courses/172585/files/19814713" data-
- api-returntype="File">Practice 11.5 - 11.6.pdf</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220509T013500Z
-UID:event-calendar-event-549285
-DTSTART;VALUE=DATE:20220509T232900
-DESCRIPTION:[Warm Up.pdf] (https://lisdtx.instructure.com/courses/172585/fi
- les/23388850?wrap=1)Â 
-SUMMARY:Warm Up [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_549285
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Warm Up.pdf" href="https://lisdtx.ins
- tructure.com/courses/172585/files/23388850?wrap=1" target="_blank" data-ca
- nvas-previewable="false" data-api-endpoint="https://lisdtx.instructure.com
- /api/v1/courses/172585/files/23388850" data-api-returntype="File">Warm Up.
- pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877996
-DTSTART;VALUE=DATE:20220509T232900
-DESCRIPTION:[Project - Media Plan Portfolio.pdf] (https://lisdtx.instructur
- e.com/courses/190905/files/23114586?wrap=1)Â \n\n[Project - Media Plan Por
- tfolio Element Logo Student File (1).xlsx] (https://lisdtx.instructure.com
- /courses/190905/files/23114588?wrap=1)Â \n\n[Project - Media Plan Portfoli
- o Element Logo Student File.png] (https://lisdtx.instructure.com/courses/1
- 90905/files/23114589/preview)
-SUMMARY:Media Plan Portfolio - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877996
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Media Plan Portfolio.pdf" h
- ref="https://lisdtx.instructure.com/courses/190905/files/23114586?wrap=1" 
- target="_blank" data-canvas-previewable="false" data-api-endpoint="https:/
- /lisdtx.instructure.com/api/v1/courses/190905/files/23114586" data-api-ret
- urntype="File">Project - Media Plan Portfolio.pdf</a>&nbsp\;</p>\n<p><a cl
- ass="instructure_file_link instructure_scribd_file inline_disabled" title=
- "Project - Media Plan Portfolio Element Logo Student File (1).xlsx" href="
- https://lisdtx.instructure.com/courses/190905/files/23114588?wrap=1" targe
- t="_blank" data-canvas-previewable="false" data-api-endpoint="https://lisd
- tx.instructure.com/api/v1/courses/190905/files/23114588" data-api-returnty
- pe="File">Project - Media Plan Portfolio Element Logo Student File (1).xls
- x</a>&nbsp\;</p>\n<p><img src="https://lisdtx.instructure.com/courses/1909
- 05/files/23114589/preview" alt="Project - Media Plan Portfolio Element Log
- o Student File.png" data-api-endpoint="https://lisdtx.instructure.com/api/
- v1/courses/190905/files/23114589" data-api-returntype="File"></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201100Z
-UID:event-calendar-event-520524
-DTSTART;VALUE=DATE:20220510T232900
-DESCRIPTION:First\, check your hw.Â  If you have questions\, make sure to a
- sk.Â  Then\, turn your 11.5-11.6 hw in.\n\n[11.5-11.6 hw key again-1.pdf] 
- ($CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad689ca100495b4f40fc6a7968f?wrap
- =1)\n\nNext\, there are 2 sets of notes below.Â  They are both short - bas
- ically examples.Â  Read them\, them do the homework.Â  Contact me on Webex
-  for help.\n\n[Rational Apps Blank Notes.pdf] (https://lisdtx.instructure.
- com/courses/172585/files/19814709/preview)\n\n[Applying Rational Equations
- .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814717/previe
- w)\n\nHW: [Rational Applications PAP.pdf] (https://lisdtx.instructure.com/
- courses/172585/files/19814714/preview)
-SUMMARY:Rational Applications [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520524
-X-ALT-DESC;FMTTYPE=text/html:<p>First\, check your hw.&nbsp\; If you have q
- uestions\, make sure to ask.&nbsp\; Then\, turn your 11.5-11.6 hw in.</p>\
- n<p><a class="instructure_file_link instructure_scribd_file" title="11.5-1
- 1.6 hw key again-1.pdf" href="$CANVAS_COURSE_REFERENCE$/file_ref/g0ac07ad6
- 89ca100495b4f40fc6a7968f?wrap=1" target="_blank" data-canvas-previewable="
- false" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
- 2572/files/15944181" data-api-returntype="File">11.5-11.6 hw key again-1.p
- df</a></p>\n<p>Next\, there are 2 sets of notes below.&nbsp\; They are bot
- h short - basically examples.&nbsp\; Read them\, them do the homework.&nbs
- p\; Contact me on Webex for help.</p>\n<p><a class="instructure_file_link 
- instructure_scribd_file" title="Rational Apps Blank Notes.pdf" href="https
- ://lisdtx.instructure.com/courses/172585/files/19814709/preview" target="_
- blank" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17
- 2585/files/19814709" data-api-returntype="File">Rational Apps Blank Notes.
- pdf</a></p>\n<p><a class="instructure_file_link instructure_scribd_file" t
- itle="Applying Rational Equations.pdf" href="https://lisdtx.instructure.co
- m/courses/172585/files/19814717/preview" target="_blank" data-api-endpoint
- ="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814717" dat
- a-api-returntype="File">Applying Rational Equations.pdf</a></p>\n<p>HW: <a
-  class="instructure_file_link instructure_scribd_file" title="Rational App
- lications PAP.pdf" href="https://lisdtx.instructure.com/courses/172585/fil
- es/19814714/preview" target="_blank" data-api-endpoint="https://lisdtx.ins
- tructure.com/api/v1/courses/172585/files/19814714" data-api-returntype="Fi
- le">Rational Applications PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T193900Z
-UID:event-assignment-2537916
-DTSTART;VALUE=DATE:20220510T232900
-DESCRIPTION:[Practice 11.5 - 11.6.pdf] (https://lisdtx.instructure.com/cour
- ses/172585/files/19814713/download?wrap=1)\n\nÂ 
-SUMMARY:HW DUE 11.5-11.6 [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537916
-X-ALT-DESC;FMTTYPE=text/html:<p><a id="6669495" class="instructure_file_lin
- k instructure_scribd_file" href="https://lisdtx.instructure.com/courses/17
- 2585/files/19814713/download?wrap=1" target="_blank" data-canvas-previewab
- le="true" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses
- /172585/files/19814713" data-api-returntype="File">Practice 11.5 - 11.6.pd
- f</a></p>\n<p>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2963203
-DTSTART;VALUE=DATE:20220510T232900
-DESCRIPTION:
-SUMMARY:Excel Sam 1 Exam [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2963203
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2963201
-DTSTART;VALUE=DATE:20220510T232900
-DESCRIPTION:
-SUMMARY:Excel Sam 1 Training [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2963201
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T203200Z
-UID:event-assignment-2537911
-DTSTART;VALUE=DATE:20220511T232900
-DESCRIPTION:[Rational Applications PAP.pdf] (https://lisdtx.instructure.com
- /courses/172585/files/19814714/download?wrap=1)
-SUMMARY:HW DUE - Rational Applications [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537911
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Rational Applications PAP.pdf" href="https://lisdtx.i
- nstructure.com/courses/172585/files/19814714/download?wrap=1" data-api-end
- point="https://lisdtx.instructure.com/api/v1/courses/172585/files/19814714
- " data-api-returntype="File">Rational Applications PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2963204
-DTSTART;VALUE=DATE:20220511T232900
-DESCRIPTION:
-SUMMARY:Excel Sam 1 Project 1 [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2963204
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201200Z
-UID:event-calendar-event-520522
-DTSTART;VALUE=DATE:20220512T232900
-DESCRIPTION:[Review Topic 11 PAP.pdf] (https://lisdtx.instructure.com/cours
- es/172585/files/19814703/preview)
-SUMMARY:Topic 11 Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520522
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="Review Topic 11 PAP.pdf" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814703/preview" target="_blank" data-api-e
- ndpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/198147
- 03" data-api-returntype="File">Review Topic 11 PAP.pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T174700Z
-UID:event-assignment-2537950
-DTSTART;VALUE=DATE:20220513T232900
-DESCRIPTION:
-SUMMARY:Topic 11 Test [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#assignment_2537950
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T131000Z
-UID:event-assignment-3010075
-DTSTART;VALUE=DATE:20220513T232900
-DESCRIPTION:
-SUMMARY:FreeCodeCamp JavaScript pt. 2 [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=05&year=2022#assignment_3010075
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T131000Z
-UID:event-assignment-3010074
-DTSTART;VALUE=DATE:20220513T232900
-DESCRIPTION:
-SUMMARY:FreeCodeCamp JavaScript pt1. [AP Comp Sci - S22]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_202975&
- month=05&year=2022#assignment_3010074
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201200Z
-UID:event-calendar-event-537415
-DTSTART;VALUE=DATE:20220516T232900
-SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_537415
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122300Z
-UID:event-assignment-2983570
-DTSTART;VALUE=DATE:20220516T232900
-DESCRIPTION:
-SUMMARY:Electricity FRQ Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2983570
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122300Z
-UID:event-assignment-2983195
-DTSTART;VALUE=DATE:20220516T232900
-DESCRIPTION:
-SUMMARY:Electricity MC Pre-Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2983195
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122200Z
-UID:event-assignment-2983194
-DTSTART;VALUE=DATE:20220516T232900
-SUMMARY:Electricity Pre-Test MC [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2983194
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877997
-DTSTART;VALUE=DATE:20220516T232900
-DESCRIPTION:[Project - Order of Operations.pdf] (https://lisdtx.instructure
- .com/courses/190905/files/23114594?wrap=1)Â 
-SUMMARY:Order of Operations - Project [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877997
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Order of Operations.pdf" hr
- ef="https://lisdtx.instructure.com/courses/190905/files/23114594?wrap=1" t
- arget="_blank" data-canvas-previewable="false" data-api-endpoint="https://
- lisdtx.instructure.com/api/v1/courses/190905/files/23114594" data-api-retu
- rntype="File">Project - Order of Operations.pdf</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220517T133800Z
-UID:event-calendar-event-520382
-DTSTART;VALUE=DATE:20220517T232900
-DESCRIPTION:Watch these videos.Â  Take really good notes.Â  You will be abl
- e to use your notes on tomorrow's quiz.\n\n[Unit Circle with probs on back
- .pdf] (https://lisdtx.instructure.com/courses/172585/files/19814732?wrap=1
- )\n\n[Unit Circle Video #1] (https://www.youtube.com/watch?v=j5SoWzBSUmY&t
- =8s)Â \n\n[Unit Circle Video #2] (https://www.youtube.com/watch?annotation
- _id=annotation_344584&feature=iv&src_vid=j5SoWzBSUmY&v=FaZ7frx8nd8)\n\nWhe
- n you are done\, I recommend getting started on the final exam review if y
- ou have not already done so.
-SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520382
-X-ALT-DESC;FMTTYPE=text/html:<p>Watch these videos.&nbsp\; Take really good
-  notes.&nbsp\; You will be able to use your notes on tomorrow's quiz.</p>\
- n<p><a class="instructure_file_link instructure_scribd_file inline_disable
- d" title="Unit Circle with probs on back.pdf" href="https://lisdtx.instruc
- ture.com/courses/172585/files/19814732?wrap=1" target="_blank" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/172585/files/1981473
- 2" data-api-returntype="File">Unit Circle with probs on back.pdf</a></p>\n
- <p><a class="instructure_file_link inline_disabled" href="https://www.yout
- ube.com/watch?v=j5SoWzBSUmY&amp\;t=8s" target="_blank">Unit Circle Video #
- 1</a>&nbsp\;</p>\n<p><a class="instructure_file_link inline_disabled" href
- ="https://www.youtube.com/watch?annotation_id=annotation_344584&amp\;featu
- re=iv&amp\;src_vid=j5SoWzBSUmY&amp\;v=FaZ7frx8nd8" target="_blank">Unit Ci
- rcle Video #2</a></p>\n<p>When you are done\, I recommend getting started 
- on the final exam review if you have not already done so.</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220523T152100Z
-UID:event-assignment-2877998
-DTSTART;VALUE=DATE:20220517T232900
-DESCRIPTION:[Project - Partnership Media Plan Calculations.pdf] (https://li
- sdtx.instructure.com/courses/190905/files/23114600?wrap=1)Â \n\n[Project -
-  Partnership Media Plan Calculations Student File (1).xlsx] (https://lisdt
- x.instructure.com/courses/190905/files/23114601?wrap=1)Â 
-SUMMARY:Project - Partnership Media Plans Calculations [Bus Info Mgmt I-GRA
- HAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_2877998
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file inline_disabled" title="Project - Partnership Media Plan Calc
- ulations.pdf" href="https://lisdtx.instructure.com/courses/190905/files/23
- 114600?wrap=1" target="_blank" data-canvas-previewable="false" data-api-en
- dpoint="https://lisdtx.instructure.com/api/v1/courses/190905/files/2311460
- 0" data-api-returntype="File">Project - Partnership Media Plan Calculation
- s.pdf</a>&nbsp\;</p>\n<p><a class="instructure_file_link instructure_scrib
- d_file inline_disabled" title="Project - Partnership Media Plan Calculatio
- ns Student File (1).xlsx" href="https://lisdtx.instructure.com/courses/190
- 905/files/23114601?wrap=1" target="_blank" data-canvas-previewable="false"
-  data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/190905/f
- iles/23114601" data-api-returntype="File">Project - Partnership Media Plan
-  Calculations Student File (1).xlsx</a>&nbsp\;</p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122300Z
-UID:event-assignment-2970127
-DTSTART;VALUE=DATE:20220517T232900
-DESCRIPTION:
-SUMMARY:Static Electric FRQ [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2970127
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220518T122300Z
-UID:event-assignment-2983209
-DTSTART;VALUE=DATE:20220517T232900
-DESCRIPTION:
-SUMMARY:Very Complex Circuit [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2983209
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T201200Z
-UID:event-calendar-event-543597
-DTSTART;VALUE=DATE:20220518T232900
-SUMMARY:Unit Circle [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_543597
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T125900Z
-UID:event-assignment-2996164
-DTSTART;VALUE=DATE:20220518T232900
-DESCRIPTION:
-SUMMARY:Electricity FRQ Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2996164
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220519T125900Z
-UID:event-assignment-2995982
-DTSTART;VALUE=DATE:20220518T232900
-DESCRIPTION:
-SUMMARY:Electricity MC Test [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2995982
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20220505T163700Z
 UID:event-calendar-event-549168
 DTSTART;VALUE=DATE:20220519T232900
@@ -946,89 +98,6 @@ LOCATION:1645
 SUMMARY:Junior Hours Due [Hebron NHS 2021-2022]
 URL:https://lisdtx.instructure.com/calendar?include_contexts=course_66595&m
  onth=05&year=2022#calendar_event_549168
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200200Z
-UID:event-calendar-event-520386
-DTSTART;VALUE=DATE:20220520T232900
-DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
- ture.com/courses/172585/files/19814687/preview)
-SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520386
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="PAP Final Review (no extra stuff).pdf" href="https://
- lisdtx.instructure.com/courses/172585/files/19814687/preview" target="_bla
- nk" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17258
- 5/files/19814687" data-api-returntype="File">PAP Final Review (no extra st
- uff).pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200200Z
-UID:event-calendar-event-520461
-DTSTART;VALUE=DATE:20220523T232900
-DESCRIPTION:[PAP Final Review (no extra stuff).pdf] (https://lisdtx.instruc
- ture.com/courses/172585/files/19814687/preview)
-SUMMARY:Final Exam Review [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520461
-X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructure
- _scribd_file" title="PAP Final Review (no extra stuff).pdf" href="https://
- lisdtx.instructure.com/courses/172585/files/19814687/preview" target="_bla
- nk" data-api-endpoint="https://lisdtx.instructure.com/api/v1/courses/17258
- 5/files/19814687" data-api-returntype="File">PAP Final Review (no extra st
- uff).pdf</a></p>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200200Z
-UID:event-calendar-event-520383
-DTSTART;VALUE=DATE:20220524T232900
-DESCRIPTION:
-SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520383
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220524T150600Z
-UID:event-assignment-3047316
-DTSTART;VALUE=DATE:20220524T232900
-DESCRIPTION:
-SUMMARY:2022 Spring BIM Final [Bus Info Mgmt I-GRAHAM]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_190905&
- month=05&year=2022#assignment_3047316
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200200Z
-UID:event-calendar-event-520384
-DTSTART;VALUE=DATE:20220525T232900
-DESCRIPTION:
-SUMMARY:Final Exams [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520384
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220309T200200Z
-UID:event-calendar-event-520385
-DTSTART;VALUE=DATE:20220525T232900
-DESCRIPTION:
-SUMMARY:HALF DAY [Alg 2 Hon-RIORDAN]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172585&
- month=05&year=2022#calendar_event_520385
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220525T132000Z
-UID:event-assignment-2974291
-DTSTART:20220525T173000Z
-DTEND:20220525T173000Z
-DESCRIPTION:
-SUMMARY:Honors Physics Final [Physics Hon-JENKINS]
-URL:https://lisdtx.instructure.com/calendar?include_contexts=course_172858&
- month=05&year=2022#assignment_2974291
-X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20220518T164500Z
@@ -1052,7 +121,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p>This summer\, you can submit a design for t
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:69108101991161141059910511612132801141014584101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1060,7 +129,7 @@ SUMMARY:Electricity Pre-Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:6910810199116114105991051161213284101115116329180104121115105991153272111110457469787573788393
 DTSTART;TZID=America/Chicago:20220516
 DTEND;TZID=America/Chicago:20220517
@@ -1068,7 +137,7 @@ SUMMARY:Electricity Test [Physics Hon-JENKINS]
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:6510810310198114973250326912097109
 DTSTART;TZID=America/Chicago:20220524T082000
 DTEND;TZID=America/Chicago:20220524T085000
@@ -1076,7 +145,7 @@ SUMMARY:Algebra 2 Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8010412111510599115326912097109
 DTSTART;TZID=America/Chicago:20220524T114400
 DTEND;TZID=America/Chicago:20220524T121400
@@ -1084,7 +153,7 @@ SUMMARY:Physics Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:667377326912097109
 DTSTART;TZID=America/Chicago:20220525T082000
 DTEND;TZID=America/Chicago:20220525T085000
@@ -1092,7 +161,7 @@ SUMMARY:BIM Exam
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8083658432831171091091011143287101101107
 DTSTART;TZID=America/Chicago:20220725
 DTEND;TZID=America/Chicago:20220726
@@ -1100,7 +169,7 @@ SUMMARY:PSAT Summer Week
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220827T090000
 DTEND;TZID=America/Chicago:20220827T093000
@@ -1108,7 +177,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220910T090000
 DTEND;TZID=America/Chicago:20220910T093000
@@ -1116,7 +185,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20220917T090000
 DTEND;TZID=America/Chicago:20220917T093000
@@ -1124,7 +193,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:8083658432801149799116105991013284101115116
 DTSTART;TZID=America/Chicago:20221001T090000
 DTEND;TZID=America/Chicago:20221001T093000
@@ -1132,7 +201,7 @@ SUMMARY:PSAT Practice Test
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220526T073013Z
+DTSTAMP:20220527T073008Z
 UID:681019897116101326697110113117101116
 DTSTART;TZID=America/Chicago:20220517T180000
 DTEND;TZID=America/Chicago:20220517T183000
