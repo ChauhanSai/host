@@ -230,7 +230,7 @@ button {
 }
 
 .header_section {
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../newimages/background.png);
     height: auto;
     background-size: 100%;
     width: 100%;
@@ -265,7 +265,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-img.png);
+    background-image: url(../newimages/banner.png);
     height: 700px;
     background-size: 100%;
     margin-top: 10px;
@@ -889,7 +889,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #dadada;
+    color: #1e1e1e;
     background-color: #ffffff;
     border: 0px;
     padding: 10px 15px 10px 15px;
@@ -899,14 +899,14 @@ button {
 }
 
 input.email_text::placeholder {
-    color: #dadada;
+    color: #a3a3a3;
 }
 
 .massage_text {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #dadada;
+    color: #1e1e1e;
     background-color: #ffffff;
     border: 0px;
     height: 90px;
@@ -916,7 +916,7 @@ input.email_text::placeholder {
 }
 
 textarea#comment::placeholder {
-    color: #dadada;
+    color: #a3a3a3;
 }
 
 .send_bt {
