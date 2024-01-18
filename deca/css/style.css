@@ -862,10 +862,37 @@ button {
     padding-top: 170px;
 }
 
-.contact_img {
+.contact_img1 {
     width: 100%;
     float: left;
-    background-image: url(../images/contact-img.png);
+    background-image: url(../images/contact1.png);
+    height: 488px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact_img2 {
+    width: 100%;
+    float: left;
+    background-image: url(../images/contact2.png);
+    height: 488px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact_img3 {
+    width: 100%;
+    float: left;
+    background-image: url(../images/contact3.png);
+    height: 488px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contact_img4 {
+    width: 100%;
+    float: left;
+    background-image: url(../images/contact4.png);
     height: 488px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -931,7 +958,7 @@ textarea#comment::placeholder {
     font-size: 20px;
     color: #ffffff;
     text-align: center;
-    background-color: #fe9901;
+    background-color: #A79D48;
     padding: 8px 5px;
     text-transform: uppercase;
     font-weight: bold;
@@ -939,7 +966,7 @@ textarea#comment::placeholder {
 
 .send_bt a:hover {
     color: #ffffff;
-    background-color: #A79D48;
+    background-color: #000000;
 }
 
 .carousel-indicators li {
@@ -956,7 +983,7 @@ textarea#comment::placeholder {
 }
 
 .carousel-indicators .active {
-    background-color: #db5645;
+    background-color: #A79D48;
 }
 
 .carousel-indicators {
